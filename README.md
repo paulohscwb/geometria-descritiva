@@ -26,3 +26,8 @@ Visualização de propriedades de projeções e sólidos
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
+<table><tr><td><h4 color="red">Propriedade 7, pág. 10</h4>
+<img src="vr/010_prop7.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
+
