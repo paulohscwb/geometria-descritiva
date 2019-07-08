@@ -36,11 +36,11 @@ Visualização de propriedades de projeções e sólidos
 <img src="vr/016_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura1.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
-<h4>Terceira projeção, pág. 19</h4>
+<h3>Terceira projeção, pág. 19</h3>
 <img src="vr/019_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura2.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
-<h4>Mudança de plano de projeção, pág. 30</h4>
+<h3>Mudança de plano de projeção, pág. 30</h3>
 <img src="vr/030_mpp.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
