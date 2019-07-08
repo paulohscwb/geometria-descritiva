@@ -45,7 +45,7 @@ Visualização de propriedades de projeções e sólidos
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3>Representações de sólidos em dupla projeção ortogonal</h3>
+<h3>Representações de sólidos com uma face horizontal</h3>
 <table><tr><td><h3>Exercício 1, pág. 43</h3>
 <img src="vr/043_horizontal1.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -73,5 +73,17 @@ Visualização de propriedades de projeções e sólidos
 <h3>Exercício 7, pág. 46</h3>
 <img src="vr/046_horizontal7.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a50.html"><img src="vr/RVaframe.png" width="180px"></a>
-<hr>  
+<hr>
+<h3>Exercício 8, pág. 47</h3>
+<img src="vr/047_horizontal8.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a52.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 9, pág. 47</h3>
+<img src="vr/047_horizontal9.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a51.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4, pág. 48</h3>
+<img src="vr/048_horizontal10.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a53.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
 </td></tr></table>
