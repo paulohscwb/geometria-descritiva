@@ -44,3 +44,10 @@ Visualização de propriedades de projeções e sólidos
 <img src="vr/030_mpp.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
+
+<h3>Representações de sólidos em dupla projeção ortogonal</h3>
+<table><tr><td><h3>Exercício 1, pág. 43</h3>
+<img src="vr/043_horizontal1.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+</td></tr></table>
