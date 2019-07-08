@@ -18,3 +18,11 @@ Visualização de propriedades de projeções e sólidos
 <hr><img src="vr/005_prop2b.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p2a.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
+
+<table><tr><td><h4 color="red">Exercícios 4 e 5, pág. 8</h4>
+<img src="vr/008_exerc4c.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr><img src="vr/008_exerc5ac.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
+
