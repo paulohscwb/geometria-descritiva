@@ -11,3 +11,10 @@ Visualização de propriedades de projeções e sólidos
 <hr><img src="vr/004_prop1b.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p1a.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
+
+<table><tr><td><h4 color="red">Propriedade 2, pág. 5</h4>
+<img src="vr/005_prop2a.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p2.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr><img src="vr/005_prop2b.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p2a.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
