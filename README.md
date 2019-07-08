@@ -31,3 +31,10 @@ Visualização de propriedades de projeções e sólidos
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
+<h3>Representações de pontos em dupla projeção ortogonal</h3>
+<table><tr><td><h4 color="red">Pontos pertencentes aos 4 diedros</h4>
+<img src="vr/016_pontos.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura1.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr><img src="vr/019_pontos.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura2.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
