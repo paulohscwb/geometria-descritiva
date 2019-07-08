@@ -49,5 +49,8 @@ Visualização de propriedades de projeções e sólidos
 <table><tr><td><h3>Exercício 1, pág. 43</h3>
 <img src="vr/043_horizontal1.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="vr/RVaframe.png" width="180px"></a>
+<h3>Exercício 2, pág. 44</h3>
+<img src="vr/044_horizontal2.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a45.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 </td></tr></table>
