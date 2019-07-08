@@ -5,4 +5,4 @@ Visualização de propriedades de projeções e sólidos
 <br><h3>Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h4>Propriedade 1, pág. 4</h4>
 <img src="vr/004_prop1.PNG">
-<br><a href="vr/p1.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
+<br><a href="vr/p1.html"><img src="vr/RVaframe.png" width="150px"></a></td></tr></table>
