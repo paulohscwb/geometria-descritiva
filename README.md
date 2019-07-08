@@ -104,4 +104,12 @@ Visualização de propriedades de projeções e sólidos
 <img src="vr/052_frontal5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a4.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
+<h3>Exercício 6, pág. 52</h3>
+<img src="vr/052_frontal6.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a1.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 7, pág. 53</h3>
+<img src="vr/053_frontal7.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
 </td></tr></table>
