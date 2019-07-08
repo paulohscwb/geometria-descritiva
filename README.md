@@ -3,7 +3,7 @@ Visualização de propriedades de projeções e sólidos
 <br>Referências
 <br>Imagem de visualização
 <br>AR:
-<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
 <h3>Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h4 color="red">Propriedade 1, pág. 4</h4>
 <img src="vr/004_prop1a.PNG">
