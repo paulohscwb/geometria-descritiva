@@ -4,6 +4,12 @@ Visualização de propriedades de projeções e sólidos
 <br>Imagem de visualização
 <br>AR:
 <p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+Conteúdo do site:
+Propriedades das projeções cilíndricas
+<a href="#Propriedades-das-projeções-cilíndricas">Propriedades das projeções cilíndricas</a>
+<a href="#Representações-de-pontos-em-dupla-projeção-ortogonal">Representações de pontos em dupla projeção ortogonal</a>
+<a href="#Representações-de-sólidos-com-uma-face-horizontal">Representações de sólidos com uma face horizontal</a>
+<hr>
 <h3>Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
 <img src="vr/004_prop1a.PNG">
