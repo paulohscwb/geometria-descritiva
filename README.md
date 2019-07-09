@@ -1,5 +1,5 @@
 # geometria-descritiva
-<h3 id="inicio">Visualização de propriedades de projeções e sólidos</h3: 
+<h3 id="inicio">Visualização de propriedades de projeções e sólidos</h3> 
 <br>Referências
 <br>Imagem de visualização
 <br>AR:
