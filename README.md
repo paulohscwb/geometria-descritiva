@@ -4,11 +4,12 @@ Visualização de propriedades de projeções e sólidos
 <br>Imagem de visualização
 <br>AR:
 <p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-Conteúdo do site:
-Propriedades das projeções cilíndricas
+<b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Representações de pontos em dupla projeção ortogonal</a> | 
 <a href="#horizontal">Representações de sólidos com uma face horizontal</a> | 
+<a href="#frontal">Representações de sólidos com uma face frontal</a> | 
+<a href="#perfil">Representações de sólidos com uma face de perfil</a> | 
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
@@ -90,7 +91,7 @@ Propriedades das projeções cilíndricas
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a53.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3>Representações de sólidos com uma face frontal</h3>
+<h3 id="frontal">Representações de sólidos com uma face frontal</h3>
 <table><tr><td><h3>Exercício 2, pág. 50</h3>
 <img src="vr/050_frontal2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a2.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -116,7 +117,7 @@ Propriedades das projeções cilíndricas
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3>Representações de sólidos com uma face de perfil</h3>
+<h3 id="perfil">Representações de sólidos com uma face de perfil</h3>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
 <img src="vr/055_perfil2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="vr/RVaframe.png" width="180px"></a>
