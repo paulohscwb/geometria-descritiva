@@ -1296,7 +1296,15 @@
 				<a-text position="3 1.5 3" value="O" mixin="texto"></a-text>
 				<a-text position="-0.5 4.5 3" value="P" mixin="texto"></a-text>
 				<a-entity line="start: 3 1.5 3; end: 0 4.5 3; color: #6E6E6E"></a-entity>
-				<a-cylinder position="1.4 3 3" rotation="0 0 45" mixin="mtl0 mtl1" radius="2" height="4.2"></a-cylinder>
+				<a-entity position="1.5 3 3" rotation="0 0 45">
+					<a-cylinder mixin="mtl0 mtl1" radius="2" height="4.2"></a-cylinder>
+					<a-entity line="start: 2 -2.1 0; end: 2 2.1 0; color: #6E6E6E";
+					line__1="start: -2 -2.1 0; end: -2 2.1 0; color: #6E6E6E";
+					line__2="start: 0 -2.1 2; end: 0 2.1 2; color: #6E6E6E";
+					line__3="start: 0 -2.1 -2; end: 0 2.1 -2; color: #6E6E6E";></a-entity>
+					<a-ring position="0 2.1 0" rotation="90 0 0" radius-inner="1.999" radius-outer="2" segments-theta="64" mixin="linhas"></a-ring>
+					<a-ring position="0 -2.1 0" rotation="90 0 0" radius-inner="1.999" radius-outer="2" segments-theta="64" mixin="linhas"></a-ring>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	  </a-marker>
