@@ -171,3 +171,26 @@
 <img src="vr/065_topo15.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a15.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="topo">Sólidos com uma face vertical</h3>
+<table><tr><td><h3>Exercício 4, pág. 71</h3>
+<img src="vr/069_vertical4.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a16.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 7, pág. 72</h3>
+<img src="vr/069_vertical5.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a17.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 11, pág. 75</h3>
+<img src="vr/071_vertical11.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a18.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 12, pág. 76</h3>
+<img src="vr/072_vertical12.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a19.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 13, pág. 77</h3>
+<img src="vr/072_vertical13.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a20.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
