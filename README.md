@@ -6,10 +6,12 @@
 <p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
 <b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
-<a href="#pontos">Representações de pontos em dupla projeção ortogonal</a> | 
-<a href="#horizontal">Representações de sólidos com uma face horizontal</a> | 
-<a href="#frontal">Representações de sólidos com uma face frontal</a> | 
-<a href="#perfil">Representações de sólidos com uma face de perfil</a> | 
+<a href="#pontos">Pontos em dupla projeção ortogonal</a> | 
+<a href="#horizontal">Sólidos com uma face horizontal</a> | 
+<a href="#frontal">Sólidos com uma face frontal</a> | 
+<a href="#perfil">Sólidos com uma face de perfil</a> | 
+<a href="#topo">Sólidos com uma face de topo</a> | 
+<a href="#vertical">Sólidos com uma face de vertical</a> | 
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
@@ -148,7 +150,7 @@
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="perfil">Sólidos com uma face de topo</h3>
+<h3 id="topo">Sólidos com uma face de topo</h3>
 <table><tr><td><h3>Exercício 4, pág. 62</h3>
 <img src="vr/062_topo4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a11.html"><img src="vr/RVaframe.png" width="180px"></a>
