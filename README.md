@@ -11,7 +11,7 @@
 <a href="#frontal">Sólidos com uma face frontal</a> | 
 <a href="#perfil">Sólidos com uma face de perfil</a> | 
 <a href="#topo">Sólidos com uma face de topo</a> | 
-<a href="#vertical">Sólidos com uma face de vertical</a> | 
+<a href="#vertical">Sólidos com uma face vertical</a> | 
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
