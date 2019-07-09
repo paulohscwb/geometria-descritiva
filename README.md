@@ -108,7 +108,6 @@ Visualização de propriedades de projeções e sólidos
 <h3>Exercício 7, pág. 53</h3>
 <img src="vr/053_frontal7.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
-<hr>
 </td></tr></table>
 
 <h3>Representações de sólidos com uma face de perfil</h3>
@@ -135,5 +134,4 @@ Visualização de propriedades de projeções e sólidos
 <h3>Exercício 8, pág. 58</h3>
 <img src="vr/058_perfil8.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a22.html"><img src="vr/RVaframe.png" width="180px"></a>
-<hr>
 </td></tr></table>
