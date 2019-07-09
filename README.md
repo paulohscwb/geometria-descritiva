@@ -35,8 +35,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3 id="pontos">Representações de pontos em dupla projeção ortogonal</h3>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="pontos">Representações de pontos em dupla projeção ortogonal</h3>
 <table><tr><td><h3>Pontos pertencentes aos 4 diedros, pág. 16</h3>
 <img src="vr/016_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura1.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -50,8 +50,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3 id="horizontal">Representações de sólidos com uma face horizontal</h3>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="horizontal">Representações de sólidos com uma face horizontal</h3>
 <table><tr><td><h3>Exercício 1, pág. 43</h3>
 <img src="vr/043_horizontal1.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -93,8 +93,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a53.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3 id="frontal">Representações de sólidos com uma face frontal</h3>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="frontal">Representações de sólidos com uma face frontal</h3>
 <table><tr><td><h3>Exercício 2, pág. 50</h3>
 <img src="vr/050_frontal2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a2.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -120,8 +120,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3 id="perfil">Representações de sólidos com uma face de perfil</h3>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="perfil">Representações de sólidos com uma face de perfil</h3>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
 <img src="vr/055_perfil2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="vr/RVaframe.png" width="180px"></a>
