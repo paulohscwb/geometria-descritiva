@@ -10,23 +10,20 @@ Visualização de propriedades de projeções e sólidos
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p1.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr><img src="vr/004_prop1b.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p1a.html"><img src="vr/RVaframe.png" width="180px"></a>
-</td></tr></table>
-
-<table><tr><td><h3>Propriedade 2, pág. 5</h3>
+<hr>
+<h3>Propriedade 2, pág. 5</h3>
 <img src="vr/005_prop2a.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p2.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr><img src="vr/005_prop2b.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p2a.html"><img src="vr/RVaframe.png" width="180px"></a>
-</td></tr></table>
-
-<table><tr><td><h3>Exercícios 4 e 5, pág. 8</h3>
+<hr>
+<h3>Exercícios 4 e 5, pág. 8</h3>
 <img src="vr/008_exerc4c.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr><img src="vr/008_exerc5ac.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="180px"></a>
-</td></tr></table>
-
-<table><tr><td><h3>Propriedade 7, pág. 10</h3>
+<hr>
+<h3>Propriedade 7, pág. 10</h3>
 <img src="vr/010_prop7.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
