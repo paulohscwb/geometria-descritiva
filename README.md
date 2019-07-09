@@ -113,3 +113,30 @@ Visualização de propriedades de projeções e sólidos
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 </td></tr></table>
+
+<h3>Representações de sólidos com uma face de perfil</h3>
+<table><tr><td><h3>Exercício 2, pág. 55</h3>
+<img src="vr/055_perfil2.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3, pág. 56</h3>
+<img src="vr/056_perfil3.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a7.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4, pág. 56</h3>
+<img src="vr/056_perfil4.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a8.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 5, pág. 57</h3>
+<img src="vr/057_perfil5.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a9.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 6, pág. 57</h3>
+<img src="vr/057_perfil6.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a10.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 8, pág. 58</h3>
+<img src="vr/058_perfil8.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a22.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+</td></tr></table>
