@@ -130,11 +130,11 @@
 <hr>
 <h3>Exercício 3, pág. 56</h3>
 <img src="vr/056_perfil3.PNG">
-<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a7.html"><img src="vr/RVaframe.png" width="180px"></a>
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a8.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 <h3>Exercício 4, pág. 56</h3>
 <img src="vr/056_perfil4.PNG">
-<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a8.html"><img src="vr/RVaframe.png" width="180px"></a>
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a7.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 <h3>Exercício 5, pág. 57</h3>
 <img src="vr/057_perfil5.PNG">
