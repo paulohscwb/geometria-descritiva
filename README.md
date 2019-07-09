@@ -173,7 +173,7 @@
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="topo">Sólidos com uma face vertical</h3>
+<h3 id="vertical">Sólidos com uma face vertical</h3>
 <table><tr><td><h3>Exercício 4, pág. 71</h3>
 <img src="vr/069_vertical4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a16.html"><img src="vr/RVaframe.png" width="180px"></a>
