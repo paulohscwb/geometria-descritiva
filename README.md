@@ -6,11 +6,11 @@ Visualização de propriedades de projeções e sólidos
 <p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
 Conteúdo do site:
 Propriedades das projeções cilíndricas
-<a href="#Propriedades-das-projeções-cilíndricas">Propriedades das projeções cilíndricas</a>
-<a href="#Representações-de-pontos-em-dupla-projeção-ortogonal">Representações de pontos em dupla projeção ortogonal</a>
-<a href="#Representações-de-sólidos-com-uma-face-horizontal">Representações de sólidos com uma face horizontal</a>
+<a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
+<a href="#pontos">Representações de pontos em dupla projeção ortogonal</a> | 
+<a href="#horizontal">Representações de sólidos com uma face horizontal</a> | 
 <hr>
-<h3>Propriedades das projeções cilíndricas</h3>
+<h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
 <img src="vr/004_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p1.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -34,7 +34,7 @@ Propriedades das projeções cilíndricas
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3>Representações de pontos em dupla projeção ortogonal</h3>
+<h3 id="pontos">Representações de pontos em dupla projeção ortogonal</h3>
 <table><tr><td><h3>Pontos pertencentes aos 4 diedros, pág. 16</h3>
 <img src="vr/016_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura1.html"><img src="vr/RVaframe.png" width="180px"></a>
@@ -48,7 +48,7 @@ Propriedades das projeções cilíndricas
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3>Representações de sólidos com uma face horizontal</h3>
+<h3 id="horizontal">Representações de sólidos com uma face horizontal</h3>
 <table><tr><td><h3>Exercício 1, pág. 43</h3>
 <img src="vr/043_horizontal1.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="vr/RVaframe.png" width="180px"></a>
