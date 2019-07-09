@@ -13,6 +13,7 @@
 <a href="#topo">Sólidos com uma face de topo</a> | 
 <a href="#vertical">Sólidos com uma face vertical</a> | 
 <a href="#paralelo">Sólidos com uma face em um plano paralelo à linha de terra</a> | 
+<a href="#qualquer">Sólidos com uma face em um plano qualquer</a> | 
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
@@ -218,3 +219,27 @@
 <img src="vr/080_paralelo6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a27.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="qualquer">Sólidos com uma face em um plano qualquer</h3>
+<table><tr><td><h3>Exercício 2, pág. 90</h3>
+<img src="vr/085_qualquer2.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a28.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 3, pág. 91</h3>
+<img src="vr/086_qualquer3.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a29.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 4, pág. 92</h3>
+<img src="vr/087_qualquer4.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a30.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 6, pág. 93</h3>
+<img src="vr/088_qualquer6.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a31.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 1, pág. 96</h3>
+<img src="vr/091_qualquer0.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a21.html"><img src="vr/RVaframe.png" width="200px"></a>
+</td></tr></table>
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
