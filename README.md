@@ -117,7 +117,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<h3 id="perfil">Representações de sólidos com uma face de perfil</h3> <a href="inicio">início</a>
+<h3 id="perfil">Representações de sólidos com uma face de perfil</h3>
+<a align="right">href="#inicio">início</a>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
 <img src="vr/055_perfil2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="vr/RVaframe.png" width="180px"></a>
