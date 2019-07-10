@@ -7,8 +7,8 @@
 <br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
-<b>Conteúdo do site:</b>
+<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
+<br><b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Pontos em dupla projeção ortogonal</a> | 
 <a href="#horizontal">Sólidos com uma face horizontal</a> | 
