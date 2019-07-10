@@ -2,7 +2,7 @@
 <h3 id="inicio">Visualização de propriedades de projeções e sólidos</h3> 
 <br><b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da apostila usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
+<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf">apostila de Geometria Descritiva</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
