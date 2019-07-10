@@ -1,9 +1,15 @@
 # geometria-descritiva
 <h3 id="inicio">Visualização de propriedades de projeções e sólidos</h3> 
-<br>Referências
-<br>Imagem de visualização
-<br>AR:
-<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+<br><b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
+<br><b>contato:</b> paulohscwb@gmail.com 
+
+<br><br>As propriedades de projeções e os sólidos podem ser vistos em Realidade Aumentada com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em Realidade Virtual. 
+<br><b>Apostila original:</b> link...
+<br>Para ver os objetos em Realidade Aumentada, visite o site:
+<p align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
+<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/example.jpg" width="80%"></center>
 <b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Pontos em dupla projeção ortogonal</a> | 
@@ -243,3 +249,8 @@
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a21.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><br><b>Referências</b>
+<br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
+<br>Os scripts de órbita desenvolvidos por <b>Till Hinrichs</b> foram usados nas páginas de RV: <a href="https://github.com/tizzle/aframe-orbit-controls-component"> A-frame orbit controls component</a>.
+<br>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.
+
