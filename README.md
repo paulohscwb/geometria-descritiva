@@ -4,10 +4,10 @@
 <br><b>contato:</b> paulohscwb@gmail.com 
 <br><br>Este site contém algumas partes da apostila usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
-<br align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a>
+<br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center>
 em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
+<br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
 <b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Pontos em dupla projeção ortogonal</a> | 
