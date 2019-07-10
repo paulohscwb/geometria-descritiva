@@ -17,8 +17,7 @@ em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebo
 <a href="#topo">Sólidos com uma face de topo</a> | 
 <a href="#vertical">Sólidos com uma face vertical</a> | 
 <a href="#paralelo">Sólidos com uma face em um plano paralelo à linha de terra</a> | 
-<a href="#qualquer">Sólidos com uma face em um plano qualquer</a> 
-<br><a href="<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf"> Apostila completa </a>
+<a href="#qualquer">Sólidos com uma face em um plano qualquer</a> | <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf"> Apostila completa </a>
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
@@ -130,7 +129,9 @@ em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebo
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="perfil">Representações de sólidos com uma face de perfil</h3>
+<br id="perfil"> Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
+<p align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
+<h3>Representações de sólidos com uma face de perfil</h3>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
 <img src="vr/055_perfil2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="vr/RVaframe.png" width="200px"></a>
