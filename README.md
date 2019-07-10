@@ -2,14 +2,13 @@
 <h3 id="inicio">Visualização de propriedades de projeções e sólidos</h3> 
 <br><b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
-
-<br><br>As propriedades de projeções e os sólidos podem ser vistos em Realidade Aumentada com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em Realidade Virtual. 
+<br>As propriedades de projeções e os sólidos podem ser vistos em Realidade Aumentada com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em Realidade Virtual. 
 <br><b>Apostila original:</b> link...
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <p align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
 em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/example.jpg" width="80%"></center>
+<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
 <b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Pontos em dupla projeção ortogonal</a> | 
