@@ -5,7 +5,7 @@
 <br><br>Este site contém algumas partes da apostila usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center>
-em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
 <b>Conteúdo do site:</b>
@@ -129,8 +129,8 @@ em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebo
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<br><br id="perfil"> Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
-<p align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
+<br><br id="perfil">Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
+<br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></center>
 <h3>Representações de sólidos com uma face de perfil</h3>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
 <img src="vr/055_perfil2.PNG">
