@@ -129,7 +129,7 @@ em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebo
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<br id="perfil"> Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
+<br><br id="perfil"> Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
 <p align="center"> <a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
 <h3>Representações de sólidos com uma face de perfil</h3>
 <table><tr><td><h3>Exercício 2, pág. 55</h3>
