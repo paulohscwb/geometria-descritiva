@@ -341,11 +341,9 @@
 	  <a-marker type="barcode" value="42">
 		  <a-link mixin="lnk" href="vr/a_epura2.html"></a-link>
 		    <a-entity position="-4 1 0" id="pg19epura" scale="0.5 0.5 0.5">  
-			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:4500;">
-				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:3500;">	
-				<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+			<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">	
 				<a-text position="4.2 0.1 4.4" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
-				
 				<a-text position="4.4 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
 
@@ -367,14 +365,12 @@
 				line__5="start: 3 0 3.5; end: 3 0 0; color: #6E6E6E"
 				line__9="start: 3 0 3.5; end: 0 0 3.5; color: #6E6E6E"
 				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
-				</a-entity>
+			</a-entity>
 			</a-entity>
 
-			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:4500;">
-				<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: true; dur: 10000; delay:3500;">
-				<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0p mtl5"></a-entity>
+			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:8500;">
+			<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: true; dur: 10000; delay:8500;">
 				<a-text position="0.1 4.5 5" value="pi'''" rotation="0 90 0" mixin="texto"></a-text>
-				
 				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
 			
 				<a-sphere mixin="ponto" position="0 2 3"></a-sphere>
@@ -395,12 +391,10 @@
 				line__5="start: 0 -2.5 3.5; end: 0 0 3.5; color: #6E6E6E"
 				line__8="start: 0 -2.5 3.5; end: 0 -2.5 0; color: #6E6E6E"
 				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
-				</a-entity>
+			</a-entity>
 			</a-entity>
 				
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
 			<a-text position="4.2 4.7 0.1" value="pi''" mixin="texto"></a-text>
-			
 			<a-text position="0 4.8 0" value="z" mixin="texto"></a-text>
 			
 			<a-sphere mixin="ponto" position="2 2 3"></a-sphere>
@@ -433,6 +427,17 @@
 			line__10="start: 3 -2.5 0; end: 0 -2.5 0; color: #6E6E6E"
 			line__5="start: -5 0 0; end: 5 0 0; color: red"
 			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: false; dur: 10000; delay:8500;">	
+					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: false; dur: 10000; delay:8500;">
+					<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0p mtl5"></a-entity>
+				</a-entity>
+			</a-entity>
 		</a-entity>
 	  </a-marker>
 	  
