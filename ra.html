@@ -306,9 +306,7 @@
 	<a-marker type="barcode" value="43">
 		  <a-link mixin="lnk" href="vr/a_mpp1.html"></a-link>
 		    <a-entity position="-4 1 -2" id="pg30mpp" scale="0.5 0.5 0.5">  
-			<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 0  -5 0 0" mixin="mtl0p mtl2"></a-entity>
 			<a-text position="4.2 0.1 4.4" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 0 0  -5 0 0" mixin="mtl0p mtl3"></a-entity>
 			<a-text position="4.2 4.7 0.1" value="pi''" mixin="texto"></a-text>
 			
 			<a-sphere mixin="ponto" position="2 0 2"></a-sphere>
@@ -319,13 +317,11 @@
 
 			<a-entity position="-2.4 0 0" rotation="0 45 0" animation="property: rotation; to: 0 45 90; loop: true; dur: 10000; delay:4500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0.01 0 0; loop: true; dur: 10000; delay:3500;">
-				<a-entity id="planoPI3" faceset="vertices: 0 0 7  0 5 7  0 5 0  0 0 0" mixin="mtl0p mtl5"></a-entity>
 				<a-text position="0.1 4.5 5" value="pi''1" rotation="0 90 0" mixin="texto"></a-text>
-				
 				<a-sphere mixin="ponto" position="0 2 4.5"></a-sphere>
 				<a-text position="0.1 2 4.5" value="A''1" rotation="0 90 0" mixin="texto"></a-text>
-				
 				<a-entity line="start: 0 2 4.5; end: 0 0 4.5; color: #6E6E6E"></a-entity>
+				<a-entity id="planoPI3" faceset="vertices: 0 0 7  0 5 7  0 5 0  0 0 0" mixin="mtl0p mtl5"></a-entity>
 				</a-entity>
 			</a-entity>
 				
@@ -335,6 +331,8 @@
 			<a-text position="2 2 0" value="A''" mixin="texto"></a-text>
 			
 			<a-entity line__2="start: 2 2 0; end: 2 0 0; color: #6E6E6E"></a-entity>
+			<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 0  -5 0 0" mixin="mtl0p mtl2"></a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 0 0  -5 0 0" mixin="mtl0p mtl3"></a-entity>
 		</a-entity>
 	  </a-marker>
 	 
