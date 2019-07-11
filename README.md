@@ -20,6 +20,7 @@
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 4</h3>
+  <hr>
 <img src="vr/004_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/p1.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr><img src="vr/004_prop1b.PNG">
