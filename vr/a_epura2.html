@@ -3,8 +3,8 @@
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
 	<script src="https://aframe.io/releases/0.9.0/aframe.js"></script>
-	<script src="https://paulohscwb.github.io/polyhedra/scripts/aframe-orbit-controls.min.js"></script>
-	<script src="https://paulohscwb.github.io/polyhedra/scripts/faceset.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<script src=".././scripts/faceset.js"></script>
   </head>  
 <body>
 	<a-scene>
@@ -33,9 +33,7 @@
 			
 			<a-entity animation="property: rotation; to: 90 0 0; loop: false; dur: 10000; delay:8500;">
 			<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: false; dur: 10000; delay:8500;">	
-				<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0 mtl2"></a-entity>
 				<a-text position="4.2 0.1 4.4" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
-				
 				<a-text position="4.4 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
 
@@ -62,9 +60,7 @@
 
 			<a-entity animation="property: rotation; to: 0 -90 0; loop: false; dur: 10000; delay:8500;">
 			<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: false; dur: 10000; delay:8500;">
-			<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0 mtl5"></a-entity>
 				<a-text position="0.1 4.5 5" value="pi'''" rotation="0 90 0" mixin="texto"></a-text>
-				
 				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
 			
 				<a-sphere mixin="ponto" position="0 2 3"></a-sphere>
@@ -88,9 +84,7 @@
 			</a-entity>
 			</a-entity>
 				
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0 mtl3"></a-entity>
 			<a-text position="4.2 4.7 0.1" value="pi''" mixin="texto"></a-text>
-			
 			<a-text position="0 4.8 0" value="z" mixin="texto"></a-text>
 			
 			<a-sphere mixin="ponto" position="2 2 3"></a-sphere>
@@ -123,12 +117,20 @@
 			line__10="start: 3 -2.5 0; end: 0 -2.5 0; color: #6E6E6E"
 			line__5="start: -5 0 0; end: 5 0 0; color: red"
 			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
-			
-		
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0 mtl3"></a-entity>
+			<a-entity animation="property: rotation; to: 90 0 0; loop: false; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: false; dur: 10000; delay:8500;">	
+					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0 mtl2"></a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity animation="property: rotation; to: 0 -90 0; loop: false; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: false; dur: 10000; delay:8500;">
+					<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0 mtl5"></a-entity>
+				</a-entity>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; minDistance: 0.5; maxPolarAngle: 180; 
-		maxDistance: 180; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera look-controls orbit-controls="target: 0 0 0; minDistance: 0.5; minPolarAngle:0; maxPolarAngle: 270; initialPosition: 0 2 8"></a-entity>
 	  
 		<!--<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 		<a-light type="spot" intensity="1.5" position="3 6 3" angle="180" color="#eaeaea"></a-light>-->
