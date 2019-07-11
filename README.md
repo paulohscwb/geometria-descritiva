@@ -1,4 +1,3 @@
-# Visualização de propriedades de projeções e sólidos
 <h1 id="inicio">Visualização de propriedades de projeções e sólidos</h1> 
 <br><b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
