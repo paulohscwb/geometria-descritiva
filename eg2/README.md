@@ -18,58 +18,58 @@
 <a href="#qualquer">Sólidos com uma face em um plano qualquer</a> | <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <h3 id="pontos">Representações de pontos em dupla projeção ortogonal</h3>
-<table><tr><td><h3>Pontos pertencentes aos 4 diedros, pág. 16</h3>
+<table><tr><td><h3>Pontos pertencentes aos 4 diedros, pág. 4</h3>
 <img src="../vr/016_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura1.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Terceira projeção, pág. 19</h3>
+<h3>Terceira projeção, pág. 7</h3>
 <img src="../vr/019_pontos.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_epura2.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Mudança de plano de projeção, pág. 30</h3>
+<h3>Mudança de plano de projeção, pág. 18</h3>
 <img src="../vr/030_mpp.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a_mpp1.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="horizontal">Representações de sólidos com uma face horizontal</h3>
-<table><tr><td><h3>Exercício 1, pág. 43</h3>
+<table><tr><td><h3>Exercício 1, pág. 31</h3>
 <img src="../vr/043_horizontal1.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a44.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 2, pág. 44</h3>
+<h3>Exercício 2, pág. 32</h3>
 <img src="../vr/044_horizontal2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a45.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 44</h3>
+<h3>Exercício 3, pág. 32</h3>
 <img src="../vr/044_horizontal3.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a46.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 45</h3>
+<h3>Exercício 4, pág. 33</h3>
 <img src="../vr/045_horizontal4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a47.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 5, pág. 45</h3>
+<h3>Exercício 5, pág. 33</h3>
 <img src="../vr/045_horizontal5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a48.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 6, pág. 46</h3>
+<h3>Exercício 6, pág. 34</h3>
 <img src="../vr/046_horizontal6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a49.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 7, pág. 46</h3>
+<h3>Exercício 7, pág. 34</h3>
 <img src="../vr/046_horizontal7.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a50.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 8, pág. 47</h3>
+<h3>Exercício 8, pág. 35</h3>
 <img src="../vr/047_horizontal8.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a52.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 9, pág. 47</h3>
+<h3>Exercício 9, pág. 35</h3>
 <img src="../vr/047_horizontal9.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a51.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 48</h3>
+<h3>Exercício 4, pág. 36</h3>
 <img src="../vr/048_horizontal10.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a53.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
