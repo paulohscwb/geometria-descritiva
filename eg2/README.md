@@ -76,27 +76,27 @@
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="frontal">Representações de sólidos com uma face frontal</h3>
-<table><tr><td><h3>Exercício 2, pág. 50</h3>
+<table><tr><td><h3>Exercício 2, pág. 38</h3>
 <img src="../vr/050_frontal2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a2.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 51</h3>
+<h3>Exercício 3, pág. 39</h3>
 <img src="../vr/051_frontal3.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a3.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 51</h3>
+<h3>Exercício 4, pág. 39</h3>
 <img src="../vr/051_frontal4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a5.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 5, pág. 52</h3>
+<h3>Exercício 5, pág. 40</h3>
 <img src="../vr/052_frontal5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a4.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 6, pág. 52</h3>
+<h3>Exercício 6, pág. 40</h3>
 <img src="../vr/052_frontal6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a1.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 7, pág. 53</h3>
+<h3>Exercício 7, pág. 41</h3>
 <img src="../vr/053_frontal7.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a0.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
@@ -105,119 +105,119 @@
 <br><br id="perfil">Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
 <br><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></center>
 <h3>Representações de sólidos com uma face de perfil</h3>
-<table><tr><td><h3>Exercício 2, pág. 55</h3>
+<table><tr><td><h3>Exercício 2, pág. 43</h3>
 <img src="../vr/055_perfil2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a6.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 56</h3>
+<h3>Exercício 3, pág. 44</h3>
 <img src="../vr/056_perfil3.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a8.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 56</h3>
+<h3>Exercício 4, pág. 44</h3>
 <img src="../vr/056_perfil4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a7.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 5, pág. 57</h3>
+<h3>Exercício 5, pág. 45</h3>
 <img src="../vr/057_perfil5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a9.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 6, pág. 57</h3>
+<h3>Exercício 6, pág. 45</h3>
 <img src="../vr/057_perfil6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a10.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 8, pág. 58</h3>
+<h3>Exercício 8, pág. 46</h3>
 <img src="../vr/058_perfil8.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a22.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="topo">Sólidos com uma face de topo</h3>
-<table><tr><td><h3>Exercício 4, pág. 62</h3>
+<table><tr><td><h3>Exercício 4, pág. 50</h3>
 <img src="../vr/062_topo4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a11.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 5, pág. 62</h3>
+<h3>Exercício 5, pág. 50</h3>
 <img src="../vr/062_topo5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a12.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 12, pág. 65</h3>
+<h3>Exercício 12, pág. 53</h3>
 <img src="../vr/064_topo13.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a13.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 14, pág. 66</h3>
+<h3>Exercício 14, pág. 54</h3>
 <img src="../vr/065_topo14.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a14.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 15, pág. 67</h3>
+<h3>Exercício 15, pág. 55</h3>
 <img src="../vr/065_topo15.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a15.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="vertical">Sólidos com uma face vertical</h3>
-<table><tr><td><h3>Exercício 4, pág. 71</h3>
+<table><tr><td><h3>Exercício 4, pág. 59</h3>
 <img src="../vr/069_vertical4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a16.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 7, pág. 72</h3>
+<h3>Exercício 7, pág. 60</h3>
 <img src="../vr/069_vertical5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a17.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 11, pág. 75</h3>
+<h3>Exercício 11, pág. 63</h3>
 <img src="../vr/071_vertical11.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a18.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 12, pág. 76</h3>
+<h3>Exercício 12, pág. 64</h3>
 <img src="../vr/072_vertical12.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a19.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 13, pág. 77</h3>
+<h3>Exercício 13, pág. 65</h3>
 <img src="../vr/072_vertical13.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a20.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="paralelo">Sólidos com uma face em um plano paralelo à linha de terra</h3>
-<table><tr><td><h3>Exercício 2, pág. 81</h3>
+<table><tr><td><h3>Exercício 2, pág. 69</h3>
 <img src="../vr/076_paralelo2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a23.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 82</h3>
+<h3>Exercício 3, pág. 70</h3>
 <img src="../vr/077_paralelo3.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a24.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 83</h3>
+<h3>Exercício 4, pág. 71</h3>
 <img src="../vr/078_paralelo4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a25.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 5, pág. 84</h3>
+<h3>Exercício 5, pág. 72</h3>
 <img src="../vr/079_paralelo5.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a26.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 6, pág. 85</h3>
+<h3>Exercício 6, pág. 73</h3>
 <img src="../vr/080_paralelo6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a27.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="qualquer">Sólidos com uma face em um plano qualquer</h3>
-<table><tr><td><h3>Exercício 2, pág. 90</h3>
+<table><tr><td><h3>Exercício 2, pág. 78</h3>
 <img src="../vr/085_qualquer2.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a28.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 91</h3>
+<h3>Exercício 3, pág. 79</h3>
 <img src="../vr/086_qualquer3.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a29.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4, pág. 92</h3>
+<h3>Exercício 4, pág. 80</h3>
 <img src="../vr/087_qualquer4.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a30.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 6, pág. 93</h3>
+<h3>Exercício 6, pág. 81</h3>
 <img src="../vr/088_qualquer6.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a31.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 1, pág. 96</h3>
+<h3>Exercício 1, pág. 84</h3>
 <img src="../vr/091_qualquer0.PNG">
 <br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/a21.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
