@@ -5,6 +5,13 @@
 	<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
+	<script>
+	AFRAME.registerComponent('example-orthogonal-camera', {
+  update: function () {
+    this.el.setObject3D('camera', new THREE.OrthographicCamera());
+  }
+});
+</script>
 </head>  
 <body>
 	<a-scene>
@@ -112,7 +119,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 11"></a-entity>
+		<a-entity camera="fov:1; near:1;" look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 1 600 600"></a-entity>
 	  
 		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
