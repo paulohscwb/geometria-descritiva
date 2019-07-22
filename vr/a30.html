@@ -20,7 +20,7 @@
 			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: #6E6E6E; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black">
+			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
@@ -69,7 +69,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 600"></a-entity>
 	  
 		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
