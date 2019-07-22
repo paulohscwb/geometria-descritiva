@@ -21,7 +21,7 @@
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: #404040; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black">
+			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
@@ -30,14 +30,14 @@
 
 		<a-entity scale="1 1 1" position="-2.7 -4 -2.5">
 	  		<a-entity>
-				<a-text position="0 3.7 1" value="A" mixin="texto"></a-text>
+				<a-text position="-0.3 3.7 1" value="A" mixin="texto"></a-text>
 				<a-text position="3 1.8 0" value="B" mixin="texto"></a-text>
 				<a-text position="3.8 1.3 3.5" value="C" mixin="texto"></a-text>
-				<a-text position="0.9 3.2 4.4" value="D" mixin="texto"></a-text>
+				<a-text position="0.6 3.2 4.4" value="D" mixin="texto"></a-text>
 				<a-text position="3.1 5.9 -0.3" value="E" mixin="texto"></a-text>
 				<a-text position="5.8 4.2 1.6" value="F" mixin="texto"></a-text>
-				<a-text position="4.4 5.2 4.7" value="G" mixin="texto"></a-text>
-				<a-text position="1.6 7 3" value="H" mixin="texto"></a-text>
+				<a-text position="4.1 5.2 4.8" value="G" mixin="texto"></a-text>
+				<a-text position="1.4 7 3" value="H" mixin="texto"></a-text>
 				
 				<a-text position="9 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 				<a-text position="-0.4 0.1 9" value="y" rotation="-90 0 0" mixin="texto"></a-text>
@@ -65,7 +65,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 600"></a-entity>
 	  
 		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>

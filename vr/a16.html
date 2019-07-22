@@ -21,7 +21,7 @@
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black">
+			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
@@ -35,11 +35,11 @@
 				<a-text position="2.9 2.7 0.5" value="C" mixin="texto"></a-text>
 				<a-text position="1.9 -0.5 0.8" value="D" mixin="texto"></a-text>
 				<a-text position="-1.6 -0.7 2" value="E" mixin="texto"></a-text>
-				<a-text position="-0.8 2.5 5.7" value="F" mixin="texto"></a-text>
+				<a-text position="-1.2 2.5 5.7" value="F" mixin="texto"></a-text>
 				<a-text position="1.7 5 4.7" value="G" mixin="texto"></a-text>
 				<a-text position="4.1 2.7 3.7" value="H" mixin="texto"></a-text>
 				<a-text position="3.1 -0.5 4" value="I" mixin="texto"></a-text>
-				<a-text position="0.1 -0.7 5.2" value="J" mixin="texto"></a-text>
+				<a-text position="-0.3 -0.7 5.2" value="J" mixin="texto"></a-text>
 				
 				<a-text position="9 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 				<a-text position="-0.4 0.1 9" value="y" rotation="-90 0 0" mixin="texto"></a-text>
@@ -80,7 +80,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 600"></a-entity>
 	  
 		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
