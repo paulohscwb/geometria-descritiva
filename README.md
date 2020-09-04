@@ -717,7 +717,7 @@
 	<img src="planosHFP/AposGD2020_0042.png" />
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0043.png" />
-	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <a href="ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></figcaption>
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <br><a href="ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></figcaption>
 	<br><a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0044.png" />
@@ -770,7 +770,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png" />
 	<img src="planosHFP/AposGD2020_0055a.png" />
-	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
 	<br><a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png" />
@@ -924,10 +924,10 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
-<p><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center></p> 
+<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p><center><img src="vr/exemplo.jpg" width="80%"></center>
+<p align="center"><img src="vr/exemplo.jpg" width="80%"></p>
 
 <p><br><b>Referências:</b></p>
 <p>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.</p>

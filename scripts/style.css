@@ -34,7 +34,8 @@ figcaption {
   padding: 5px;
   font-size: 14px;
   color: rgb(21,153,87);
-  margin-bottom: 5px 0 5px 0;
+  margin: 5px 0 5px 0;
+  display:block;
 }
 
 li > figcaption {
@@ -65,7 +66,7 @@ details {
   width:100%;
 }
 
-li img{
+.slider img{
 	min-width:100%;
 }
 
@@ -73,6 +74,7 @@ li img{
 	display:block;
 	box-shadow: 0px 1px 1px 0px rgba(21,153,87,0.2);
 	margin: 0 -3px 30px -3px;
+	width:100%;
 }
 
 .sub {
@@ -117,13 +119,6 @@ hr {
   width: 98%;
   margin: 5px 0 5px 0;
 }
-h3::after {
-  content: '';
-  display: block;
-  background: rgb(21,153,87);
-  width: 61%;
-  height: 1px;
-}
 
 * { margin: 0; padding: 0; }
 
@@ -141,9 +136,10 @@ h3::after {
      position: relative;
  }
 
- .slider li {
+.slider li {
      list-style: none;
      position: absolute;
+	 width: 100%;
  }
  
 .slider input {
@@ -225,36 +221,36 @@ h3::after {
 	counter-increment: contador;
 }
 
- .slider img {
+.slider img {
      opacity: 0;
      visibility: hidden;
      transition: opacity .5s linear;
- }
+}
 
- .slider li input:checked ~ img {
+.slider li input:checked ~ img {
      opacity: 1;
      transition: opacity .5s linear;
      visibility: visible;
      z-index: 10;
- }
+}
 
- .slider figcaption {
+.slider figcaption {
      opacity: 0;
      visibility: hidden;
      transition: opacity .5s linear;
- }
+}
 
- .slider li input:checked ~figcaption {
+.slider li input:checked ~figcaption {
      opacity: 1;
      transition: opacity .5s linear;
      visibility: visible;
      z-index: 10;
- }
+}
 
- .slider li input:checked ~label {
+.slider li input:checked ~label {
      background-color: #159957;
      color: white;
- }
+}
 
 .embed-container {
   position: relative;
