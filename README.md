@@ -629,7 +629,7 @@
 	<img src="pontos-retas/AposGD2020_0015.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0016.png" />
-	<a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
 	<img src="pontos-retas/AposGD2020_0017a.png" />
@@ -638,7 +638,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0019.png" />
 	<img src="pontos-retas/AposGD2020_0019a.png" />
-	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/AposGD2020_0019b.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0020.png" />
@@ -669,7 +669,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0030.png" />
 	<img src="pontos-retas/AposGD2020_0030a.png" />
-	<a href="vr/030_mpp.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><a href="vr/030_mpp.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0031.png" />
 	<img src="pontos-retas/AposGD2020_0031a.png" />
