@@ -855,7 +855,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
 	<img src="planosPQ/AposGD2020_0078.png" />
 	<img src="planosPQ/AposGD2020_0078a.png" />
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
