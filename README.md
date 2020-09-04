@@ -717,7 +717,8 @@
 	<img src="planosHFP/AposGD2020_0042.png" />
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0043.png" />
-	<div class="combo"><a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, entre no site: <a href="ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></figcaption>
+	<br><a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0044.png" />
 	<div class="combo"><a href="vr/a45.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -745,64 +746,49 @@
 	<img src="planosHFP/AposGD2020_0048c.png" />
 	<div class="combo"><a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0049.png" />
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0050.png" />
+	<img src="planosHFP/AposGD2020_0050a.png" />
+	<div class="combo"><a href="vr/a2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0051.png" />
+	<div class="combo"><a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0051a.png" />
+	<div class="combo"><a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0052.png" />
+	<div class="combo"><a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0052a.png" />
+	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0053.png" />
+	<div class="combo"><a href="vr/a0.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0053a.png" />
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0054.png" />
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0055.png" />
+	<img src="planosHFP/AposGD2020_0055a.png" />
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, entre no site: <a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
+	<br><a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0056.png" />
+	<div class="combo"><a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0056a.png" />
+	<div class="combo"><a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0057.png" />
+	<div class="combo"><a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0057a.png" />
+	<div class="combo"><a href="vr/a10.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<img src="planosHFP/AposGD2020_0058.png" />
+	<img src="planosHFP/AposGD2020_0058a.png" />
+	<div class="combo"><a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="frontal">Representações de sólidos com uma face frontal</h3>
-<table><tr><td><h3>Exercício 2, pág. 50</h3>
-<img src="vr/050_frontal2.PNG">
-<br><a href="vr/a2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 51</h3>
-<img src="vr/051_frontal3.PNG">
-<br><a href="vr/a3.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4, pág. 51</h3>
-<img src="vr/051_frontal4.PNG">
-<br><a href="vr/a5.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 5, pág. 52</h3>
-<img src="vr/052_frontal5.PNG">
-<br><a href="vr/a4.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 6, pág. 52</h3>
-<img src="vr/052_frontal6.PNG">
-<br><a href="vr/a1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 7, pág. 53</h3>
-<img src="vr/053_frontal7.PNG">
-<br><a href="vr/a0.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<br><br id="perfil">Para visualizar os sólidos a partir do plano de perfil, o endereço em Realidade Aumentada é o seguinte:
-<br><center><a href="ra1.html"> ra1.html</a></center>
-<h3>Representações de sólidos com uma face de perfil</h3>
-<table><tr><td><h3>Exercício 2, pág. 55</h3>
-<img src="vr/055_perfil2.PNG">
-<br><a href="vr/a6.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 56</h3>
-<img src="vr/056_perfil3.PNG">
-<br><a href="vr/a8.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4, pág. 56</h3>
-<img src="vr/056_perfil4.PNG">
-<br><a href="vr/a7.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 5, pág. 57</h3>
-<img src="vr/057_perfil5.PNG">
-<br><a href="vr/a9.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 6, pág. 57</h3>
-<img src="vr/057_perfil6.PNG">
-<br><a href="vr/a10.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 8, pág. 58</h3>
-<img src="vr/058_perfil8.PNG">
-<br><a href="vr/a22.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="topo">Sólidos com uma face de topo</h3>
