@@ -8,7 +8,7 @@
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
-  <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 1-13</summary>
+  <summary id="propriedades">Propriedades das projeções cilíndricas, pág. 1-13</summary>
 	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p> 	
 	<img src="prop/AposGD2020_0001.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -623,7 +623,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="pontos">Pontos e Retas: pág. 14-37</summary>
+<details><summary id="pontos">Pontos e Retas, pág. 14-37</summary>
 	<img src="pontos-retas/AposGD2020_0014.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0015.png" />
@@ -702,7 +702,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos1">Planos horizontais, frontais e de perfil: pág. 38-58</summary>
+<details><summary id="planos1">Planos: horizontal, frontal e de perfil, pág. 38-58</summary>
 	<img src="planosHFP/AposGD2020_0038.png" />
 	<img src="planosHFP/AposGD2020_0038a.png" />
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -789,7 +789,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos2">Planos de topo e verticais: pág. 59-77</summary>
+<details><summary id="planos2">Planos: de topo e vertical, pág. 59-77</summary>
 	<img src="planosTV/AposGD2020_0059.png" />
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png" />
@@ -853,57 +853,63 @@
 	<img src="planosTV/AposGD2020_0077.png" />
 	<div class="combo"><a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0078.png" />
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
-
-
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="paralelo">Sólidos com uma face em um plano paralelo à linha de terra</h3>
-<table><tr><td><h3>Exercício 2, pág. 81</h3>
-<img src="vr/076_paralelo2.PNG">
-<br><a href="vr/a23.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 82</h3>
-<img src="vr/077_paralelo3.PNG">
-<br><a href="vr/a24.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4, pág. 83</h3>
-<img src="vr/078_paralelo4.PNG">
-<br><a href="vr/a25.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 5, pág. 84</h3>
-<img src="vr/079_paralelo5.PNG">
-<br><a href="vr/a26.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 6, pág. 85</h3>
-<img src="vr/080_paralelo6.PNG">
-<br><a href="vr/a27.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="qualquer">Sólidos com uma face em um plano qualquer</h3>
-<table><tr><td><h3>Exercício 2, pág. 90</h3>
-<img src="vr/085_qualquer2.PNG">
-<br><a href="vr/a28.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 91</h3>
-<img src="vr/086_qualquer3.PNG">
-<br><a href="vr/a29.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4, pág. 92</h3>
-<img src="vr/087_qualquer4.PNG">
-<br><a href="vr/a30.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 6, pág. 93</h3>
-<img src="vr/088_qualquer6.PNG">
-<br><a href="vr/a31.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 1, pág. 96</h3>
-<img src="vr/091_qualquer0.PNG">
-<br><a href="vr/a21.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
+<details><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
+	<img src="planosPQ/AposGD2020_0078.png" />
+	<img src="planosPQ/AposGD2020_0078a.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0079.png" />
+	<img src="planosPQ/AposGD2020_0079a.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0080.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0081.png" />
+	<div class="combo"><a href="vr/a23.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0082.png" />
+	<div class="combo"><a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0083.png" />
+	<div class="combo"><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0084.png" />
+	<div class="combo"><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0085.png" />
+	<div class="combo"><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0086.png" />
+	<img src="planosPQ/AposGD2020_0086a.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0087.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0088.png" />
+	<img src="planosPQ/AposGD2020_0088a.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0089.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0090.png" />
+	<div class="combo"><a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0091.png" />
+	<div class="combo"><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0092.png" />
+	<div class="combo"><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosPQ/AposGD2020_0092a.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0093.png" />
+	<div class="combo"><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0094.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0095.png" />
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<img src="planosPQ/AposGD2020_0096.png" />
+	<div class="combo"><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+</details>
 
 <br>
 <p><b>site desenvolvido por:</b></p> 
@@ -921,7 +927,7 @@
 <p><center><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></center></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+<p><center><img src="vr/exemplo.jpg" width="80%"></center>
 
 <p><br><b>Referências:</b></p>
 <p>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.</p>
