@@ -8,7 +8,7 @@
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
-  <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 1-14</summary>
+  <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 1-13</summary>
 	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p> 	
 	<img src="prop/AposGD2020_0001.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -213,11 +213,11 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
+	<a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D</a>
    </details>
-   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
    <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
-	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
 	<img src="prop/20_03_00c.png">
+	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/AposGD2020_0008.png" />
@@ -307,8 +307,8 @@
 	<img src="prop/20_04_00_b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a></details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
-  	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
 	<img src="prop/20_04_00c.png"/>
+  	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details></div>
   <img src="prop/AposGD2020_0008b.png" />
@@ -620,48 +620,87 @@
 	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
   </details></div>
-<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
-
-<h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
-<table><tr><td><h3>Propriedade 1, pág. 4</h3>
-<img src="vr/004_prop1a.PNG">
-<br><a href="vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/004_prop1b.PNG">
-<br><a href="vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Propriedade 2, pág. 5</h3>
-<img src="vr/005_prop2a.PNG">
-<br><a href="vr/p2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/005_prop2b.PNG">
-<br><a href="vr/p2a.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercícios 4 e 5, pág. 8</h3>
-<img src="vr/008_exerc4c.PNG">
-<br><a href="vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/008_exerc5ac.PNG">
-<br><a href="vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Propriedade 7, pág. 10</h3>
-<img src="vr/010_prop7.PNG">
-<br><a href="vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="pontos">Representações de pontos em dupla projeção ortogonal</h3>
-<table><tr><td><h3>Pontos pertencentes aos 4 diedros, pág. 16</h3>
-<img src="vr/016_pontos.PNG">
-<br><a href="vr/a_epura1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Terceira projeção, pág. 19</h3>
-<img src="vr/019_pontos.PNG">
-<br><a href="vr/a_epura2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Mudança de plano de projeção, pág. 30</h3>
-<img src="vr/030_mpp.PNG">
-<br><a href="vr/a_mpp1.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
+<details><summary id="pontos">Pontos e Retas: pág. 14-37</summary>
+	<img src="prop/AposGD2020_0014.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0015.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0016.png" />
+	<a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0017.png" />
+	<img src="prop/AposGD2020_0017a.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0018.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0019.png" />
+	<img src="prop/AposGD2020_0019a.png" />
+	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="prop/AposGD2020_0019b.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0020.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0021.png" />
+	<img src="prop/AposGD2020_0021a.png" />
+	<img src="prop/AposGD2020_0021b.png" />
+	<img src="prop/AposGD2020_0021c.png" />
+	<img src="prop/AposGD2020_0021d.png" />
+	<img src="prop/AposGD2020_0021e.png" />
+	<img src="prop/AposGD2020_0021f.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0022.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0023.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0024.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0025.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0026.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0027.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0028.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0029.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0030.png" />
+	<img src="prop/AposGD2020_0030a.png" />
+	<a href="vr/030_mpp.html" target="_blank" class="visu">Visualização em 3D</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0031.png" />
+	<img src="prop/AposGD2020_0031a.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0032.png" />
+	<img src="prop/AposGD2020_0032a.png" />
+	<img src="prop/AposGD2020_0032b.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0033.png" />
+	<img src="prop/AposGD2020_0033a.png" />
+	<img src="prop/AposGD2020_0033b.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0034.png" />
+	<img src="prop/AposGD2020_0034a.png" />
+	<img src="prop/AposGD2020_0034b.png" />
+	<img src="prop/AposGD2020_0034c.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0035.png" />
+	<img src="prop/AposGD2020_0035a.png" />
+	<img src="prop/AposGD2020_0035b.png" />
+	<img src="prop/AposGD2020_0035c.png" />
+	<img src="prop/AposGD2020_0035d.png" />
+	<img src="prop/AposGD2020_0035e.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0036.png" />
+	<img src="prop/AposGD2020_0036a.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="prop/AposGD2020_0037.png" />
+	<img src="prop/AposGD2020_0037a.png" />
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+</details>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="horizontal">Representações de sólidos com uma face horizontal</h3>
