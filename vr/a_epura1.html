@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -22,7 +23,6 @@
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="reta" geometry="radius:0.04;" mixin="mtl1"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
@@ -33,10 +33,11 @@
 			
 			<a-entity animation="property: rotation; to: 90 0 0; loop: false; dur: 10000; delay:8500;">
 			<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">
-				<a-text position="4.2 0.1 4.4" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-image src="pi1.png" height="0.6" width="0.6" position="4.2 0.05 4.4" mixin="imagem" rotation="-75 0 0"></a-image>
 				
 				<a-text position="4.4 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-cone rotation="90 0 0" position="0 0 5.15" color="green" radius-bottom="0.11" radius-top="0" height="0.3"></a-cone>
 
 				<a-sphere mixin="ponto" position="2 0 2"></a-sphere>
 				<a-text position="2 0.1 2" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
@@ -54,10 +55,12 @@
 				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
 			</a-entity>
 			</a-entity>
-			
-			<a-text position="4.2 4.7 0.1" value="pi''" mixin="texto"></a-text>
+
+			<a-image src="pi2.png" height="0.5" width="0.5" position="4.2 4.7 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 			
 			<a-text position="0 4.8 0" value="z" mixin="texto"></a-text>
+			<a-cone position="0 5.15 0" color="blue" radius-bottom="0.11" radius-top="0" height="0.3"></a-cone>
+			<a-cone rotation="90 90 0" position="5.15 0 0" color="red" radius-bottom="0.11" radius-top="0" height="0.3"></a-cone>
 			<a-text position="-2 2.5 2.5"  rotation="-30 0 0" value="1o diedro" mixin="texto"></a-text>
 			<a-text position="-2 2.5 -2.5" rotation="-30 0 0" value="2o diedro" mixin="texto"></a-text>
 			<a-text position="-2 -2.5 -2.5" rotation="-30 0 0" value="3o diedro" mixin="texto"></a-text>
@@ -97,7 +100,7 @@
 			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0 mtl3"></a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:20; near:0.5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 7 12 22"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
