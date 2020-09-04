@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -22,7 +23,6 @@
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="reta" geometry="radius:0.04;" mixin="mtl1"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
@@ -31,14 +31,13 @@
 		
 		<a-entity scale="0.7 0.7 0.7" position="0 0 1">
 			
-			<a-text position="4.2 0.1 4.4" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
-			<a-text position="4.2 4.7 0.1" value="pi''" mixin="texto"></a-text>
-			
 			<a-sphere mixin="ponto" position="2 0 2"></a-sphere>
 			<a-text position="2 0.1 2" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
 			
 			<a-entity line="start: 2 0 2; end: 2 0 0; color: #6E6E6E"
-			line__6="start: 2 0 2; end: 0.75 0 3.2; color: #6E6E6E"></a-entity>
+			line__6="start: 2 0 2; end: 0.75 0 3.2; color: #6E6E6E"
+			line__1="start: 2 2 2; end: 2 0 2; color: #6E6E6E"
+			line__2="start: 2 2 2; end: 2 2 0; color: #6E6E6E"></a-entity>
 
 			<a-sphere mixin="ponto" position="2 2 2"></a-sphere>
 			<a-text position="2 2 2" value="A" mixin="texto"></a-text>
@@ -48,19 +47,21 @@
 			<a-entity line__2="start: 2 2 0; end: 2 0 0; color: #6E6E6E"></a-entity>
 			<a-entity position="-2.4 0 0" rotation="0 45 0" animation="property: rotation; to: 0 45 90; loop: false; dur: 10000; delay:3500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0.01 0 0; loop: false; dur: 10000; delay:3500;">
-				<a-text position="0.1 4.5 5" value="pi''1" rotation="0 90 0" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 2 4.5"></a-sphere>
 				<a-text position="0.1 2 4.5" value="A''1" rotation="0 90 0" mixin="texto"></a-text>
 				<a-entity line="start: 0 2 4.5; end: 0 0 4.5; color: #6E6E6E"></a-entity>
 				<a-entity id="planoPI3" faceset="vertices: 0 0 7  0 5 7  0 5 0  0 0 0" mixin="mtl0 mtl5"></a-entity>
+				<a-image src="pi2.png" height="0.6" width="0.7" position="0.1 4.5 6.3"  rotation="0 90 0" mixin="imagem"></a-image>
+				<a-text position="0.05 4.3 6" value="1" rotation="0 90 0" mixin="texto"></a-text>				
 				</a-entity>
 			</a-entity>
 			<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 0  -5 0 0" mixin="mtl0 mtl2"></a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 0 0  -5 0 0" mixin="mtl0 mtl3"></a-entity
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 0 0  -5 0 0" mixin="mtl0 mtl3"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.05 4.5" mixin="imagem" rotation="-90 0 0"></a-image>
+			<a-image src="pi2.png" height="0.6" width="0.7" position="4.4 4.5 0.1" mixin="imagem" rotation="-25 0 0"></a-image>
 		</a-entity>
 		
-		
-	    <a-entity camera="fov:20; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 15 25 32"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
