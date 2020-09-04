@@ -717,7 +717,7 @@
 	<img src="planosHFP/AposGD2020_0042.png" />
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0043.png" />
-	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, entre no site: <a href="ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></figcaption>
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <a href="ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></figcaption>
 	<br><a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0044.png" />
@@ -770,7 +770,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png" />
 	<img src="planosHFP/AposGD2020_0055a.png" />
-	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, entre no site: <a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
+	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
 	<br><a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png" />
@@ -789,52 +789,75 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
+<details><summary id="planos2">Planos de topo e verticais: pág. 59-77</summary>
+	<img src="planosTV/AposGD2020_0059.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0060.png" />
+	<img src="planosTV/AposGD2020_0060a.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0061.png" />
+	<img src="planosTV/AposGD2020_0061a.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0062.png" />
+	<div class="combo"><a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0062a.png" />
+	<div class="combo"><a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0063.png" />
+	<img src="planosTV/AposGD2020_0063a.png" />
+	<img src="planosTV/AposGD2020_0063b.png" />
+	<img src="planosTV/AposGD2020_0063c.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0064.png" />
+	<img src="planosTV/AposGD2020_0064a.png" />
+	<img src="planosTV/AposGD2020_0064b.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0065.png" />
+	<div class="combo"><a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0065a.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0066.png" />
+	<div class="combo"><a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0067.png" />
+	<div class="combo"><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0068.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0069.png" />
+	<img src="planosTV/AposGD2020_0069a.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0070.png" />
+	<img src="planosTV/AposGD2020_0070a.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0071.png" />
+	<div class="combo"><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0071a.png" />
+	<img src="planosTV/AposGD2020_0071b.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0072.png" />
+	<div class="combo"><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0072a.png" />
+	<img src="planosTV/AposGD2020_0072b.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0073.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0074.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0075.png" />
+	<div class="combo"><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0076.png" />
+	<div class="combo"><a href="vr/a19.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0077.png" />
+	<div class="combo"><a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/AposGD2020_0078.png" />
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+</details>
 
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="topo">Sólidos com uma face de topo</h3>
-<table><tr><td><h3>Exercício 4, pág. 62</h3>
-<img src="vr/062_topo4.PNG">
-<br><a href="vr/a11.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 5, pág. 62</h3>
-<img src="vr/062_topo5.PNG">
-<br><a href="vr/a12.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 12, pág. 65</h3>
-<img src="vr/064_topo13.PNG">
-<br><a href="vr/a13.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 14, pág. 66</h3>
-<img src="vr/065_topo14.PNG">
-<br><a href="vr/a14.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 15, pág. 67</h3>
-<img src="vr/065_topo15.PNG">
-<br><a href="vr/a15.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="vertical">Sólidos com uma face vertical</h3>
-<table><tr><td><h3>Exercício 4, pág. 71</h3>
-<img src="vr/069_vertical4.PNG">
-<br><a href="vr/a16.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 7, pág. 72</h3>
-<img src="vr/069_vertical5.PNG">
-<br><a href="vr/a17.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 11, pág. 75</h3>
-<img src="vr/071_vertical11.PNG">
-<br><a href="vr/a18.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 12, pág. 76</h3>
-<img src="vr/072_vertical12.PNG">
-<br><a href="vr/a19.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 13, pág. 77</h3>
-<img src="vr/072_vertical13.PNG">
-<br><a href="vr/a20.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="paralelo">Sólidos com uma face em um plano paralelo à linha de terra</h3>
