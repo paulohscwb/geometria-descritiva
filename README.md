@@ -624,81 +624,81 @@
 </details>
 
 <details><summary id="pontos">Pontos e Retas: pág. 14-37</summary>
-	<img src="prop/AposGD2020_0014.png" />
+	<img src="pontos-retas/AposGD2020_0014.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0015.png" />
+	<img src="pontos-retas/AposGD2020_0015.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0016.png" />
+	<img src="pontos-retas/AposGD2020_0016.png" />
 	<a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0017.png" />
-	<img src="prop/AposGD2020_0017a.png" />
+	<img src="pontos-retas/AposGD2020_0017.png" />
+	<img src="pontos-retas/AposGD2020_0017a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0018.png" />
+	<img src="pontos-retas/AposGD2020_0018.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0019.png" />
-	<img src="prop/AposGD2020_0019a.png" />
+	<img src="pontos-retas/AposGD2020_0019.png" />
+	<img src="pontos-retas/AposGD2020_0019a.png" />
 	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a>
-	<img src="prop/AposGD2020_0019b.png" />
+	<img src="pontos-retas/AposGD2020_0019b.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0020.png" />
+	<img src="pontos-retas/AposGD2020_0020.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0021.png" />
-	<img src="prop/AposGD2020_0021a.png" />
-	<img src="prop/AposGD2020_0021b.png" />
-	<img src="prop/AposGD2020_0021c.png" />
-	<img src="prop/AposGD2020_0021d.png" />
-	<img src="prop/AposGD2020_0021e.png" />
-	<img src="prop/AposGD2020_0021f.png" />
+	<img src="pontos-retas/AposGD2020_0021.png" />
+	<img src="pontos-retas/AposGD2020_0021a.png" />
+	<img src="pontos-retas/AposGD2020_0021b.png" />
+	<img src="pontos-retas/AposGD2020_0021c.png" />
+	<img src="pontos-retas/AposGD2020_0021d.png" />
+	<img src="pontos-retas/AposGD2020_0021e.png" />
+	<img src="pontos-retas/AposGD2020_0021f.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0022.png" />
+	<img src="pontos-retas/AposGD2020_0022.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0023.png" />
+	<img src="pontos-retas/AposGD2020_0023.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0024.png" />
+	<img src="pontos-retas/AposGD2020_0024.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0025.png" />
+	<img src="pontos-retas/AposGD2020_0025.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0026.png" />
+	<img src="pontos-retas/AposGD2020_0026.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0027.png" />
+	<img src="pontos-retas/AposGD2020_0027.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0028.png" />
+	<img src="pontos-retas/AposGD2020_0028.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0029.png" />
+	<img src="pontos-retas/AposGD2020_0029.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0030.png" />
-	<img src="prop/AposGD2020_0030a.png" />
+	<img src="pontos-retas/AposGD2020_0030.png" />
+	<img src="pontos-retas/AposGD2020_0030a.png" />
 	<a href="vr/030_mpp.html" target="_blank" class="visu">Visualização em 3D</a>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0031.png" />
-	<img src="prop/AposGD2020_0031a.png" />
+	<img src="pontos-retas/AposGD2020_0031.png" />
+	<img src="pontos-retas/AposGD2020_0031a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0032.png" />
-	<img src="prop/AposGD2020_0032a.png" />
-	<img src="prop/AposGD2020_0032b.png" />
+	<img src="pontos-retas/AposGD2020_0032.png" />
+	<img src="pontos-retas/AposGD2020_0032a.png" />
+	<img src="pontos-retas/AposGD2020_0032b.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0033.png" />
-	<img src="prop/AposGD2020_0033a.png" />
-	<img src="prop/AposGD2020_0033b.png" />
+	<img src="pontos-retas/AposGD2020_0033.png" />
+	<img src="pontos-retas/AposGD2020_0033a.png" />
+	<img src="pontos-retas/AposGD2020_0033b.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0034.png" />
-	<img src="prop/AposGD2020_0034a.png" />
-	<img src="prop/AposGD2020_0034b.png" />
-	<img src="prop/AposGD2020_0034c.png" />
+	<img src="pontos-retas/AposGD2020_0034.png" />
+	<img src="pontos-retas/AposGD2020_0034a.png" />
+	<img src="pontos-retas/AposGD2020_0034b.png" />
+	<img src="pontos-retas/AposGD2020_0034c.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0035.png" />
-	<img src="prop/AposGD2020_0035a.png" />
-	<img src="prop/AposGD2020_0035b.png" />
-	<img src="prop/AposGD2020_0035c.png" />
-	<img src="prop/AposGD2020_0035d.png" />
-	<img src="prop/AposGD2020_0035e.png" />
+	<img src="pontos-retas/AposGD2020_0035.png" />
+	<img src="pontos-retas/AposGD2020_0035a.png" />
+	<img src="pontos-retas/AposGD2020_0035b.png" />
+	<img src="pontos-retas/AposGD2020_0035c.png" />
+	<img src="pontos-retas/AposGD2020_0035d.png" />
+	<img src="pontos-retas/AposGD2020_0035e.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0036.png" />
-	<img src="prop/AposGD2020_0036a.png" />
+	<img src="pontos-retas/AposGD2020_0036.png" />
+	<img src="pontos-retas/AposGD2020_0036a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0037.png" />
-	<img src="prop/AposGD2020_0037a.png" />
+	<img src="pontos-retas/AposGD2020_0037.png" />
+	<img src="pontos-retas/AposGD2020_0037a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
