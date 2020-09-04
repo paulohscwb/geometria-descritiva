@@ -184,7 +184,7 @@
     <img src="prop/19_02_00c.png" class="fundo" />
   </details></div>
   <img src="prop/AposGD2020_0007c.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
   <p>Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -213,12 +213,12 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
-	<hr>
-	<h4>Solução do item c</h4>
-	<img src="prop/20_03_00c.png">
+   </details>
+   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
+   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
-  </details>
-  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+	<img src="prop/20_03_00c.png">
+  </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/AposGD2020_0008.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -270,7 +270,7 @@
     <img src="prop/20_04_00_a.png" class="fundo" />
   </details></div>
     <img src="prop/AposGD2020_0008a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -305,12 +305,11 @@
        </li>
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo" />
-    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a>
-    <hr>
-	<h4>Solução do item c.</h4>
-  	<img src="prop/20_04_00c.png"/>
-	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
-    <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
+    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a></details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+  	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
+	<img src="prop/20_04_00c.png"/>
+    <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details></div>
   <img src="prop/AposGD2020_0008b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
