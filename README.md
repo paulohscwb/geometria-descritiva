@@ -71,32 +71,32 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
        <li>
-           <input type="radio" id="slide100" name="slide">
-           <label for="slide100"></label>
+           <input type="radio" id="100" name="sl">
+           <label for="100"></label>
 		   <img src="prop/19_01_01.png" />
 		   <figcaption>Com a ponta seca em <b>A'</b>, desenhe um arco com raio maior do que a metade de <b>A'B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide101" name="slide">
-           <label for="slide101"></label>
+           <input type="radio" id="101" name="sl">
+           <label for="101"></label>
            <img src="prop/19_01_02.png" />
            <figcaption>Com a ponta seca em <b>B'</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide102" name="slide">
-           <label for="slide102"></label>
+           <input type="radio" id="102" name="sl">
+           <label for="102"></label>
            <img src="prop/19_01_03.png" />
            <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos usando a régua.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide103" name="slide">
-           <label for="slide103"></label>
+           <input type="radio" id="103" name="sl">
+           <label for="103"></label>
            <img src="prop/19_01_04.png" />
            <figcaption>A projeção do ponto médio <b>M'</b> está na interseção da mediatriz de <b>A'B'</b> com o segmento <b>A'B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide104" name="slide">
-           <label for="slide104"></label>
+           <input type="radio" id="104" name="sl">
+           <label for="104"></label>
            <img src="prop/19_01_05.png" />
            <figcaption>Como os pontos <b>A'</b> e <b>B'</b> estão coincidentes, quer dizer que o segmento <b>AB</b> é paralelo à direção das projetantes. Logo, <b>M'</b> coincide com <b>A'</b> e <b>B'</b>.</figcaption>
        </li>
@@ -108,32 +108,32 @@
   <p> Vamos utilizar a régua e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide105" name="slide">
-           <label for="slide105"></label>
+           <input type="radio" id="105" name="sl">
+           <label for="105"></label>
            <img src="prop/19_02_01.png" />
            <figcaption>A projeção do lado <b>C'D'</b> será paralela ao segmento <b>A'B'</b>. Logo, podemos desenhar a reta <b>C'D' // A'B'</b> com o uso de esquadros.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide106" name="slide">
-           <label for="slide106"></label>
+           <input type="radio" id="106" name="sl">
+           <label for="106"></label>
            <img src="prop/19_02_02.png" />
            <figcaption>Alinhando o esquadro de 45<sup>o</sup> com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide107" name="slide">
-           <label for="slide107"></label>
+           <input type="radio" id="107" name="sl">
+           <label for="107"></label>
            <img src="prop/19_02_03.png" />
            <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a <b>B'C'</b> passando por <b>A'</b>. Alinhando-se a hipotenusa do esquadro de 45 com <b>B'C'</b>, apoie o outro esquadro ou a régua com um cateto do esquadro de 45.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide108" name="slide">
-           <label for="slide108"></label>
+           <input type="radio" id="108" name="sl">
+           <label for="108"></label>
            <img src="prop/19_02_04.png" />
            <figcaption>Deslizando o esquadro de 45 e mantendo o outro esquadro fixo, você consegue desenhar a paralela a <b>B'C'</b> passando por <b>A'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide109" name="slide">
-           <label for="slide109"></label>
+           <input type="radio" id="109" name="sl">
+           <label for="109"></label>
            <img src="prop/19_02_05.png" />
            <figcaption>A interseção das duas paralelas é o vértice <b>D'</b>. Pronto, o paralelogramo está construído.</figcaption>
        </li>
@@ -145,38 +145,38 @@
   <p>Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide110" name="slide">
-           <label for="slide110"></label>
+           <input type="radio" id="110" name="sl">
+           <label for="110"></label>
            <img src="prop/19_02_01c.png" />
            <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide111" name="slide">
-           <label for="slide111"></label>
+           <input type="radio" id="111" name="sl">
+           <label for="111"></label>
            <img src="prop/19_02_02c.png" />
            <figcaption>Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso e prolongar o segmento <b>A'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide112" name="slide">
-           <label for="slide112"></label>
+           <input type="radio" id="112" name="sl">
+           <label for="112"></label>
            <img src="prop/19_02_03c.png" />
            <figcaption>Para encontrar <b>C'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide113" name="slide">
-           <label for="slide113"></label>
+           <input type="radio" id="113" name="sl">
+           <label for="113"></label>
            <img src="prop/19_02_04c.png" />
            <figcaption>O mesmo acontece com os segmentos <b>B'M'</b> e <b>M'D'</b>. Logo, podemos "pegar" a medida <b>B'M'</b> com o compasso...</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide113a" name="slide">
-           <label for="slide113a"></label>
+           <input type="radio" id="113a" name="sl">
+           <label for="113a"></label>
            <img src="prop/19_02_05c.png" />
            <figcaption>... e podemos desenhar o arco com centro em <b>M'</b> e raio <b>B'M'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide113b" name="slide">
-           <label for="slide113b"></label>
+           <input type="radio" id="113b" name="sl">
+           <label for="113b"></label>
            <img src="prop/19_02_06c.png" />
            <figcaption>Pronto! O paralelogramo está construído. Não esqueça de desenhar os lados desta figura.</figcaption>
        </li>
@@ -188,26 +188,26 @@
   <p>Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide120" name="slide">
-           <label for="slide120"></label>
+           <input type="radio" id="120" name="sl">
+           <label for="120"></label>
            <img src="prop/20_03_00b.png" />
         <figcaption>Como as projeções dos vértices <b>A'</b> e <b>B'</b> são coincidentes, pela propriedade 1, podemos concluir que <b>AB // d</b>. Portanto, temos que <b>C'D' // d</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide121" name="slide">
-           <label for="slide121"></label>
+           <input type="radio" id="121" name="sl">
+           <label for="121"></label>
            <img src="prop/20_03_01b.png" />
          <figcaption>Podemos "pegar" a medida entre os pontos <b>A'=B'</b> e <b>M'</b> com o compasso e prolongar o segmento que une estes pontos.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide122" name="slide">
-           <label for="slide122"></label>
+           <input type="radio" id="122" name="sl">
+           <label for="122"></label>
            <img src="prop/20_03_02b.png" />
            <figcaption>Os pontos <b>C'</b> e <b>D'</b> também coincidem, pois <b>AB // CD</b>.  Para encontrar <b>C'=D'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide123" name="slide">
-           <label for="slide123"></label>
+           <input type="radio" id="123" name="sl">
+           <label for="123"></label>
            <img src="prop/20_03_03b.png" />
            <figcaption>O paralelogramo está construído. Use o link abaixo para visualizar em 3D a propriedade que usamos. Agora você pode construir o item c deste exercício.</figcaption>
        </li>
@@ -225,44 +225,44 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide124" name="slide">
-           <label for="slide124"></label>
+           <input type="radio" id="124" name="sl">
+           <label for="124"></label>
            <img src="prop/20_04_00a.png" />
         <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
-           <input type="radio" id="slide125" name="slide">
-           <label for="slide125"></label>
+           <input type="radio" id="125" name="sl">
+           <label for="125"></label>
            <img src="prop/20_04_01a.png" />
          <figcaption>Pela propriedade 3, a medida <b>G'M'</b> mede <b>CM/3</b>. Então vamos construir a mediatriz do segmento <b>A'B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide126" name="slide">
-           <label for="slide126"></label>
+           <input type="radio" id="126" name="sl">
+           <label for="126"></label>
            <img src="prop/20_04_02a.png" />
          <figcaption>Usando os arcos de mesma medida, com centros em <b>A'</b> e <b>B'</b>, obtemos os pontos que definem a mediatriz de <b>A'B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide127" name="slide">
-           <label for="slide127"></label>
+           <input type="radio" id="127" name="sl">
+           <label for="127"></label>
            <img src="prop/20_04_04a.png" />
          <figcaption>Unindo os pontos <b>M'</b> e <b>G'</b>, podemos usar o compasso para "pegar" a medida <b>G'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide128" name="slide">
-           <label for="slide128"></label>
+           <input type="radio" id="128" name="sl">
+           <label for="128"></label>
            <img src="prop/20_04_05a.png" />
            <figcaption>Com o centro em <b>G'</b>, marcamos uma vez o segmento com medida igual a <b>G'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide129" name="slide">
-           <label for="slide129"></label>
+           <input type="radio" id="129" name="sl">
+           <label for="129"></label>
            <img src="prop/20_04_06a.png" />
            <figcaption>Na sequência, marcamos novamente um segmento com a mesma medida. Assim, encontramos <b>G'C' = 2G'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide130" name="slide">
-           <label for="slide130"></label>
+           <input type="radio" id="130" name="sl">
+           <label for="130"></label>
            <img src="prop/20_04_07a.png" />
            <figcaption>Agora você pode desenhar os lados do triângulo <b>A'B'C'</b>.</figcaption>
        </li> 
@@ -274,32 +274,32 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide131" name="slide">
-           <label for="slide131"></label>
+           <input type="radio" id="131" name="sl">
+           <label for="131"></label>
            <img src="prop/20_04_00b.png" />
         <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
-           <input type="radio" id="slide132" name="slide">
-           <label for="slide132"></label>
+           <input type="radio" id="132" name="sl">
+           <label for="132"></label>
            <img src="prop/20_04_01b.png" />
          <figcaption>Pela propriedade 2, se os pontos <b>A'</b> e <b>B'</b> coincidem, o lado <b>AB</b> é paralelo à direção <b>d</b>. Logo, o ponto <b>M'</b> também coincide com <b>A'</b> e <b>B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide133" name="slide">
-           <label for="slide133"></label>
+           <input type="radio" id="133" name="sl">
+           <label for="133"></label>
            <img src="prop/20_04_02b.png" />
          <figcaption>Logo, podemos prolongar a reta <b>A'G'</b> para encontrar a projeção do vértice <b>C</b>. Usando o compasso, "pegamos" a medida <b>A'G'</b> e podemos marcá-la a partir de <b>G'</b></figcaption>
        </li>
        <li>
-           <input type="radio" id="slide134" name="slide">
-           <label for="slide134"></label>
+           <input type="radio" id="134" name="sl">
+           <label for="134"></label>
            <img src="prop/20_04_03b.png" />
          <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>. Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide135" name="slide">
-           <label for="slide135"></label>
+           <input type="radio" id="135" name="sl">
+           <label for="135"></label>
            <img src="prop/20_04_04b.png" />
          <figcaption>Use o link abaixo para visualizar o exercício em 3D. Agora é sua vez de construir o item c.</figcaption>
        </li>
@@ -316,56 +316,56 @@
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide136" name="slide">
-           <label for="slide136"></label>
+           <input type="radio" id="136" name="sl">
+           <label for="136"></label>
            <img src="prop/21_05_01a.png" />
         <figcaption>Relembrando as propriedades do hexágono regular: os lados são iguais ao raio da circunferência circunscrita, e os raios são paralelos aos lados.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide137" name="slide">
-           <label for="slide137"></label>
+           <input type="radio" id="137" name="sl">
+           <label for="137"></label>
            <img src="prop/21_05_02a.png" />
          <figcaption>Pela propriedade 3, os segmentos <b>A'O'</b> e <b>B'C'</b> terão projeções com mesma medida e serão paralelos. Logo, podemos construir a paralela a <b>A'O'</b> que passa por <b>B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide138" name="slide">
-           <label for="slide138"></label>
+           <input type="radio" id="138" name="sl">
+           <label for="138"></label>
            <img src="prop/21_05_03a.png" />
          <figcaption>Alinhando a hipotenusa de um esquadro e apoiando este esquadro com a régua ou outro esquadro, basta deslizar o esquadro que você alinhou até chegar em <b>B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide139" name="slide">
-           <label for="slide139"></label>
+           <input type="radio" id="139" name="sl">
+           <label for="139"></label>
            <img src="prop/21_05_04a.png" />
          <figcaption>Como <b>AO = BC</b> e <b>AO // BC</b>, pelas propriedades 2 e 3 temos que <b>A'O' = B'C'</b> e <b>A'O' // B'C'</b>. Podemos "pegar" a medida <b>A'O'</b> com o compasso...</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide140" name="slide">
-           <label for="slide140"></label>
+           <input type="radio" id="140" name="sl">
+           <label for="140"></label>
            <img src="prop/21_05_05a.png" />
          <figcaption>... e marcá-la na paralela construída, a partir do ponto <b>B'</b>. Assim, encontramos a projeção do ponto <b>C'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide141" name="slide">
-           <label for="slide141"></label>
+           <input type="radio" id="141" name="sl">
+           <label for="141"></label>
            <img src="prop/21_05_06a.png" />
          <figcaption>Usando a propriedade 3, como <b>A</b>, <b>O</b> e <b>D</b> são colineares, temos que <b>A'O' = O'D'</b>. Podemos "pegar" essa medida com o compasso...</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide142" name="slide">
-           <label for="slide142"></label>
+           <input type="radio" id="142" name="sl">
+           <label for="142"></label>
            <img src="prop/21_05_07a.png" />
          <figcaption>... e desenhar o arco com centro em <b>O'</b>. Assim, encontramos o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide143" name="slide">
-           <label for="slide143"></label>
+           <input type="radio" id="143" name="sl">
+           <label for="143"></label>
            <img src="prop/21_05_08a.png" />
          <figcaption>Podemos fazer a mesma construção com os segmentos <b>O'F' = O'C'</b> para encontrar <b>F'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide144" name="slide">
-           <label for="slide144"></label>
+           <input type="radio" id="144" name="sl">
+           <label for="144"></label>
            <img src="prop/21_05_09a.png" />
          <figcaption>E para fechar o hexágono, fazemos a mesma construção com os segmentos <b>B'O' = O'E'</b>. Use o link abaixo para visualizar o exercício em 3D.</figcaption>
        </li>
@@ -382,44 +382,44 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide145" name="slide">
-           <label for="slide145"></label>
+           <input type="radio" id="145" name="sl">
+           <label for="145"></label>
            <img src="prop/21_05_01c.png" />
         <figcaption>Usando as propriedades do hexágono regular, podemos notar que <b>AB = OC</b> e <b>AB // OC</b>. Logo, as projeções desses serão iguais e paralelas.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide146" name="slide">
-           <label for="slide146"></label>
+           <input type="radio" id="146" name="sl">
+           <label for="146"></label>
            <img src="prop/21_05_02c.png" />
          <figcaption>Pela propriedade 5, como os pontos <b>A'</b>, <b>B'</b> e <b>O'</b> são colineares, o hexágono está em um plano paralelo à direção de projeções <b>d</b>. Logo, <b>C'</b> estará na mesma reta.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide147" name="slide">
-           <label for="slide147"></label>
+           <input type="radio" id="147" name="sl">
+           <label for="147"></label>
            <img src="prop/21_05_03c.png" />
          <figcaption>Podemos "pegar" a medida <b>A'B'</b> com o compasso e transferir esta medida a partir de <b>O'</b>, encontrando o ponto <b>C'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide148" name="slide">
-           <label for="slide148"></label>
+           <input type="radio" id="148" name="sl">
+           <label for="148"></label>
            <img src="prop/21_05_04c.png" />
          <figcaption>Como <b>BO = OE</b>, pela propriedade 3 temos que <b>B'O' = O'E'</b>. Podemos "pegar" a medida <b>B'O'</b> com o compasso...</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide149" name="slide">
-           <label for="slide149"></label>
+           <input type="radio" id="149" name="sl">
+           <label for="149"></label>
            <img src="prop/21_05_05c.png" />
          <figcaption>... e marcá-la a partir do ponto <b>O'</b>, encontrando o vértice <b>E'</b>. Podemos usar a mesma propriedade para encontrar os outros vértices.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide150" name="slide">
-           <label for="slide150"></label>
+           <input type="radio" id="150" name="sl">
+           <label for="150"></label>
            <img src="prop/21_05_06c.png" />
          <figcaption>Podemos marcar <b>A'O' = O'D'</b> para encontrar o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide151" name="slide">
-           <label for="slide151"></label>
+           <input type="radio" id="151" name="sl">
+           <label for="151"></label>
            <img src="prop/21_05_07c.png" />
          <figcaption>E para finalizar o hexágono, marcamos <b>O'C' = O'F'</b>. Visualize este hexágono em 3D com o link abaixo.</figcaption>
        </li>
@@ -456,32 +456,32 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide152" name="slide">
-           <label for="slide152"></label>
+           <input type="radio" id="152" name="sl">
+           <label for="152"></label>
            <img src="prop/23_01_01.png" />
         <figcaption>Usando as propriedades do losango, temos que as medidas dos lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide153" name="slide">
-           <label for="slide153"></label>
+           <input type="radio" id="153" name="sl">
+           <label for="153"></label>
            <img src="prop/23_01_02.png" />
          <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90<sup>o</sup> está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide154" name="slide">
-           <label for="slide154"></label>
+           <input type="radio" id="154" name="sl">
+           <label for="154"></label>
            <img src="prop/23_01_03.png" />
          <figcaption>A interseção da mediatriz de <b>A'C'</b> com a reta <b>r'</b> é o vértice <b>B'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide155" name="slide">
-           <label for="slide155"></label>
+           <input type="radio" id="155" name="sl">
+           <label for="155"></label>
            <img src="prop/23_01_04.png" />
          <figcaption>Como <b>BM = MD</b>, pela propriedade 3 temos que <b>B'M' = M'D'</b>. Podemos marcar com o compasso a medida <b>B'M'</b> a partir do ponto <b>M'</b>, encontrando o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide156" name="slide">
-           <label for="slide156"></label>
+           <input type="radio" id="156" name="sl">
+           <label for="156"></label>
            <img src="prop/23_01_05.png" />
          <figcaption>Pronto, a projeção do losango está construída. Veja no link abaixo a representação em 3D deste exercício.</figcaption>
        </li>
@@ -494,44 +494,44 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide157" name="slide">
-           <label for="slide157"></label>
+           <input type="radio" id="157" name="sl">
+           <label for="157"></label>
            <img src="prop/23_02_01.png" />
         <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide158" name="slide">
-           <label for="slide158"></label>
+           <input type="radio" id="158" name="sl">
+           <label for="158"></label>
            <img src="prop/23_02_02.png" />
          <figcaption>Como o segmento <b>AB</b> é paralelo a <b>&pi;'</b>, sua projeção <b>A'B'</b> está em verdadeira grandeza (vg). Podemos construir a circunferência com centro em <b>A'</b> e raio 3cm.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide159" name="slide">
-           <label for="slide159"></label>
+           <input type="radio" id="159" name="sl">
+           <label for="159"></label>
            <img src="prop/23_02_03.png" />
          <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90<sup>o</sup>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide160" name="slide">
-           <label for="slide160"></label>
+           <input type="radio" id="160" name="sl">
+           <label for="160"></label>
            <img src="prop/23_02_04.png" />
          <figcaption>Com o centro em <b>M'</b>, podemos construir a circunferência de raio <b>M'A' = M'C'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide161" name="slide">
-           <label for="slide161"></label>
+           <input type="radio" id="161" name="sl">
+           <label for="161"></label>
            <img src="prop/23_02_05.png" />
          <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90<sup>o</sup> é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide162" name="slide">
-           <label for="slide162"></label>
+           <input type="radio" id="162" name="sl">
+           <label for="162"></label>
            <img src="prop/23_02_06.png" />
          <figcaption>Como os lados <b>AB</b> e <b>CD</b> são paralelos, podemos desenhar a circunferência com centro em <b>C'</b> e raio 3cm para encontrar o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide163" name="slide">
-           <label for="slide163"></label>
+           <input type="radio" id="163" name="sl">
+           <label for="163"></label>
            <img src="prop/23_02_07.png" />
          <figcaption>Pronto, a projeção do retângulo está construída. Veja no link abaixo a representação em 3D deste exercício.</figcaption>
        </li>
@@ -545,62 +545,62 @@
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide164" name="slide">
-           <label for="slide164"></label>
+           <input type="radio" id="164" name="sl">
+           <label for="164"></label>
            <img src="prop/24_01_01.png" />
         <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide165" name="slide">
-           <label for="slide165"></label>
+           <input type="radio" id="165" name="sl">
+           <label for="165"></label>
            <img src="prop/24_01_02.png" />
          <figcaption>Outra maneira de construir o paralelepípedo é considerando que o vértice <b>F</b> está mais distante do observador. Neste caso, suas arestas tornam-se invisíveis. Neste exercício você pode escolher uma das visibilidades apresentadas.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide166" name="slide">
-           <label for="slide166"></label>
+           <input type="radio" id="166" name="sl">
+           <label for="166"></label>
            <img src="prop/24_01_03.png" />
          <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide167" name="slide">
-           <label for="slide167"></label>
+           <input type="radio" id="167" name="sl">
+           <label for="167"></label>
            <img src="prop/24_01_04.png" />
          <figcaption>Deslizando o esquadro com o outro esquadro apoiado, podemos desenhar a reta paralela a <b>B'C'</b> pelo vértice <b>A'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide168" name="slide">
-           <label for="slide168"></label>
+           <input type="radio" id="168" name="sl">
+           <label for="168"></label>
            <img src="prop/24_01_05.png" />
          <figcaption>Fazendo a mesma construção, podemos desenhar a reta paralela ao segmento <b>A'B'</b> que passa por <b>C'</b>. O encontro destas paralelas é o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide169" name="slide">
-           <label for="slide169"></label>
+           <input type="radio" id="169" name="sl">
+           <label for="169"></label>
            <img src="prop/24_01_06.png" />
          <figcaption>Agora podemos desenhar as arestas laterais. Basta desenhar as retas paralelas à aresta lateral <b>A'E'</b> que passam pelos vértices <b>B'</b>, <b>C'</b> e <b>D'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide170" name="slide">
-           <label for="slide170"></label>
+           <input type="radio" id="170" name="sl">
+           <label for="170"></label>
            <img src="prop/24_01_07.png" />
          <figcaption>Com o compasso, você pode "pegar" a medida <b>A'E'</b>...</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide171" name="slide">
-           <label for="slide171"></label>
+           <input type="radio" id="171" name="sl">
+           <label for="171"></label>
            <img src="prop/24_01_08.png" />
          <figcaption>... e marcar com a ponta seca em <b>B'</b> para encontrar o vértice <b>F'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide172" name="slide">
-           <label for="slide172"></label>
+           <input type="radio" id="172" name="sl">
+           <label for="172"></label>
            <img src="prop/24_01_09.png" />
          <figcaption>Fazendo a mesma construção com os vértices <b>C'</b> e <b>D'</b>, você encontra os vértices <b>G'</b> e <b>H'</b>. Esta construção é possível por causa das propriedades 2 e 3 de projeções cilíndricas.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide173" name="slide">
-           <label for="slide173"></label>
+           <input type="radio" id="173" name="sl">
+           <label for="173"></label>
            <img src="prop/24_01_10.png" />
          <figcaption>Agora você pode "passar a limpo" o desenho do paralelepípedo. Como ainda não estamos trabalhando com as coordenadas dos vértices, você pode escolher uma das visualizações mostradas nos passos 1 e 2.</figcaption>
        </li>
