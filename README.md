@@ -838,7 +838,47 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png" />
 	<img src="planosHFP/AposGD2020_0055a.png" />
-	<div class="combo"><figcaption>Para visualizar os sólidos em Realidade Aumentada, acesse o site: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
+	<div class="combo"><figcaption>A partir deste ponto, o endereço para visualizar os sólidos em Realidade Aumentada mudou para: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
+	<details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
+		<p>A partir deste ponto da apostila, você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
+		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
+		<p>Veja o passo a passo para acessar estes recursos</p>
+		  <ul class="slider">
+		   <li>
+			   <input type="radio" id="a40" name="sl">
+			   <label for="a40"></label>
+			   <img src="prop/00_00_01.png" />
+			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a41" name="sl">
+			   <label for="a41"></label>
+			   <img src="prop/00_00_02.jpg" />
+			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a42" name="sl">
+			   <label for="a42"></label>
+			   <img src="prop/00_00_07.jpg" />
+			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a43" name="sl">
+			   <label for="a43"></label>
+			   <img src="prop/00_00_08.png" />
+			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a44" name="sl">
+			   <label for="a44"></label>
+			   <div class="embed-container">
+				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+			   </div>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+		   </li>
+		</ul>
+		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+	  </details>
 	<br><a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png" />
