@@ -1035,7 +1035,7 @@
 <p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
+<p align="center"><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></p>
 
 <h4>Referências:</h4>
 <ol>
