@@ -1020,25 +1020,26 @@
 </details>
 
 <br>
-<p><b>site desenvolvido por:</b></p> 
+<h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
-<p><b>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</b></p> 
+<h4>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</h4> 
 <p>Deise Maria Bertholdi Costa</p> 
 <p>Emerson Rolkouski</p> 
 <p>Luzia Vidal de Souza</p> 
 <p>Paulo Henrique Siqueira</p> 
 <p>Simone da Silva Soria Medina</p> 
-<p><b>Objetos 3D programados em RA e RV:</b></p> 
+<h4>Objetos 3D programados em RA e RV:</h4> 
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
-<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p align="center"><img src="vr/exemplo.jpg" width="80%"></p>
+<p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
 
-<p><br><b>Referências:</b></p>
-<p>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.</p>
-<p>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.</p>
-<p>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.</p>
-
+<h4>Referências:</h4>
+<ol>
+	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
+	<li>Ngo, K. <i>Orbit controls for A-Frame - Scripts de controle de órbita nas páginas programadas com Realidade Virtual:</i> <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> https://github.com/supermedium/superframe/tree/master/components/orbit-controls/</a>.</li>
+	<li>Plesch, A. <i>Geometry from vertices and faces - Scripts para construções das faces de poliedros nos ambientes de Realidade Aumentada e Realidade Virtual:</i> <a href="https://github.com/andreasplesch/aframe-faceset-component" target="_blank">https://github.com/andreasplesch/aframe-faceset-component</a>.</li>
+</ol>
