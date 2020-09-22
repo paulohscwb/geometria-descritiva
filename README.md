@@ -577,7 +577,7 @@
            <input type="radio" id="164" name="sl">
            <label for="164"></label>
            <img src="prop/24_01_01.png" />
-        <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
+        <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis.</figcaption>
        </li>
        <li>
            <input type="radio" id="165" name="sl">
@@ -654,6 +654,48 @@
 
 <details><summary id="pontos">Pontos e Retas, pág. 14-37</summary>
 	<img src="pontos-retas/AposGD2020_0014.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="174" name="sl">
+           <label for="174"></label>
+           <img src="pontos-retas/14_01_01.png" />
+        <figcaption>O plano <b>&pi;'</b> é chamado de primeiro plano de projeções, definido pelos eixos <b>x</b> e <b>y</b>. O plano <b>&pi;''</b> é chamado de segundo plano de projeções, definido pelos eixos <b>x</b> e <b>z</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="175" name="sl">
+           <label for="175"></label>
+           <img src="pontos-retas/14_01_02.png" />
+         <figcaption>Um ponto <b>P</b> pertence ao <b>1&ordm; diedro</b> quando tem as coordenadas <b>y</b> e <b>z</b> positivas. A coordenada <b>x</b> pode ser negativa ou positiva.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="176" name="sl">
+           <label for="176"></label>
+           <img src="pontos-retas/14_01_03.png" />
+         <figcaption>Um ponto <b>P</b> pertence ao <b>2&ordm; diedro</b> quando tem a coordenada <b>y</b> negativa e a coordenada <b>z</b> positiva. O sinal da coordenada <b>x</b> pode ser tanto negativo quando positivo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="177" name="sl">
+           <label for="177"></label>
+           <img src="pontos-retas/14_01_04.png" />
+         <figcaption>Um ponto <b>P</b> pertence ao <b>3&ordm; diedro</b> quando tem as coordenadas <b>y</b> e <b>z</b> negativas. A coordenada <b>x</b> pode ser tanto negativa quanto positiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="178" name="sl">
+           <label for="178"></label>
+           <img src="pontos-retas/14_01_05.png" />
+         <figcaption>Um ponto <b>P</b> pertence ao <b>4&ordm; diedro</b> quando tem a coordenada <b>y</b> positiva e a coordenada <b>z</b> negativa. O sinal da coordenada <b>x</b> pode ser tanto negativo quando positivo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="179" name="sl">
+           <label for="179"></label>
+           <img src="pontos-retas/14_01_06.png" />
+         <figcaption>Resumindo, estas são as combinações dos sinais das coordenadas de um ponto e sua respectiva localização em um dos diedros.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/14_01_00.png" class="fundo" />
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0015.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
