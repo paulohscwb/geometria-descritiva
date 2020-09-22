@@ -242,6 +242,12 @@ hr {
 	 transition: .5s;
 }
 
+ .slider li input:checked ~ .embed-container iframe {
+	 opacity: 1;
+	 visibility: visible;
+     z-index: 10;
+ }
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
