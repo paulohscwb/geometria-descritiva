@@ -699,7 +699,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0015.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar um ponto <b>A</b> usando a representação em perspectiva.</p>
+  <p>Vamos representar as projeções de um ponto <b>A</b> em perspectiva.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="180" name="sl">
@@ -765,6 +765,79 @@
 	<img src="pontos-retas/15_01_00.png" class="fundo" />
   </details></div>
   <img src="pontos-retas/AposGD2020_0015a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Agora vamos representar um ponto <b>A</b> em épura, ou seja, as projeções deste ponto nos planos <b>&pi;'</b> e <b>&pi;''</b> ficarão em um só plano.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="190" name="sl">
+           <label for="190"></label>
+           <img src="pontos-retas/15_02_01.png" />
+        <figcaption>Vamos fixar o plano <b>&pi;''</b> e rebater o plano <b>&pi;'</b> sobre <b>&pi;''</b> usando o eixo <b>x</b> como eixo deste rebatimento. O eixo <b>x</b> é chamado de <b>linha de terra</b> e podemos escolher a origem <b>O</b> e desenhar dois segmentos paralelos ao eixo nas extremidades para identificar a linha de terra.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="191" name="sl">
+           <label for="191"></label>
+           <img src="pontos-retas/15_02_02.png" />
+         <figcaption>Usando o eixo <b>x</b> para rebater o plano <b>&pi;'</b> sobre <b>&pi;''</b>, temos que a projeção <b>A'</b> será rotacionada no sentido anti-horário segundo ângulo de 90&deg;. O mesmo acontecerá com o eixo <b>y</b>. Logo, as projeções <b>A'</b> e <b>A''</b> ficarão em uma reta perpendicular ao eixo <b>x</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="192" name="sl">
+           <label for="192"></label>
+           <img src="pontos-retas/15_02_03.png" />
+         <figcaption>Na épura, podemos representar os eixos <b>y</b> e <b>z</b> usando a construção de reta perpendicular com esquadros. Alinhe o cateto de um dos esquadros (neste exemplo é o de 45) com o eixo <b>x</b> e apoie a hipotenusa deste esquadro no outro esquadro (neste exemplo é o esquadro de 60) ou na régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="193" name="sl">
+           <label for="193"></label>
+           <img src="pontos-retas/15_02_04.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar no ponto <b>O</b>. Trace o segmento de reta que passa por <b>O</b> e está perpendicular ao eixo <b>x</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="194" name="sl">
+           <label for="194"></label>
+           <img src="pontos-retas/15_02_05.png" />
+         <figcaption>Neste segmento teremos o eixo <b>z</b> com as coordenadas para cima do eixo <b>x</b> e o eixo <b>y</b> com as coordenadas positivas para baixo do eixo <b>x</b>. Agora com a ponta seca em <b>A'</b>, "pegue" a abscissa de <b>A</b> para marcarmos na representação em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="195" name="sl">
+           <label for="195"></label>
+           <img src="pontos-retas/15_02_06.png" />
+         <figcaption>Com a ponta seca na origem <b>O</b> da épura, marque a abscissa do ponto <b>A</b> sobre o eixo <b>x</b> (linha de terra). As abscissas positivas são marcadas à direita da origem e as abscissas negativas são marcadas à esquerda de <b>O</b> Neste ponto podemos desenhar uma reta paralela aos eixos <b>y</b> e <b>z</b> ou a perpendicular ao eixo <b>x</b> usando os esquadros.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="196" name="sl">
+           <label for="196"></label>
+           <img src="pontos-retas/15_02_07.png" />
+         <figcaption>Alinhando o cateto do esquadro de 45 com o eixo <b>x</b>, deixe o outro esquadro apoiado na hipotenusa do esquadro de 45.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="197" name="sl">
+           <label for="197"></label>
+           <img src="pontos-retas/15_02_08.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar no ponto que marcamos com a abscissa de <b>A</b>. Represente a reta perpendicular ao eixo <b>x</b> qe passa por este ponto. Esta reta é chamada <b>linha de chamada</b> de <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="198" name="sl">
+           <label for="198"></label>
+           <img src="pontos-retas/15_02_09.png" />
+         <figcaption>Pegando a distância da cota de <b>A</b> com o compasso, podemos marcar esta distância a partir do eixo <b>x</b> na linha de chamada de <b>A</b>. Como a cota é positiva, marcamos esta distância para cima do eixo <b>x</b>. Esta é a representação da 2&ordf; projeção do ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="199" name="sl">
+           <label for="199"></label>
+           <img src="pontos-retas/15_02_10.png" />
+         <figcaption>Com a mesma construção, podemos marcar a ordenada do ponto <b>A</b> a partir do mesmo ponto na linha de chamada. Como a ordenada é positiva, marcamos esta distância para baixo do eixo <b>x</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="200" name="sl">
+           <label for="200"></label>
+           <img src="pontos-retas/15_02_11.png" />
+         <figcaption>Esta é a representação em épura do ponto A: representamos a 1&ordf; projeção <b>A'</b> no mesmo plano da 2&ordf; projeção <b>A''</b>. Veja esta representação em 3D no link abaixo.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/15_02_00.png" class="fundo" />
+  </details>
+  <a href="vr/a_epura0.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0016.png" />
 	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
