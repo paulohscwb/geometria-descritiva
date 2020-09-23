@@ -922,7 +922,7 @@
          <figcaption>Fazendo a mesma construção com a ordenada de <b>A</b> (distância <b>xAA''</b>), encontramos a projeção <b>A'</b>: como a ordenada é positiva, marcamos esta distância para baixo da linha de terra.</figcaption>
        </li>
     </ul>
-	<img src="F" class="fundo" />
+	<img src="pontos-retas/16_01_00.png" class="fundo" />
   </details></div>
 	<img src="pontos-retas/AposGD2020_0016a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -946,6 +946,84 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
 	<img src="pontos-retas/AposGD2020_0017a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos eixos por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="214" name="sl">
+           <label for="214"></label>
+           <img src="pontos-retas/17_02_01.png" />
+        <figcaption>Determine os eixos <b>x</b>, <b>y</b> e <b>z</b> e os planos de projeção em perspectiva. Na épura, escolha a origem <b>O</b> e construa as linhas paralelas ao eixo <b>x</b> nos cantos da linha de terra.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="215" name="sl">
+           <label for="215"></label>
+           <img src="pontos-retas/17_02_02.png" />
+         <figcaption>Escolhendo um ponto <b>A</b>sobre o eixo <b>x</b>, as projeções <b>A'</b> e <b>A''</b> ficam coincidentes no próprio eixo <b>x</b> e <b>A'''</b> coincide com a origem. Com a ponta seca na origem, "pegue" a medida da abscissa de <b>A</b> para marcarmos na épura.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="216" name="sl">
+           <label for="216"></label>
+           <img src="pontos-retas/17_02_03.png" />
+         <figcaption>Com a ponta seca na origem da épura, determine o arco com abscissa de <b>A</b>. Logo, temos as projeções <b>A'</b> e <b>A''</b> em épura.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="217" name="sl">
+           <label for="217"></label>
+           <img src="pontos-retas/17_02_04.png" />
+         <figcaption>Todos os pontos do eixo <b>x</b> têm <b>y=0</b> e <b>z=0</b>. Quando <b>A &isin; x</b>, temos que <b>A' &isin; x </b> e <b>A'' &isin; x</b>. Além disso, <b>A''' &equiv; O</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="218" name="sl">
+           <label for="218"></label>
+           <img src="pontos-retas/17_02_05.png" />
+         <figcaption>Escolha um ponto <b>B</b> pertencente ao eixo <b>y</b>. Neste caso, temos <b>B' &equiv; B'''</b> e <b>B'' &equiv; O</b>. Vamos construir a linha de chamada de <b>B</b> construindo uma perpendicular à linha de terra que passa por <b>O</b>. Alinhe um cateto do esquadro de 60, e deixe o outro esquadro apoiado na hipotenusa.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="219" name="sl">
+           <label for="219"></label>
+           <img src="pontos-retas/17_02_06.png" />
+         <figcaption>Deslizando o esquadro de 60 até passar em <b>O</b>, desenhe a reta perpendicular à linha de terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="220" name="sl">
+           <label for="220"></label>
+           <img src="pontos-retas/17_02_07.png" />
+         <figcaption>Com a ponta seca em <b>B</b>, "pegue" a coordenada <b>y</b> do ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="221" name="sl">
+           <label for="221"></label>
+           <img src="pontos-retas/17_02_08.png" />
+         <figcaption>Com centro na origem da épura, marque a ordenada do ponto <b>B</b>. Como é uma medida positiva, marcamos para baixo da linha de terra. Assim, determinamos a projeção <b>B'</b> e a projeção <b>B''</b> coincide com a origem.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="222" name="sl">
+           <label for="222"></label>
+           <img src="pontos-retas/17_02_09.png" />
+         <figcaption>Todos os pontos do eixo <b>y</b> têm abscissas e cotas nulas. Se o ponto <b>B &isin; y</b>, então a 1&ordf; projeção de <b>B</b> pertence a <b>y</b>. Além disso, <b>B' &equiv; O</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="223" name="sl">
+           <label for="223"></label>
+           <img src="pontos-retas/17_02_10.png" />
+         <figcaption>Escolhendo-se um ponto <b>C &isin; z</b>, temos que as projeções <b>C''</b> e <b>C'''</b> coincidem e a projeção <b>C'</b> coincide com a origem. Usando o compasso, "pegue" a coordenada <b>z</b> do ponto <b>C</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="224" name="sl">
+           <label for="224"></label>
+           <img src="pontos-retas/17_02_11.png" />
+         <figcaption>...e transfira para a épura. Como a medida de <b>z</b> é positiva, marcamos a distância para cima da linha de terra. Logo, temos a projeção <b>C''</b> e a projeção <b>C'</b> coincide com a origem.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="225" name="sl">
+           <label for="225"></label>
+           <img src="pontos-retas/17_02_12.png" />
+         <figcaption>O eixo <b>z</b> contém os pontos com abscissas e ordenadas nulas. Se o ponto <b>C &isin; z</b>, então temos que <b>C'' &isin; z</b> e <b>C' &equiv; O</b>.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/17_02_00.png" class="fundo" />
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0018.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
