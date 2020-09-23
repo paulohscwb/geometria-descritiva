@@ -698,6 +698,73 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0015.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar um ponto <b>A</b> usando a representação em perspectiva.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="180" name="sl">
+           <label for="180"></label>
+           <img src="pontos-retas/15_01_01.png" />
+        <figcaption>Vamos representar os eixos <b>x</b>, <b>y</b> e <b>z</b>. O plano <b>&pi;'</b> é definido pelos eixos <b>x</b> e <b>y</b>. Já o plano <b>&pi;''</b> é  definido pelos eixos <b>x</b> e <b>z</b>. O plano <b>&pi;'''</b> é definido pelos eixos <b>y</b> e <b>z</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="181" name="sl">
+           <label for="181"></label>
+           <img src="pontos-retas/15_01_02.png" />
+         <figcaption>Vamos escolher a projeção de um ponto <b>A</b> sobre um dos planos de projeção. Neste caso, escolha um ponto <b>A'</b> sobre o plano <b>&pi;'</b>. Logo, vamos começar a representação pela 1&ordf; projeção de um ponto <b>A</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="182" name="sl">
+           <label for="182"></label>
+           <img src="pontos-retas/15_01_03.png" />
+         <figcaption>Vamos traçar paralelas ao eixo <b>y</b> passando pelo ponto <b>A'</b> para encontrar a coordenada <b>y</b> deste ponto. Alinhe a hipotenusa do esquadro de 45 com o eixo <b>y</b> e apoie um cateto deste esquadro com a régua ou com o outro esquadro.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="183" name="sl">
+           <label for="183"></label>
+           <img src="pontos-retas/15_01_04.png" />
+         <figcaption>Deixando fixo o esquadro de 60 ou a régua, deslize o esquadro de 45 até chegar no ponto <b>A'</b>. Trace o segmento de reta que passa por <b>A'</b>, paralelo ao eixo <b>y</b>, interceptando o eixo <b>x</b>. A distância de <b>A'</b> até o eixo <b>x</b> é a coordenada <b>y</b> do ponto <b>A</b>, que denominamos <b>afastamento</b> ou <b>ordenada</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="184" name="sl">
+           <label for="184"></label>
+           <img src="pontos-retas/15_01_05.png" />
+         <figcaption>Agora vamos determinar a medida da coordenada <b>x</b> do ponto <b>A</b>. Alinhe a hipotenusa do esquadro de 45 com o eixo <b>x</b> e apoie um cateto com o esquadro de 60 ou com a régua.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="185" name="sl">
+           <label for="185"></label>
+           <img src="pontos-retas/15_01_06.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar no ponto <b>A'</b>. Trace o segmento que passa por <b>A'</b>, é paralelo ao eixo <b>x</b> e intercepta o eixo <b>y</b>. A distância de <b>A'</b> até o eixo <b>y</b> é a coordenada <b>x</b> do ponto A, que denominamos de <b>abscissa</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="186" name="sl">
+           <label for="186"></label>
+           <img src="pontos-retas/15_01_07.png" />
+         <figcaption>Agora use os esquadros para desenhar a reta paralela ao eixo <b>z</b> que passa por <b>A'</b>. Determine nesta paralela um ponto <b>A</b>. Para encontrar o ponto <b>A''</b>, podemos traçar a reta paralela ao eixo <b>y</b>, que passa pelo ponto <b>A</b> e a reta paralela ao eixo <b>z</b> que passa no ponto auxiliar do eixo <b>x</b>. Logo, encontramos a 2&ordf; projeção <b>A''</b> do ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="187" name="sl">
+           <label for="187"></label>
+           <img src="pontos-retas/15_01_08.png" />
+         <figcaption>Conseguimos determinar dois retângulos: um em <b>&pi;'</b> com os lados de medidas iguais às coordenadas <b>x</b> e <b>y</b> do ponto <b>A</b>; e outro em um plano paralelo a <b>&pi;'''</b>, com medidas iguais às coordenadas <b>y</b> e <b>z</b> do ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="188" name="sl">
+           <label for="188"></label>
+           <img src="pontos-retas/15_01_09.png" />
+         <figcaption>Usando os esquadros, determine a reta paralela ao eixo <b>x</b> que passa por <b>A</b> e a reta paralela ao eixo <b>z</b> que passa no ponto auxiliar do eixo <b>y</b>. Assim, temos mais um retângulo, com lados de medidas iguais às coordenadas <b>x</b> e <b>z</b> do ponto <b>A</b> e encontramos a 3&ordf; projeção <b>A'''</b> do ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="189" name="sl">
+           <label for="189"></label>
+           <img src="pontos-retas/15_01_10.png" />
+         <figcaption>Use os esquadros e trace a paralela ao eixo <b>x</b> que passa por <b>A''</b> e a paralela ao eixo <b>y</b> que passa por <b>A'''</b>. Desta forma, encontramos os 6 retângulos que formam um prisma com as medidas de <b>abscissa (x)</b>, <b>afastamento ou ordenada (y)</b> e <b>cota (z)</b> do ponto <b>A</b>.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/15_01_00.png" class="fundo" />
+  </details></div>
+  <img src="pontos-retas/AposGD2020_0015a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0016.png" />
 	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
