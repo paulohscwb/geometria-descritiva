@@ -922,11 +922,26 @@
          <figcaption>Fazendo a mesma construção com a ordenada de <b>A</b> (distância <b>xAA''</b>), encontramos a projeção <b>A'</b>: como a ordenada é positiva, marcamos esta distância para baixo da linha de terra.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/16_01_00.png" class="fundo" />
+	<img src="F" class="fundo" />
   </details></div>
 	<img src="pontos-retas/AposGD2020_0016a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+    <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>B</b> em perspectiva e colocá-las em épura.</p>
+    <img src="pontos-retas/16_02_00.png"/>
+	<figcaption>As coordenadas <b>y</b> e <b>z</b> são marcadas para cima da linha da terra para o ponto <b>B</b> do 2&ordm; diedro. Note que a 2&ordf; projeção de <b>B</b> vem de trás para a frente.</figcaption>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0016b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+    <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>C</b> em perspectiva e colocá-las em épura.</p>
+    <img src="pontos-retas/16_03_00.png"/>
+	<figcaption>A coordenada <b>y</b> é marcada para cima da linha de terra, pois é negativa, e a coordenada  <b>z</b> é marcada para baixo da linha da terra, pois também é negativa.</figcaption>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0016c.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+    <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>D</b> em perspectiva e colocá-las em épura.</p>
+    <img src="pontos-retas/16_03_00.png"/>
+	<figcaption>As coordenadas <b>y</b> e <b>z</b> são marcadas para baixo da linha da terra para o ponto <b>D</b> do 4&ordm; diedro. Use o link abaixo para visualizar os 4 pontos em 3D.</figcaption>
+  </details></div>
 	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
