@@ -840,6 +840,93 @@
   <a href="vr/a_epura0.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0016.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar um ponto <b>A</b> pertencente ao 1&ordm; diedro por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam o eixo <b>x</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="201" name="sl">
+           <label for="201"></label>
+           <img src="pontos-retas/16_01_01.png" />
+        <figcaption>Já temos a cota do ponto <b>A</b>, que é a distância <b>AA'</b>. Vamos construir a reta paralela ao eixo <b>x</b> que passa por <b>A'</b> para determinar as outras coordenadas deste ponto. Alinhando a hipotenusa do esquadro de 45 com o eixo <b>x</b>, colocamos o outro esquadro ou a régua como apoio em um dos catetos do esquadro de 45.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="202" name="sl">
+           <label for="202"></label>
+           <img src="pontos-retas/16_01_02.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslizamos o esquadro de 45 até chegar no ponto <b>A'</b>. Construa a reta paralela ao eixo <b>x</b>, encontrando o ponto auxiliar no eixo <b>y</b> que determina a abscissa de <b>A</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="203" name="sl">
+           <label for="203"></label>
+           <img src="pontos-retas/16_01_03.png" />
+         <figcaption>Agora vamos construir a reta paralela ao eixo <b>y</b> que passa pelo ponto <b>A'</b>. Alinhe a hipotenusa do esquadro de 45 com o eixo <b>y</b> e deixe o esquadro de 60 como apoio em um dos catetos do esquadro de 45.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="204" name="sl">
+           <label for="204"></label>
+           <img src="pontos-retas/16_01_04.png" />
+         <figcaption>Vamos construir a reta projetante de <b>A</b>, paralela ao eixo <b>y</b>, deslizando o esquadro de 45 até chegar em <b>A</b> com o outro esquadro fixo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="205" name="sl">
+           <label for="205"></label>
+           <img src="pontos-retas/16_01_05.png" />
+         <figcaption>Agora deslizamos o esquadro de 45 até chegar em <b>A'</b>, determinando o ponto auxiliar no eixo <b>x</b> e a ordenada de <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="206" name="sl">
+           <label for="206"></label>
+           <img src="pontos-retas/16_01_06.png" />
+         <figcaption>Podemos "pegar" com o compasso a ordenada de <b>A</b> para marcar esta medida na projetante de <b>A</b> que construímos. Com a ponta seca em <b>A'</b> e abertura até o ponto auxiliar do eixo <b>x</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="207" name="sl">
+           <label for="207"></label>
+           <img src="pontos-retas/16_01_07.png" />
+         <figcaption>... "pegamos" esta medida e marcamos a partir do ponto <b>A</b>. Desta maneira, encontramos a 2&ordf; projeção <b>A''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="208" name="sl">
+           <label for="208"></label>
+           <img src="pontos-retas/16_01_08.png" />
+         <figcaption>Agora que temos as projeções de <b>A</b> em <b>&pi;'</b> e <b>&pi;''</b> no desenho em perspectiva, vamos passar estas medidas para a épura. Com a ponta seca no ponto auxiliar do eixo <b>y</b> e abertura até <b>A'</b>, "pegamos" a abscissa de <b>A</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="209" name="sl">
+           <label for="209"></label>
+           <img src="pontos-retas/16_01_09.png" />
+         <figcaption>... e marcamos com a ponta seca na origem da épura. Como a abscissa é positiva, marcamos esta distância à direita da origem <b>O</b>. Agora vamos construir a linha de chamada do ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="210" name="sl">
+           <label for="210"></label>
+           <img src="pontos-retas/16_01_10.png" />
+         <figcaption>Podemos alinhar um dos catetos do esquadro de 60 com a linha de terra, apoiando a hipotenusa com o outro esquadro. Vamos deixar fixo o esquadro de 45.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="211" name="sl">
+           <label for="211"></label>
+           <img src="pontos-retas/16_01_11.png" />
+         <figcaption>Deslizando o esquadro de 60 até chegar no ponto que marcamos com a abscissa de <b>A</b>, construa a perpendicular à linha de terra por este ponto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="212" name="sl">
+           <label for="212"></label>
+           <img src="pontos-retas/16_01_12.png" />
+         <figcaption>"Pegando" a medida da cota de <b>A</b> (distância <b>AA'</b>) com o compasso, marcamos esta distância na linha de chamada a partir do ponto auxiliar do eixo <b>x</b>. Esta é a projeção <b>A''</b>: como a cota é positiva, esta distância é marcada para cima da linha de terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="213" name="sl">
+           <label for="213"></label>
+           <img src="pontos-retas/16_01_13.png" />
+         <figcaption>Fazendo a mesma construção com a ordenada de <b>A</b> (distância <b>xAA''</b>), encontramos a projeção <b>A'</b>: como a ordenada é positiva, marcamos esta distância para baixo da linha de terra.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/16_01_00.png" class="fundo" />
+  </details>
+	<img src="pontos-retas/AposGD2020_0016a.png" />
+	<img src="pontos-retas/AposGD2020_0016b.png" />
+	<img src="pontos-retas/AposGD2020_0016c.png" />
 	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
