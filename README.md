@@ -945,6 +945,90 @@
 	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos planos de projeção por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="226" name="sl">
+           <label for="226"></label>
+           <img src="pontos-retas/17_01_01.png" />
+        <figcaption>Determine os eixos <b>x</b>, <b>y</b> e <b>z</b> e os planos de projeção em perspectiva. Na épura, escolha a origem <b>O</b> e construa as linhas paralelas ao eixo <b>x</b> nos cantos da linha de terra.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="227" name="sl">
+           <label for="227"></label>
+           <img src="pontos-retas/17_01_02.png" />
+         <figcaption>Escolhendo um ponto <b>A</b> sobre o plano <b>&pi;'</b>, a projeção <b>A'</b> ficará coincidente com o ponto <b>A</b>. Vamos encontrar as outras projeções usando retas paralelas aos eixos que passam por <b>A</b>. Alinhe a hipotenusa do esquadro de 45 com o eixo <b>y</b>, apoiando o cateto deste esquadro com o outro esquadro.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="228" name="sl">
+           <label for="228"></label>
+           <img src="pontos-retas/17_01_03.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar no ponto <b>A</b>. Trace a reta paralela a <b>y</b> até chegar no eixo <b>x</b>: esta é a projeção <b>A''</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="229" name="sl">
+           <label for="229"></label>
+           <img src="pontos-retas/17_01_04.png" />
+         <figcaption>Agora podemos construir a paralela ao eixo <b>x</b> que passa por <b>A</b>. Alinhe a hipotenusa do esquadro de 45 com o eixo <b>x</b> e deixe um cateto com o outro esquadro apoiado.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="230" name="sl">
+           <label for="230"></label>
+           <img src="pontos-retas/17_01_05.png" />
+         <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar em <b>A</b>. Construa a reta paralela a <b>x</b> que passa por <b>A</b> até chegar no eixo <b>y</b>: esta é a projeção <b>A'''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="231" name="sl">
+           <label for="231"></label>
+           <img src="pontos-retas/17_01_06.png" />
+         <figcaption>Agora podemos inserir as coordenadas de <b>A</b> em épura. Com a ponta seca em <b>A'''</b>, "pegue" a distância <b>A'A'''</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="232" name="sl">
+           <label for="232"></label>
+           <img src="pontos-retas/17_01_07.png" />
+         <figcaption>... e com a ponta seca na origem da épura <b>O</b>, construa o arco com raio <b>A'A'''</b>: assim, encontramos a projeção <b>A''</b> em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="233" name="sl">
+           <label for="233"></label>
+           <img src="pontos-retas/17_01_08.png" />
+         <figcaption>Agora vamos construir a linha de chamada de <b>A</b>. Alinhe um cateto do esquadro de 60 com a linha de terra, deixando a hipotenusa apoiada no outro esquadro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="234" name="sl">
+           <label for="234"></label>
+           <img src="pontos-retas/17_01_09.png" />
+         <figcaption>Deixando fixo o esquadro de 45, deslize o esquadro de 60 até chegar em <b>A''</b>. Agora você pode construir a linha de chama da de <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="235" name="sl">
+           <label for="235"></label>
+           <img src="pontos-retas/17_01_10.png" />
+         <figcaption>Com a ponta seca em <b>A''</b>, "pegue" a distância <b>A'A''</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="236" name="sl">
+           <label for="236"></label>
+           <img src="pontos-retas/17_01_11.png" />
+         <figcaption>... e construa o arco com a medida <b>A'A''</b> na linha de chamada de <b>A</b>: assim encontramos a projeção <b>A'</b>. Todos os pontos pertencentes ao plano <b>&pi;'</b> têm cotas nulas, e as segundas projeções pertencem à linha de terra. Agora você pode usar as mesmas construções para encontrar os pontos <b>B</b> e <b>C</b> pertencentes aos outros planos de projeção e encontrar suas projeções em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="237" name="sl">
+           <label for="237"></label>
+           <img src="pontos-retas/17_01_12.png" />
+         <figcaption>Escolha um ponto <b>B</b> pertencente a <b>&pi;''</b> e determine suas projeções em perspectiva e em épura. Estes pontos têm ordenadas nulas e as primeiras projeções pertencem à linha de terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="238" name="sl">
+           <label for="238"></label>
+           <img src="pontos-retas/17_01_13.png" />
+         <figcaption>Escolha um ponto <b>C</b> pertencente a <b>&pi;'''</b> e determine suas projeções em perspectiva e em épura. Estes pontos têm abscissas nulas e as primeiras projeções pertencem ao eixo <b>y</b> e as segundas projeções pertencem ao eixo <b>z</b>.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/17_01_00.png" class="fundo" />
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0017a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos eixos por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
