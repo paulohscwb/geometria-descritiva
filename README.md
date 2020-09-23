@@ -923,7 +923,7 @@
        </li>
     </ul>
 	<img src="pontos-retas/16_01_00.png" class="fundo" />
-  </details>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0016a.png" />
 	<img src="pontos-retas/AposGD2020_0016b.png" />
 	<img src="pontos-retas/AposGD2020_0016c.png" />
