@@ -1111,7 +1111,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0018.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;&prime;</b>, <b>&pi;&Prime;</b> e <b>&pi;&#8244;</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
+  <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;&#8242;</b>, <b>&pi;&#8243;</b> e <b>&pi;&#8244;</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="239" name="sl">
