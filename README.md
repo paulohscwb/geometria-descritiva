@@ -941,8 +941,8 @@
     <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>D</b> em perspectiva e colocá-las em épura.</p>
     <img src="pontos-retas/16_03_00.png"/>
 	<figcaption>As coordenadas <b>y</b> e <b>z</b> são marcadas para baixo da linha da terra para o ponto <b>D</b> do 4&ordm; diedro. Use o link abaixo para visualizar os 4 pontos em 3D.</figcaption>
-  </details></div>
-	<div class="combo"><a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details>
+  <a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0017.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1110,6 +1110,91 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0018.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;'</b> <b>&pi;''</b> e <b>&pi;'''</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="239" name="sl">
+           <label for="239"></label>
+           <img src="pontos-retas/18_02_01.png" />
+        <figcaption>Escolha a projeção do ponto <b>A</b> em <b>&pi;'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="240" name="sl">
+           <label for="240"></label>
+           <img src="pontos-retas/18_02_02.png" />
+         <figcaption>Vamos fazer as construções que fizemos anteriormente para encontrar as outras projeções e as coordenadas de <b>A</b>. Veja a primeira delas: alinhando a hipotenusa do esquadro de 45 com o eixo <b>y</b> e apoiando um cateto com o outro esquadro... </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="241" name="sl">
+           <label for="241"></label>
+           <img src="pontos-retas/18_02_03.png" />
+         <figcaption>... podemos deslizar o esquadro de 45, deixando fixo o outro esquadro. Desta forma, temos a construção da reta paralela ao eixo <b>y</b>. Depois podemos construir as retas paralelas aos eixos <b>x</b> e <b>z</b> que passam por <b>A'</b>. Determine uma cota para o ponto <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="243" name="sl">
+           <label for="243"></label>
+           <img src="pontos-retas/18_02_05.png" />
+         <figcaption>Para encontrar a projeção <b>A''</b>, construímos a reta paralela ao eixo <b>y</b> que passa por <b>A</b>. Faça a mesma construção mostrada anteriormente para encontrar esta projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="244" name="sl">
+           <label for="244"></label>
+           <img src="pontos-retas/18_02_06.png" />
+         <figcaption>Depois de fazer esta reta paralela, podemos "pegar" com o compasso a medida da ordenada de <b>A</b>, marcando esta medida a partir do ponto <b>A</b>. As outra construções em perspectiva são similares.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="245" name="sl">
+           <label for="245"></label>
+           <img src="pontos-retas/18_02_07.png" />
+         <figcaption>Com as três projeções de <b>A</b> em perspectiva, podemos construir as projeções deste ponto em épura, como fizemos nos exemplos anteriores. Agora vamos focar na representação da 3&ordf; projeção de <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="246" name="sl">
+           <label for="246"></label>
+           <img src="pontos-retas/18_02_08.png" />
+         <figcaption>A representação da épura tem o rebatimeto de <b>&pi;'</b> sobre o plano <b>&pi;''</b> usando o eixo <b>x</b> como eixo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="247" name="sl">
+           <label for="247"></label>
+           <img src="pontos-retas/18_02_09.png" />
+         <figcaption>O plano <b>&pi;'''</b> é rebatido sobre <b>&pi;''</b> usando o eixo <b>z</b> como eixo. Desta forma, os pontos com ordenadas positivas ficarão à esquerda do eixo <b>z</b> em épura; já os pontos com ordenadas negativas ficarão representados à direita do eixo <b>z</b>. O ponto <b>A'''</b> fica alinhado com <b>A''</b> por meio de uma paralela ao eixo <b>x</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="248" name="sl">
+           <label for="248"></label>
+           <img src="pontos-retas/18_02_10.png" />
+         <figcaption>Vamos construir a projeção <b>A'''</b> com uma reta paralela ao eixo <b>x</b> que passa por <b>A''</b>. Alinhe a hipotenusa de um dos esquadros, deixando o outro fixo e apoiado no cateto do primeiro esquadro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="249" name="sl">
+           <label for="249"></label>
+           <img src="pontos-retas/18_02_11.png" />
+         <figcaption>Deslizando o esquadro, temos a reta paralela ao eixo <b>x</b> que passa por <b>A''</b>. No rebatimento do plano <b>&pi;'''</b>, a ordenada do ponto <b>A</b> aparece alinhada com a projeção <b>A''</b>, e deve ser marcada a partir do eixo <b>z</b> em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="250" name="sl">
+           <label for="250"></label>
+           <img src="pontos-retas/18_02_12.png" />
+         <figcaption>Podemos "pegar" a ordenada do ponto com o compasso...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="251" name="sl">
+           <label for="251"></label>
+           <img src="pontos-retas/18_02_13.png" />
+         <figcaption>... e marcá-la a partir do eixo <b>z</b>, na reta paralela que acabamos de construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="252" name="sl">
+           <label for="252"></label>
+           <img src="pontos-retas/18_02_14.png" />
+         <figcaption>Esta é a representação em épura da 3&ordf; projeção de um ponto pertencente ao 1&ordm; diedro. Quando a ordenada de um ponto for negativa, marcamos esta distância à direita do eixo <b>z</b>.</figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/18_02_00.png" class="fundo" />
+  </details>
+  <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0019.png" />
 	<img src="pontos-retas/AposGD2020_0019a.png" />
