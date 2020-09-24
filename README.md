@@ -1112,8 +1112,6 @@
 	<img src="pontos-retas/AposGD2020_0018.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;'</b>, <b>&pi;''</b> e <b>&pi;'''</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
-  <p>$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
-  <SCRIPT SRC='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></SCRIPT>
   <ul class="slider">
       <li>
            <input type="radio" id="239" name="sl">
