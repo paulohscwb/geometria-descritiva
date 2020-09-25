@@ -1554,6 +1554,7 @@
 <h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
 <h4>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</h4> 
+<p>Bárbara de Cássia Xavier Cassins Aguiar</p>
 <p>Deise Maria Bertholdi Costa</p> 
 <p>Emerson Rolkouski</p> 
 <p>Luzia Vidal de Souza</p> 
@@ -1569,6 +1570,9 @@
 <p align="center"><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Geometria Descritiva</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/geometria-descritiva/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição 4.0 Internacional</a>.
+
+<h4>Citações deste trabalho:</h4> 
+<p>Siqueira, P.H., Aguiar, B.C.X.C, Costa, D.M.B, Rolkouski, E., Souza, L.V.S., Medina, S.S.S. "Geometria Descritiva". Disponível em: <https://paulohscwb.github.io/geometria-descritiva/>, Outubro de 2020.</p>
 
 <h4>Referências:</h4>
 <ol>
