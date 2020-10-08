@@ -1319,7 +1319,7 @@
          <figcaption></figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/19_01b_00.png" class="fundo" />
+	<img src="pontos-retas/19_02_00.png" class="fundo" />
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0020.png" />
@@ -1701,7 +1701,7 @@
     </ul>
 	<img src="planosTV/65_01_00.png" class="fundo" />
   </details>
-	<div class="combo"><a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0065a.png" />
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0066.png" />
