@@ -1891,7 +1891,11 @@
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0083.png" />
-	<div class="combo"><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A resolução desse exercício é semelhante ao anterior, a base agora será um hexágono regular e altura é dada.</p>
+	<img src="planosPQ/83_01.png">
+  </details>
+	<a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0084.png" />
 	<div class="combo"><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
