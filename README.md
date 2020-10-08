@@ -1762,77 +1762,77 @@
       <li>
            <input type="radio" id="d001" name="sl">
            <label for="d001"></label>
-           <img src="planosTV/82_01.png" />
+           <img src="planosPQ/82_01.png" />
         <figcaption>O plano paralelo à linha de terra está representado pelos pontos <b>A</b> e <b>B</b>. O primeiro traço do plano, a reta <b>&alpha;&pi;’</b>, já foi obtido. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;’</b>. Coloque a marcação das barrinhas da LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d002" name="sl">
            <label for="d002"></label>
-           <img src="planosTV/82_02.png" />
+           <img src="planosPQ/82_02.png" />
         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d003" name="sl">
            <label for="d003"></label>
-           <img src="planosTV/82_03.png" />
+           <img src="planosPQ/82_03.png" />
          <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
        </li>
        <li>
            <input type="radio" id="d004" name="sl">
            <label for="d004"></label>
-           <img src="planosTV/82_04.png" />
+           <img src="planosPQ/82_04.png" />
          <figcaption>Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d005" name="sl">
            <label for="d005"></label>
-           <img src="planosTV/82_05.png" />
+           <img src="planosPQ/82_05.png" />
          <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d006" name="sl">
            <label for="d006"></label>
-           <img src="planosTV/82_06.png" />
+           <img src="planosPQ/82_06.png" />
          <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o hexaedro regular com a face ABCD contida nesse plano. Inicie construindo o quadrado <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d007" name="sl">
            <label for="d007"></label>
-           <img src="planosTV/82_07.png" />
+           <img src="planosPQ/82_07.png" />
          <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;pi;’’<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d008" name="sl">
            <label for="d008"></label>
-           <img src="planosTV/82_08.png" />
+           <img src="planosPQ/82_08.png" />
         <figcaption>Vamos agora representar os demais vértices do hexaedro regular nesse 3º sistema. Como a face <b>ABCD</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>EFGH</b> será coincidente com a 1ª projeção da face <b>ABCD</b>. Represente os pontos <b>E’<sub>1</sub></b>, <b>F’<sub>1</sub></b>, <b>G’<sub>1</sub></b> e <b>H’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b> e <b>D’<sub>1</sub></b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d009" name="sl">
            <label for="d009"></label>
-           <img src="planosTV/82_09.png" />
+           <img src="planosPQ/82_09.png" />
         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>EFGH</b> marque a altura do sólido, que é a VG da aresta, a partir do traço <b>&alpha;&pi;’’<sub>1</sub></b> e construa o 2º traço do plano horizontal gama paralelo a ele. No plano gama estarão os pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>. </figcaption>
        </li>
        <li>
            <input type="radio" id="d010" name="sl">
            <label for="d010"></label>
-           <img src="planosTV/82_10.png" />
+           <img src="planosPQ/82_10.png" />
          <figcaption>Marque os pontos <b>E’’<sub>1</sub></b>, <b>F’’<sub>1</sub></b>, <b>G’’<sub>1</sub></b> e <b>H’’<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;’’<sub>1</sub></b> com as LC desses pontos.</figcaption>
        </li>
        <li>
            <input type="radio" id="d011" name="sl">
            <label for="d011"></label>
-           <img src="planosTV/82_11.png" />
+           <img src="planosPQ/82_11.png" />
          <figcaption>Vamos aproveitar e representar a visibilidade do sólido no 3º sistema. Na primeira projeção do 3º sistema destaque o quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d012" name="sl">
            <label for="d012"></label>
-           <img src="planosTV/82_12.png" />
+           <img src="planosPQ/82_12.png" />
          <figcaption>Na segunda projeção faça primeiro o contorno e depois represente as arestas conforme a visibilidade de cada uma. Note que a aresta <b>CG</b> é visível na 2ª projeção desse 3º sistema.</figcaption>
        </li>
     </ul>
-	<img src="planosTV/82_00.png" class="fundo" />
+	<img src="planosPQ/82_00.png" class="fundo" />
   </details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
   <p></p>
@@ -1840,53 +1840,53 @@
        <li>
            <input type="radio" id="d013" name="sl">
            <label for="d013"></label>
-           <img src="planosTV/82_13.png" />
+           <img src="planosPQ/82_13.png" />
          <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>H’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento do 3º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d014" name="sl">
            <label for="d014"></label>
-           <img src="planosTV/82_14.png" />
+           <img src="planosPQ/82_14.png" />
          <figcaption>Vamos aproveitar e fazer a visibilidade do sólido na 1ª projeção. No 2º sistema note que o ponto <b>H</b> possui a maior cota em relação aos demais, sendo visível na 1ª projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d015" name="sl">
            <label for="d015"></label>
-           <img src="planosTV/82_15.png" />
+           <img src="planosPQ/82_15.png" />
          <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>H’</b> perpendiculares à 1ª LT. Marque sobre essas LC a cota do 2º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d016" name="sl">
            <label for="d016"></label>
-           <img src="planosTV/82_16.png" />
+           <img src="planosPQ/82_16.png" />
          <figcaption>Represente a visibilidade na 2ª projeção. Repare que o ponto <b>F</b> possui o maior afastamento em relação aos demais, sendo visível na 2ª projeção. Pronto! O hexaedro regular está representado!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d017" name="sl">
            <label for="d017"></label>
-           <img src="planosTV/82_17.png" />
+           <img src="planosPQ/82_17.png" />
          <figcaption>Vamos obter a seção plana agora. Represente o plano <b>&beta;</b> de topo que passa pela origem e forma 45° com <b>&pi;’</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d018" name="sl">
            <label for="d018"></label>
-           <img src="planosTV/82_18.png" />
+           <img src="planosPQ/82_18.png" />
          <figcaption>Como o plano <b>&beta;</b> é projetante em 2ª projeção basta encontrar a interseção do traço <b>&beta;&pi;’’</b> com cada aresta do sólido. Assim, <b>&beta;&pi;’’</b>’ corta as projeções das arestas <b>A’’B’’</b>, <b>E’’F’’</b>, <b>H’’G’’</b> e <b>D’’C’’</b> nos pontos <b>1’’</b>, <b>2’’</b>, <b>3’’</b> e <b>4’’</b> respectivamente. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d019" name="sl">
            <label for="d019"></label>
-           <img src="planosTV/82_19.png" />
+           <img src="planosPQ/82_19.png" />
          <figcaption>Trace as LC dos pontos de interseção, obtendo as suas 1as projeções nas 1as projeções das arestas a que pertencem.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d020" name="sl">
            <label for="d020"></label>
-           <img src="planosTV/82_20.png" />
+           <img src="planosPQ/82_20.png" />
          <figcaption>Represente a visibilidade da seção plana <b>1234</b> conforme a visibilidade de cada face do sólido.</figcaption>
        </li>
     </ul>
-	<img src="planosTV/82_12.png" class="fundo" />
+	<img src="planosPQ/82_12.png" class="fundo" />
   </details>
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
