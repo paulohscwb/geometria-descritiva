@@ -1197,9 +1197,130 @@
   <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0019.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="253" name="sl">
+           <label for="253"></label>
+           <img src="pontos-retas/19_01b_0.png" />
+        <figcaption></b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="254" name="sl">
+           <label for="254"></label>
+           <img src="pontos-retas/19_01b_01.png" />
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="255" name="sl">
+           <label for="255"></label>
+           <img src="pontos-retas/19_01b_02.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="257" name="sl">
+           <label for="257"></label>
+           <img src="pontos-retas/19_01b_04.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="258" name="sl">
+           <label for="258"></label>
+           <img src="pontos-retas/19_01b_05.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="259" name="sl">
+           <label for="259"></label>
+           <img src="pontos-retas/19_01b_06.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="260" name="sl">
+           <label for="260"></label>
+           <img src="pontos-retas/19_01b_07.png" />
+         <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/19_01b_00.png" class="fundo" />
+  </details>
+  <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/AposGD2020_0019a.png" />
 	<div class="combo"><a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/AposGD2020_0019b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="261" name="sl">
+           <label for="261"></label>
+           <img src="pontos-retas/19_02_01.png" />
+        <figcaption></b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="262" name="sl">
+           <label for="262"></label>
+           <img src="pontos-retas/19_02_02.png" />
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="264" name="sl">
+           <label for="264"></label>
+           <img src="pontos-retas/19_02_04.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="265" name="sl">
+           <label for="265"></label>
+           <img src="pontos-retas/19_02_05.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="266" name="sl">
+           <label for="266"></label>
+           <img src="pontos-retas/19_02_06.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="267" name="sl">
+           <label for="267"></label>
+           <img src="pontos-retas/19_02_07.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="268" name="sl">
+           <label for="268"></label>
+           <img src="pontos-retas/19_02_08.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="269" name="sl">
+           <label for="269"></label>
+           <img src="pontos-retas/19_02_09.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="270" name="sl">
+           <label for="270"></label>
+           <img src="pontos-retas/19_02_10.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="271" name="sl">
+           <label for="271"></label>
+           <img src="pontos-retas/19_02_13.png" />
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="272" name="sl">
+           <label for="272"></label>
+           <img src="pontos-retas/19_02_16.png" />
+         <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/19_01b_00.png" class="fundo" />
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0020.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
@@ -1454,6 +1575,132 @@
 	<img src="planosTV/AposGD2020_0064b.png" />
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0065.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="l001" name="sl">
+           <label for="l001"></label>
+           <img src="planosTV/65_01_01.png" />
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha; &pi;"</b></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="l002" name="sl">
+           <label for="l002"></label>
+           <img src="planosTV/65_01_02.png" />
+        <figcaption>Traçar a nova linha de terra paralela ao traço do plano <b>&alpha; &pi;"</b></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l003" name="sl">
+           <label for="l003"></label>
+           <img src="planosTV/65_01_03.png" />
+         <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>A</b> é zero, vai permanecer zero e portanto <b>A'1</b> fica sobre a nova LT. Para transportar o afastamento do ponto <b>B</b>, tomamos essa medida com o compasso. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l004" name="sl">
+           <label for="l004"></label>
+           <img src="planosTV/65_01_04.png" />
+         <figcaption>Transportamos o afastamento do ponto <b>B</b>, sobre a perpendicular à LT a partir da nova LT. <b>A'1B'1</b> é a verdadeira grandeza do lado do hexágono da base.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l005" name="sl">
+           <label for="l005"></label>
+           <img src="planosTV/65_01_05.png" />
+         <figcaption>Podemos agora desenhar o hexágono em VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l006" name="sl">
+           <label for="l006"></label>
+           <img src="planosTV/65_01_06.png" />
+         <figcaption>Traçar as linhas de chamada em relação à 2a LT pelos pontos <b>C'1</b>, <b>D'1</b>, <b>E'1</b> e <b>F'1</b> até o traço do plano <b>&alpha;&pi;"</b>. Encontrando as segundas projeções desses pontos <b>C"</b>, <b>D"</b>, <b>E"</b> e <b>F"</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l007" name="sl">
+           <label for="l007"></label>
+           <img src="planosTV/65_01_07.png" />
+         <figcaption>Para encontrar as 1as projeções desses pontos, traçamos as linhas de chamada dos mesmos com relação à 1a LT.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/65_01_00.png" class="fundo" />
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="l008" name="sl">
+           <label for="l008"></label>
+           <img src="planosTV/65_01_08.png" />
+        <figcaption>Transportamos seus afastamentos, mostraremos o procedimento para o ponto <b>C</b>, os demais seguem o mesmo padrão. Tomamos o afastamento do ponto <b>C</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="l009" name="sl">
+           <label for="l009"></label>
+           <img src="planosTV/65_01_09.png" />
+        <figcaption>Transportamos o afastamento do ponto <b>C</b> para a 1a LT, obtendo o ponto <b>C'</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l010" name="sl">
+           <label for="l010"></label>
+           <img src="planosTV/65_01_10.png" />
+         <figcaption>Procedendo da mesma maneira que no passo 9, obtemos <b>D'</b>, <b>E'</b> e <b>F'</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l011" name="sl">
+           <label for="l011"></label>
+           <img src="planosTV/65_01_11.png" />
+         <figcaption>Agora que já temos a 1a e 2a projeções das bases do prisma, vamos marcar a altura. Lembre-se que a altura do Prisma arquimediano é igual ao lado da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha;&pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo que contém a face: <b>GHIJKL</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l012" name="sl">
+           <label for="l012"></label>
+           <img src="planosTV/65_01_12.png" />
+         <figcaption>Encontramos as segundas projeções dos pontos <b>GHIJKL</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l013" name="sl">
+           <label for="l013"></label>
+           <img src="planosTV/65_01_13.png" />
+         <figcaption>Para encontrar as 1as projeções desses pontos, fazemos suas linhas de chamada em relação à 1a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l014" name="sl">
+           <label for="l014"></label>
+           <img src="planosTV/65_01_14.png" />
+         <figcaption>Marcamos os afastamentos desses pontos, seguindo o  mesmo procedimento adotado para o ponto <b>C</b>. Obtendo: <b>G'H'I'J'K'L'</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l015" name="sl">
+           <label for="l015"></label>
+           <img src="planosTV/65_01_15.png" />
+         <figcaption>Vamos traçar a visibilidade do sólido. Lembrando que o contorno aparente é sempre visível. Assim na segunda projeção, o contorno aparente é um retângulo e na 1a projeção teremos um octógono.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l016" name="sl">
+           <label for="l016"></label>
+           <img src="planosTV/65_01_16.png" />
+         <figcaption>Agora faremos a visibilidade do sólido começando pelas arestas visíveis. Os pontos de maior cota serão visíveis na 1a projeção e os de maior afastamento serão visíveis na 2a projeção. Começamos com a primeira projeção. O ponto de maior cota é o ponto <b>I</b>, portanto na 1a projeção, tudo que for ligado a ele será visível. Logo <b>IC</b>, <b>IH</b> e <b>IJ</b> serão visíveis e as arestas unidas a esses pontos também serão visíveis.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l017" name="sl">
+           <label for="l017"></label>
+           <img src="planosTV/65_01_17.png" />
+         <figcaption>O ponto de menor cota é o ponto <b>F</b>, portanto ele é invisível na 1a projeção e tudo que é unido a ele, a menos que faça parte do contorno aparente, também será invisível.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l018" name="sl">
+           <label for="l018"></label>
+           <img src="planosTV/65_01_18.png" />
+         <figcaption>Os pontos de maior afastamento são os pontos <b>JD</b> e <b>KE</b>, portanto essas arestas são visíveis na 2a projeção. As aretas <b>GA</b> e <b>BH</b> serão invisíveis na 2a projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l019" name="sl">
+           <label for="l019"></label>
+           <img src="planosTV/65_01_19.png" />
+         <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/65_01_00.png" class="fundo" />
+  </details>
 	<div class="combo"><a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0065a.png" />
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
