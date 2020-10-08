@@ -62,7 +62,7 @@
 			   <input type="radio" id="a24" name="sl">
 			   <label for="a24"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+				 <iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
@@ -1308,7 +1308,7 @@
 			   <input type="radio" id="a34" name="sl">
 			   <label for="a34"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+				 <iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
@@ -1401,7 +1401,7 @@
 			   <input type="radio" id="a44" name="sl">
 			   <label for="a44"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+				 <iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
