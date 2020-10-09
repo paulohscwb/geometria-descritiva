@@ -63,10 +63,9 @@
 			   <label for="a24"></label>
 			   <div class="embed-container">
 				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				 
+				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				 
 			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
 		   </li>
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
@@ -1434,7 +1433,7 @@
 				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
 				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
 		   </li>
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
@@ -1528,7 +1527,7 @@
 				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
 				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
 		   </li>
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
