@@ -244,7 +244,7 @@
 	<a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D</a>
    </details>
    <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
-	<img src="prop/20_03_00c.png/>
+	<img src="prop/20_03_00c.png"/>
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -403,7 +403,7 @@
   </details></div>
   <img src="prop/AposGD2020_0008c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item b</summary>
-    <img src="prop/21_05_00b.png/>
+    <img src="prop/21_05_00b.png"/>
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
@@ -638,14 +638,14 @@
   <img src="prop/AposGD2020_0012a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
-	<img src="prop/24_02_00.png/>
+	<img src="prop/24_02_00.png"/>
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/AposGD2020_0013.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
-	<img src="prop/25_01_00.png/>
+	<img src="prop/25_01_00.png"/>
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -1892,21 +1892,21 @@
 	<img src="planosPQ/AposGD2020_0083.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A resolução desse exercício é semelhante ao anterior, a base agora será um hexágono regular e altura é dada.</p>
-	<img src="planosPQ/83_01.png/>
+	<img src="planosPQ/83_01.png"/>
   </details>
 	<a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0084.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Note que agora será representada uma pirâmide e, portanto, a altura deverá ser marcada a partir do centro da base da mesma.</p>
-	<img src="planosPQ/84_01.png/>
+	<img src="planosPQ/84_01.png"/>
 	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
   </details><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0085.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
-	<img src="planosPQ/85_01.png/>
+	<img src="planosPQ/85_01.png"/>
 	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
