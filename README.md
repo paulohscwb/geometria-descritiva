@@ -1897,10 +1897,20 @@
 	<a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0084.png" />
-	<div class="combo"><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores. Note que agora será representada uma pirâmide e, portanto, a altura deverá ser marcada a partir do centro da base da mesma.</p>
+	<img src="planosPQ/84_01.png">
+	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
+  </details>
+	<a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0085.png" />
-	<div class="combo"><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores.</p>
+	<img src="planosPQ/85_01.png">
+	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
+  </details>
+	<a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0086.png" />
 	<img src="planosPQ/AposGD2020_0086a.png" />
