@@ -1246,8 +1246,7 @@
        </li>
     </ul>
 	<img src="pontos-retas/19_01b_00.png" class="fundo"/>
-  </details>
-  <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0019a.png"/>
 	<div class="combo"><a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/AposGD2020_0019b.png"/>
