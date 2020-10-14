@@ -1747,7 +1747,115 @@
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
 	<img src="planosPQ/AposGD2020_0078.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos estudar o Plano Paralelo à Linha de Terra, também denominado de Plano Rampa.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d001a" name="sl">
+           <label for="d001a"></label>
+           <img src="planosPQ/78_01_01.png"/>
+        <figcaption>A característica espacial do Plano Paralelo à Linha de Terra é ser oblíquo tanto a <b>&pi;’</b> quanto a <b>&pi;’’</b> e perpendicular a <b>&pi;’’’</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d002a" name="sl">
+           <label for="d002a"></label>
+           <img src="planosPQ/78_01_02.png"/>
+        <figcaption>O Plano Paralelo à Linha de Terra pode ser representado em épura pelos seus traços. O primeiro traço <b>&alpha;&pi;’</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra (LT).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d003a" name="sl">
+           <label for="d003a"></label>
+           <img src="planosPQ/78_01_03.png"/>
+         <figcaption>O seu segundo traço <b>&alpha;&pi;’’</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d004a" name="sl">
+           <label for="d004a"></label>
+           <img src="planosPQ/78_01_04.png"/>
+         <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros traços. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos y e z, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d005a" name="sl">
+           <label for="d005a"></label>
+           <img src="planosPQ/78_01_05.png"/>
+         <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d006a" name="sl">
+           <label for="d006a"></label>
+           <img src="planosPQ/78_01_06.png"/>
+         <figcaption>O ângulo <b>&theta;<sub>2</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com o eixo y≡z. Temos que <b>&theta;<sub>1</sub>+&theta;<sub>2</sub>=90°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d007a" name="sl">
+           <label for="d007a"></label>
+           <img src="planosPQ/78_01_07.png"/>
+         <figcaption>O ângulo <b>&theta;<sub>3</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’’</b> é de 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d008a" name="sl">
+           <label for="d008a"></label>
+           <img src="planosPQ/78_01_08.png"/>
+        <figcaption>Como o Plano Paralelo à Linha de Terra é perpendicular a <b>&pi;’’’</b> então ele é projetante em terceira projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua terceira projeção contida em <b>&alpha;&pi;’’’</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Paralelo à Linha de Terra ↔ <b>F’’’</b> pertence a <b>&alpha;&pi;’’’</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d009a" name="sl">
+           <label for="d009a"></label>
+           <img src="planosPQ/78_01_09.png"/>
+        <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano ou é oblíquo ou perpendicular aos Planos de Projeção. Para obtermos a VG de algum elemento do plano iremos utilizar o Método da Mudança de Planos.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d010a" name="sl">
+           <label for="d010a"></label>
+           <img src="planosPQ/78_01_10.png"/>
+         <figcaption>As retas contidas num Plano Paralelo à Linha de Terra podem ser: fronto-horizontais, de perfil ou quaisquer. E para se representar um plano desse tipo é necessário apenas 2 pontos, desde que estejam sobre uma reta qualquer ou de perfil.</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/78_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosPQ/AposGD2020_0078a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pela reta qualquer <b>AB</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d001b" name="sl">
+           <label for="d001b"></label>
+           <img src="planosPQ/78_02_01.png"/>
+        <figcaption>Para encontrar o traço <b>&alpha;&pi;’</b> basta encontrar a reta fronto-horizontal do plano de cota nula. Vamos obter o ponto <b>P</b> da reta <b>AB</b> de cota zero. Obtenha <b>P’’</b> na interseção da 2ª projeção da reta <b>r=AB</b> com a Linha de Terra (LT).</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d002b" name="sl">
+           <label for="d002b"></label>
+           <img src="planosPQ/78_02_02.png"/>
+        <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1ª projeção sobre <b>r’=A’B’</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d003b" name="sl">
+           <label for="d003b"></label>
+           <img src="planosPQ/78_02_03.png"/>
+         <figcaption>Desenhe por <b>P’</b> o traço <b>&alpha;&pi;’</b> paralelo à LT. Pronto, já temos o 1º traço.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d004b" name="sl">
+           <label for="d004b"></label>
+           <img src="planosPQ/78_02_04.png"/>
+         <figcaption>Para encontrar o traço <b>&alpha;&pi;’’</b> basta encontrar a reta fronto-horizontal do plano de afastamento nulo. Vamos obter o ponto <b>Q</b> da reta <b>AB</b> de afastamento zero. Obtenha <b>Q’</b> na interseção da 1ª projeção da reta <b>r=AB</b> com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d005b" name="sl">
+           <label for="d005b"></label>
+           <img src="planosPQ/78_02_05.png"/>
+         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha a sua 2ª projeção sobre <b>r’’=A’’B’’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d006b" name="sl">
+           <label for="d006b"></label>
+           <img src="planosPQ/78_02_06.png"/>
+         <figcaption>Desenhe por <b>Q’’</b> o traço <b>&alpha;&pi;’’</b> paralelo à LT. Pronto, temos agora os dois traços do plano.</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/78_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0079.png"/>
 	<img src="planosPQ/AposGD2020_0079a.png"/>
