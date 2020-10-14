@@ -1713,7 +1713,7 @@
       <li>
            <input type="radio" id="l020" name="sl">
            <label for="l020"></label>
-           <img src="planosTV/66_01_01.png"/>
+           <img src="planosTV/66_01_02.png"/>
         <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha;&pi;"</b>. Traçar a nova linha de terra paralela ao traço do plano <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	  <li>
