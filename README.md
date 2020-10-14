@@ -1707,7 +1707,91 @@
 	<img src="planosTV/AposGD2020_0065a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0066.png"/>
-	<div class="combo"><a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="l020" name="sl">
+           <label for="l020"></label>
+           <img src="planosTV/66_01_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha;&pi;"</b>. Traçar a nova linha de terra paralela ao traço do plano <b>&alpha;&pi;"</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="l021" name="sl">
+           <label for="l021"></label>
+           <img src="planosTV/66_01_03.png"/>
+        <figcaption>Fazer a MPH para os pontos A e B. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>B</b> é zero, vai permanecer zero e portanto <b>B'<sub>1</sub></b> fica sobre a nova LT. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l022" name="sl">
+           <label for="l022"></label>
+           <img src="planosTV/66_01_04.png"/>
+         <figcaption><b>A'<sub>1</sub>B'<sub>1</sub></b> é a verdadeira grandeza do lado do quadrado da base.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l023" name="sl">
+           <label for="l023"></label>
+           <img src="planosTV/66_01_05.png"/>
+         <figcaption>Fazer o alçamento dos pontos <b>C</b> e <b>D</b>, encontrando <b>C"</b> e <b>D"</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l024" name="sl">
+           <label for="l024"></label>
+           <img src="planosTV/66_01_06.png"/>
+         <figcaption>Traçar as linhas de chamada em relação à 1&ordf; LT pelos pontos <b>C"</b> e <b>D"</b> e transportar seus afastamentos, determinando as 1as projeções desses pontos: <b>A'</b> e <b>B'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l025" name="sl">
+           <label for="l025"></label>
+           <img src="planosTV/66_01_07.png"/>
+         <figcaption>Na VG, determinar o centro da base.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l026" name="sl">
+           <label for="l026"></label>
+           <img src="planosTV/66_01_09.png"/>
+         <figcaption>Traçar a circunferência circunscrita ao quadrado. Traçar  a outra base: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l027" name="sl">
+           <label for="l027"></label>
+           <img src="planosTV/66_01_11.png"/>
+         <figcaption>Unir os vértices do sólido na VG. Determinar a altura do sólido, fazendo a perpendicular por <b>C'<sub>1</sub>F'<sub>1</sub></b> e marcar a hipotenusa do triângulo que é igual ao lado da base.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l028" name="sl">
+           <label for="l028"></label>
+           <img src="planosTV/66_01_12.png"/>
+         <figcaption>Com  a ponta seca do compasso em <b>F'<sub>1</sub></b>, marcar a medida <b>F'<sub>1</sub>G'<sub>1</sub></b> até cortar a perpendicular traçada no passo anterior. A distância <b>h</b> é a altura do sólido.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l029" name="sl">
+           <label for="l029"></label>
+           <img src="planosTV/66_01_13.png"/>
+         <figcaption>Marcamos a altura do sólido a partir de <b>&alpha;&pi;"</b>, que será o lugar geométrico da base: <b>EFGH</b>. Observe que a altura pode ser marcada acima de  <b>&alpha;&pi;"</b> ou abaixo. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l030" name="sl">
+           <label for="l030"></label>
+           <img src="planosTV/66_01_14.png"/>
+         <figcaption>Fazer as linhas de chamada os pontos E'1F'1G'1H'1, determinando <b>E"F"G"H"</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l031" name="sl">
+           <label for="l031"></label>
+           <img src="planosTV/66_01_15.png"/>
+         <figcaption>Traçar as linhas de chamada desses pontos com relação à 1&ordf; LT, e transportar seus afastamentos, determinando <b>E'F'G'H'</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l032" name="sl">
+           <label for="l032"></label>
+           <img src="planosTV/66_01_17.png"/>
+         <figcaption>Fazer a visibilidade do sólido na VG. Completar a visibilidade nas 1&ordf; e 2&ordf; projeções. </figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/66_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0067.png"/>
 	<div class="combo"><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
