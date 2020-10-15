@@ -1560,6 +1560,8 @@
 
 <details><summary id="planos2">Planos: de topo e vertical, pág. 59-77</summary>
 	<img src="planosTV/AposGD2020_0059.png"/>
+	<div class="combo"><a href="vr/plano_topo.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0059a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
 	<img src="planosTV/AposGD2020_0060a.png"/>
