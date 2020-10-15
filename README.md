@@ -2135,18 +2135,35 @@
 	<div class="combo"><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0092.png"/>
-	<div class="combo"><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores.</p>
+	<img src="planosPQ/92_01_01.png"/>
+	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
+  </details><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/AposGD2020_0092a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
+	<img src="planosPQ/92_02_01.png"/>
+	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;’</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
+  </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0093.png"/>
-	<div class="combo"><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores.</p>
+	<img src="planosPQ/93_01.png"/>
+	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual a aresta da base.</figcaption>
+  </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0094.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0095.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0096.png"/>
-	<div class="combo"><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para representar o dodecaedro regular de aresta <b>AB</b>, com a face <b>ABCDE</b> contida no plano horizontal <b>&alpha;</b>, veja o detalhamento da construção nas páginas anteriores.</p>
+	<img src="planosPQ/96_01.png"/>
+	<figcaption></figcaption>
+  </details><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
