@@ -2129,10 +2129,99 @@
 	<img src="planosPQ/AposGD2020_0089.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0090.png"/>
-	<div class="combo"><a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para representar o prisma regular hexagonal com uma face contida no plano qualquer vamos utilizar o Método de Mudança de Planos (MP). O plano qualquer está representado pelas retas <b>AB</b> e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d021" name="sl">
+           <label for="d021"></label>
+           <img src="planosPQ/90_01.png"/>
+        <figcaption>Construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da LT para a esquerda.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d022" name="sl">
+           <label for="d022"></label>
+           <img src="planosPQ/90_04.png"/>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d023" name="sl">
+           <label for="d023"></label>
+           <img src="planosPQ/90_05.png"/>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d024" name="sl">
+           <label for="d024"></label>
+           <img src="planosPQ/90_06.png"/>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o prisma regular hexagonal com a face ABCDEF contida nesse plano. Inicie construindo o hexágono regular <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub>E’<sub>1</sub>F’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d025" name="sl">
+           <label for="d025"></label>
+           <img src="planosPQ/90_08.png"/>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano alfa horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face ABCDEF. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d026" name="sl">
+           <label for="d026"></label>
+           <img src="planosPQ/90_09.png"/>
+         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>GHIJKL</b> marque a altura do sólido, que é a medida <b>h</b> dada, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal gama paralelo a ele. No plano gama estarão os pontos <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d027" name="sl">
+           <label for="d027"></label>
+           <img src="planosPQ/90_10.png"/>
+         <figcaption>Marque os pontos <b>G’’<sub>1</sub></b>, <b>H’’<sub>1</sub></b>, <b>I’’<sub>1</sub></b>, <b>J’’<sub>1</sub></b>, <b>K’’<sub>1</sub></b> e <b>L’’<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;''<sub>1</sub></b> com as LC desses pontos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d028" name="sl">
+           <label for="d028"></label>
+           <img src="planosPQ/90_11.png"/>
+        <figcaption>Vamos aproveitar e representar a visibilidade do sólido no 3º sistema. Na primeira projeção do 3º sistema destaque o hexágono regular.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d029" name="sl">
+           <label for="d029"></label>
+           <img src="planosPQ/90_12.png"/>
+        <figcaption>Na segunda projeção faça primeiro o contorno e depois represente as arestas conforme a visibilidade de cada uma. Note que as arestas <b>EK</b> e <b>FL</b> são visíveis na 2ª projeção desse 3º sistema.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d030" name="sl">
+           <label for="d030"></label>
+           <img src="planosPQ/90_13.png"/>
+         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>L’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento do 3º sistema, obtendo os pontos <b>C’</b>, <b>D’</b>, ...., <b>L’</b>. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d031" name="sl">
+           <label for="d031"></label>
+           <img src="planosPQ/90_14.png"/>
+         <figcaption>Vamos aproveitar e fazer a visibilidade do sólido na 1ª projeção. No 2º sistema note que o ponto <b>J</b> possui a maior cota em relação aos demais, sendo visível na 1ª projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d032" name="sl">
+           <label for="d032"></label>
+           <img src="planosPQ/90_15.png"/>
+         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>L’</b> perpendiculares à 1ª LT. Marque sobre essas LC a cota do 2º sistema, obtendo os pontos <b>C’’</b>, <b>D’’</b>, ...., <b>L’’</b>. Veja o processo destacado para o ponto <b>D</b>. Como a 1ª projeção do ponto <b>D</b> está acima da LT lembre-se de marcar a cota dele a partir da LT e não a partir de <b>D’</b>!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d033" name="sl">
+           <label for="d033"></label>
+           <img src="planosPQ/90_16.png"/>
+         <figcaption>Represente a visibilidade na 2ª projeção. Repare que o ponto D possui o menor afastamento em relação aos demais sendo, portanto,invisível na 2ª projeção. Pronto! O prisma regular hexagonal está representado!</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/90_00.png" class="fundo"/>
+  </details>
+	
+	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0091.png"/>
-	<div class="combo"><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p>
+	<img src="planosPQ/91_01.png"/>
+	<figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption>
+  </details><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0092.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
