@@ -1840,6 +1840,8 @@
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
 	<img src="planosPQ/AposGD2020_0078.png"/>
+	<div class="combo"><a href="vr/plano_rampa.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosPQ/AposGD2020_0078a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano Paralelo à Linha de Terra, também denominado de Plano Rampa.</p>
   <ul class="slider">
@@ -1906,7 +1908,7 @@
     </ul>
 	<img src="planosPQ/78_01_00.png" class="fundo"/>
   </details></div>
-	<img src="planosPQ/AposGD2020_0078a.png"/>
+	<img src="planosPQ/AposGD2020_0078b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pela reta qualquer <b>AB</b>.</p>
   <ul class="slider">
