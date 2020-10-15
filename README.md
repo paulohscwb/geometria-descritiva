@@ -1391,6 +1391,8 @@
 	<img src="planosHFP/AposGD2020_0039.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0040.png"/>
+	<div class="combo"><a href="vr/plano_horizontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0040a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0041.png"/>
 	<img src="planosHFP/AposGD2020_0041a.png"/>
@@ -1469,6 +1471,8 @@
 	<div class="combo"><a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0049.png"/>
+	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0049a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0050.png"/>
 	<img src="planosHFP/AposGD2020_0050a.png"/>
