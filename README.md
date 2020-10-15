@@ -1960,81 +1960,81 @@
   <p>Para representar o quadradocontido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="d047" name="sl">
-           <label for="d047"></label>
+           <input type="radio" id="d056" name="sl">
+           <label for="d056"></label>
            <img src="planosPQ/80_01.png"/>
         <figcaption>Represente os pontos <b>A</b> e <b>B</b> que definem oPlano Paralelo à Linha de Terra.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="d048" name="sl">
-           <label for="d048"></label>
+           <input type="radio" id="d057" name="sl">
+           <label for="d057"></label>
            <img src="planosPQ/80_02.png"/>
         <figcaption>Vamos obter o traço <b>&alpha;&pi;'</b> do Plano, para isso, encontre o ponto <b>P</b> da reta <b>AB</b> de cota nula.</figcaption>
        </li>
        <li>
-           <input type="radio" id="d049" name="sl">
-           <label for="d049"></label>
+           <input type="radio" id="d058" name="sl">
+           <label for="d058"></label>
            <img src="planosPQ/80_03.png"/>
          <figcaption>Trace por <b>P’</b> a reta <b>&alpha;&pi;'</b> paralela à Linha de Terra (LT).</figcaption>
        </li>
        <li>
-           <input type="radio" id="d050" name="sl">
-           <label for="d050"></label>
+           <input type="radio" id="d059" name="sl">
+           <label for="d059"></label>
            <img src="planosPQ/80_04.png"/>
          <figcaption>Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a esquerda.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d051" name="sl">
-           <label for="d051"></label>
+           <input type="radio" id="d060" name="sl">
+           <label for="d060"></label>
            <img src="planosPQ/80_07.png"/>
          <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''</b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d052" name="sl">
-           <label for="d052"></label>
+           <input type="radio" id="d061" name="sl">
+           <label for="d061"></label>
            <img src="planosPQ/80_08.png"/>
          <figcaption>Construa as novas LC a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d053" name="sl">
-           <label for="d053"></label>
+           <input type="radio" id="d062" name="sl">
+           <label for="d062"></label>
            <img src="planosPQ/80_10.png"/>
          <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o quadrado ABCD contido nesse plano. Construa o quadrado <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> em VG na primeira projeção. Destaque a projeção <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> do quadrado.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d054" name="sl">
-           <label for="d054"></label>
+           <input type="radio" id="d063" name="sl">
+           <label for="d063"></label>
            <img src="planosPQ/80_11.png"/>
         <figcaption>No 3º sistema obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="d055" name="sl">
-           <label for="d055"></label>
+           <input type="radio" id="d064" name="sl">
+           <label for="d064"></label>
            <img src="planosPQ/80_12.png"/>
         <figcaption>Destaque a projeção <b>A’’<sub>1</sub>B’’<sub>1</sub>C’’<sub>1</sub>D’’<sub>1</sub></b> do quadrado.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d055" name="sl">
-           <label for="d055"></label>
+           <input type="radio" id="d065" name="sl">
+           <label for="d065"></label>
            <img src="planosPQ/80_13.png"/>
         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos <b>C</b> e <b>D</b> para o 2º sistema. Construa a LC dos pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento dos pontos <b>C</b> e <b>D</b> do 3º sistema obtendo os pontos <b>C’</b> e <b>D’</b>.Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d055" name="sl">
-           <label for="d055"></label>
-           <img src="planosPQ/80_11.png"/>
+           <input type="radio" id="d066" name="sl">
+           <label for="d066"></label>
+           <img src="planosPQ/80_14.png"/>
         <figcaption>Destaque a projeção <b>A’B’C’D’</b> do quadrado.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d055" name="sl">
-           <label for="d055"></label>
-           <img src="planosPQ/80_12.png"/>
+           <input type="radio" id="d067" name="sl">
+           <label for="d067"></label>
+           <img src="planosPQ/80_15.png"/>
         <figcaption>Para fazer o alçamento dos pontos <b>C</b> e <b>D</b> para o 1º sistema construa as LC dos pontos <b>C’</b> e <b>D’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema obtendo os pontos <b>C’’</b> e <b>D’’</b>.Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d055" name="sl">
-           <label for="d055"></label>
-           <img src="planosPQ/80_13.png"/>
+           <input type="radio" id="d068" name="sl">
+           <label for="d068"></label>
+           <img src="planosPQ/80_16.png"/>
         <figcaption>Destaque a projeção <b>A’’B’’C’’D’’</b>. Pronto! O quadradoestá representado!</figcaption>
        </li>
     </ul>
