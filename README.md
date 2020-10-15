@@ -2127,6 +2127,90 @@
 	<img src="planosPQ/AposGD2020_0088a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0089.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para representar o triângulo equilátero contido no plano qualquervamos utilizar o Método de Mudança de Planos (MP).</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d021" name="sl">
+           <label for="d021"></label>
+           <img src="planosPQ/89_01.png"/>
+        <figcaption>O plano qualquer está representado pelas retas AB e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d022" name="sl">
+           <label for="d022"></label>
+           <img src="planosPQ/89_02.png"/>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d023" name="sl">
+           <label for="d023"></label>
+           <img src="planosPQ/89_03.png"/>
+         <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d024" name="sl">
+           <label for="d024"></label>
+           <img src="planosPQ/89_04.png"/>
+         <figcaption>Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d025" name="sl">
+           <label for="d025"></label>
+           <img src="planosPQ/89_05.png"/>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d026" name="sl">
+           <label for="d026"></label>
+           <img src="planosPQ/89_06.png"/>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A’<sub>1</sub><b>B’<sub>1</sub><b>C’<sub>1</sub></b> em VG na primeira projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d027" name="sl">
+           <label for="d027"></label>
+           <img src="planosPQ/89_07.png"/>
+         <figcaption>Destaque a projeção <b>A’<sub>1</sub><b>B’<sub>1</sub><b>C’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d028" name="sl">
+           <label for="d028"></label>
+           <img src="planosPQ/89_08.png"/>
+        <figcaption>No 3º sistema obtenha a 2ª projeção do ponto <b>C</b>, ou seja, o ponto <b>C’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d029" name="sl">
+           <label for="d029"></label>
+           <img src="planosPQ/89_09.png"/>
+        <figcaption>Destaque a projeção <b>A’’<sub>1</sub><b>B’’<sub>1</sub><b>C’’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d030" name="sl">
+           <label for="d030"></label>
+           <img src="planosPQ/89_10.png"/>
+         <figcaption>Agora vamos fazer o alçamento (retorno) do ponto <b>C</b> para o 2º sistema. Construa a LC do ponto <b>C’’<sub>1</sub></b> perpendicular à 2ª LT. Marque sobre essa LC o afastamento do ponto <b>C</b> do 3º sistema obtendo o ponto <b>C’</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d031" name="sl">
+           <label for="d031"></label>
+           <img src="planosPQ/89_11.png"/>
+         <figcaption>Destaque a projeção <b>A’B’C’</b> do triângulo equilátero.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d032" name="sl">
+           <label for="d032"></label>
+           <img src="planosPQ/89_12.png"/>
+         <figcaption>Para fazer o alçamento do ponto <b>C</b> para o 1º sistema construa a LC do ponto <b>C’</b> perpendicular à 1ª LT. Marque sobre essa LC a cota do 2º sistema obtendo o ponto <b>C’’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d033" name="sl">
+           <label for="d033"></label>
+           <img src="planosPQ/89_13.png"/>
+         <figcaption>Destaque a projeção <b>A’’B’’C’’</b>. Pronto! O triângulo equilátero está representado!</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/89_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0090.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2213,7 +2297,6 @@
     </ul>
 	<img src="planosPQ/90_00.png" class="fundo"/>
   </details>
-	
 	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0091.png"/>
