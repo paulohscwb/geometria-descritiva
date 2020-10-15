@@ -2120,6 +2120,8 @@
 	<img src="planosPQ/AposGD2020_0086a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0087.png"/>
+	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosPQ/AposGD2020_0087a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0088.png"/>
 	<img src="planosPQ/AposGD2020_0088a.png"/>
