@@ -1802,6 +1802,8 @@
 	<div class="combo"><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0068.png"/>
+	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/AposGD2020_0068a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0069.png"/>
 	<img src="planosTV/AposGD2020_0069a.png"/>
