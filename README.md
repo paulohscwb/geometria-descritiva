@@ -2122,6 +2122,66 @@
 	<img src="planosPQ/AposGD2020_0087.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/AposGD2020_0087a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos estudar o Plano Qualquer.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d047" name="sl">
+           <label for="d047"></label>
+           <img src="planosPQ/87_01_01.png"/>
+        <figcaption>A característica espacial do Plano Qualquer é ser oblíquo aos 3 Planos de Projeção.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d048" name="sl">
+           <label for="d048"></label>
+           <img src="planosPQ/87_01_02.png"/>
+        <figcaption>O Plano Qualquer pode ser representado em épura pelos seus traços. O primeiro traço <b>&alpha;&pi;'</b> é uma reta horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra (LT).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d049" name="sl">
+           <label for="d049"></label>
+           <img src="planosPQ/87_01_03.png"/>
+         <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta frontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a LT. Note que o 1º e 2º traços concorrem sobre a LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d050" name="sl">
+           <label for="d050"></label>
+           <img src="planosPQ/87_01_04.png"/>
+         <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos y e z, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d051" name="sl">
+           <label for="d051"></label>
+           <img src="planosPQ/87_01_05.png"/>
+         <figcaption>O Plano Qualquer não é perpendicular a nenhum Plano se Projeção e, portanto, não é projetante. Note que as 1<sup>as</sup> projeções dos <b>A</b>, <b>B</b> e <b>C</b> não estão alinhadas, o mesmo acontece para as demais projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d052" name="sl">
+           <label for="d052"></label>
+           <img src="planosPQ/87_01_06.png"/>
+         <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano é oblíquo aos Planos de Projeção. Para obtermos a VG de algum elemento do plano iremos utilizar o Método da Mudança de Planos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d053" name="sl">
+           <label for="d053"></label>
+           <img src="planosPQ/87_01_07.png"/>
+         <figcaption>As retas contidas num Plano Paralelo à Linha de Terra podem ser: horizontais, frontas, de perfil ou quaisquer. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d054" name="sl">
+           <label for="d054"></label>
+           <img src="planosPQ/87_01_08.png"/>
+        <figcaption>Para se representar um Plano Qualquersão necessários 3 pontos distintos e não colineares, que não definam nenhum dos planos anteriores.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d055" name="sl">
+           <label for="d055"></label>
+           <img src="planosPQ/87_01_09.png"/>
+        <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Qualquer forma com <b>&pi’;</b> é o ângulo é o mesmo ângulo que uma de suas retas quaisquer, que seja perpendicular a <b>&alpha;&pi;''</b>, forma com <b>&pi’;</b>. Analogamente obtemos os ângulos <b>&theta;<sub>2</sub></b> e <b>&theta;<sub>3</sub></b>. Podemos também obter o ângulo <b>&theta;<sub>1</sub></b> efetuando uma MPV tornando-o de Topo num novo sistema, e obter o ângulo <b>&theta;<sub>3</sub></b> efetuando uma MPH tornando-o Vertical num outro sistema. Não há relação entre os três ângulos que o Plano Qualquer forma com os Planos de Projeção.</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/87_01_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0088.png"/>
 	<img src="planosPQ/AposGD2020_0088a.png"/>
@@ -2131,80 +2191,80 @@
   <p>Para representar o triângulo equilátero contido no plano qualquervamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="d021" name="sl">
-           <label for="d021"></label>
+           <input type="radio" id="d034" name="sl">
+           <label for="d034"></label>
            <img src="planosPQ/89_01.png"/>
         <figcaption>O plano qualquer está representado pelas retas AB e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="d022" name="sl">
-           <label for="d022"></label>
+           <input type="radio" id="d035" name="sl">
+           <label for="d035"></label>
            <img src="planosPQ/89_02.png"/>
         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
-           <input type="radio" id="d023" name="sl">
-           <label for="d023"></label>
+           <input type="radio" id="d036" name="sl">
+           <label for="d036"></label>
            <img src="planosPQ/89_03.png"/>
          <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
        </li>
        <li>
-           <input type="radio" id="d024" name="sl">
-           <label for="d024"></label>
+           <input type="radio" id="d037" name="sl">
+           <label for="d037"></label>
            <img src="planosPQ/89_04.png"/>
          <figcaption>Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d025" name="sl">
-           <label for="d025"></label>
+           <input type="radio" id="d038" name="sl">
+           <label for="d038"></label>
            <img src="planosPQ/89_05.png"/>
          <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d026" name="sl">
-           <label for="d026"></label>
+           <input type="radio" id="d039" name="sl">
+           <label for="d039"></label>
            <img src="planosPQ/89_06.png"/>
          <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> em VG na primeira projeção.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d027" name="sl">
-           <label for="d027"></label>
+           <input type="radio" id="d040" name="sl">
+           <label for="d040"></label>
            <img src="planosPQ/89_07.png"/>
          <figcaption>Destaque a projeção <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d028" name="sl">
-           <label for="d028"></label>
+           <input type="radio" id="d041" name="sl">
+           <label for="d041"></label>
            <img src="planosPQ/89_08.png"/>
         <figcaption>No 3º sistema obtenha a 2ª projeção do ponto <b>C</b>, ou seja, o ponto <b>C’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="d029" name="sl">
-           <label for="d029"></label>
+           <input type="radio" id="d042" name="sl">
+           <label for="d042"></label>
            <img src="planosPQ/89_09.png"/>
         <figcaption>Destaque a projeção <b>A’’<sub>1</sub>B’’<sub>1</sub>C’’<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
        <li>
-           <input type="radio" id="d030" name="sl">
-           <label for="d030"></label>
+           <input type="radio" id="d043" name="sl">
+           <label for="d043"></label>
            <img src="planosPQ/89_10.png"/>
          <figcaption>Agora vamos fazer o alçamento (retorno) do ponto <b>C</b> para o 2º sistema. Construa a LC do ponto <b>C’’<sub>1</sub></b> perpendicular à 2ª LT. Marque sobre essa LC o afastamento do ponto <b>C</b> do 3º sistema obtendo o ponto <b>C’</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="d031" name="sl">
-           <label for="d031"></label>
+           <input type="radio" id="d044" name="sl">
+           <label for="d044"></label>
            <img src="planosPQ/89_11.png"/>
          <figcaption>Destaque a projeção <b>A’B’C’</b> do triângulo equilátero.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d032" name="sl">
-           <label for="d032"></label>
+           <input type="radio" id="d045" name="sl">
+           <label for="d045"></label>
            <img src="planosPQ/89_12.png"/>
          <figcaption>Para fazer o alçamento do ponto <b>C</b> para o 1º sistema construa a LC do ponto <b>C’</b> perpendicular à 1ª LT. Marque sobre essa LC a cota do 2º sistema obtendo o ponto <b>C’’</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="d033" name="sl">
-           <label for="d033"></label>
+           <input type="radio" id="d046" name="sl">
+           <label for="d046"></label>
            <img src="planosPQ/89_13.png"/>
          <figcaption>Destaque a projeção <b>A’’B’’C’’</b>. Pronto! O triângulo equilátero está representado!</figcaption>
        </li>
