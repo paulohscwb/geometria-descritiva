@@ -2035,7 +2035,7 @@
            <input type="radio" id="d068" name="sl">
            <label for="d068"></label>
            <img src="planosPQ/80_16.png"/>
-        <figcaption>Destaque a projeção <b>A’’B’’C’’D’’</b>. Pronto! O quadradoestá representado!</figcaption>
+        <figcaption>Destaque a projeção <b>A’’B’’C’’D’’</b>. Pronto! O quadrado está representado!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/80_00.png" class="fundo"/>
