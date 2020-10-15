@@ -1493,6 +1493,8 @@
 	<img src="planosHFP/AposGD2020_0053a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0054.png"/>
+	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/AposGD2020_0054a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png"/>
 	<img src="planosHFP/AposGD2020_0055a.png"/>
