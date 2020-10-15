@@ -2164,13 +2164,13 @@
            <input type="radio" id="d026" name="sl">
            <label for="d026"></label>
            <img src="planosPQ/89_06.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A’<sub>1</sub><b>B’<sub>1</sub><b>C’<sub>1</sub></b> em VG na primeira projeção.</figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> em VG na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d027" name="sl">
            <label for="d027"></label>
            <img src="planosPQ/89_07.png"/>
-         <figcaption>Destaque a projeção <b>A’<sub>1</sub><b>B’<sub>1</sub><b>C’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+         <figcaption>Destaque a projeção <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d028" name="sl">
@@ -2182,7 +2182,7 @@
            <input type="radio" id="d029" name="sl">
            <label for="d029"></label>
            <img src="planosPQ/89_09.png"/>
-        <figcaption>Destaque a projeção <b>A’’<sub>1</sub><b>B’’<sub>1</sub><b>C’’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+        <figcaption>Destaque a projeção <b>A’’<sub>1</sub>B’’<sub>1</sub>C’’<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
        <li>
            <input type="radio" id="d030" name="sl">
