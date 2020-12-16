@@ -245,7 +245,7 @@
     </ul>
     <img src="prop/20_03_00b.png" class="fundo"/>
    </details>
-   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D</a>
+   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
    <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
 	<img src="prop/20_03_00c.png"/>
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
@@ -336,12 +336,14 @@
        </li>
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo"/>
-    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a></details>
+    </details>
+	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
 	<img src="prop/20_04_00c.png"/>
   	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
-    <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a>
-  </details></div>
+  </details>
+	<a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a>
+  </div>
   <img src="prop/AposGD2020_0008b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
