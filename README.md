@@ -1357,6 +1357,8 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0031.png"/>
 	<img src="pontos-retas/AposGD2020_0031a.png"/>
+	<div class="combo"><a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="pontos-retas/AposGD2020_0031b.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0032.png"/>
 	<img src="pontos-retas/AposGD2020_0032a.png"/>
