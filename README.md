@@ -244,8 +244,8 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo"/>
-	<a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D</a>
    </details>
+   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D</a>
    <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
 	<img src="prop/20_03_00c.png"/>
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
