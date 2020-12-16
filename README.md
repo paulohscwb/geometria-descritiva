@@ -404,8 +404,8 @@
        </li>
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo"/>
-    <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
-  </details></div>
+  </details>
+  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/AposGD2020_0008c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item b</summary>
     <img src="prop/21_05_00b.png"/>
