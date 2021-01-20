@@ -1729,21 +1729,33 @@
          <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="322" name="sl">
-           <label for="322"></label>
+           <input type="radio" id="332" name="sl">
+           <label for="332"></label>
            <img src="pontos-retas/21_05_12.png"/>
          <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="322" name="sl">
-           <label for="322"></label>
+           <input type="radio" id="333" name="sl">
+           <label for="333"></label>
            <img src="pontos-retas/21_05_13.png"/>
          <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="322" name="sl">
-           <label for="322"></label>
+           <input type="radio" id="334" name="sl">
+           <label for="334"></label>
            <img src="pontos-retas/21_05_14.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="335" name="sl">
+           <label for="335"></label>
+           <img src="pontos-retas/21_05_15.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="336" name="sl">
+           <label for="336"></label>
+           <img src="pontos-retas/21_05_16.png"/>
          <figcaption></figcaption>
        </li>
     </ul>
