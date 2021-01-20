@@ -1805,7 +1805,11 @@
 	<a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0067.png"/>
-	<div class="combo"><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de 4 pontos para representá-la.</p>
+	<img src="planosTV/67_01_00.png"/>
+	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro AB pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro CD que é de topo, está em verdadeira grandeza na 1a projeção.</figcaption>
+  </details><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0068.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
