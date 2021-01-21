@@ -2167,6 +2167,72 @@
 	<img src="pontos-retas/21_08_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0021e.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="399" name="sl">
+           <label for="399"></label>
+           <img src="pontos-retas/21_09_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="400" name="sl">
+           <label for="400"></label>
+           <img src="pontos-retas/21_09_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="401" name="sl">
+           <label for="401"></label>
+           <img src="pontos-retas/21_09_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="402" name="sl">
+           <label for="402"></label>
+           <img src="pontos-retas/21_09_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="403" name="sl">
+           <label for="403"></label>
+           <img src="pontos-retas/21_09_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="404" name="sl">
+           <label for="404"></label>
+           <img src="pontos-retas/21_09_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="405" name="sl">
+           <label for="405"></label>
+           <img src="pontos-retas/21_09_07.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="406" name="sl">
+           <label for="406"></label>
+           <img src="pontos-retas/21_09_08.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="407" name="sl">
+           <label for="407"></label>
+           <img src="pontos-retas/21_09_09.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="408" name="sl">
+           <label for="408"></label>
+           <img src="pontos-retas/21_09_10.png"/>
+         <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/21_09_00.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0021f.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0022.png"/>
