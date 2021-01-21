@@ -2106,6 +2106,66 @@
 	<img src="pontos-retas/21_07b_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0021d.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="390" name="sl">
+           <label for="390"></label>
+           <img src="pontos-retas/21_08_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="391" name="sl">
+           <label for="391"></label>
+           <img src="pontos-retas/21_08_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="392" name="sl">
+           <label for="392"></label>
+           <img src="pontos-retas/21_08_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="393" name="sl">
+           <label for="393"></label>
+           <img src="pontos-retas/21_08_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="394" name="sl">
+           <label for="394"></label>
+           <img src="pontos-retas/21_08_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="395" name="sl">
+           <label for="395"></label>
+           <img src="pontos-retas/21_08_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="396" name="sl">
+           <label for="396"></label>
+           <img src="pontos-retas/21_08_07.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="397" name="sl">
+           <label for="397"></label>
+           <img src="pontos-retas/21_08_08.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="398" name="sl">
+           <label for="398"></label>
+           <img src="pontos-retas/21_08_09.png"/>
+         <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="pontos-retas/21_08_00.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0021e.png"/>
 	<img src="pontos-retas/AposGD2020_0021f.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
