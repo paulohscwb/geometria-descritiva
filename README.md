@@ -2394,7 +2394,7 @@
          <figcaption></figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/21_09_00.png" class="fundo"/>
+	<img src="pontos-retas/21_10b_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0022.png"/>
