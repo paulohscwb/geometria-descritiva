@@ -168,7 +168,7 @@ hr {
 	 transition: .5s;
  }
 
-:root {--m: 13.6; --mw: 16.5;}
+:root {--m: 14; --mw: 16.5;}
 
 .slider li:nth-child(1) label {left: 0%;}
 
