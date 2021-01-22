@@ -2575,6 +2575,91 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0027.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="455" name="sl">
+           <label for="455"></label>
+           <img src="pontos-retas/27_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="456" name="sl">
+           <label for="456"></label>
+           <img src="pontos-retas/27_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="457" name="sl">
+           <label for="457"></label>
+           <img src="pontos-retas/27_01_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="458" name="sl">
+           <label for="458"></label>
+           <img src="pontos-retas/27_01_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="459" name="sl">
+           <label for="459"></label>
+           <img src="pontos-retas/27_01_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="460" name="sl">
+           <label for="460"></label>
+           <img src="pontos-retas/27_01_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/27_01_00.png" class="fundo"/>
+  </details></div>
+	<img src="pontos-retas/AposGD2020_0027a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="461" name="sl">
+           <label for="461"></label>
+           <img src="pontos-retas/27_02_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="462" name="sl">
+           <label for="462"></label>
+           <img src="pontos-retas/27_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="463" name="sl">
+           <label for="463"></label>
+           <img src="pontos-retas/27_02_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="464" name="sl">
+           <label for="464"></label>
+           <img src="pontos-retas/27_02_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="465" name="sl">
+           <label for="465"></label>
+           <img src="pontos-retas/27_02_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="466" name="sl">
+           <label for="466"></label>
+           <img src="pontos-retas/27_02_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/27_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0028.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
