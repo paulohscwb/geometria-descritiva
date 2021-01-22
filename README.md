@@ -2971,10 +2971,111 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0070.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l048" name="sl">
+           <label for="l048"></label>
+           <img src="planosTV/70_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l049" name="sl">
+           <label for="l049"></label>
+           <img src="planosTV/70_01_02.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l050" name="sl">
+           <label for="l050"></label>
+           <img src="planosTV/70_01_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l051" name="sl">
+           <label for="l051"></label>
+           <img src="planosTV/70_01_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l052" name="sl">
+           <label for="l052"></label>
+           <img src="planosTV/70_01_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l053" name="sl">
+           <label for="l053"></label>
+           <img src="planosTV/70_01_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l054" name="sl">
+           <label for="l054"></label>
+           <img src="planosTV/70_01_07.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/69_02_01.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/AposGD2020_0070a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0071.png"/>
-	<div class="combo"><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l055" name="sl">
+           <label for="l055"></label>
+           <img src="planosTV/71_00_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l056" name="sl">
+           <label for="l056"></label>
+           <img src="planosTV/71_00_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l057" name="sl">
+           <label for="l057"></label>
+           <img src="planosTV/71_00_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l058" name="sl">
+           <label for="l058"></label>
+           <img src="planosTV/71_00_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l059" name="sl">
+           <label for="l059"></label>
+           <img src="planosTV/71_00_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l060" name="sl">
+           <label for="l060"></label>
+           <img src="planosTV/71_00_07.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l061" name="sl">
+           <label for="l061"></label>
+           <img src="planosTV/71_00_08.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l062" name="sl">
+           <label for="l062"></label>
+           <img src="planosTV/71_00_09.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/71_00_01.png" class="fundo"/>
+  </details><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0071a.png"/>
 	<img src="planosTV/AposGD2020_0071b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
