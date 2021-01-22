@@ -2876,9 +2876,57 @@
 	<div class="combo"><a href="vr/a_mpp1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0031.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="496" name="sl">
+           <label for="496"></label>
+           <img src="pontos-retas/31_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="497" name="sl">
+           <label for="497"></label>
+           <img src="pontos-retas/31_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="498" name="sl">
+           <label for="498"></label>
+           <img src="pontos-retas/31_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/31_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0031a.png"/>
 	<div class="combo"><a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/AposGD2020_0031b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="499" name="sl">
+           <label for="499"></label>
+           <img src="pontos-retas/31_02_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="500" name="sl">
+           <label for="500"></label>
+           <img src="pontos-retas/31_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="501" name="sl">
+           <label for="501"></label>
+           <img src="pontos-retas/31_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/31_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0032.png"/>
 	<img src="pontos-retas/AposGD2020_0032a.png"/>
