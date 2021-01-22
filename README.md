@@ -3146,6 +3146,78 @@
 	<img src="planosTV/AposGD2020_0073.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0074.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l072" name="sl">
+           <label for="l072"></label>
+           <img src="planosTV/74_00_01.png"/>
+        <figcaption>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;")  e como  as bases são paralelas, já podemos traçar o plano vertical que passa pelo ponto G.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l073" name="sl">
+           <label for="l073"></label>
+           <img src="planosTV/74_00_02.png"/>
+         <figcaption>Efetuar a MPV para os pontos A e B, colocando a 2a LT paralela à &alpha;&pi;'</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l074" name="sl">
+           <label for="l074"></label>
+           <img src="planosTV/74_00_03.png"/>
+         <figcaption>Fazer a MPV para os pontos A e B, encontrando A"1 e B"1</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l075" name="sl">
+           <label for="l075"></label>
+           <img src="planosTV/74_00_04.png"/>
+         <figcaption>Desenhar o quadrado em VG</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l077" name="sl">
+           <label for="l077"></label>
+           <img src="planosTV/74_00_05.png"/>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;' (C' e D')</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l076" name="sl">
+           <label for="l076"></label>
+           <img src="planosTV/74_00_06.png"/>
+         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as 2as projeções dos pontos C" e D"</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l078" name="sl">
+           <label for="l078"></label>
+           <img src="planosTV/74_00_07.png"/>
+         <figcaption>Marcar a altura do sólido que é igual à aresta</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l079" name="sl">
+           <label for="l079"></label>
+           <img src="planosTV/74_00_08.png"/>
+         <figcaption>Representar os pontos E', F', G' e H'</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l080" name="sl">
+           <label for="l080"></label>
+           <img src="planosTV/74_00_09.png"/>
+         <figcaption>Fazer o alçamento desses pontos, lembrando que as retas perpendiculares ao plano vertical são horizontais, portanto as arestas AE, BF, CG e DH são retas horizontais e, portanto, possuem a 2a projeção paralela à LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l081" name="sl">
+           <label for="l081"></label>
+           <img src="planosTV/74_00_10.png"/>
+         <figcaption>Desenhar o contorno aparente na 1a e na 2a projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l082" name="sl">
+           <label for="l082"></label>
+           <img src="planosTV/74_00_11.png"/>
+         <figcaption>Desenhar as linhas internas, considerando a visibilidade do sólido.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/74_00_00.png" class="fundo"/>
+  </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0075.png"/>
 	<div class="combo"><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
