@@ -2445,26 +2445,59 @@
 	<img src="pontos-retas/24_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0024a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/24_02_02.png"/>
+  </details></div>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<img src="pontos-retas/AposGD2020_0025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
       <li>
            <input type="radio" id="439" name="sl">
            <label for="439"></label>
-           <img src="pontos-retas/24_02_01.png"/>
+           <img src="pontos-retas/25_01_01.png"/>
         <figcaption></figcaption>
        </li>
 	  <li>
            <input type="radio" id="440" name="sl">
            <label for="440"></label>
-           <img src="pontos-retas/24_02_02.png"/>
+           <img src="pontos-retas/25_01_02.png"/>
         <figcaption></figcaption>
        </li>
+       <li>
+           <input type="radio" id="441" name="sl">
+           <label for="441"></label>
+           <img src="pontos-retas/25_01_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="442" name="sl">
+           <label for="442"></label>
+           <img src="pontos-retas/25_01_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="443" name="sl">
+           <label for="443"></label>
+           <img src="pontos-retas/25_01_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="444" name="sl">
+           <label for="444"></label>
+           <img src="pontos-retas/25_01_06.png"/>
+         <figcaption></figcaption>
+       </li>
 	</ul>
-	<img src="pontos-retas/24_02_00.png" class="fundo"/>
+	<img src="pontos-retas/25_01_00.png" class="fundo"/>
   </details></div>
-	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0025.png"/>
+	<img src="pontos-retas/AposGD2020_0025a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/25_02_01.png"/>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0026.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
