@@ -2877,49 +2877,49 @@
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0068a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>&alpha;&pi;'é oblíquo à LT e &alpha;&pi;" é perpendicular à LT.</p>
   <ul class="slider">
 	  <li>
            <input type="radio" id="l040" name="sl">
            <label for="l040"></label>
            <img src="planosTV/68_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>São necessários dois pontos para definir o plano vertical</figcaption>
        </li>
        <li>
            <input type="radio" id="l041" name="sl">
            <label for="l041"></label>
            <img src="planosTV/68_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Qualquer figura contida no plano tem sua 1a projeção reduzida a um segmento de reta</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l042" name="sl">
            <label for="l042"></label>
            <img src="planosTV/68_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Não tem projeção em VG</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l043" name="sl">
            <label for="l043"></label>
            <img src="planosTV/68_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>É projetante em primeira projeção, pois é perpendicular à &pi;'</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l044" name="sl">
            <label for="l044"></label>
            <img src="planosTV/68_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>As retas do plano são: vertical, horizontal e qualquer</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l045" name="sl">
            <label for="l045"></label>
            <img src="planosTV/68_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>O plano forma ângulo de 90&deg; com &pi;', e com &pi;' e &pi;" forma ângulo entre 0&deg; e 90&deg;.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l047" name="sl">
            <label for="l047"></label>
            <img src="planosTV/68_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>O traço da reta no plano é o ponto (r&alpha;), interseção da reta r com o plano &pi;'. A reta perpendicular ao plano é uma reta horizontal.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/68_01.png" class="fundo"/>
@@ -2927,25 +2927,25 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0069.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
-  <p></p>
+  <p>Dado o plano vertical &alpha; e o ponto A, fazer o rebatimento do ponto A sobre o plano &pi;"</p>
   <ul class="slider">
 	  <li>
            <input type="radio" id="l034" name="sl">
            <label for="l034"></label>
            <img src="planosTV/69_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar por A" uma reta paralela à LT</figcaption>
        </li>
        <li>
            <input type="radio" id="l035" name="sl">
            <label for="l035"></label>
            <img src="planosTV/69_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com centro em P, fazer um arco de circunferência, no sentido anti horário, até encontrar a LT (A'1).</figcaption>
        </li>
        <li>
            <input type="radio" id="l036" name="sl">
            <label for="l036"></label>
            <img src="planosTV/69_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Por A'1 traçar uma perpendicular à LT (A"1).</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/69_01.png" class="fundo"/>
@@ -2958,13 +2958,13 @@
            <input type="radio" id="l038" name="sl">
            <label for="l038"></label>
            <img src="planosTV/69_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto A. Se o plano forma 60&deg; com &pi;", então forma 60&deg; com a LT e, portanto forma 30&deg; com a linha de chamada.</figcaption>
        </li>
        <li>
            <input type="radio" id="l039" name="sl">
            <label for="l039"></label>
            <img src="planosTV/69_02_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Basta representar o plano </figcaption>
        </li>
 	</ul>
 	<img src="planosTV/69_02_01.png" class="fundo"/>
@@ -2978,37 +2978,37 @@
            <input type="radio" id="l048" name="sl">
            <label for="l048"></label>
            <img src="planosTV/70_01_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Dados os pontos A e O, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;")</figcaption>
        </li>
        <li>
            <input type="radio" id="l049" name="sl">
            <label for="l049"></label>
            <img src="planosTV/70_01_02.png"/>
-         <figcaption></figcaption>
+         <figcaption>Rebatemos o plano vertical sobre o plano &pi;"</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l050" name="sl">
            <label for="l050"></label>
            <img src="planosTV/70_01_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Construir a circunferência de centro O e raio OA</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l051" name="sl">
            <label for="l051"></label>
            <img src="planosTV/70_01_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Dividir a circunferencia em 8 partes iguais, traçando dois diâmetros perpendiculares entre si e fazendo as bissetrizes dos ângulos de 90&deg;. Desenhar o octógono em VG</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l052" name="sl">
            <label for="l052"></label>
            <img src="planosTV/70_01_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Fazer o alçamento (sentido contrário do rebatimento) dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;'</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l053" name="sl">
            <label for="l053"></label>
            <img src="planosTV/70_01_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar as segundas projeções dos pontos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l054" name="sl">
@@ -3023,55 +3023,55 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0071.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;") </p>
   <ul class="slider">
 	  <li>
            <input type="radio" id="l055" name="sl">
            <label for="l055"></label>
            <img src="planosTV/71_00_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Efetuar a MPV para o plano vertical sobre o plano ", colocando a 2a LT paralela à &alpha;&pi;'</figcaption>
        </li>
        <li>
            <input type="radio" id="l056" name="sl">
            <label for="l056"></label>
            <img src="planosTV/71_00_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Fazer a MPV para os pontos A e B, encontrando A"1 e B"1</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l057" name="sl">
            <label for="l057"></label>
            <img src="planosTV/71_00_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>o pentágono (observe que tem duas posições possíveis para o pentágono)</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l058" name="sl">
            <label for="l058"></label>
            <img src="planosTV/71_00_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;'</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l059" name="sl">
            <label for="l059"></label>
            <img src="planosTV/71_00_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as 2as projeções dos pontos</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l060" name="sl">
            <label for="l060"></label>
            <img src="planosTV/71_00_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Marcar a altura do sólido que é igual ao lado da base e representar a outra face do sólido e representar a visibilidade da 1a projeção</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l061" name="sl">
            <label for="l061"></label>
            <img src="planosTV/71_00_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Fazer o alçamento da face FGHIJ em relação à 1a LT</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l062" name="sl">
            <label for="l062"></label>
            <img src="planosTV/71_00_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Desenhar a visibilidade do sólido</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/71_00_01.png" class="fundo"/>
