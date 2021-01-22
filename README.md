@@ -2876,6 +2876,60 @@
 	<img src="planosTV/AposGD2020_0068.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0068a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l040" name="sl">
+           <label for="l040"></label>
+           <img src="planosTV/68_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l041" name="sl">
+           <label for="l041"></label>
+           <img src="planosTV/68_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l042" name="sl">
+           <label for="l042"></label>
+           <img src="planosTV/68_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l043" name="sl">
+           <label for="l043"></label>
+           <img src="planosTV/68_05.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l044" name="sl">
+           <label for="l044"></label>
+           <img src="planosTV/68_06.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l045" name="sl">
+           <label for="l045"></label>
+           <img src="planosTV/68_07.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l046" name="sl">
+           <label for="l046"></label>
+           <img src="planosTV/68_08.png"/>
+         <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l047" name="sl">
+           <label for="l047"></label>
+           <img src="planosTV/68_09.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/68_01.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0069.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -2903,7 +2957,7 @@
 	<img src="planosTV/69_01.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/AposGD2020_0069a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
 	  <li>
