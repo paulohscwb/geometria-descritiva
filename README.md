@@ -2878,7 +2878,49 @@
 	<img src="planosTV/AposGD2020_0068a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0069.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l034" name="sl">
+           <label for="l034"></label>
+           <img src="planosTV/69_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l035" name="sl">
+           <label for="l035"></label>
+           <img src="planosTV/69_03.png"/>
+         <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l036" name="sl">
+           <label for="l036"></label>
+           <img src="planosTV/69_04.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/69_01.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/AposGD2020_0069a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l038" name="sl">
+           <label for="l038"></label>
+           <img src="planosTV/69_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l039" name="sl">
+           <label for="l039"></label>
+           <img src="planosTV/69_02_03.png"/>
+         <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/69_02_01.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0070.png"/>
 	<img src="planosTV/AposGD2020_0070a.png"/>
