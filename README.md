@@ -2916,12 +2916,6 @@
          <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="l046" name="sl">
-           <label for="l046"></label>
-           <img src="planosTV/68_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
            <input type="radio" id="l047" name="sl">
            <label for="l047"></label>
            <img src="planosTV/68_09.png"/>
