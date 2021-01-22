@@ -3017,7 +3017,7 @@
          <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="planosTV/69_02_01.png" class="fundo"/>
+	<img src="planosTV/70_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/AposGD2020_0070a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
@@ -3080,7 +3080,66 @@
 	<img src="planosTV/AposGD2020_0071b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0072.png"/>
-	<div class="combo"><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l063" name="sl">
+           <label for="l063"></label>
+           <img src="planosTV/72_00_01.png"/>
+        <figcaption>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;' e vertical (&alpha;&pi;")  e como  as bases são paralelas, já podemos traçar o plano vertical que passa pelo ponto G.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l064" name="sl">
+           <label for="l064"></label>
+           <img src="planosTV/72_00_02.png"/>
+         <figcaption>Efetuar a MPV para os pontos A e B, colocando a 2a LT paralela à &alpha;&pi;'</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l065" name="sl">
+           <label for="l065"></label>
+           <img src="planosTV/72_00_03.png"/>
+         <figcaption>Fazer a MPV para os pontos A e B, encontrando A"1 e B"1</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l066" name="sl">
+           <label for="l066"></label>
+           <img src="planosTV/72_00_04.png"/>
+         <figcaption>Desenhar o quadrado em VG</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l067" name="sl">
+           <label for="l067"></label>
+           <img src="planosTV/72_00_05.png"/>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;' (C' e D')</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l068" name="sl">
+           <label for="l068"></label>
+           <img src="planosTV/72_00_06.png"/>
+         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as 2as projeções dos pontos C" e D"</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l069" name="sl">
+           <label for="l069"></label>
+           <img src="planosTV/72_00_07.png"/>
+         <figcaption>Como as arestas laterais são paralelas, basta traçar por C', D'e E', retas paralelas a A'G'. Os pontos E', F'e G' estarão sobre &beta;&pi;'.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l070" name="sl">
+           <label for="l070"></label>
+           <img src="planosTV/72_00_08.png"/>
+         <figcaption>Na segunda projeção as arestas também são paralelas e iguais. Traçar as paralelas à A"G" e fazer linhas de chamadas das 1as projeções dos pontos E', F' e H', encontrando E", F" e H"</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l071" name="sl">
+           <label for="l071"></label>
+           <img src="planosTV/72_00_09.png"/>
+         <figcaption>Desenhar a visibilidade do sólido.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/72_00_00.png" class="fundo"/>
+  </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0072a.png"/>
 	<img src="planosTV/AposGD2020_0072b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
