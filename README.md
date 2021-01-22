@@ -3277,7 +3277,7 @@
          <figcaption>Desenhar as linhas internas, considerando a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosTV/74_00_00.png" class="fundo"/></div>
+	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0075.png"/>
 	<div class="combo"><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
