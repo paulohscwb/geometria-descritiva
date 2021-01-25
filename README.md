@@ -1202,49 +1202,49 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0019.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
-  <p></p>
+  <p>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="253" name="sl">
            <label for="253"></label>
            <img src="pontos-retas/19_01a_01.png"/>
-        <figcaption></b>.</figcaption>
+        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="254" name="sl">
            <label for="254"></label>
            <img src="pontos-retas/19_01a_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar a abcissa do ponto A em épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="255" name="sl">
            <label for="255"></label>
            <img src="pontos-retas/19_01a_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar a linha de chamada do ponto A perpendicular a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="257" name="sl">
            <label for="257"></label>
            <img src="pontos-retas/19_01a_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Marcar o afastamento e a cota do ponto A.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="258" name="sl">
            <label for="258"></label>
            <img src="pontos-retas/19_01a_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Para obter a terceira projeção do ponto A é necessário traçar paralelas a LT passando por A’ e A”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="259" name="sl">
            <label for="259"></label>
            <img src="pontos-retas/19_01a_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso pegue a medida do afastamento do ponto A e faça um arco até a LT no sentido horário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="260" name="sl">
            <label for="260"></label>
            <img src="pontos-retas/19_01a_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>A terceira projeção do ponto A está na interseção das retas que contém as medidas do afastamento e cota do ponto A.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="260a" name="sl">
@@ -3161,8 +3161,93 @@
 	<img src="planosHFP/AposGD2020_0049a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0050.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s001" name="sl">
+           <label for="s001"></label>
+           <img src="planosHFP/50_01_01.png"/>
+        <figcaption>Encontrar as projeções do ponto O.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s002" name="sl">
+           <label for="s002"></label>
+           <img src="planosHFP/50_01_02.png"/>
+        <figcaption>Encontrar o traço horizontal do plano &alpha;, paralelo à LT, assim como a circunferência em VG na segunda projeção.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s003" name="sl">
+           <label for="s003"></label>
+           <img src="planosHFP/50_01_03.png"/>
+         <figcaption>Traçar uma reta frontal (r) do plano &alpha;, que passe pelo ponto O e forme ângulo de 30&deg; com &pi;'. Este ângulo aparece em VG na épura.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s004" name="sl">
+           <label for="s004"></label>
+           <img src="planosHFP/50_01_04.png"/>
+         <figcaption>A interseção da circunferência com a reta r encontramos as segundas projeções de dois vértices do hexágono (C'' e F'').</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s005" name="sl">
+           <label for="s005"></label>
+           <img src="planosHFP/50_01_05.png"/>
+         <figcaption>Construímos a segunda projeção do hexágono regular inscrito na circunferência. Esta projeção está em VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s006" name="sl">
+           <label for="s006"></label>
+           <img src="planosHFP/50_01_06.png"/>
+         <figcaption>A primeira projeção do hexágono fica reduzida a um segmento de reta sobre o traço horizontal do plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s007" name="sl">
+           <label for="s007"></label>
+           <img src="planosHFP/50_01_07.png"/>
+         <figcaption>Verifique que o lado AB do hexágono é uma reta frontal que forma ângulo de 30° com &pi;'.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/50_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0050a.png"/>
-	<div class="combo"><a href="vr/a2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s008" name="sl">
+           <label for="s008"></label>
+           <img src="planosHFP/50_02_01.png"/>
+        <figcaption>Representar os pontos A e B em épura.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s009" name="sl">
+           <label for="s009"></label>
+           <img src="planosHFP/50_02_02.png"/>
+        <figcaption>Como a seção equatorial da pirâmide dupla está contida num plano frontal, a segunda projeção desta seção estará em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT e contido no traço horizontal do plano.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s010" name="sl">
+           <label for="s010"></label>
+           <img src="planosHFP/50_02_03.png"/>
+         <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs. Retas de topo têm a segunda projeção reduzida a pontos e apresenta VG de segmentos no primeira projeção.
+</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s011" name="sl">
+           <label for="s011"></label>
+           <img src="planosHFP/50_02_04.png"/>
+         <figcaption>O próximo passo consiste em verificar a visibilidade das arestas: o contorno aparente vai ser sempre visível nas duas projeções. Na segunda projeção os vértices V1 e V2 não pertencem ao contorno aparente, sendo visível o de maior afastamento (V2); as arestas que partem dele são visíveis. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s012" name="sl">
+           <label for="s012"></label>
+           <img src="planosHFP/50_02_04.png"/>
+         <figcaption>Na primeira projeção, os vértices E e F têm maior cota, logo são visíveis e as arestas que partem deles também; os vértices C e B são os de menor cota, logo são invisíveis e as arestas que partem deles também.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/50_02_00.png" class="fundo"/>
+  </details>
+  <a href="vr/a2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0051.png"/>
 	<div class="combo"><a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
