@@ -3834,12 +3834,34 @@
 	<img src="planosTV/61_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-	A solução é similar a do exercício anterior.
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0062.png"/>
-	<div class="combo"><a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
+	<img src="planosTV/62_01_00.png"/>
+	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
+  </details>
+	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0062a.png"/>
-	<div class="combo"><a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s052" name="sl">
+           <label for="s052"></label>
+           <img src="planosTV/62_02_00.png"/>
+        <figcaption>As arestas de um prisma são paralelas entre si e de mesmo tamanho. Como conhecemos a aresta CG, logo podemos representar as demais arestas. A base EFGH está contida no plano &beta;, paralelo ao plano &alpha;.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s053" name="sl">
+           <label for="s053"></label>
+           <img src="planosTV/62_02_02.png"/>
+        <figcaption>Para encontrar a seção produzida pelo plano de topo &delta;, encontramos os pontos de interseção deste com as arestas do prisma (polígono 1234). A segunda projeção do polígono fica reduzida a um segmento de reta.  </figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/62_02_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0063.png"/>
 	<img src="planosTV/AposGD2020_0063a.png"/>
