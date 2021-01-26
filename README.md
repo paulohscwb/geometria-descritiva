@@ -3724,47 +3724,47 @@
       <li>
            <input type="radio" id="s036" name="sl">
            <label for="s036"></label>
-           <img src="planosTV/60_01_01.png"/>
+           <img src="planosTV/60_02_01.png"/>
         <figcaption>Encontrar as projeções do ponto A.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s037" name="sl">
            <label for="s037"></label>
-           <img src="planosTV/60_01_02.png"/>
+           <img src="planosTV/60_02_02.png"/>
         <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s038" name="sl">
            <label for="s038"></label>
-           <img src="planosTV/60_01_03.png"/>
+           <img src="planosTV/60_02_03.png"/>
         <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s039" name="sl">
            <label for="s039"></label>
-           <img src="planosTV/60_01_04.png"/>
+           <img src="planosTV/60_02_04.png"/>
         <figcaption>Encontrar as projeções do ponto T. O ponto T é o ponto comum do plano &alpha; com a LT, ou seja, é o ponto do plano &alpha; que possui cota e afastamento nulos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s040" name="sl">
            <label for="s040"></label>
-           <img src="planosTV/60_01_05.png"/>
+           <img src="planosTV/60_02_05.png"/>
         <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s041" name="sl">
            <label for="s041"></label>
-           <img src="planosTV/60_01_06.png"/>
+           <img src="planosTV/60_02_06.png"/>
         <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s042" name="sl">
            <label for="s042"></label>
-           <img src="planosTV/60_01_07.png"/>
+           <img src="planosTV/60_02_07.png"/>
         <figcaption>Pronto! O plano &alpha; está representado por seus traços.</figcaption>
        </li>
     </ul>
-	<img src="planosTV/60_01_00.png" class="fundo"/>
+	<img src="planosTV/60_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0061.png"/>
