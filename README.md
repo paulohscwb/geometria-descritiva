@@ -3293,6 +3293,49 @@
 	<img src="planosHFP/AposGD2020_0054a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s013" name="sl">
+           <label for="s013"></label>
+           <img src="planosHFP/55_01_01.png"/>
+        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s014" name="sl">
+           <label for="s014"></label>
+           <img src="planosHFP/55_01_02.png"/>
+        <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s015" name="sl">
+           <label for="s015"></label>
+           <img src="planosHFP/55_01_03.png"/>
+         <figcaption>Podemos, por exemplo, rebater o plano alfa, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).
+</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s016" name="sl">
+           <label for="s016"></label>
+           <img src="planosHFP/55_01_04.png"/>
+         <figcaption>Construímos o triângulo em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>). </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s017" name="sl">
+           <label for="s017"></label>
+           <img src="planosHFP/55_01_05.png"/>
+         <figcaption>Voltamos com o rebatimento e encontramos as projeções do ponto C.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s018" name="sl">
+           <label for="s018"></label>
+           <img src="planosHFP/55_01_06.png"/>
+         <figcaption>As duas projeções do triângulo foram encontradas. Ambas são segmentos de reta.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/55_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0055a.png"/>
 	<div class="combo"><figcaption>A partir deste ponto, o endereço para visualizar os sólidos em Realidade Aumentada mudou para: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
 	<details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
@@ -3336,7 +3379,12 @@
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details>
-	<br><a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção. </p>
+	<img src="planosHFP/55_02_00.png"/>
+	<figcaption>A solução apresentada foi resolvida por mudança de plano de projeção.</figcaption>
+  </details>
+	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png"/>
 	<div class="combo"><a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
