@@ -3312,8 +3312,7 @@
            <input type="radio" id="s015" name="sl">
            <label for="s015"></label>
            <img src="planosHFP/55_01_03.png"/>
-         <figcaption>Podemos, por exemplo, rebater o plano alfa, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).
-</figcaption>
+         <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
        </li>
        <li>
            <input type="radio" id="s016" name="sl">
@@ -3387,9 +3386,80 @@
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png"/>
-	<div class="combo"><a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
+	<img src="planosHFP/56_01_00.png"/>
+	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
+  </details>
+  <a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0056a.png"/>
-	<div class="combo"><a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s019" name="sl">
+           <label for="s019"></label>
+           <img src="planosHFP/56_02_01.png"/>
+        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s020" name="sl">
+           <label for="s020"></label>
+           <img src="planosHFP/56_02_02.png"/>
+        <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s021" name="sl">
+           <label for="s021"></label>
+           <img src="planosHFP/56_02_03.png"/>
+         <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s022" name="sl">
+           <label for="s022"></label>
+           <img src="planosHFP/56_02_04.png"/>
+         <figcaption>Construímos a base em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub>). </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s023" name="sl">
+           <label for="s023"></label>
+           <img src="planosHFP/56_02_05.png"/>
+         <figcaption>Encontramos A' B' C' D' E' F'.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s024" name="sl">
+           <label for="s024"></label>
+           <img src="planosHFP/56_02_06.png"/>
+         <figcaption>Encontramos A'' B'' C'' D'' E'' F''.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s025" name="sl">
+           <label for="s025"></label>
+           <img src="planosHFP/56_02_07.png"/>
+         <figcaption>Encontramos o centro da base.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s026" name="sl">
+           <label for="s026"></label>
+           <img src="planosHFP/56_02_08.png"/>
+         <figcaption>A altura OV é uma reta fronto-horizontal, logo aparece em VG nas duas projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s027" name="sl">
+           <label for="s027"></label>
+           <img src="planosHFP/56_02_09.png"/>
+         <figcaption>Verificamos a visibilidade das arestas na primeira projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s028" name="sl">
+           <label for="s028"></label>
+           <img src="planosHFP/56_02_10.png"/>
+         <figcaption>Verificamos a visibilidade das arestas na segunda projeção.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/56_02_00.png" class="fundo"/>
+  </details>
+  <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0057.png"/>
 	<div class="combo"><a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -4557,7 +4627,7 @@
            <input type="radio" id="d025" name="sl">
            <label for="d025"></label>
            <img src="planosPQ/90_08.png"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano alfa horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face ABCDEF. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano &alpha; horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face ABCDEF. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d026" name="sl">
