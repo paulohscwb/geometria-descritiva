@@ -11,6 +11,191 @@
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+	<p>Veja o passo a passo das construções básicas mostradas no vídeo:</p>
+	<img src="basico/Cotadas_2020_0001.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1" name="sl" checked>
+			   <label for="1"></label>
+			   <img src="basico/01_01_01.png"/>
+			   <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="2" name="sl">
+			   <label for="2"></label>
+			   <img src="basico/01_01_02.png"/>
+			   <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="3" name="sl">
+			   <label for="3"></label>
+			   <img src="basico/01_01_03.png"/>
+			   <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="4" name="sl">
+			   <label for="4"></label>
+			   <img src="basico/01_01_04.png"/>
+			   <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="5" name="sl">
+			   <label for="5"></label>
+			   <img src="basico/01_01_05.png"/>
+			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída. Note que a figura <b>PAQB</b> é um losango e, portanto, suas diagonais são perpendiculares e se encontram no ponto médio das mesmas.</figcaption>
+		   </li>
+		</ul>
+		<img src="basico/01_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="basico/Cotadas_2020_0002.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="12" name="sl">
+           <label for="12"></label>
+           <img src="basico/02_01_01.png"/>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="13" name="sl">
+           <label for="13"></label>
+           <img src="basico/02_01_02.png"/>
+           <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="14" name="sl">
+           <label for="14"></label>
+           <img src="basico/02_01_03.png"/>
+           <figcaption>Deslize o esquadro até chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="15" name="sl">
+           <label for="15"></label>
+           <img src="basico/02_01_04.png"/>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b> com o cateto do esquadro.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="16" name="sl">
+           <label for="16"></label>
+           <img src="basico/02_01_05.png"/>
+           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída.</figcaption>
+       </li>
+    </ul>
+    <img src="basico/02_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="basico/Cotadas_2020_0002a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="22" name="sl">
+           <label for="22"></label>
+           <img src="basico/02_02_01.png"/>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="23" name="sl">
+           <label for="23"></label>
+           <img src="basico/02_02_02.png"/>
+           <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="24" name="sl">
+           <label for="24"></label>
+           <img src="basico/02_02_03.png"/>
+           <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="25" name="sl">
+           <label for="25"></label>
+           <img src="basico/02_02_04.png"/>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="26" name="sl">
+           <label for="26"></label>
+           <img src="basico/02_02_05.png"/>
+           <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="27" name="sl">
+           <label for="27"></label>
+           <img src="basico/02_02_06.png"/>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="28" name="sl">
+           <label for="28"></label>
+           <img src="basico/02_02_07.png"/>
+           <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="29" name="sl">
+           <label for="29"></label>
+           <img src="basico/02_02_08.png"/>
+           <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="30" name="sl">
+           <label for="30"></label>
+           <img src="basico/02_02_09.png"/>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="31" name="sl">
+           <label for="31"></label>
+           <img src="basico/02_02_10.png"/>
+           <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
+       </li>
+    </ul>
+    <img src="basico/02_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="basico/Cotadas_2020_0002b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="40" name="sl">
+           <label for="40"></label>
+           <img src="basico/02_03_01.png"/>
+           <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>P</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="41" name="sl">
+           <label for="41"></label>
+           <img src="basico/02_03_02.png"/>
+           <figcaption>Com a ponta seca no ponto <b>P</b> desenhe um arco.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="41a" name="sl">
+           <label for="41a"></label>
+           <img src="basico/02_03_03.png"/>
+           <figcaption>Com a ponta seca em <b>Q</b> desenhe um arco com o mesmo raio do passo anterior, obtendo o ponto <b>R</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="42" name="sl">
+           <label for="42"></label>
+           <img src="basico/02_03_04.png"/>
+           <figcaption>Desenhe a reta <b>OR</b> que é a bissetriz do ângulo dado.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="43" name="sl">
+           <label for="43"></label>
+           <img src="basico/02_03_05.png"/>
+           <figcaption>Note que construímos dois triângulos: um verde e outro laranja.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="44" name="sl">
+           <label for="44"></label>
+           <img src="basico/02_03_06.png"/>
+           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos <b>&alpha;</b> e <b>&beta;</b> são também congruentes.</figcaption>
+       </li>
+    </ul>
+    <img src="basico/02_03_00.png" class="fundo"/>
+  </details></div>
 	<img src="prop/AposGD2020_0001.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/AposGD2020_0002.png"/>
