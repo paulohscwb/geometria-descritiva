@@ -3718,9 +3718,123 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
 	<img src="planosTV/AposGD2020_0060a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s036" name="sl">
+           <label for="s036"></label>
+           <img src="planosTV/60_01_01.png"/>
+        <figcaption>Encontrar as projeções do ponto A.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s037" name="sl">
+           <label for="s037"></label>
+           <img src="planosTV/60_01_02.png"/>
+        <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s038" name="sl">
+           <label for="s038"></label>
+           <img src="planosTV/60_01_03.png"/>
+        <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s039" name="sl">
+           <label for="s039"></label>
+           <img src="planosTV/60_01_04.png"/>
+        <figcaption>Encontrar as projeções do ponto T. O ponto T é o ponto comum do plano &alpha; com a LT, ou seja, é o ponto do plano &alpha; que possui cota e afastamento nulos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s040" name="sl">
+           <label for="s040"></label>
+           <img src="planosTV/60_01_05.png"/>
+        <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s041" name="sl">
+           <label for="s041"></label>
+           <img src="planosTV/60_01_06.png"/>
+        <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s042" name="sl">
+           <label for="s042"></label>
+           <img src="planosTV/60_01_07.png"/>
+        <figcaption>Pronto! O plano &alpha; está representado por seus traços.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/60_01_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0061.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s043" name="sl">
+           <label for="s043"></label>
+           <img src="planosTV/61_01_02.png"/>
+        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s044" name="sl">
+           <label for="s044"></label>
+           <img src="planosTV/61_01_03.png"/>
+        <figcaption>Encontrar o traço vertical do plano &alpha; (&alpha;&pi;''). </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s045" name="sl">
+           <label for="s045"></label>
+           <img src="planosTV/61_01_04.png"/>
+        <figcaption>Encontrar o traço horizontal do plano &alpha; (&alpha;&pi;'). </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s046" name="sl">
+           <label for="s046"></label>
+           <img src="planosTV/61_01_05.png"/>
+        <figcaption>A primeira projeção do segmento AB apresenta VG após o rebatimento.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s047" name="sl">
+           <label for="s047"></label>
+           <img src="planosTV/61_01_06.png"/>
+        <figcaption>A projeção A'<sub>1</sub>B'<sub>1</sub>C'1<sub>1</sub>D'<sub>1</sub> está em VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s048" name="sl">
+           <label for="s048"></label>
+           <img src="planosTV/61_01_07.png"/>
+        <figcaption>A projeção A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub>D''<sub>1</sub> fica reduzida a um segmento de reta.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s049" name="sl">
+           <label for="s049"></label>
+           <img src="planosTV/61_01_08.png"/>
+        <figcaption>Voltamos com o processo do rebatimento e encontramos C'' e D''.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s050" name="sl">
+           <label for="s050"></label>
+           <img src="planosTV/61_01_09.png"/>
+        <figcaption>Encontramos C' e D'</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s051" name="sl">
+           <label for="s051"></label>
+           <img src="planosTV/61_01_10.png"/>
+        <figcaption>Pronto! O quadrado ABCD contido no plano &alpha;, de topo, está representado.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/61_01_01.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/AposGD2020_0061a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A solução é similar a do exercício anterior.</p>
+	<img src="planosTV/61_02_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
+	A solução é similar a do exercício anterior.
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0062.png"/>
 	<div class="combo"><a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
