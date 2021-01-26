@@ -2681,8 +2681,9 @@
   </details></div>
 	<img src="pontos-retas/AposGD2020_0025a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
+	<p>A reta r é de topo, então r” é um ponto → A" &equiv; r". </p>
 	<img src="pontos-retas/25_02_01.png"/>
+	<figcaption>Marcar o ponto B em épura. Como s é paralela a r, então s é de topo  → B" &equiv; s".</figcaption>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0026.png"/>
@@ -2736,19 +2737,19 @@
            <input type="radio" id="451" name="sl">
            <label for="451"></label>
            <img src="pontos-retas/26_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar r’ e r” paralelas a LT passando por A’ e A” respectivamente.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="452" name="sl">
            <label for="452"></label>
            <img src="pontos-retas/26_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar a linha de chamada ponto B com abcissa 40.</figcaption>
        </li>
        <li>
            <input type="radio" id="453" name="sl">
            <label for="453"></label>
            <img src="pontos-retas/26_02_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar as projeções B’ e B” na interseção da linha de chamada com r’ e r” respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="454" name="sl">
@@ -2811,31 +2812,31 @@
            <input type="radio" id="461" name="sl">
            <label for="461"></label>
            <img src="pontos-retas/27_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar r” passando por A” paralela a LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="462" name="sl">
            <label for="462"></label>
            <img src="pontos-retas/27_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Como r faz 60° com &pi;" e r é horizontal a VG do ângulo aparece na primeira projeção. Traçar 30° por A’ para encontrar r’( O problema tem duas soluções). Assim r’ faz 60° com a LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="463" name="sl">
            <label for="463"></label>
            <img src="pontos-retas/27_02_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar  B’ na interseção da LT com r’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="464" name="sl">
            <label for="464"></label>
            <img src="pontos-retas/27_02_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar a linha de chamada do ponto B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="465" name="sl">
            <label for="465"></label>
            <img src="pontos-retas/27_02_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar B” na interseção da linha de chamada de B com r”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="466" name="sl">
@@ -2892,31 +2893,31 @@
   </details></div>
 	<img src="pontos-retas/AposGD2020_0028a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Traçar r” passando por A” e B”. Traçar r’ paralela a LT passando por A’.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="473" name="sl">
            <label for="473"></label>
            <img src="pontos-retas/28_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar a linha de chamada do ponto B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="474" name="sl">
            <label for="474"></label>
            <img src="pontos-retas/28_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Encontrar B’ na interseção da linha de chamada de B com r’. Marcar uma paralela a LT com distância 20 (Cota de C).</figcaption>
        </li>
        <li>
            <input type="radio" id="475" name="sl">
            <label for="475"></label>
            <img src="pontos-retas/28_02_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar C” na interseção da paralela com r”. Traçar a linha de chamada do ponto C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="476" name="sl">
            <label for="476"></label>
            <img src="pontos-retas/28_02_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar C’ na interseção da linha de chamada de C com r’.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/28_02_00.png" class="fundo"/>
