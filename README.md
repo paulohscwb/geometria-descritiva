@@ -1802,49 +1802,49 @@
            <input type="radio" id="314" name="sl">
            <label for="314"></label>
            <img src="pontos-retas/21_04_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar o lado AB do quadrado em VG na primeira projeção. Traçar por A’ ou por B’ uma perpendicular ao lado AB.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="315" name="sl">
            <label for="315"></label>
            <img src="pontos-retas/21_04_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o compasso medir o lado AB.</figcaption>
        </li>
        <li>
            <input type="radio" id="316" name="sl">
            <label for="316"></label>
            <img src="pontos-retas/21_04_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida do lado AB para a perpendicular e marque D’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="317" name="sl">
            <label for="317"></label>
            <img src="pontos-retas/21_04_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Trace por D’ uma paralela ao lado AB e encontre o vértice C’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="318" name="sl">
            <label for="318"></label>
            <img src="pontos-retas/21_04_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A’B’C’D’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="319" name="sl">
            <label for="319"></label>
            <img src="pontos-retas/21_04_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça as linhas de chamada dos pontos C e D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="320" name="sl">
            <label for="320"></label>
            <img src="pontos-retas/21_04_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Como o quadrado está contido em &pi;'  a segunda projeção do quadrado está na interseção das linhas de chamada dos pontos A, B, C e D com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="321" name="sl">
            <label for="321"></label>
            <img src="pontos-retas/21_04_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A”B”C”D” do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="322" name="sl">
@@ -1863,49 +1863,49 @@
            <input type="radio" id="323" name="sl">
            <label for="323"></label>
            <img src="pontos-retas/21_05_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar os pontos A e B em épura. O ponto B tem a mesma cota do ponto A. Traçar o lado AB do quadrado em VG na primeira projeção.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="324" name="sl">
            <label for="324"></label>
            <img src="pontos-retas/21_05_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar por A’ ou por B’ uma perpendicular ao lado AB</figcaption>
        </li>
        <li>
            <input type="radio" id="325" name="sl">
            <label for="325"></label>
            <img src="pontos-retas/21_05_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o lado AB.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="326" name="sl">
            <label for="326"></label>
            <img src="pontos-retas/21_05_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida do lado AB para a perpendicular do Passo 2 e marque D’. Trace por D’ uma paralela ao lado AB e encontre o vértice C’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="327" name="sl">
            <label for="327"></label>
            <img src="pontos-retas/21_05_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A’B’C’D’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="328" name="sl">
            <label for="328"></label>
            <img src="pontos-retas/21_05_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça as linhas de chamada dos pontos C e D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="329" name="sl">
            <label for="329"></label>
            <img src="pontos-retas/21_05_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Como o quadrado está contido em um plano &alpha; paralelo a &pi;' a segunda projeção do quadrado está na interseção das linhas de chamada dos pontos A, B, C e D com o traço &alpha;&pi;'.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="330" name="sl">
            <label for="330"></label>
            <img src="pontos-retas/21_05_10.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A”B”C”D” do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="331" name="sl">
@@ -1954,67 +1954,67 @@
            <input type="radio" id="337" name="sl">
            <label for="337"></label>
            <img src="pontos-retas/21_06a_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar os pontos A, B e M em épura. </figcaption>
        </li>
 	  <li>
            <input type="radio" id="338" name="sl">
            <label for="338"></label>
            <img src="pontos-retas/21_06a_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira ou na segunda projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="339" name="sl">
            <label for="339"></label>
            <img src="pontos-retas/21_06a_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o segmento AM.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="340" name="sl">
            <label for="340"></label>
            <img src="pontos-retas/21_06a_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o segmento AM.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="341" name="sl">
            <label for="341"></label>
            <img src="pontos-retas/21_06a_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida AM na diagonal maior encontrando C”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="342" name="sl">
            <label for="342"></label>
            <img src="pontos-retas/21_06a_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o segmento BM.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="343" name="sl">
            <label for="343"></label>
            <img src="pontos-retas/21_06a_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida BM na diagonal menorencontrando D”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="344" name="sl">
            <label for="344"></label>
            <img src="pontos-retas/21_06a_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça as linhas de chamada dos pontos C e D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="345" name="sl">
            <label for="345"></label>
            <img src="pontos-retas/21_06a_10.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="346" name="sl">
            <label for="346"></label>
            <img src="pontos-retas/21_06a_11.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre os pontos C’ e D’ na interseção das linhas de chamada dos pontos C e D com as diagonais AM e BM respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="347" name="sl">
            <label for="347"></label>
            <img src="pontos-retas/21_06a_12.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A’B’C’D’ do paralelogramo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="348" name="sl">
