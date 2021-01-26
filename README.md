@@ -2117,55 +2117,55 @@
            <input type="radio" id="362" name="sl">
            <label for="362"></label>
            <img src="pontos-retas/21_07a_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar os pontos A, B em épura. Como o hexágono está contido em π" os pontos A e B têm afastamento nulo.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="363" name="sl">
            <label for="363"></label>
            <img src="pontos-retas/21_07a_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar uma reta passando por A” e B” na segunda projeção (A"B" &equiv; VG de AB).</figcaption>
        </li>
        <li>
            <input type="radio" id="364" name="sl">
            <label for="364"></label>
            <img src="pontos-retas/21_07a_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o segmento A”B” (VG de AB).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="365" name="sl">
            <label for="365"></label>
            <img src="pontos-retas/21_07a_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida de AB a partir de A e de B encontrando O”(centro da circunferência circunscrita ao hexágono).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="366" name="sl">
            <label for="366"></label>
            <img src="pontos-retas/21_07a_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Ponta seca do compasso em O” trace a circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="367" name="sl">
            <label for="367"></label>
            <img src="pontos-retas/21_07a_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre as projeções C”, D”, E” e F” dos vértices do hexágono transportando a medida de AB a partir de A” e B” na circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="368" name="sl">
            <label for="368"></label>
            <img src="pontos-retas/21_07a_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="369" name="sl">
            <label for="369"></label>
            <img src="pontos-retas/21_07a_10.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="370" name="sl">
            <label for="370"></label>
            <img src="pontos-retas/21_07a_12.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque as projeções A”B”C”D”E”F” e A’B’C’D’E’F’ do hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="371" name="sl">
@@ -2298,43 +2298,43 @@
            <input type="radio" id="390" name="sl">
            <label for="390"></label>
            <img src="pontos-retas/21_08_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' A” &equiv; O.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="391" name="sl">
            <label for="391"></label>
            <img src="pontos-retas/21_08_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Como AB é paralelo a LT, traçar uma reta paralela a LT passando por A’.</figcaption>
        </li>
        <li>
            <input type="radio" id="392" name="sl">
            <label for="392"></label>
            <img src="pontos-retas/21_08_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Ponta seca do compasso em A’ e abertura igual a 30 marcar para direita ou para esquerda na paralela para encontrar B’ (VG de AB).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="393" name="sl">
            <label for="393"></label>
            <img src="pontos-retas/21_08_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontrar D’ na linha de chamada do ponto A.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="394" name="sl">
            <label for="394"></label>
            <img src="pontos-retas/21_08_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Perpendicular a LT por B’ para encontrar C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="395" name="sl">
            <label for="395"></label>
            <img src="pontos-retas/21_08_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre os pontos C” e D” na interseção das linhas de chamada dos pontos C e D com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="396" name="sl">
            <label for="396"></label>
            <img src="pontos-retas/21_08_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque as projeções A”B”C”D” e A’B’C’D’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="397" name="sl">
@@ -2359,37 +2359,37 @@
            <input type="radio" id="399" name="sl">
            <label for="399"></label>
            <img src="pontos-retas/21_09_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' → A" &equiv; O.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="400" name="sl">
            <label for="400"></label>
            <img src="pontos-retas/21_09_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçar uma circunferência com centro em A’ e raio 30 (LG1 de B).</figcaption>
        </li>
        <li>
            <input type="radio" id="401" name="sl">
            <label for="401"></label>
            <img src="pontos-retas/21_09_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar uma paralela a LT com distância 50 (Afastamento de B).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="402" name="sl">
            <label for="402"></label>
            <img src="pontos-retas/21_09_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre o ponto B’ na interseção da circunferência com a paralela (O problema tem duas soluções).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="403" name="sl">
            <label for="403"></label>
            <img src="pontos-retas/21_09_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça a linha de chamada do ponto B encontrando B” sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="404" name="sl">
            <label for="404"></label>
            <img src="pontos-retas/21_09_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque as projeções A”B” e A’B’ do segmento.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="405" name="sl">
@@ -2426,37 +2426,37 @@
            <input type="radio" id="409" name="sl">
            <label for="409"></label>
            <img src="pontos-retas/21_10_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' e pertence a &pi;" → A' &equiv; A'' sobre a LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="410" name="sl">
            <label for="410"></label>
            <img src="pontos-retas/21_10_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Como AB é perpendicular a LT, traçar a linha de chamada do ponto A e marcar B’ com distância 30 (lado do triângulo).</figcaption>
        </li>
        <li>
            <input type="radio" id="411" name="sl">
            <label for="411"></label>
            <img src="pontos-retas/21_10_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>B” coincide com A' e A'' sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="412" name="sl">
            <label for="412"></label>
            <img src="pontos-retas/21_10_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre o ponto C’ na interseção dos arcos de circunferência com centros em A’ e B’ e raio 30 (O problema tem duas soluções).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="413" name="sl">
            <label for="413"></label>
            <img src="pontos-retas/21_10_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça a linha de chamada do ponto C encontrando C” sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="414" name="sl">
            <label for="414"></label>
            <img src="pontos-retas/21_10_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque as projeções A’B’C’ e A”B”C”do triângulo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="415" name="sl">
@@ -2631,8 +2631,9 @@
   </details></div>
 	<img src="pontos-retas/AposGD2020_0024a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
+	<p>A reta r é vertical, então A' &equiv; r' &equiv; B'</p>
 	<img src="pontos-retas/24_02_02.png"/>
+	<figcaption>Marcar B” sobre r” com cota 10.</figcaption>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0025.png"/>
