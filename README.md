@@ -3544,89 +3544,89 @@
       <li>
            <input type="radio" id="e039" name="sl">
            <label for="e039"></label>
-           <img src="pontos-retas/43_01.png"/>
+           <img src="planosHFP/43_01.png"/>
         <figcaption>Marcar os pontos A e B em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e040" name="sl">
            <label for="e040"></label>
-           <img src="pontos-retas/43_02.png"/>
+           <img src="planosHFP/43_02.png"/>
         <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do hexágono da base.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e041" name="sl">
            <label for="e041"></label>
-           <img src="pontos-retas/43_03.png"/>
+           <img src="planosHFP/43_03.png"/>
         <figcaption>Na VG (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção V’ do vértice da pirâmide.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e042" name="sl">
            <label for="e042"></label>
-           <img src="pontos-retas/43_04.png"/>
+           <img src="planosHFP/43_04.png"/>
         <figcaption>Traçar a circunferência circunscrita ao hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e043" name="sl">
            <label for="e043"></label>
-           <img src="pontos-retas/43_05.png"/>
+           <img src="planosHFP/43_05.png"/>
         <figcaption>Encontre as projeções C’, D’, E’ e F’ dos vértices do hexágono transportando a medida de A’B’ a partir de A’ e B’ na circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e044" name="sl">
            <label for="e044"></label>
-           <img src="pontos-retas/43_06.png"/>
+           <img src="planosHFP/43_06.png"/>
         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e045" name="sl">
            <label for="e045"></label>
-           <img src="pontos-retas/43_07.png"/>
+           <img src="planosHFP/43_07.png"/>
         <figcaption>Encontre os pontos C”, D”, E” e F” na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e046" name="sl">
            <label for="e046"></label>
-           <img src="pontos-retas/43_08.png"/>
+           <img src="planosHFP/43_08.png"/>
         <figcaption>Na linha de chamada do ponto V marque a altura 50 da pirâmide a partir da base (LT).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e047" name="sl">
            <label for="e047"></label>
-           <img src="pontos-retas/43_09.png"/>
+           <img src="planosHFP/43_09.png"/>
         <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e048" name="sl">
            <label for="e048"></label>
-           <img src="pontos-retas/43_10.png"/>
+           <img src="planosHFP/43_10.png"/>
         <figcaption>Destaque as projeções A’B’C’D’E’F’V’ e A”B”C”D”E”F”V” dapirâmide.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e049" name="sl">
            <label for="e049"></label>
-           <img src="pontos-retas/43_13.png"/>
+           <img src="planosHFP/43_13.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e050" name="sl">
            <label for="e050"></label>
-           <img src="pontos-retas/43_16.png"/>
+           <img src="planosHFP/43_16.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e051" name="sl">
            <label for="e051"></label>
-           <img src="pontos-retas/43_17.png"/>
+           <img src="planosHFP/43_17.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e052" name="sl">
            <label for="e052"></label>
-           <img src="pontos-retas/43_18.png"/>
+           <img src="planosHFP/43_18.png"/>
         <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/43_00.png" class="fundo"/>
+	<img src="planosHFP/43_00.png" class="fundo"/>
   </details>
 	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
