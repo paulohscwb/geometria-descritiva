@@ -3786,9 +3786,183 @@
 	<a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0045.png"/>
-	<div class="combo"><a href="vr/a47.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e076" name="sl">
+           <label for="e076"></label>
+           <img src="planosHFP/45_01_01.png"/>
+        <figcaption>Marcar os pontos A e B em épura. </figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e077" name="sl">
+           <label for="e077"></label>
+           <img src="planosHFP/45_01_03.png"/>
+        <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do tetraedro.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e078" name="sl">
+           <label for="e078"></label>
+           <img src="planosHFP/45_01_04.png"/>
+        <figcaption>Encontre a projeção C’ do vértice do triângulo da base transportando a medida de A’B’ a partir de A’ e B’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e079" name="sl">
+           <label for="e079"></label>
+           <img src="planosHFP/45_01_04.png"/>
+        <figcaption>Na VG da base (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção D’ do vértice do tetraedro.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e080" name="sl">
+           <label for="e080"></label>
+           <img src="planosHFP/45_01_06.png"/>
+        <figcaption>O Centro da base (triângulo equilátero) pode ser determinado no encontro das bissetrizes ou mediatrizes do triângulo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e081" name="sl">
+           <label for="e081"></label>
+           <img src="planosHFP/45_01_07.png"/>
+        <figcaption>Trace as linhas de chamada dos pontos C e O.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e082" name="sl">
+           <label for="e082"></label>
+           <img src="planosHFP/45_01_08.png"/>
+        <figcaption>Encontre os pontos C” e O”  na interseção das linhas de chamada dos pontos C e O com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e083" name="sl">
+           <label for="e083"></label>
+           <img src="planosHFP/45_01_09.png"/>
+        <figcaption>Para encontrar a altura do tetraedro construa o triângulo AOD. A medida OD é a altura do tetraedro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e084" name="sl">
+           <label for="e084"></label>
+           <img src="planosHFP/45_01_10.png"/>
+        <figcaption>Na linha de chamada do ponto D marque a altura h do tetraedro a partir de O” na base do tetraedro (LT).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e085" name="sl">
+           <label for="e085"></label>
+           <img src="planosHFP/45_01_11.png"/>
+        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e086" name="sl">
+           <label for="e086"></label>
+           <img src="planosHFP/45_01_12.png"/>
+        <figcaption>Destaque as projeções A’B’C’D’ e A”B”C”D”  do tetraedro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e087" name="sl">
+           <label for="e087"></label>
+           <img src="planosHFP/45_01_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e088" name="sl">
+           <label for="e088"></label>
+           <img src="planosHFP/45_01_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e089" name="sl">
+           <label for="e089"></label>
+           <img src="planosHFP/45_01_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e090" name="sl">
+           <label for="e090"></label>
+           <img src="planosHFP/45_01_16.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/45_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a47.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0045a.png"/>
-	<div class="combo"><a href="vr/a48.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="e091" name="sl">
+           <label for="e091"></label>
+           <img src="planosHFP/45_02_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e092" name="sl">
+           <label for="e092"></label>
+           <img src="planosHFP/45_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e093" name="sl">
+           <label for="e093"></label>
+           <img src="planosHFP/45_02_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e094" name="sl">
+           <label for="e094"></label>
+           <img src="planosHFP/45_02_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e095" name="sl">
+           <label for="e095"></label>
+           <img src="planosHFP/45_02_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e096" name="sl">
+           <label for="e096"></label>
+           <img src="planosHFP/45_02_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e097" name="sl">
+           <label for="e097"></label>
+           <img src="planosHFP/45_02_07.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e098" name="sl">
+           <label for="e098"></label>
+           <img src="planosHFP/45_02_08.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e099" name="sl">
+           <label for="e099"></label>
+           <img src="planosHFP/45_02_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e100" name="sl">
+           <label for="e100"></label>
+           <img src="planosHFP/45_02_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e101" name="sl">
+           <label for="e101"></label>
+           <img src="planosHFP/45_02_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e102" name="sl">
+           <label for="e102"></label>
+           <img src="planosHFP/45_02_12.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/45_02_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a48.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0046.png"/>
 	<div class="combo"><a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
