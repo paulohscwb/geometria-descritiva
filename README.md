@@ -4186,9 +4186,183 @@
 	<a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0047.png"/>
-	<div class="combo"><a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	   <li>
+           <input type="radio" id="e137" name="sl">
+           <label for="e137"></label>
+           <img src="planosHFP/47_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e138" name="sl">
+           <label for="e138"></label>
+           <img src="planosHFP/47_01_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e139" name="sl">
+           <label for="e139"></label>
+           <img src="planosHFP/47_01_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e140" name="sl">
+           <label for="e140"></label>
+           <img src="planosHFP/47_01_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e141" name="sl">
+           <label for="e141"></label>
+           <img src="planosHFP/47_01_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e142" name="sl">
+           <label for="e142"></label>
+           <img src="planosHFP/47_01_08.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e143" name="sl">
+           <label for="e143"></label>
+           <img src="planosHFP/47_01_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e144" name="sl">
+           <label for="e144"></label>
+           <img src="planosHFP/47_01_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e145" name="sl">
+           <label for="e145"></label>
+           <img src="planosHFP/47_01_12.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e146" name="sl">
+           <label for="e146"></label>
+           <img src="planosHFP/47_01_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e147" name="sl">
+           <label for="e147"></label>
+           <img src="planosHFP/47_01_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e148" name="sl">
+           <label for="e148"></label>
+           <img src="planosHFP/47_01_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e149" name="sl">
+           <label for="e149"></label>
+           <img src="planosHFP/47_01_16.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/47_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0047a.png"/>
-	<div class="combo"><a href="vr/a51.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	   <li>
+           <input type="radio" id="e150" name="sl">
+           <label for="e150"></label>
+           <img src="planosHFP/47_02_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e151" name="sl">
+           <label for="e151"></label>
+           <img src="planosHFP/47_02_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e152" name="sl">
+           <label for="e152"></label>
+           <img src="planosHFP/47_02_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e153" name="sl">
+           <label for="e153"></label>
+           <img src="planosHFP/47_02_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e154" name="sl">
+           <label for="e154"></label>
+           <img src="planosHFP/47_02_07.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e155" name="sl">
+           <label for="e155"></label>
+           <img src="planosHFP/47_02_08.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e156" name="sl">
+           <label for="e156"></label>
+           <img src="planosHFP/47_02_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e157" name="sl">
+           <label for="e157"></label>
+           <img src="planosHFP/47_02_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e158" name="sl">
+           <label for="e158"></label>
+           <img src="planosHFP/47_02_12.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e159" name="sl">
+           <label for="e159"></label>
+           <img src="planosHFP/47_02_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e160" name="sl">
+           <label for="e160"></label>
+           <img src="planosHFP/47_02_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e161" name="sl">
+           <label for="e161"></label>
+           <img src="planosHFP/47_02_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e162" name="sl">
+           <label for="e162"></label>
+           <img src="planosHFP/47_02_16.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e163" name="sl">
+           <label for="e163"></label>
+           <img src="planosHFP/47_02_17.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/47_02_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a51.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0048.png"/>
 	<img src="planosHFP/AposGD2020_0048a.png"/>
