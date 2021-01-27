@@ -6,8 +6,8 @@
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
-  <summary id="propriedades">Propriedades das projeções cilíndricas, pág. 1-13</summary>
-	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
+  <summary id="propriedades">1. Propriedades das projeções cilíndricas</summary>
+	<p>Material da página 1 até a página 13.</p>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -196,6 +196,7 @@
     </ul>
     <img src="basico/02_03_00.png" class="fundo"/>
   </details></div>
+	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<img src="prop/AposGD2020_0001.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/AposGD2020_0002.png"/>
