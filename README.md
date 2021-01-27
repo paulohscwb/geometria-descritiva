@@ -3218,7 +3218,8 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos1">Planos: horizontal, frontal e de perfil, pág. 38-58</summary>
+<details><summary id="planos1">3. Planos: horizontal e frontal</summary>
+	<p>Material da página 38 até a página 53</p>
 	<img src="planosHFP/AposGD2020_0038.png"/>
 	<img src="planosHFP/AposGD2020_0038a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -3433,10 +3434,14 @@
 	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro OV.</figcaption>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+</details>
+
+<details><summary id="planos2">4. Planos: de perfil e de topo</summary>
+	<p>Material da página 54 até a página 67</p>
 	<img src="planosHFP/AposGD2020_0054.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0054a.png"/>
-	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0055.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -3529,7 +3534,7 @@
 	<figcaption>A solução apresentada foi resolvida por mudança de plano de projeção.</figcaption>
   </details>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0056.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
@@ -3605,7 +3610,7 @@
 	<img src="planosHFP/56_02_00.png" class="fundo"/>
   </details>
   <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0057.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -3664,14 +3669,11 @@
 	<img src="planosHFP/57_02_00.png" class="fundo"/>
   </details>
   <a href="vr/a10.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0058.png"/>
 	<img src="planosHFP/AposGD2020_0058a.png"/>
 	<div class="combo"><a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-</details>
-
-<details><summary id="planos2">Planos: de topo e vertical, pág. 59-77</summary>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0059.png"/>
 	<div class="combo"><a href="vr/plano_topo.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0059a.png"/>
@@ -4056,6 +4058,10 @@
 	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro AB pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro CD que é de topo, está em verdadeira grandeza na 1a projeção.</figcaption>
   </details><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+</details>
+
+<details><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
+	<p>Material da página 68 até a página 86</p>
 	<img src="planosTV/AposGD2020_0068.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0068a.png"/>
@@ -4107,7 +4113,7 @@
 	</ul>
 	<img src="planosTV/68_01.png" class="fundo"/>
   </details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0069.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Dado o plano vertical &alpha; e o ponto A, fazer o rebatimento do ponto A sobre o plano &pi;"</p>
@@ -4152,7 +4158,7 @@
 	</ul>
 	<img src="planosTV/69_02_01.png" class="fundo"/>
   </details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0070.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -4203,7 +4209,7 @@
 	<img src="planosTV/70_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/AposGD2020_0070a.png"/>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0071.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;") </p>
@@ -4261,7 +4267,7 @@
   </details><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0071a.png"/>
 	<img src="planosTV/AposGD2020_0071b.png"/>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0072.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -4325,9 +4331,9 @@
   </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0072a.png"/>
 	<img src="planosTV/AposGD2020_0072b.png"/>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0073.png"/>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0074.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -4400,19 +4406,16 @@
        </li>
 	</ul>
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0075.png"/>
 	<div class="combo"><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0076.png"/>
 	<div class="combo"><a href="vr/a19.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0077.png"/>
 	<div class="combo"><a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-</details>
-
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="planos3">Planos: paralelo à linha de terra e qualquer, pág. 78-96</summary>
+	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0078.png"/>
 	<div class="combo"><a href="vr/plano_rampa.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/AposGD2020_0078a.png"/>
@@ -4777,6 +4780,10 @@
 	<img src="planosPQ/AposGD2020_0086.png"/>
 	<img src="planosPQ/AposGD2020_0086a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+</details>
+
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="planos4">6. Plano qualquer</summary>
+	<p>Material da página 87 até a página 96</p>
 	<img src="planosPQ/AposGD2020_0087.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/AposGD2020_0087a.png"/>
@@ -4840,10 +4847,10 @@
     </ul>
 	<img src="planosPQ/87_01_00.png" class="fundo"/>
   </details></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0088.png"/>
 	<img src="planosPQ/AposGD2020_0088a.png"/>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0089.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o triângulo equilátero contido no plano qualquervamos utilizar o Método de Mudança de Planos (MP).</p>
@@ -4929,7 +4936,7 @@
     </ul>
 	<img src="planosPQ/89_00.png" class="fundo"/>
   </details></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0090.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o prisma regular hexagonal com uma face contida no plano qualquer vamos utilizar o Método de Mudança de Planos (MP). O plano qualquer está representado pelas retas <b>AB</b> e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. </p>
@@ -5016,14 +5023,14 @@
 	<img src="planosPQ/90_00.png" class="fundo"/>
   </details>
 	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0091.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p>
 	<img src="planosPQ/91_01.png"/>
 	<figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption>
   </details><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0092.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
@@ -5036,25 +5043,25 @@
 	<img src="planosPQ/92_02_01.png"/>
 	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;’</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0093.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/93_01.png"/>
 	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual a aresta da base.</figcaption>
   </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0094.png"/>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0095.png"/>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0096.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Para representar o dodecaedro regular de aresta <b>AB</b>, com a face <b>ABCDE</b> contida no plano horizontal <b>&alpha;</b>, veja o detalhamento da construção nas páginas anteriores.</p>
 	<img src="planosPQ/96_01.png"/>
 	<figcaption></figcaption>
   </details><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
 <br>
