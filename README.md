@@ -3959,9 +3959,231 @@
 	<a href="vr/a48.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0046.png"/>
-	<div class="combo"><a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="e103" name="sl">
+           <label for="e103"></label>
+           <img src="planosHFP/46_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e104" name="sl">
+           <label for="e104"></label>
+           <img src="planosHFP/46_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e105" name="sl">
+           <label for="e105"></label>
+           <img src="planosHFP/46_01_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e106" name="sl">
+           <label for="e106"></label>
+           <img src="planosHFP/46_01_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e107" name="sl">
+           <label for="e107"></label>
+           <img src="planosHFP/46_01_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e108" name="sl">
+           <label for="e108"></label>
+           <img src="planosHFP/46_01_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e109" name="sl">
+           <label for="e109"></label>
+           <img src="planosHFP/46_01_07.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e110" name="sl">
+           <label for="e110"></label>
+           <img src="planosHFP/46_01_08.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e111" name="sl">
+           <label for="e111"></label>
+           <img src="planosHFP/46_01_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e112" name="sl">
+           <label for="e112"></label>
+           <img src="planosHFP/46_01_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e113" name="sl">
+           <label for="e113"></label>
+           <img src="planosHFP/46_01_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e114" name="sl">
+           <label for="e114"></label>
+           <img src="planosHFP/46_01_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e115" name="sl">
+           <label for="e115"></label>
+           <img src="planosHFP/46_01_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e116" name="sl">
+           <label for="e116"></label>
+           <img src="planosHFP/46_01_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/46_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0046a.png"/>
-	<div class="combo"><a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p></p>
+  <ul class="slider">
+	   <li>
+           <input type="radio" id="e117" name="sl">
+           <label for="e117"></label>
+           <img src="planosHFP/46_02_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e118" name="sl">
+           <label for="e118"></label>
+           <img src="planosHFP/46_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e119" name="sl">
+           <label for="e119"></label>
+           <img src="planosHFP/46_02_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e120" name="sl">
+           <label for="e120"></label>
+           <img src="planosHFP/46_02_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e121" name="sl">
+           <label for="e121"></label>
+           <img src="planosHFP/46_02_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e122" name="sl">
+           <label for="e122"></label>
+           <img src="planosHFP/46_02_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e123" name="sl">
+           <label for="e123"></label>
+           <img src="planosHFP/46_02_07.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e124" name="sl">
+           <label for="e124"></label>
+           <img src="planosHFP/46_02_08.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e125" name="sl">
+           <label for="e125"></label>
+           <img src="planosHFP/46_02_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e126" name="sl">
+           <label for="e126"></label>
+           <img src="planosHFP/46_02_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/46_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p></p>
+  <ul class="slider">
+	   <li>
+           <input type="radio" id="e127" name="sl">
+           <label for="e127"></label>
+           <img src="planosHFP/46_02_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e128" name="sl">
+           <label for="e128"></label>
+           <img src="planosHFP/46_02_12.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e129" name="sl">
+           <label for="e129"></label>
+           <img src="planosHFP/46_02_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e130" name="sl">
+           <label for="e130"></label>
+           <img src="planosHFP/46_02_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e131" name="sl">
+           <label for="e131"></label>
+           <img src="planosHFP/46_02_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e132" name="sl">
+           <label for="e132"></label>
+           <img src="planosHFP/46_02_16.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e133" name="sl">
+           <label for="e133"></label>
+           <img src="planosHFP/46_02_17.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e134" name="sl">
+           <label for="e134"></label>
+           <img src="planosHFP/46_02_18.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e135" name="sl">
+           <label for="e135"></label>
+           <img src="planosHFP/46_02_19.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e136" name="sl">
+           <label for="e136"></label>
+           <img src="planosHFP/46_02_20.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/46_02_10.png" class="fundo"/>
+  </details>
+	<a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0047.png"/>
 	<div class="combo"><a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
