@@ -647,11 +647,7 @@
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/AposGD2020_0009.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-  <p> Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
-    <img src="prop/21_06.png"/>
-	<figcaption>Encontre a projeção do centro da circunferência em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
   <img src="prop/AposGD2020_0009a.png"/>
   <div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -826,11 +822,7 @@
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/AposGD2020_0012a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-  <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
-	<img src="prop/24_02_00.png"/>
-	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/AposGD2020_0013.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
