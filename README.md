@@ -3327,6 +3327,138 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0034.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e019" name="sl">
+           <label for="e019"></label>
+           <img src="pontos-retas/34_01.png"/>
+        <figcaption>Traçar r’ passando por A’ e B’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e020" name="sl">
+           <label for="e020"></label>
+           <img src="pontos-retas/34_02.png"/>
+        <figcaption>Traçar r” passando por A” e B”.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e021" name="sl">
+           <label for="e021"></label>
+           <img src="pontos-retas/34_03.png"/>
+        <figcaption>Para representar o ponto P da reta r de afastamento 10 trace uma paralela à  LT com distância 10.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e022" name="sl">
+           <label for="e022"></label>
+           <img src="pontos-retas/34_04.png"/>
+        <figcaption>P’ está na interseção de r’ com a paralela. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e023" name="sl">
+           <label for="e023"></label>
+           <img src="pontos-retas/34_05.png"/>
+        <figcaption>Trace a linha de chamada do ponto P.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e024" name="sl">
+           <label for="e024"></label>
+           <img src="pontos-retas/34_06.png"/>
+        <figcaption>P” está na interseção de r” com a linha de chamada do ponto P</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e025" name="sl">
+           <label for="e025"></label>
+           <img src="pontos-retas/34_07.png"/>
+        <figcaption>Traçar s’ passando por C’ e D’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e026" name="sl">
+           <label for="e026"></label>
+           <img src="pontos-retas/34_08.png"/>
+        <figcaption>Traçar s” passando por C” e D”.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e027" name="sl">
+           <label for="e027"></label>
+           <img src="pontos-retas/34_09.png"/>
+        <figcaption>Para representar o ponto Q da reta s de cota 40 trace uma paralela à  LT com distância 40.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e028" name="sl">
+           <label for="e028"></label>
+           <img src="pontos-retas/34_10.png"/>
+        <figcaption>Q” está na interseção de s” com a paralela.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e029" name="sl">
+           <label for="e029"></label>
+           <img src="pontos-retas/34_11.png"/>
+        <figcaption>Trace a linha de chamada do ponto Q.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e030" name="sl">
+           <label for="e030"></label>
+           <img src="pontos-retas/34_12.png"/>
+        <figcaption>Q’ está na interseção de s’ com a linha de chamada do ponto Q.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e031" name="sl">
+           <label for="e031"></label>
+           <img src="pontos-retas/34_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e032" name="sl">
+           <label for="e032"></label>
+           <img src="pontos-retas/34_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/34_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033" name="sl">
+           <label for="e033"></label>
+           <img src="pontos-retas/34_15.png"/>
+        <figcaption>Para obter a VG do segmento AB faremos uma MPV transformando a reta qualquer em uma reta frontal no novo sistema. Faça a nova LT paralela a r’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034" name="sl">
+           <label for="e034"></label>
+           <img src="pontos-retas/34_16.png"/>
+        <figcaption>Trace as linhas de chamada de A’ e B’ perpendiculares a nova LT. Transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e035" name="sl">
+           <label for="e035"></label>
+           <img src="pontos-retas/34_17.png"/>
+        <figcaption>Traçar r”1 passando por A”1 e B”1. r”1 é uma reta frontal e A”1B”1 representa a VG do segmento AB.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e036" name="sl">
+           <label for="e036"></label>
+           <img src="pontos-retas/34_18.png"/>
+        <figcaption>Para obter a VG do segmento CD faremos uma MPH transformando a reta qualquer em uma reta horizontal no novo sistema. Faça a nova LT paralela a s”. Trace as linhas de chamada de C” e D” perpendiculares a nova LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e037" name="sl">
+           <label for="e037"></label>
+           <img src="pontos-retas/34_19.png"/>
+        <figcaption>Transporte as medidas dos afastamentos dos pontos C e D a partir da nova LT encontrando as projeções C’1 e D’1. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e038" name="sl">
+           <label for="e038"></label>
+           <img src="pontos-retas/34_20.png"/>
+        <figcaption>Traçar s’1 passando por C’1 e D’1. s’1 é uma reta horizontal e C’1D’1 representa a VG do segmento CD.</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/34_14.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0034a.png"/>
 	<img src="pontos-retas/AposGD2020_0034b.png"/>
 	<img src="pontos-retas/AposGD2020_0034c.png"/>
