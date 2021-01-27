@@ -6,7 +6,7 @@
   <img src="../../planosPQ/AposGD2020_0092.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
-	<img src="92_01_01.png"/>
+	<img src="92_01_01.png" class="fundo" />
 	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
   </details></div></details>
 
