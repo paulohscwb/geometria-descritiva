@@ -3216,7 +3216,7 @@
 	<img src="pontos-retas/33_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0033a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
       <li>
