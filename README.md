@@ -4177,60 +4177,8 @@
 	<img src="planosTV/AposGD2020_0070a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0071.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;") </p>
-  <ul class="slider">
-	  <li>
-           <input type="radio" id="l055" name="sl">
-           <label for="l055"></label>
-           <img src="planosTV/71_00_02.png"/>
-        <figcaption>Efetuar a MPV para o plano vertical sobre o plano ", colocando a 2a LT paralela à &alpha;&pi;'</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="l056" name="sl">
-           <label for="l056"></label>
-           <img src="planosTV/71_00_03.png"/>
-         <figcaption>Fazer a MPV para os pontos A e B, encontrando A"1 e B"1</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l057" name="sl">
-           <label for="l057"></label>
-           <img src="planosTV/71_00_04.png"/>
-         <figcaption>o pentágono (observe que tem duas posições possíveis para o pentágono)</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l058" name="sl">
-           <label for="l058"></label>
-           <img src="planosTV/71_00_05.png"/>
-         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;'</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l059" name="sl">
-           <label for="l059"></label>
-           <img src="planosTV/71_00_06.png"/>
-         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as 2as projeções dos pontos</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l060" name="sl">
-           <label for="l060"></label>
-           <img src="planosTV/71_00_07.png"/>
-         <figcaption>Marcar a altura do sólido que é igual ao lado da base e representar a outra face do sólido e representar a visibilidade da 1a projeção</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l061" name="sl">
-           <label for="l061"></label>
-           <img src="planosTV/71_00_08.png"/>
-         <figcaption>Fazer o alçamento da face FGHIJ em relação à 1a LT</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l062" name="sl">
-           <label for="l062"></label>
-           <img src="planosTV/71_00_09.png"/>
-         <figcaption>Desenhar a visibilidade do sólido</figcaption>
-       </li>
-	</ul>
-	<img src="planosTV/71_00_01.png" class="fundo"/>
-  </details><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
+	<br><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0071a.png"/>
 	<img src="planosTV/AposGD2020_0071b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
@@ -4737,11 +4685,8 @@
   </details><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0085.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Esse exercício também é parecido com os anteriores.</p>
-	<img src="planosPQ/85_01.png"/>
-	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
-  </details><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
+	<br><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0086.png"/>
 	<img src="planosPQ/AposGD2020_0086a.png"/>
