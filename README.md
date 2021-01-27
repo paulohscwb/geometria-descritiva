@@ -3631,9 +3631,159 @@
 	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0044.png"/>
-	<div class="combo"><a href="vr/a45.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e063" name="sl">
+           <label for="e063"></label>
+           <img src="planosHFP/44_01_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e064" name="sl">
+           <label for="e064"></label>
+           <img src="planosHFP/44_01_04.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e065" name="sl">
+           <label for="e065"></label>
+           <img src="planosHFP/44_01_05.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e066" name="sl">
+           <label for="e066"></label>
+           <img src="planosHFP/44_01_06.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e067" name="sl">
+           <label for="e067"></label>
+           <img src="planosHFP/44_01_07.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e068" name="sl">
+           <label for="e068"></label>
+           <img src="planosHFP/44_01_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e069" name="sl">
+           <label for="e069"></label>
+           <img src="planosHFP/44_01_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e070" name="sl">
+           <label for="e070"></label>
+           <img src="planosHFP/44_01_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e071" name="sl">
+           <label for="e071"></label>
+           <img src="planosHFP/44_01_12.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e072" name="sl">
+           <label for="e072"></label>
+           <img src="planosHFP/44_01_13.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e073" name="sl">
+           <label for="e073"></label>
+           <img src="planosHFP/44_01_14.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e074" name="sl">
+           <label for="e074"></label>
+           <img src="planosHFP/44_01_15.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e075" name="sl">
+           <label for="e075"></label>
+           <img src="planosHFP/44_01_16.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/44_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a45.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0044a.png"/>
-	<div class="combo"><a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e053" name="sl">
+           <label for="e053"></label>
+           <img src="planosHFP/44_02_01.png"/>
+        <figcaption>Marcar os pontos A e B em épura.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e054" name="sl">
+           <label for="e054"></label>
+           <img src="planosHFP/44_02_02.png"/>
+        <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do quadrado da base.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e055" name="sl">
+           <label for="e055"></label>
+           <img src="planosHFP/44_02_03.png"/>
+        <figcaption>Encontre as projeções C’e D’ dos vértices do quadrado transportando a medida de A’B’ a partir de A’ e B’ em retas perpendiculares.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e056" name="sl">
+           <label for="e056"></label>
+           <img src="planosHFP/44_02_04.png"/>
+        <figcaption>Na VG da base (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção V’ do vértice da pirâmide.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e057" name="sl">
+           <label for="e057"></label>
+           <img src="planosHFP/44_02_05.png"/>
+        <figcaption>Trace as linhas de chamada dos pontos C, D e V.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e058" name="sl">
+           <label for="e058"></label>
+           <img src="planosHFP/44_02_06.png"/>
+        <figcaption>Encontre os pontos C”, D” e O” na interseção das linhas de chamada dos pontos C, D e O com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e059" name="sl">
+           <label for="e059"></label>
+           <img src="planosHFP/44_02_07.png"/>
+        <figcaption>Na linha de chamada do ponto V marque a altura 50 da pirâmide a partir de O” na base da pirâmide (LT).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e060" name="sl">
+           <label for="e060"></label>
+           <img src="planosHFP/44_02_08.png"/>
+        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e061" name="sl">
+           <label for="e061"></label>
+           <img src="planosHFP/44_02_09.png"/>
+        <figcaption>Destaque as projeções A’B’C’D’V’ e A”B”C”D”V”  da pirâmide.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e062" name="sl">
+           <label for="e062"></label>
+           <img src="planosHFP/44_02_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/44_02_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0045.png"/>
 	<div class="combo"><a href="vr/a47.html" target="_blank" class="visu">Visualização em 3D</a></div>
