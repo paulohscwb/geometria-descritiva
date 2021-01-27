@@ -3197,8 +3197,134 @@
 	<img src="pontos-retas/AposGD2020_0032b.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0033.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e004" name="sl">
+           <label for="e004"></label>
+           <img src="pontos-retas/33_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e005" name="sl">
+           <label for="e005"></label>
+           <img src="pontos-retas/33_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/33_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0033a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e006" name="sl">
+           <label for="e006"></label>
+           <img src="pontos-retas/33_01_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e007" name="sl">
+           <label for="e007"></label>
+           <img src="pontos-retas/33_01_04.png"/>
+        <figcaption>Traçar r’ passando por A’ e B’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e008" name="sl">
+           <label for="e008"></label>
+           <img src="pontos-retas/33_01_05.png"/>
+        <figcaption>Traçar r” passando por A” e B”.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e009" name="sl">
+           <label for="e009"></label>
+           <img src="pontos-retas/33_01_06.png"/>
+        <figcaption>Para representar o ponto P da reta r de cota 15 trace uma paralela à  LT com distância 15.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e010" name="sl">
+           <label for="e010"></label>
+           <img src="pontos-retas/33_01_07.png"/>
+        <figcaption>P” está na interseção de r” com a paralela.P” coincide com B”</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e011" name="sl">
+           <label for="e011"></label>
+           <img src="pontos-retas/33_01_08.png"/>
+        <figcaption>Trace a linha de chamada do ponto P.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e012" name="sl">
+           <label for="e012"></label>
+           <img src="pontos-retas/33_01_09.png"/>
+        <figcaption>P’ está na interseção de r’ com a linha de chamada do ponto P. P’ coincide com B’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e013" name="sl">
+           <label for="e013"></label>
+           <img src="pontos-retas/33_01_10.png"/>
+        <figcaption>Traçar s’ passando por C’ e D’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e014" name="sl">
+           <label for="e014"></label>
+           <img src="pontos-retas/33_01_11.png"/>
+        <figcaption>Traçar s” passando por C” e D”.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e015" name="sl">
+           <label for="e015"></label>
+           <img src="pontos-retas/33_01_12.png"/>
+        <figcaption>Para representar o ponto Qda reta s de afastamento 20 trace uma paralela à  LT com distância 20.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e016" name="sl">
+           <label for="e016"></label>
+           <img src="pontos-retas/33_01_13.png"/>
+        <figcaption>Q’ está na interseção de s’ com a paralela.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e017" name="sl">
+           <label for="e017"></label>
+           <img src="pontos-retas/33_01_14.png"/>
+        <figcaption>Trace a linha de chamada do ponto Q.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e018" name="sl">
+           <label for="e018"></label>
+           <img src="pontos-retas/33_01_15.png"/>
+        <figcaption>Q” está na interseção de s” com a linha de chamada do ponto Q.</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/33_01_03.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0033b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e001" name="sl">
+           <label for="e001"></label>
+           <img src="pontos-retas/33_02_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e002" name="sl">
+           <label for="e002"></label>
+           <img src="pontos-retas/33_02_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e003" name="sl">
+           <label for="e003"></label>
+           <img src="pontos-retas/33_02_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/33_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0034.png"/>
 	<img src="pontos-retas/AposGD2020_0034a.png"/>
