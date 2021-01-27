@@ -3832,34 +3832,28 @@
         <figcaption>Encontre os pontos C” e O”  na interseção das linhas de chamada dos pontos C e O com a LT.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="e083" name="sl">
-           <label for="e083"></label>
-           <img src="planosHFP/45_01_09.png"/>
-        <figcaption>Para encontrar a altura do tetraedro construa o triângulo AOD. A medida OD é a altura do tetraedro.</figcaption>
-       </li>
-	   <li>
            <input type="radio" id="e084" name="sl">
            <label for="e084"></label>
            <img src="planosHFP/45_01_10.png"/>
-        <figcaption>Na linha de chamada do ponto D marque a altura h do tetraedro a partir de O” na base do tetraedro (LT).</figcaption>
+        <figcaption>Para encontrar a altura do tetraedro construa o triângulo AOD. A medida OD é a altura do tetraedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e085" name="sl">
            <label for="e085"></label>
            <img src="planosHFP/45_01_11.png"/>
-        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
+        <figcaption>Na linha de chamada do ponto D marque a altura h do tetraedro a partir de O” na base do tetraedro (LT).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e086" name="sl">
            <label for="e086"></label>
            <img src="planosHFP/45_01_12.png"/>
-        <figcaption>Destaque as projeções A’B’C’D’ e A”B”C”D”  do tetraedro.</figcaption>
+        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e087" name="sl">
            <label for="e087"></label>
            <img src="planosHFP/45_01_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>Destaque as projeções A’B’C’D’ e A”B”C”D”  do tetraedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e088" name="sl">
