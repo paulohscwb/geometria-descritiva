@@ -260,6 +260,9 @@
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/E_9yowlSx3I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="prop/AposGD2020_0005.png"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
