@@ -3415,7 +3415,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0052.png"/>
 	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span>
-	<a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<br><a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0052a.png"/>
 	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
