@@ -4943,11 +4943,8 @@
   </details><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0092.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Esse exercício também é parecido com os anteriores.</p>
-	<img src="planosPQ/92_01_01.png"/>
-	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
-  </details><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+	<br><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/AposGD2020_0092a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
