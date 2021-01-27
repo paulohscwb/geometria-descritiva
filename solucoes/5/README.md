@@ -59,10 +59,10 @@
   </details></details>
   	
   <details open style="border-bottom: 1px solid #a2dec0; "><summary>Atividade 5.2: Exercício 6 da pág. 85</summary>
-  <img src="../../planosPQ/AposGD2020_0085.png"/ >
+  <img src="../../planosPQ/AposGD2020_0085.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
-	<img src="85_01.png"/>
+	<img src="85_01.png" />
 	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details></div></details>
 
