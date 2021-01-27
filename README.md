@@ -3301,6 +3301,7 @@
 	<img src="planosHFP/AposGD2020_0048.png"/>
 	<img src="planosHFP/AposGD2020_0048a.png"/>
 	<img src="planosHFP/AposGD2020_0048b.png"/>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
 	<img src="planosHFP/AposGD2020_0048c.png"/>
 	<div class="combo"><a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -3413,11 +3414,7 @@
   <a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0052.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Como uma das faces do tetraedro está contida num plano frontal sua segunda projeção está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
-	<img src="planosHFP/52_01_00.png"/>
-	<figcaption>Para determinar a altura do tetraedro regular construímos um triângulo retângulo auxiliar onde um dos catetos corresponde ao raio da circunferência circunscrita à face, o outro corresponde à altura e a hipotenusa à aresta do tetraedro.</figcaption>
-  </details>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span>
 	<a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0052a.png"/>
 	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
