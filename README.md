@@ -5,9 +5,8 @@
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/02/ApostilaGD2019.pdf" target="_blank">apostila de Geometria Descritiva</a></p>
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details>
-  <summary id="propriedades">1. Propriedades das projeções cilíndricas</summary>
-	<p>Material da página 1 até a página 13.</p>
+<details open><summary id="propriedades">Materiais básicos de Desenho</summary>
+    <p>USO DOS MATERIAIS DE DESENHO GEOMÉTRICO</p>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -49,6 +48,7 @@
 		</ul>
 		<img src="basico/01_01_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
@@ -86,6 +86,7 @@
     </ul>
     <img src="basico/02_01_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -153,6 +154,7 @@
     </ul>
     <img src="basico/02_02_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -196,6 +198,12 @@
     </ul>
     <img src="basico/02_03_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
+</details>
+
+<details>
+  <summary id="propriedades">1. Propriedades das projeções cilíndricas</summary>
+	<p>Material da página 1 até a página 13.</p>
 	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<img src="prop/AposGD2020_0001.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
