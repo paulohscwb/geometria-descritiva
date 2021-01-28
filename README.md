@@ -5,8 +5,7 @@
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/02/ApostilaGD2019.pdf" target="_blank">apostila de Geometria Descritiva</a></p>
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details open><summary id="basico">Materiais básicos de Desenho</summary>
-    <p>USO DOS MATERIAIS DE DESENHO GEOMÉTRICO</p>
+<details open><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
