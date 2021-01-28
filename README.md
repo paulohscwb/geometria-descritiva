@@ -1125,7 +1125,7 @@
 	<img src="pontos-retas/AposGD2020_0016c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
     <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>D</b> em perspectiva e colocá-las em épura.</p>
-    <img src="pontos-retas/16_03_00.png"/>
+    <img src="pontos-retas/16_04_00.png"/>
 	<figcaption>As coordenadas <b>y</b> e <b>z</b> são marcadas para baixo da linha da terra para o ponto <b>D</b> do 4&ordm; diedro. Use o link abaixo para visualizar os 4 pontos em 3D.</figcaption>
   </details>
   <a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
