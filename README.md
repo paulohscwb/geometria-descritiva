@@ -201,7 +201,7 @@
   <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="propriedades">1. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 1 até a página 13.</p>
 	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
