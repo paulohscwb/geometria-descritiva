@@ -848,7 +848,7 @@
 
 <details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 14 até a página 37</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 14 ATÉ A PÁGINA 18, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 14 ATÉ A PÁGINA 18, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
 	<img src="pontos-retas/AposGD2020_0014.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
@@ -1392,7 +1392,7 @@
   </details>
   <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 19 ATÉ A PÁGINA 32, FOI PRODUZIDO PELA <b>prof&ordf; BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 19 ATÉ A PÁGINA 32, FOI PRODUZIDO PELA <b>prof&ordf; BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR.</b></figcaption>
 	<img src="pontos-retas/AposGD2020_0019.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
   <p>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</p>
@@ -3207,7 +3207,7 @@
   </details></div>
 	<img src="pontos-retas/AposGD2020_0032b.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 33 ATÉ A PÁGINA 37, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 33 ATÉ A PÁGINA 37, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="pontos-retas/AposGD2020_0033.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p></p>
@@ -3493,7 +3493,7 @@
 
 <details><summary id="planos1">3. Planos: horizontal e frontal</summary>
 	<p>Material da página 38 até a página 53</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 38 ATÉ A PÁGINA 48, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 38 ATÉ A PÁGINA 48, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0038.png"/>
 	<img src="planosHFP/AposGD2020_0038a.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -4384,7 +4384,7 @@
 	<img src="planosHFP/AposGD2020_0048c.png"/>
 	<div class="combo"><a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 49 ATÉ A PÁGINA 53, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 49 ATÉ A PÁGINA 53, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0049.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0049a.png"/>
@@ -4517,7 +4517,7 @@
 
 <details><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 54 até a página 67</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 54 ATÉ A PÁGINA 64, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 54 ATÉ A PÁGINA 64, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0054.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0054a.png"/>
@@ -4880,7 +4880,7 @@
 	<img src="planosTV/AposGD2020_0064a.png"/>
 	<img src="planosTV/AposGD2020_0064b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 65 ATÉ A PÁGINA 80, FOI PRODUZIDO PELA <b>prof&ordf; LUZIA VIDAL DE SOUZA.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 65 ATÉ A PÁGINA 80, FOI PRODUZIDO PELA <b>prof&ordf; LUZIA VIDAL DE SOUZA.</b></figcaption>
 	<img src="planosTV/AposGD2020_0065.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
@@ -5613,7 +5613,7 @@
 	<img src="planosPQ/80_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR 81 ATÉ A PÁGINA 86, FOI PRODUZIDO PELA <b>prof&ordf; DEISE MARIA BETHOLDI COSTA.</b></figcaption>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 81 ATÉ A PÁGINA 86, FOI PRODUZIDO PELA <b>prof&ordf; DEISE MARIA BETHOLDI COSTA.</b></figcaption>
 	<img src="planosPQ/AposGD2020_0081.png"/>
 	<div class="combo"><a href="vr/a23.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
