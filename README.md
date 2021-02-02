@@ -3210,68 +3210,68 @@
   <p></p>
   <ul class="slider">
       <li>
-           <input type="radio" id="501" name="sl">
-           <label for="501"></label>
+           <input type="radio" id="501b" name="sl">
+           <label for="501b"></label>
            <img src="pontos-retas/32_01_01.png"/>
         <figcaption>A reta r é de perfil, vamos encontrar a VG de AB fazendo uma MPV.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="502" name="sl">
-           <label for="502"></label>
+           <input type="radio" id="502b" name="sl">
+           <label for="502b"></label>
            <img src="pontos-retas/32_01_02.png"/>
         <figcaption>Na primeira projeção faça a nova LT paralela a r’. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="503" name="sl">
-           <label for="503"></label>
+           <input type="radio" id="503b" name="sl">
+           <label for="503b"></label>
            <img src="pontos-retas/32_01_03.png"/>
         <figcaption>Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="504" name="sl">
-           <label for="504"></label>
+           <input type="radio" id="504b" name="sl">
+           <label for="504b"></label>
            <img src="pontos-retas/32_01_04.png"/>
         <figcaption>Trace a reta r”1 passando A”1 e B”1. No novo sistema a reta é frontal e A”1B”1= VG AB.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="505" name="sl">
-           <label for="505"></label>
+           <input type="radio" id="505b" name="sl">
+           <label for="505b"></label>
            <img src="pontos-retas/32_01_05.png"/>
         <figcaption>Para encontrar o ponto M de afastamento 23, com o compasso marque a medida do afastamento na r’ e encontre M’.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="506" name="sl">
-           <label for="506"></label>
+           <input type="radio" id="506b" name="sl">
+           <label for="506b"></label>
            <img src="pontos-retas/32_01_06.png"/>
         <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M”1 sobre r”1.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="507" name="sl">
-           <label for="507"></label>
+           <input type="radio" id="507b" name="sl">
+           <label for="507b"></label>
            <img src="pontos-retas/32_01_07.png"/>
         <figcaption>Com o compasso pegue a medida da cota do ponto M.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="508" name="sl">
-           <label for="508"></label>
+           <input type="radio" id="508b" name="sl">
+           <label for="508b"></label>
            <img src="pontos-retas/32_01_08.png"/>
         <figcaption>Transporte a medida da cota de M para r” a partir da LT encontrando M”.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="509" name="sl">
-           <label for="509"></label>
+           <input type="radio" id="509b" name="sl">
+           <label for="509b"></label>
            <img src="pontos-retas/32_01_09.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="510" name="sl">
-           <label for="510"></label>
+           <input type="radio" id="510b" name="sl">
+           <label for="510b"></label>
            <img src="pontos-retas/32_01_10.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
-           <input type="radio" id="511" name="sl">
-           <label for="511"></label>
+           <input type="radio" id="511b" name="sl">
+           <label for="511b"></label>
            <img src="pontos-retas/32_01_11.png"/>
         <figcaption></figcaption>
        </li>
