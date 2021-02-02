@@ -3589,13 +3589,13 @@
            <input type="radio" id="e038b" name="sl">
            <label for="e038b"></label>
            <img src="pontos-retas/35_2_f.png"/>
-        <figcaption>Solução do item e</figcaption>
+        <figcaption>Solução do item f</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e039b" name="sl">
            <label for="e039b"></label>
            <img src="pontos-retas/35_2_g.png"/>
-        <figcaption>Solução do item e</figcaption>
+        <figcaption>Solução do item g</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/35_2_c.png" class="fundo" style="visibility:hidden"/>
