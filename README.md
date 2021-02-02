@@ -3686,7 +3686,17 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0037.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/37_1.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0037a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/37_2.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
