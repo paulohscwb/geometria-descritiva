@@ -3206,7 +3206,7 @@
 	<img src="pontos-retas/32_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0032b.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p></p>
   <ul class="slider">
       <li>
@@ -3496,8 +3496,23 @@
 	<img src="pontos-retas/34_14.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0034a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/34_1.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0034b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/34_2.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0034c.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/34_3.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0035.png"/>
 	<img src="pontos-retas/AposGD2020_0035a.png"/>
