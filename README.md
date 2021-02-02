@@ -3253,67 +3253,67 @@
   </details></div>
 	<img src="pontos-retas/AposGD2020_0033a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Uma reta qualquer passa por 3 diedros. Uma reta qualquer é oblíqua aos 3 planos de projeção.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e006" name="sl">
            <label for="e006"></label>
            <img src="pontos-retas/33_01_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Primeiramente obtemos as primeiras e segundas projeções de r, traçando r’ por A’B’, r’’ por A’’B’’. De maneira análoga, obtemos as primeiras e segundas projeções de s.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e007" name="sl">
            <label for="e007"></label>
            <img src="pontos-retas/33_01_04.png"/>
-        <figcaption>Traçar r’ passando por A’ e B’.</figcaption>
+        <figcaption>Para obter o ponto da reta r de cota 15. Tomamos uma abertura de 15 com o compasso.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e008" name="sl">
            <label for="e008"></label>
            <img src="pontos-retas/33_01_05.png"/>
-        <figcaption>Traçar r” passando por A” e B”.</figcaption>
+        <figcaption>Podemos marcar a distância de 15 na linha de chamada de B. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e009" name="sl">
            <label for="e009"></label>
            <img src="pontos-retas/33_01_06.png"/>
-        <figcaption>Para representar o ponto P da reta r de cota 15 trace uma paralela à  LT com distância 15.</figcaption>
+        <figcaption>Traçamos uma paralela à  LT com distância 15. Observe que esse é o lugar geométrico das projeções dos pontos de cota 15.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e010" name="sl">
            <label for="e010"></label>
            <img src="pontos-retas/33_01_07.png"/>
-        <figcaption>P” está na interseção de r” com a paralela.P” coincide com B”</figcaption>
+        <figcaption>P” está na interseção de r” com a paralela.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e011" name="sl">
            <label for="e011"></label>
            <img src="pontos-retas/33_01_08.png"/>
-        <figcaption>Trace a linha de chamada do ponto P.</figcaption>
+        <figcaption>Traçamos a linha de chamada do ponto P.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e012" name="sl">
            <label for="e012"></label>
            <img src="pontos-retas/33_01_09.png"/>
-        <figcaption>P’ está na interseção de r’ com a linha de chamada do ponto P. P’ coincide com B’.</figcaption>
+        <figcaption>P’ está na interseção de r’ com a linha de chamada do ponto P.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e013" name="sl">
            <label for="e013"></label>
            <img src="pontos-retas/33_01_10.png"/>
-        <figcaption>Traçar s’ passando por C’ e D’.</figcaption>
+        <figcaption>Para representar o ponto Q de afastamento 20 na reta s, primeiramente tomamos a medida de 20, no compasso.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e014" name="sl">
            <label for="e014"></label>
            <img src="pontos-retas/33_01_11.png"/>
-        <figcaption>Traçar s” passando por C” e D”.</figcaption>
+        <figcaption>Podemos marcar essa distância na linha de chamada de C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e015" name="sl">
            <label for="e015"></label>
            <img src="pontos-retas/33_01_12.png"/>
-        <figcaption>Para representar o ponto Q da reta s de afastamento 20 trace uma paralela à  LT com distância 20.</figcaption>
+        <figcaption>Traçamos uma paralela à  LT com distância 20. Observe que esse é o lugar geométrico das projeções dos pontos que possuem afastamento 20.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e016" name="sl">
@@ -3325,7 +3325,7 @@
            <input type="radio" id="e017" name="sl">
            <label for="e017"></label>
            <img src="pontos-retas/33_01_14.png"/>
-        <figcaption>Trace a linha de chamada do ponto Q.</figcaption>
+        <figcaption>Traçamos a linha de chamada do ponto Q.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e018" name="sl">
@@ -3344,19 +3344,31 @@
            <input type="radio" id="e001" name="sl">
            <label for="e001"></label>
            <img src="pontos-retas/33_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Primeiramente traçamos a primeira e a segunda projeção de r.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e002" name="sl">
            <label for="e002"></label>
            <img src="pontos-retas/33_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos então a nova linha de terra, paralela à primeira projeção de r.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e003" name="sl">
            <label for="e003"></label>
            <img src="pontos-retas/33_02_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos as linhas de chamada de A e B.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e003a" name="sl">
+           <label for="e003a"></label>
+           <img src="pontos-retas/33_02_04.png"/>
+        <figcaption>Marcamos as projeções auxiliares de A’’1 e B’’1 . Observe que a distância da nova LT às projeções dos pontos é igual à sua cota.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e003b" name="sl">
+           <label for="e003b"></label>
+           <img src="pontos-retas/33_02_05.png"/>
+        <figcaption>A distância de A’’1 e B’’1 é a VG de AB.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/33_02_00.png" class="fundo"/>
@@ -3370,85 +3382,85 @@
            <input type="radio" id="e019" name="sl">
            <label for="e019"></label>
            <img src="pontos-retas/34_01.png"/>
-        <figcaption>Traçar r’ passando por A’ e B’.</figcaption>
+        <figcaption>Primeiramente obtemos as primeiras e segundas projeções de r, traçando r’ por A’B’, r’’ por A’’B’’. De maneira análoga, obtemos as primeiras e segundas projeções de s.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e020" name="sl">
            <label for="e020"></label>
            <img src="pontos-retas/34_02.png"/>
-        <figcaption>Traçar r” passando por A” e B”.</figcaption>
+        <figcaption>Para obter o ponto da reta r de afastamento 10, tomamos uma abertura de 10 com o compasso.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e021" name="sl">
            <label for="e021"></label>
            <img src="pontos-retas/34_03.png"/>
-        <figcaption>Para representar o ponto P da reta r de afastamento 10 trace uma paralela à  LT com distância 10.</figcaption>
+        <figcaption>Podemos marcar a distância de 10 na linha de chamada de A. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e022" name="sl">
            <label for="e022"></label>
            <img src="pontos-retas/34_04.png"/>
-        <figcaption>P’ está na interseção de r’ com a paralela. </figcaption>
+        <figcaption>Traçamos uma paralela à  LT com distância 10. Observe que esse é o lugar geométrico das projeções dos pontos de afastamento 10.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e023" name="sl">
            <label for="e023"></label>
            <img src="pontos-retas/34_05.png"/>
-        <figcaption>Trace a linha de chamada do ponto P.</figcaption>
+        <figcaption>P’ está na interseção de r’ com a paralela.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e024" name="sl">
            <label for="e024"></label>
            <img src="pontos-retas/34_06.png"/>
-        <figcaption>P” está na interseção de r” com a linha de chamada do ponto P</figcaption>
+        <figcaption>Traçamos a linha de chamada do ponto P.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e025" name="sl">
            <label for="e025"></label>
            <img src="pontos-retas/34_07.png"/>
-        <figcaption>Traçar s’ passando por C’ e D’.</figcaption>
+        <figcaption>P’’ está na interseção de r’’ com a linha de chamada do ponto P.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e026" name="sl">
            <label for="e026"></label>
            <img src="pontos-retas/34_08.png"/>
-        <figcaption>Traçar s” passando por C” e D”.</figcaption>
+        <figcaption>Para representar o ponto Q de cota40 na reta s, primeiramente prolongamos a linha de chamada de D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e027" name="sl">
            <label for="e027"></label>
            <img src="pontos-retas/34_09.png"/>
-        <figcaption>Para representar o ponto Q da reta s de cota 40 trace uma paralela à  LT com distância 40.</figcaption>
+        <figcaption>Marcamos no compasso a medida 40</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e028" name="sl">
            <label for="e028"></label>
            <img src="pontos-retas/34_10.png"/>
-        <figcaption>Q” está na interseção de s” com a paralela.</figcaption>
+        <figcaption>Podemos marcar essa distância na linha de chamada de D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e029" name="sl">
            <label for="e029"></label>
            <img src="pontos-retas/34_11.png"/>
-        <figcaption>Trace a linha de chamada do ponto Q.</figcaption>
+        <figcaption>Traçamos uma paralela à LT com distância 40. Observe que esse é o lugar geométrico das projeções dos pontos que possuem cota 40.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e030" name="sl">
            <label for="e030"></label>
            <img src="pontos-retas/34_12.png"/>
-        <figcaption>Q’ está na interseção de s’ com a linha de chamada do ponto Q.</figcaption>
+        <figcaption>Q’’ está na interseção de s’’ com a paralela.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e031" name="sl">
            <label for="e031"></label>
            <img src="pontos-retas/34_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos a linha de chamada do ponto Q.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e032" name="sl">
            <label for="e032"></label>
            <img src="pontos-retas/34_14.png"/>
-        <figcaption></figcaption>
+        <figcaption>Q’ está na interseção de s’ com a linha de chamada do ponto Q.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/34_00.png" class="fundo"/>
@@ -3460,37 +3472,37 @@
            <input type="radio" id="e033" name="sl">
            <label for="e033"></label>
            <img src="pontos-retas/34_15.png"/>
-        <figcaption>Para obter a VG do segmento AB faremos uma MPV transformando a reta qualquer em uma reta frontal no novo sistema. Faça a nova LT paralela a r’.</figcaption>
+        <figcaption>Para encontrar a VG de AB, traçamos a nova linha de terra, paralela à primeira projeção de r.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034" name="sl">
            <label for="e034"></label>
            <img src="pontos-retas/34_16.png"/>
-        <figcaption>Trace as linhas de chamada de A’ e B’ perpendiculares a nova LT. Transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
+        <figcaption>Traçamos as linhas de chamada de A e B e marcamos as projeções auxiliares, A’’1 e B’’1 . Observe que a distância da nova LT às projeções dos pontos é igual à sua cota.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e035" name="sl">
            <label for="e035"></label>
            <img src="pontos-retas/34_17.png"/>
-        <figcaption>Traçar r”1 passando por A”1 e B”1. r”1 é uma reta frontal e A”1B”1 representa a VG do segmento AB.</figcaption>
+        <figcaption>A distância de A’’1 e B’’1 é a VG de AB.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e036" name="sl">
            <label for="e036"></label>
            <img src="pontos-retas/34_18.png"/>
-        <figcaption>Para obter a VG do segmento CD faremos uma MPH transformando a reta qualquer em uma reta horizontal no novo sistema. Faça a nova LT paralela a s”. Trace as linhas de chamada de C” e D” perpendiculares a nova LT.</figcaption>
+        <figcaption>Para encontrar a VG de CD, traçamos a nova linha de terra, paralela à primeira projeção de s.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e037" name="sl">
            <label for="e037"></label>
            <img src="pontos-retas/34_19.png"/>
-        <figcaption>Transporte as medidas dos afastamentos dos pontos C e D a partir da nova LT encontrando as projeções C’1 e D’1. </figcaption>
+        <figcaption>Traçamos as linhas de chamada de C e D e marcamos as projeções auxiliares, C’’1 e D’’1 . Observe que a distância da nova LT às projeções dos pontos é igual à sua cota.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e038" name="sl">
            <label for="e038"></label>
            <img src="pontos-retas/34_20.png"/>
-        <figcaption>Traçar s’1 passando por C’1 e D’1. s’1 é uma reta horizontal e C’1D’1 representa a VG do segmento CD.</figcaption>
+        <figcaption>A distância de C’’1 e D’’1 é a VG de CD.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/34_14.png" class="fundo"/>
@@ -3601,9 +3613,68 @@
 	<img src="pontos-retas/35_2_c.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0035b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033c" name="sl">
+           <label for="e033c"></label>
+           <img src="pontos-retas/35_3_a.png"/>
+        <figcaption>Solução do item a</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034c" name="sl">
+           <label for="e034c"></label>
+           <img src="pontos-retas/35_3_b.png"/>
+        <figcaption>Solução do item b</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/35_3_a.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0035c.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033d" name="sl">
+           <label for="e033d"></label>
+           <img src="pontos-retas/35_4_a.png"/>
+        <figcaption>Solução do item a</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034d" name="sl">
+           <label for="e034d"></label>
+           <img src="pontos-retas/35_4_b.png"/>
+        <figcaption>Solução do item b</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/35_4_a.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0035d.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033e" name="sl">
+           <label for="e033e"></label>
+           <img src="pontos-retas/35_5_a.png"/>
+        <figcaption>Solução do item a</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034e" name="sl">
+           <label for="e034e"></label>
+           <img src="pontos-retas/35_5_b.png"/>
+        <figcaption>Solução do item b</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/35_5_a.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0035e.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/35_6.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0036.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
