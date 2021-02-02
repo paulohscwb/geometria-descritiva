@@ -3734,16 +3734,99 @@
         <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/39_1.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/39_1.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0040.png"/>
 	<div class="combo"><a href="vr/plano_horizontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0040a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/40_1.png"/>
+	<figcaption></figcaption>
+  </details></div>
+	<img src="planosHFP/AposGD2020_0040b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/40_2.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0041.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033g" name="sl">
+           <label for="e033g"></label>
+           <img src="planosHFP/41_1_0.png"/>
+        <figcaption>Iniciamos marcando as projeções dos pontos A e B. Como o quadrado está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B, estarão sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034g" name="sl">
+           <label for="e034g"></label>
+           <img src="planosHFP/41_1_1.png"/>
+        <figcaption>A projeção do quadrado estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035g" name="sl">
+           <label for="e035g"></label>
+           <img src="planosHFP/41_1_2.png"/>
+        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do quadrado. Note que a segunda projeção do quadrado está sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/41_1_0.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0041a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033h" name="sl">
+           <label for="e033h"></label>
+           <img src="planosHFP/41_2_0.png"/>
+        <figcaption>Iniciamos marcando a projeção do centro do hexágono. Como o hexágono está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeçõesestarão sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034h" name="sl">
+           <label for="e034h"></label>
+           <img src="planosHFP/41_2_1.png"/>
+        <figcaption>A projeção do hexágono estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’E’F’. Para garantir que um de seus lados esteja sobre uma reta frontal, traçamos uma paralela à linha de terra por O’ e marcamos A’. Usando o raio da circunferência circunscrita, marcamos os demais pontos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035h" name="sl">
+           <label for="e035h"></label>
+           <img src="planosHFP/41_2_2.png"/>
+        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do hexágono. Note que a segunda projeção do hexágono está sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/41_2_0.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0041b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033i" name="sl">
+           <label for="e033i"></label>
+           <img src="planosHFP/41_3_0.png"/>
+        <figcaption>Iniciamos marcando a projeção do centro do hexágono. Como o hexágono está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeçõesestarão sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034i" name="sl">
+           <label for="e034i"></label>
+           <img src="planosHFP/41_3_1.png"/>
+        <figcaption>A projeção do hexágono estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’E’F’. Para garantir que um de seus lados faça o ângulo de 15o com &pi;’’, podemos marcar o ângulo de 75o conforme indicado. Marcamos então A’ eusando o raio da circunferência circunscrita, marcamos os demais pontos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035i" name="sl">
+           <label for="e035i"></label>
+           <img src="planosHFP/41_3_2.png"/>
+        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do hexágono. Note que a segunda projeção do hexágono está sobre o traço do plano em &pi;’’.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/41_3_0.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0042.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
