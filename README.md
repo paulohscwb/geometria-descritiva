@@ -3705,8 +3705,37 @@
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 38 ATÉ A PÁGINA 48, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0038.png"/>
 	<img src="planosHFP/AposGD2020_0038a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/38.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0039.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033f" name="sl">
+           <label for="e033f"></label>
+           <img src="planosHFP/39_1.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034f" name="sl">
+           <label for="e034f"></label>
+           <img src="planosHFP/39_2.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035f" name="sl">
+           <label for="e035f"></label>
+           <img src="planosHFP/39_3.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/39_1.png" class="fundo" style="visibility:hidden"/>
+  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0040.png"/>
 	<div class="combo"><a href="vr/plano_horizontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
