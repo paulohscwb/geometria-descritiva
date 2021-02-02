@@ -1455,43 +1455,43 @@
            <input type="radio" id="273" name="sl">
            <label for="273"></label>
            <img src="pontos-retas/19_01b_01.png"/>
-        <figcaption></b>.</figcaption>
+        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="274" name="sl">
            <label for="274"></label>
            <img src="pontos-retas/19_01b_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar a abcissado ponto  B em épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="275" name="sl">
            <label for="275"></label>
            <img src="pontos-retas/19_01b_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar a linha de chamada do ponto B perpendicular a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="276" name="sl">
            <label for="276"></label>
            <img src="pontos-retas/19_01b_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Marcar o afastamento e a cota do ponto B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="277" name="sl">
            <label for="277"></label>
            <img src="pontos-retas/19_01b_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Para obter a terceira projeção do ponto B é necessário traçar paralelas a LT passando por B’ e B”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="278" name="sl">
            <label for="278"></label>
            <img src="pontos-retas/19_01b_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso pegue a medida do afastamento do ponto B e faça um arco até a LT no sentido horário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="278a" name="sl">
            <label for="278a"></label>
            <img src="pontos-retas/19_01b_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>A terceira projeção do ponto B está na interseção das retas que contém as medidas do afastamento e cota do ponto B.</figcaption>
        </li>
    </ul>
 	<img src="pontos-retas/19_01b_00.png" class="fundo"/>
@@ -1504,43 +1504,43 @@
            <input type="radio" id="279" name="sl">
            <label for="279"></label>
            <img src="pontos-retas/19_01c_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto C.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="280" name="sl">
            <label for="280"></label>
            <img src="pontos-retas/19_01c_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar a abcissado ponto  C em épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="281" name="sl">
            <label for="281"></label>
            <img src="pontos-retas/19_01c_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar a linha de chamada do ponto C perpendicular a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="282" name="sl">
            <label for="282"></label>
            <img src="pontos-retas/19_01c_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Marcar o afastamento e a cota do ponto C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="283" name="sl">
            <label for="283"></label>
            <img src="pontos-retas/19_01c_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Para obter a terceira projeção do ponto C é necessário traçar paralelas a LT passando por C’ e C”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="284" name="sl">
            <label for="284"></label>
            <img src="pontos-retas/19_01c_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso pegue a medida do afastamento do ponto C e faça um arco até a LT no sentido horário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="285" name="sl">
            <label for="285"></label>
            <img src="pontos-retas/19_01c_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>A terceira projeção do ponto C está na interseção das retas que contém as medidas do afastamento e cota do ponto C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="286" name="sl">
@@ -1564,43 +1564,43 @@
            <input type="radio" id="288" name="sl">
            <label for="288"></label>
            <img src="pontos-retas/19_01d_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto D.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="289" name="sl">
            <label for="289"></label>
            <img src="pontos-retas/19_01d_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar a abcissado ponto  D em épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="290" name="sl">
            <label for="290"></label>
            <img src="pontos-retas/19_01d_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar a linha de chamada do ponto D perpendicular a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="291" name="sl">
            <label for="291"></label>
            <img src="pontos-retas/19_01d_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Marcar o afastamento e a cota do ponto D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="292" name="sl">
            <label for="292"></label>
            <img src="pontos-retas/19_01d_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Para obter a terceira projeção do ponto D é necessário traçar paralelas a LT passando por D’ e D”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="293" name="sl">
            <label for="293"></label>
            <img src="pontos-retas/19_01d_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso pegue a medida do afastamento do ponto D e faça um arco até a LT no sentido horário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="294" name="sl">
            <label for="294"></label>
            <img src="pontos-retas/19_01d_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>A terceira projeção do ponto D está na interseção das retas que contém as medidas do afastamento e cota do ponto D.</figcaption>
        </li>
     </ul>
 	<img src="pontos-retas/19_01d_00.png" class="fundo"/>
@@ -1682,7 +1682,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0020.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-  <p></p>
+  <p>A resolução deste exercício é semelhante à resolução do exercício 1.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="295" name="sl">
@@ -1742,7 +1742,7 @@
 	<img src="pontos-retas/20_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
-  <p></p>
+  <p>A resolução deste exercício é semelhante à resolução do exercício 1.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="304" name="sl">
@@ -1879,7 +1879,7 @@
            <input type="radio" id="338" name="sl">
            <label for="338"></label>
            <img src="pontos-retas/21_06a_02.png"/>
-        <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira ou na segunda projeção.</figcaption>
+        <figcaption>Marcar a abscissa do ponto B. Traçar a linha de chamada do ponto A perpendicular a LT.Marcar o afastamento e a cota do ponto A.</figcaption>
        </li>
        <li>
            <input type="radio" id="339" name="sl">
@@ -1891,73 +1891,73 @@
            <input type="radio" id="340" name="sl">
            <label for="340"></label>
            <img src="pontos-retas/21_06a_04.png"/>
-         <figcaption>Com o compasso medir o segmento AM.</figcaption>
+         <figcaption>Traçar a linha de chamada do ponto B perpendicular a LT.Marcar o afastamento e a cota do ponto B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="341" name="sl">
            <label for="341"></label>
            <img src="pontos-retas/21_06a_06.png"/>
-         <figcaption>Transportar a medida AM na diagonal maior encontrando C”.</figcaption>
+         <figcaption>Marcar a abscissa do ponto M. Traçar a linha de chamada do ponto M perpendicular a LT. Marcar o afastamento e a cota do ponto M.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="342" name="sl">
            <label for="342"></label>
            <img src="pontos-retas/21_06a_07.png"/>
-         <figcaption>Com o compasso medir o segmento BM.</figcaption>
+         <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira ou na segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="343" name="sl">
            <label for="343"></label>
            <img src="pontos-retas/21_06a_08.png"/>
-         <figcaption>Transportar a medida BM na diagonal menorencontrando D”.</figcaption>
+         <figcaption>Com o compasso medir o segmento AM.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="344" name="sl">
            <label for="344"></label>
            <img src="pontos-retas/21_06a_09.png"/>
-         <figcaption>Faça as linhas de chamada dos pontos C e D.</figcaption>
+         <figcaption>Transportar a medida AM na diagonal maior encontrando C”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="345" name="sl">
            <label for="345"></label>
            <img src="pontos-retas/21_06a_10.png"/>
-         <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira projeção.</figcaption>
+         <figcaption>Com o compasso medir o segmento BM.Transportar a medida BM na diagonal menor encontrando D”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="346" name="sl">
            <label for="346"></label>
            <img src="pontos-retas/21_06a_11.png"/>
-         <figcaption>Encontre os pontos C’ e D’ na interseção das linhas de chamada dos pontos C e D com as diagonais AM e BM respectivamente.</figcaption>
+         <figcaption>Destaque a projeção A”B”C”D” do paralelogramo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="347" name="sl">
            <label for="347"></label>
            <img src="pontos-retas/21_06a_12.png"/>
-         <figcaption>Destaque a projeção A’B’C’D’ do paralelogramo.</figcaption>
+         <figcaption>Traçar o lado AB e as diagonais AM e BM do paralelogramo na primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="348" name="sl">
            <label for="348"></label>
            <img src="pontos-retas/21_06a_13.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça a linha de chamada do ponto C e encontre C’ na interseção da linha de chamada do ponto C com a diagonal AM.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="349" name="sl">
            <label for="349"></label>
            <img src="pontos-retas/21_06a_14.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça a linha de chamada do ponto D e encontre D’na interseção da linha de chamada do ponto D com a diagonal AN.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="350" name="sl">
            <label for="350"></label>
            <img src="pontos-retas/21_06a_15.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A’B’C’D’ do paralelogramo.</figcaption>
        </li>
     </ul>
 	<img src="pontos-retas/21_06a_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item b</summary>
-  <p></p>
+  <p>A resolução deste exercício é semelhante ao anterior.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="351" name="sl">
@@ -2054,55 +2054,55 @@
            <input type="radio" id="365" name="sl">
            <label for="365"></label>
            <img src="pontos-retas/21_07a_05.png"/>
-         <figcaption>Transportar a medida de AB a partir de A e de B encontrando O”(centro da circunferência circunscrita ao hexágono).</figcaption>
+         <figcaption>Transportar a medida de AB a partir de B” para determinar o LG1 de O”(centro da circunferência circunscrita ao hexágono).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="366" name="sl">
            <label for="366"></label>
            <img src="pontos-retas/21_07a_06.png"/>
-         <figcaption>Ponta seca do compasso em O” trace a circunferência.</figcaption>
+         <figcaption>Transportar a medida de AB a partir de A” para determinar o LG2 de O”(centro da circunferência circunscrita ao hexágono).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="367" name="sl">
            <label for="367"></label>
            <img src="pontos-retas/21_07a_08.png"/>
-         <figcaption>Encontre as projeções C”, D”, E” e F” dos vértices do hexágono transportando a medida de AB a partir de A” e B” na circunferência.</figcaption>
+         <figcaption>Marque O”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="368" name="sl">
            <label for="368"></label>
            <img src="pontos-retas/21_07a_09.png"/>
-         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
+         <figcaption>Ponta seca do compasso em O” trace a circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="369" name="sl">
            <label for="369"></label>
            <img src="pontos-retas/21_07a_10.png"/>
-         <figcaption>Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
+         <figcaption>Encontre as projeções C”, D”, E” e F” dos vértices do hexágono transportando a medida de AB a partir de A” e B” na circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="370" name="sl">
            <label for="370"></label>
            <img src="pontos-retas/21_07a_12.png"/>
-         <figcaption>Destaque as projeções A”B”C”D”E”F” e A’B’C’D’E’F’ do hexágono.</figcaption>
+         <figcaption>Destaque a projeção A”B”C”D”E”F”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="371" name="sl">
            <label for="371"></label>
            <img src="pontos-retas/21_07a_13.png"/>
-         <figcaption></figcaption>
+         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="372" name="sl">
            <label for="372"></label>
            <img src="pontos-retas/21_07a_14.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="373" name="sl">
            <label for="373"></label>
            <img src="pontos-retas/21_07a_15.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeçãoA’B’C’D’E’F’ do hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="374" name="sl">
@@ -2126,73 +2126,73 @@
            <input type="radio" id="376" name="sl">
            <label for="376"></label>
            <img src="pontos-retas/21_07b_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto A em épura. Como o hexágono está contido em π" os pontos A e C têm afastamento nulo.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="377" name="sl">
            <label for="377"></label>
            <img src="pontos-retas/21_07b_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcar o ponto C em épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="378" name="sl">
            <label for="378"></label>
            <img src="pontos-retas/21_07b_03.png"/>
-         <figcaption></figcaption>
+         <figcaption>Traçar uma reta passando por A” e C” na segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="379" name="sl">
            <label for="379"></label>
            <img src="pontos-retas/21_07b_04.png"/>
-         <figcaption></figcaption>
+         <figcaption>Com o compasso medir o segmento A”C”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="380" name="sl">
            <label for="380"></label>
            <img src="pontos-retas/21_07b_05.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida de AC a partir de C” para determinar o LG1 deE”(vértice do hexágono).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="381" name="sl">
            <label for="381"></label>
            <img src="pontos-retas/21_07b_06.png"/>
-         <figcaption></figcaption>
+         <figcaption>Transportar a medida de AC a partir de A” para determinar o LG2 de E”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="382" name="sl">
            <label for="382"></label>
            <img src="pontos-retas/21_07b_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre o centro do triângulo ACE traçando duas bissetrizes do triângulo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="383" name="sl">
            <label for="383"></label>
            <img src="pontos-retas/21_07b_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Ponta seca do compasso em O” e raio OA trace a circunferência circunscrita ao hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="384" name="sl">
            <label for="384"></label>
            <img src="pontos-retas/21_07b_09.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre as projeções B”, D” e F” dos vértices do hexágono na interseção das bissetrizes com a  circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="385" name="sl">
            <label for="385"></label>
            <img src="pontos-retas/21_07b_10.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeçãoA”B”C”D”E”F” do hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="386" name="sl">
            <label for="386"></label>
            <img src="pontos-retas/21_07b_11.png"/>
-         <figcaption></figcaption>
+         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="387" name="sl">
            <label for="387"></label>
            <img src="pontos-retas/21_07b_12.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeçãoA’B’C’D’E’F’ do hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="388" name="sl">
@@ -2229,7 +2229,7 @@
            <input type="radio" id="392" name="sl">
            <label for="392"></label>
            <img src="pontos-retas/21_08_03.png"/>
-         <figcaption>Ponta seca do compasso em A’ e abertura igual a 30 marcar para direita ou para esquerda na paralela para encontrar B’ (VG de AB).</figcaption>
+         <figcaption>Ponta seca do compasso em A’ e abertura igual a 30 traçar para direita ou para esquerda na paralela para encontrar B’ (VG de AB).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="393" name="sl">
@@ -2247,19 +2247,19 @@
            <input type="radio" id="395" name="sl">
            <label for="395"></label>
            <img src="pontos-retas/21_08_06.png"/>
-         <figcaption>Encontre os pontos C” e D” na interseção das linhas de chamada dos pontos C e D com a LT.</figcaption>
+         <figcaption>Marque C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="396" name="sl">
            <label for="396"></label>
            <img src="pontos-retas/21_08_07.png"/>
-         <figcaption>Destaque as projeções A”B”C”D” e A’B’C’D’ do quadrado.</figcaption>
+         <figcaption>Destaque a projeção A’B’C’D’ do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="397" name="sl">
            <label for="397"></label>
            <img src="pontos-retas/21_08_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Encontre os pontos C” e D” na interseção das linhas de chamada dos pontos C e D com a LT.Destaque a projeçãoA”B”C”D”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="398" name="sl">
@@ -2308,7 +2308,7 @@
            <input type="radio" id="404" name="sl">
            <label for="404"></label>
            <img src="pontos-retas/21_09_06.png"/>
-         <figcaption>Destaque as projeções A”B” e A’B’ do segmento.</figcaption>
+         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="405" name="sl">
@@ -2363,31 +2363,31 @@
            <input type="radio" id="412" name="sl">
            <label for="412"></label>
            <img src="pontos-retas/21_10_04.png"/>
-         <figcaption>Encontre o ponto C’ na interseção dos arcos de circunferência com centros em A’ e B’ e raio 30 (O problema tem duas soluções).</figcaption>
+         <figcaption>Ponta seca em A’ e raio 30, encontre o LG1 de C’(O problema tem duas soluções).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="413" name="sl">
            <label for="413"></label>
            <img src="pontos-retas/21_10_05.png"/>
-         <figcaption>Faça a linha de chamada do ponto C encontrando C” sobre a LT.</figcaption>
+         <figcaption>Ponta seca em B’ e raio 30, encontre o LG2 de C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="414" name="sl">
            <label for="414"></label>
            <img src="pontos-retas/21_10_06.png"/>
-         <figcaption>Destaque as projeções A’B’C’ e A”B”C”do triângulo.</figcaption>
+         <figcaption>Destaque a projeção A’B’C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="415" name="sl">
            <label for="415"></label>
            <img src="pontos-retas/21_10_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Faça a linha de chamada do ponto C encontrando C” sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="416" name="sl">
            <label for="416"></label>
            <img src="pontos-retas/21_10_08.png"/>
-         <figcaption></figcaption>
+         <figcaption>Destaque a projeção A”B”C” do triângulo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="417" name="sl">
@@ -2956,55 +2956,55 @@
            <input type="radio" id="483" name="sl">
            <label for="483"></label>
            <img src="pontos-retas/30_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para representar a reta de perfil r que forma 60° com &pi;' vamos marcar a terceira projeção da reta r.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="484" name="sl">
            <label for="484"></label>
            <img src="pontos-retas/30_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para obter a terceira projeção do ponto A é necessário traçar paralelas a LT passando por A’ e A”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="485" name="sl">
            <label for="485"></label>
            <img src="pontos-retas/30_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o compasso pegue a medida do afastamento do ponto A e faça um arco até a LT no sentido horário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="486" name="sl">
            <label for="486"></label>
            <img src="pontos-retas/30_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>A terceira projeção do ponto A está na interseção das retas que contém as medidas do afastamento e cota do ponto A.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="487" name="sl">
            <label for="487"></label>
            <img src="pontos-retas/30_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o esquadro trace a reta r’’’ passando por A’’’ formando 60° com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="488" name="sl">
            <label for="488"></label>
            <img src="pontos-retas/30_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marque a cota 15 do ponto B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="489" name="sl">
            <label for="489"></label>
            <img src="pontos-retas/30_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marque B’’’ na r’’’ ( paralela a LT com cota 15).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="490" name="sl">
            <label for="490"></label>
            <img src="pontos-retas/30_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marque B’’ na r’’( paralela a LT com cota 15).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="491" name="sl">
            <label for="491"></label>
            <img src="pontos-retas/30_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marque B’ na r’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="492" name="sl">
@@ -3044,13 +3044,13 @@
            <input type="radio" id="496" name="sl">
            <label for="496"></label>
            <img src="pontos-retas/31_01_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Vamos fazer uma MPV para a reta de perfil. Trace os pontos A e B da reta de perfil em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="497" name="sl">
            <label for="497"></label>
            <img src="pontos-retas/31_01_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Na primeira projeção faça a nova LT paralela a r’. Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1. No novo sistema a reta é frontal.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/31_01_00.png" class="fundo"/>
@@ -3065,13 +3065,13 @@
            <input type="radio" id="499" name="sl">
            <label for="499"></label>
            <img src="pontos-retas/31_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Vamos fazer uma MPH para a reta de perfil. Trace os pontos A e B da reta de perfil em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="500" name="sl">
            <label for="500"></label>
            <img src="pontos-retas/31_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Na segunda projeção faça a nova LT paralela a r”. Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas dos afastamentosdos pontos A e B a partir da nova LT encontrando as projeções A’1 e B’1. Trace a reta r’1 passando A’1 e B’1.No novo sistema a reta é horizontal.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/31_02_00.png" class="fundo"/>
@@ -3085,49 +3085,49 @@
            <input type="radio" id="501" name="sl">
            <label for="501"></label>
            <img src="pontos-retas/32_01_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>A reta r é de perfil, vamos encontrar a VG de AB fazendo uma MPV.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="502" name="sl">
            <label for="502"></label>
            <img src="pontos-retas/32_01_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Na primeira projeção faça a nova LT paralela a r’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="503" name="sl">
            <label for="503"></label>
            <img src="pontos-retas/32_01_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="504" name="sl">
            <label for="504"></label>
            <img src="pontos-retas/32_01_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace a reta r”1 passando A”1 e B”1. No novo sistema a reta é frontal e A”1B”1= VG AB.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="505" name="sl">
            <label for="505"></label>
            <img src="pontos-retas/32_01_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para encontrar o ponto M de afastamento 23, com o compasso marque a medida do afastamento na r’ e encontre M’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="506" name="sl">
            <label for="506"></label>
            <img src="pontos-retas/32_01_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M”1 sobre r”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="507" name="sl">
            <label for="507"></label>
            <img src="pontos-retas/32_01_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o compasso pegue a medida da cota do ponto M.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="508" name="sl">
            <label for="508"></label>
            <img src="pontos-retas/32_01_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Transporte a medida da cota de M para r” a partir da LT encontrando M”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="509" name="sl">
@@ -3158,43 +3158,43 @@
            <input type="radio" id="512" name="sl">
            <label for="512"></label>
            <img src="pontos-retas/32_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>A reta s é de perfil, vamos encontrar a VG de CD fazendo uma MPV.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="513" name="sl">
            <label for="513"></label>
            <img src="pontos-retas/32_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Na primeira projeção faça a nova LT paralela a s’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="514" name="sl">
            <label for="514"></label>
            <img src="pontos-retas/32_02_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace as linhas de chamada dos pontos C e D perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos C e D a partir da nova LT encontrando as projeções C”1 e D”1. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="515" name="sl">
            <label for="515"></label>
            <img src="pontos-retas/32_02_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace a reta s”1 passando C”1 e D”1. No novo sistema a reta é frontal e C”1D”1= VG CD.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="516" name="sl">
            <label for="516"></label>
            <img src="pontos-retas/32_02_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para encontrar o ponto M de cota nula, marque M”1 na interseção da nova LT com a s”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="517" name="sl">
            <label for="517"></label>
            <img src="pontos-retas/32_02_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M’ sobre r’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="518" name="sl">
            <label for="518"></label>
            <img src="pontos-retas/32_02_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marque M” na LT (cota nula).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="519" name="sl">
@@ -3206,6 +3206,103 @@
 	<img src="pontos-retas/32_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0032b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="501" name="sl">
+           <label for="501"></label>
+           <img src="pontos-retas/32_01_01.png"/>
+        <figcaption>A reta r é de perfil, vamos encontrar a VG de AB fazendo uma MPV.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="502" name="sl">
+           <label for="502"></label>
+           <img src="pontos-retas/32_01_02.png"/>
+        <figcaption>Na primeira projeção faça a nova LT paralela a r’. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="503" name="sl">
+           <label for="503"></label>
+           <img src="pontos-retas/32_01_03.png"/>
+        <figcaption>Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="504" name="sl">
+           <label for="504"></label>
+           <img src="pontos-retas/32_01_04.png"/>
+        <figcaption>Trace a reta r”1 passando A”1 e B”1. No novo sistema a reta é frontal e A”1B”1= VG AB.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="505" name="sl">
+           <label for="505"></label>
+           <img src="pontos-retas/32_01_05.png"/>
+        <figcaption>Para encontrar o ponto M de afastamento 23, com o compasso marque a medida do afastamento na r’ e encontre M’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="506" name="sl">
+           <label for="506"></label>
+           <img src="pontos-retas/32_01_06.png"/>
+        <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M”1 sobre r”1.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="507" name="sl">
+           <label for="507"></label>
+           <img src="pontos-retas/32_01_07.png"/>
+        <figcaption>Com o compasso pegue a medida da cota do ponto M.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="508" name="sl">
+           <label for="508"></label>
+           <img src="pontos-retas/32_01_08.png"/>
+        <figcaption>Transporte a medida da cota de M para r” a partir da LT encontrando M”.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="509" name="sl">
+           <label for="509"></label>
+           <img src="pontos-retas/32_01_09.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="510" name="sl">
+           <label for="510"></label>
+           <img src="pontos-retas/32_01_10.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="511" name="sl">
+           <label for="511"></label>
+           <img src="pontos-retas/32_01_11.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/32_01_00.png" class="fundo"/>
+  </details></div>
+	<img src="pontos-retas/AposGD2020_0032a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="512a" name="sl">
+           <label for="512a"></label>
+           <img src="pontos-retas/32_03_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="513a" name="sl">
+           <label for="513a"></label>
+           <img src="pontos-retas/32_03_02.png"/>
+        <figcaption></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="514a" name="sl">
+           <label for="514a"></label>
+           <img src="pontos-retas/32_03_03.png"/>
+        <figcaption></figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/32_03_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 33 ATÉ A PÁGINA 37, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="pontos-retas/AposGD2020_0033.png"/>
