@@ -3879,85 +3879,73 @@
            <input type="radio" id="e039" name="sl">
            <label for="e039"></label>
            <img src="planosHFP/43_01.png"/>
-        <figcaption>Marcar os pontos A e B em épura.</figcaption>
+        <figcaption>Marcamos as projeções do ponto A e B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e040" name="sl">
            <label for="e040"></label>
            <img src="planosHFP/43_02.png"/>
-        <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do hexágono da base.</figcaption>
+        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em hexágono regular na primeira projeção.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e041" name="sl">
            <label for="e041"></label>
            <img src="planosHFP/43_03.png"/>
-        <figcaption>Na VG (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção V’ do vértice da pirâmide.</figcaption>
+        <figcaption>Para tanto, primeiramente encontramos o centro da circunferência circunscrita. Marcamos o segmento A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e042" name="sl">
            <label for="e042"></label>
            <img src="planosHFP/43_04.png"/>
-        <figcaption>Traçar a circunferência circunscrita ao hexágono.</figcaption>
+        <figcaption>Usando a distância A’B’, com centro em A’, fazemos uma marca.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e043" name="sl">
            <label for="e043"></label>
            <img src="planosHFP/43_05.png"/>
-        <figcaption>Encontre as projeções C’, D’, E’ e F’ dos vértices do hexágono transportando a medida de A’B’ a partir de A’ e B’ na circunferência.</figcaption>
+        <figcaption>Usando a distância A’B’, com centro em B’, obtemos o ponto O’. Esse é o centro da base e coincide com a primeira projeção do vértice (V’).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e044" name="sl">
            <label for="e044"></label>
            <img src="planosHFP/43_06.png"/>
-        <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
+        <figcaption>Agora com centro em O, fazemos a circunferência circunscrita e marcamos as primeiras projeções dos vértices da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e045" name="sl">
            <label for="e045"></label>
            <img src="planosHFP/43_07.png"/>
-        <figcaption>Encontre os pontos C”, D”, E” e F” na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
+        <figcaption>A’B’C’D’E’F’ é a primeira projeção da base da pirâmide.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e046" name="sl">
            <label for="e046"></label>
            <img src="planosHFP/43_08.png"/>
-        <figcaption>Na linha de chamada do ponto V marque a altura 50 da pirâmide a partir da base (LT).</figcaption>
+        <figcaption>Observando os critérios de visibilidade, podemos traçar as primeiras projeções da pirâmide. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e047" name="sl">
            <label for="e047"></label>
            <img src="planosHFP/43_09.png"/>
-        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
+        <figcaption>Traçando linhas de chamada pelos vértices, podemos marcar, as primeiras projeções dos vértices da base, já que todos estão em um mesmo plano horizontal de cota 0.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e048" name="sl">
            <label for="e048"></label>
            <img src="planosHFP/43_10.png"/>
-        <figcaption>Destaque as projeções A’B’C’D’E’F’V’ e A”B”C”D”E”F”V” dapirâmide.</figcaption>
+        <figcaption>A altura da pirâmide está em VG em segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e049" name="sl">
            <label for="e049"></label>
-           <img src="planosHFP/43_13.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/43_11.png"/>
+        <figcaption>Dessa maneira, como a pirâmide é reta, sobre a linha de chamada de O, podemos marcar a segunda projeção do vértice</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e050" name="sl">
            <label for="e050"></label>
-           <img src="planosHFP/43_16.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e051" name="sl">
-           <label for="e051"></label>
-           <img src="planosHFP/43_17.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e052" name="sl">
-           <label for="e052"></label>
-           <img src="planosHFP/43_18.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/43_12.png"/>
+        <figcaption>Observando os critérios de visibilidade, marcamos todas as arestas laterais em segunda projeção, a segunda e a primeira projeção do vértice V.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/43_00.png" class="fundo"/>
