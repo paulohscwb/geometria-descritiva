@@ -3549,7 +3549,7 @@
         <figcaption>Solução do item e</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/34_14.png" class="fundo" style="visibility:hidden"/>
+	<img src="pontos-retas/35_1_a.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="pontos-retas/AposGD2020_0035a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
