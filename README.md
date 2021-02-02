@@ -3959,80 +3959,50 @@
       <li>
            <input type="radio" id="e063" name="sl">
            <label for="e063"></label>
-           <img src="planosHFP/44_01_03.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_01.png"/>
+        <figcaption>Marcamos as projeções do ponto A e B. O segmento A’B’ é a primeira projeção da aresta AB da base da pirâmide.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e064" name="sl">
            <label for="e064"></label>
-           <img src="planosHFP/44_01_04.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_02.png"/>
+        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em quadrado na primeira projeção. Para tanto, traçamos perpendiculares sobre A’ e B’. Com o compasso, centro em A’ e raio A’B’ interceptamos uma das perpendiculares.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e065" name="sl">
            <label for="e065"></label>
-           <img src="planosHFP/44_01_05.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_03.png"/>
+        <figcaption>Marcamos a primeira projeção do vértice D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e066" name="sl">
            <label for="e066"></label>
-           <img src="planosHFP/44_01_06.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_04.png"/>
+        <figcaption>Finalizamos o quadrado com o mesmo procedimento e observando os critérios de visibilidade, podemos traçar as primeiras projeções da base e das arestas laterais da pirâmide. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e067" name="sl">
            <label for="e067"></label>
-           <img src="planosHFP/44_01_07.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_05.png"/>
+        <figcaption>Traçando linhas de chamada pelos vértices, podemos marcar, as primeiras projeções dos vértices da base, já que todos estão em um mesmo plano horizontal de cota 0.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e068" name="sl">
            <label for="e068"></label>
-           <img src="planosHFP/44_01_09.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_06.png"/>
+        <figcaption>A altura da pirâmide está em VG em segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e069" name="sl">
            <label for="e069"></label>
-           <img src="planosHFP/44_01_10.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_07.png"/>
+        <figcaption>Dessa maneira, como a pirâmide é reta, sobre a linha de chamada de O, podemos marcar a segunda projeção do vértice.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e070" name="sl">
            <label for="e070"></label>
-           <img src="planosHFP/44_01_11.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e071" name="sl">
-           <label for="e071"></label>
-           <img src="planosHFP/44_01_12.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e072" name="sl">
-           <label for="e072"></label>
-           <img src="planosHFP/44_01_13.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e073" name="sl">
-           <label for="e073"></label>
-           <img src="planosHFP/44_01_14.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e074" name="sl">
-           <label for="e074"></label>
-           <img src="planosHFP/44_01_15.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e075" name="sl">
-           <label for="e075"></label>
-           <img src="planosHFP/44_01_16.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/44_01_08.png"/>
+        <figcaption>Observando os critérios de visibilidade, marcamos todas as arestas laterais em segunda projeção, a segunda e a primeira projeção do vértice V.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/44_01_00.png" class="fundo"/>
