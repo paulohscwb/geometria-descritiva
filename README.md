@@ -3515,6 +3515,42 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0035.png"/>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e033a" name="sl">
+           <label for="e033a"></label>
+           <img src="pontos-retas/35_1_a.png"/>
+        <figcaption>Solução do item a</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e034a" name="sl">
+           <label for="e034a"></label>
+           <img src="pontos-retas/35_1_b.png"/>
+        <figcaption>Solução do item b</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e035a" name="sl">
+           <label for="e035a"></label>
+           <img src="pontos-retas/35_1_c.png"/>
+        <figcaption>Solução do item c</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e036a" name="sl">
+           <label for="e036a"></label>
+           <img src="pontos-retas/35_1_d.png"/>
+        <figcaption>Solução do item d</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e037a" name="sl">
+           <label for="e037a"></label>
+           <img src="pontos-retas/35_1_e.png"/>
+        <figcaption>Solução do item e</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/34_14.png" class="fundo"/>
+  </details></div>
 	<img src="pontos-retas/AposGD2020_0035a.png"/>
 	<img src="pontos-retas/AposGD2020_0035b.png"/>
 	<img src="pontos-retas/AposGD2020_0035c.png"/>
