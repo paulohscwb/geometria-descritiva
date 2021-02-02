@@ -3679,6 +3679,11 @@
 	<img src="pontos-retas/AposGD2020_0036.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
 	<img src="pontos-retas/AposGD2020_0036a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/36_2.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0037.png"/>
 	<img src="pontos-retas/AposGD2020_0037a.png"/>
