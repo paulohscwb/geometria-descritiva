@@ -4440,85 +4440,85 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0047.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Marcamos as projeções dos pontos A e B. Como seção equatorial ABCD está contida em um plano horizontal, o quadrado ABCD terá mesma cota.</p>
   <ul class="slider">
 	   <li>
            <input type="radio" id="e137" name="sl">
            <label for="e137"></label>
            <img src="planosHFP/47_01_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando que a seção equatorial está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir um quadrado na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e138" name="sl">
            <label for="e138"></label>
            <img src="planosHFP/47_01_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para tanto, traçamos perpendiculares sobre A’ e B’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e139" name="sl">
            <label for="e139"></label>
            <img src="planosHFP/47_01_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o compasso, tomamos a distância A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e140" name="sl">
            <label for="e140"></label>
            <img src="planosHFP/47_01_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com centro em A’ e raio A’B’ interceptamos uma das perpendiculares.Marcamos a primeira projeção do vértice D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e141" name="sl">
            <label for="e141"></label>
            <img src="planosHFP/47_01_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos a primeira projeção do vértice C. Representamos a primeira projeção do octaedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e142" name="sl">
            <label for="e142"></label>
            <img src="planosHFP/47_01_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos linhas de chamada por todos os vértices. As segundas projeções da base ABCD possuem mesma cota. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e143" name="sl">
            <label for="e143"></label>
            <img src="planosHFP/47_01_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para encontrar metade a altura de cada uma das pirâmides quadradas, construímos um triângulo retângulo auxiliar. Um dos catetos tem a medida A’E’. A hipotenusa desse triângulo tem medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e144" name="sl">
            <label for="e144"></label>
            <img src="planosHFP/47_01_11.png"/>
-        <figcaption></figcaption>
+        <figcaption>O outro cateto tem a medida igual a metade da altura do octaedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e145" name="sl">
            <label for="e145"></label>
            <img src="planosHFP/47_01_12.png"/>
-        <figcaption></figcaption>
+        <figcaption>A altura do octaedro está em verdadeira grandeza em segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e146" name="sl">
            <label for="e146"></label>
            <img src="planosHFP/47_01_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos a segunda projeção de E.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e147" name="sl">
            <label for="e147"></label>
            <img src="planosHFP/47_01_14.png"/>
-        <figcaption></figcaption>
+        <figcaption>Procedemos de mesma maneira para encontrar a segunda projeção de D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e148" name="sl">
            <label for="e148"></label>
            <img src="planosHFP/47_01_15.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e149" name="sl">
            <label for="e149"></label>
            <img src="planosHFP/47_01_16.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando os critérios de visibilidade, finalizamos a construção das projeções do octaedro ABCDEF.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/47_01_00.png" class="fundo"/>
@@ -4526,91 +4526,91 @@
 	<a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0047a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Marcamos as projeções dos pontos A e B. Como a face ABC está contida em um plano horizontal, sua VG estará em primeira projeção.</p>
   <ul class="slider">
 	   <li>
            <input type="radio" id="e150" name="sl">
            <label for="e150"></label>
            <img src="planosHFP/47_02_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Tomamos a medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e151" name="sl">
            <label for="e151"></label>
            <img src="planosHFP/47_02_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com centro em A’, traçamos um arco.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e152" name="sl">
            <label for="e152"></label>
            <img src="planosHFP/47_02_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Tomamos a mesma medida.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e153" name="sl">
            <label for="e153"></label>
            <img src="planosHFP/47_02_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com centro em B’, encontramos a primeira projeção do vértice C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e154" name="sl">
            <label for="e154"></label>
            <img src="planosHFP/47_02_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos as mediatrizes de A’B’, A’C’ e B’C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e155" name="sl">
            <label for="e155"></label>
            <img src="planosHFP/47_02_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos o ponto O’, centro da circunferência circunscrita.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e156" name="sl">
            <label for="e156"></label>
            <img src="planosHFP/47_02_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos a circunferência circunscrita.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e157" name="sl">
            <label for="e157"></label>
            <img src="planosHFP/47_02_11.png"/>
-        <figcaption></figcaption>
+        <figcaption>Unindo os vértices de forma conveniente e observando que a face DEF possui cota maior que a face ABC, traçamos a primeira projeção do octaedro. Para encontrar a altura do plano da base DEF, procedemos da mesma forma que o anti-prisma, construindo um triângulo retângulo auxiliar, em que  um dos catetos tem a medida E’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e158" name="sl">
            <label for="e158"></label>
            <img src="planosHFP/47_02_12.png"/>
-        <figcaption></figcaption>
+        <figcaption>A hipotenusa desse triângulo retângulo auxiliar tem a medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e159" name="sl">
            <label for="e159"></label>
            <img src="planosHFP/47_02_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>O outro cateto do triângulo retângulo é a altura desejada, que estará em VG em segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e160" name="sl">
            <label for="e160"></label>
            <img src="planosHFP/47_02_14.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos a altura em uma das linhas de chamada.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e161" name="sl">
            <label for="e161"></label>
            <img src="planosHFP/47_02_15.png"/>
-        <figcaption></figcaption>
+        <figcaption>Como a face DEF é paralela à face ABC, sua segunda projeção estará contida no traço de um plano horizontal.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e162" name="sl">
            <label for="e162"></label>
            <img src="planosHFP/47_02_16.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos as segundas projeções da face DEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e163" name="sl">
            <label for="e163"></label>
            <img src="planosHFP/47_02_17.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando os critérios de visibilidade, finalizamos a segunda projeção do octaedro regular ABCDEF.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/47_02_00.png" class="fundo"/>
@@ -4618,11 +4618,26 @@
 	<a href="vr/a51.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0048.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/48_1.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0048a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/48_2.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<img src="planosHFP/AposGD2020_0048b.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
 	<img src="planosHFP/AposGD2020_0048c.png"/>
-	<div class="combo"><a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosHFP/48_4.png"/>
+	<figcaption></figcaption>
+  </details>
+	<a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 49 ATÉ A PÁGINA 53, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0049.png"/>
