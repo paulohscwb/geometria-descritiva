@@ -3,11 +3,11 @@
 <h2 id="inicio">Respostas do Módulo 3</h2> 
   <details open><summary>Atividade 3.1: exercício 3 da pág. 48</summary>
   <img src="../../planosHFP/AposGD2020_0048b.png"/>
-  <div class="combo">
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p></p>
   <img src="48_3.png"/>
   <figcaption></figcaption>
-  </div></details>
+  </details></div></details>
 <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 3.2: exercício 5 da pág. 52</summary>
 <img src="../../planosHFP/AposGD2020_0052.png"/>
 <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
