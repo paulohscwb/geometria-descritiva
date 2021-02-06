@@ -3834,47 +3834,6 @@
 	<img src="planosHFP/AposGD2020_0042.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0043.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
-		<p>Você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a30" name="sl">
-			   <label for="a30"></label>
-			   <img src="prop/00_00_01.png"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a31" name="sl">
-			   <label for="a31"></label>
-			   <img src="prop/00_00_02.jpg"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a32" name="sl">
-			   <label for="a32"></label>
-			   <img src="prop/00_00_05.jpg"/>
-			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a33" name="sl">
-			   <label for="a33"></label>
-			   <img src="prop/00_00_06.png"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a34" name="sl">
-			   <label for="a34"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
-	  </details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -3953,7 +3912,48 @@
 	</ul>
 	<img src="planosHFP/43_00.png" class="fundo"/>
   </details>
-	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
+		<p>Você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
+		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+		<p>Veja o passo a passo para acessar estes recursos</p>
+		  <ul class="slider">
+		   <li>
+			   <input type="radio" id="a30" name="sl">
+			   <label for="a30"></label>
+			   <img src="prop/00_00_01.png"/>
+			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a31" name="sl">
+			   <label for="a31"></label>
+			   <img src="prop/00_00_02.jpg"/>
+			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a32" name="sl">
+			   <label for="a32"></label>
+			   <img src="prop/00_00_05.jpg"/>
+			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a33" name="sl">
+			   <label for="a33"></label>
+			   <img src="prop/00_00_06.png"/>
+			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a34" name="sl">
+			   <label for="a34"></label>
+			   <div class="embed-container">
+				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
+				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			   </div>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
+		   </li>
+		</ul>
+		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+	  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0044.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -4219,85 +4219,85 @@
            <input type="radio" id="e103" name="sl">
            <label for="e103"></label>
            <img src="planosHFP/46_01_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos as projeções dos pontos A, B e E. Como a base ABCD está sobre um plano horizontal de cota 0, o ponto B terá, também, cota 0.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e104" name="sl">
            <label for="e104"></label>
            <img src="planosHFP/46_01_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir um quadrado na primeira projeção. Para tanto, traçamos perpendiculares sobre A’ e B’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e105" name="sl">
            <label for="e105"></label>
            <img src="planosHFP/46_01_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com o compasso, tomamos a distância A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e106" name="sl">
            <label for="e106"></label>
            <img src="planosHFP/46_01_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com centro em A’ e raio A’B’ interceptamos uma das perpendiculares.Marcamos a primeira projeção do vértice D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e107" name="sl">
            <label for="e107"></label>
            <img src="planosHFP/46_01_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos a primeira projeção do vértice C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e108" name="sl">
            <label for="e108"></label>
            <img src="planosHFP/46_01_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Representamos a primeira projeção da aresta lateral AE.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e109" name="sl">
            <label for="e109"></label>
            <img src="planosHFP/46_01_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>A projeção das outras arestas é paralela a AE, portanto, traçamos paralelas a AE pelas primeiras projeções dos outros vértices.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e110" name="sl">
            <label for="e110"></label>
            <img src="planosHFP/46_01_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>A projeção das arestas da outra base são paralelas à primeira projeção da base ABCD, portanto, traçamos uma paralela a A’B’, por E’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e111" name="sl">
            <label for="e111"></label>
            <img src="planosHFP/46_01_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>Finalizamos, a primeira projeção da base EFGH, traçando paralelas às primeiras projeções das arestas da base ABCD.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e112" name="sl">
            <label for="e112"></label>
            <img src="planosHFP/46_01_10.png"/>
-        <figcaption></figcaption>
+        <figcaption>Encontramos todos as primeiras projeções dos vértices e arestas do prisma.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e113" name="sl">
            <label for="e113"></label>
            <img src="planosHFP/46_01_11.png"/>
-        <figcaption></figcaption>
+        <figcaption>Utilizando os critérios de visibilidade, concluímos a primeira projeção do prisma. Traçamos linhas de chamada por todos os vértices. As segundas projeções da base ABCD possuem cota zero. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e114" name="sl">
            <label for="e114"></label>
            <img src="planosHFP/46_01_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>As segundas projeções da base EFGH possuem cota igual à cota de E, portanto, traçamos uma paralela à LT passando por E’’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e115" name="sl">
            <label for="e115"></label>
            <img src="planosHFP/46_01_14.png"/>
-        <figcaption></figcaption>
+        <figcaption>Encontramos as segundas projeções da base EFGH.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e116" name="sl">
            <label for="e116"></label>
            <img src="planosHFP/46_01_15.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando os critérios de visibilidade, finalizamos a construção da segunda projeção do prisma ABCD-EFGH.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/46_01_00.png" class="fundo"/>
@@ -4311,61 +4311,61 @@
            <input type="radio" id="e117" name="sl">
            <label for="e117"></label>
            <img src="planosHFP/46_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos as projeções do ponto A e B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e118" name="sl">
            <label for="e118"></label>
            <img src="planosHFP/46_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em hexágono regular na primeira projeção. Marcamos o segmento A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e119" name="sl">
            <label for="e119"></label>
            <img src="planosHFP/46_02_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Agora iremos encontrar o centro da circunferência circunscrita.Tomamos a medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e120" name="sl">
            <label for="e120"></label>
            <img src="planosHFP/46_02_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Usando a distância A’B’, com centro em A’, traçamos um arco.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e121" name="sl">
            <label for="e121"></label>
            <img src="planosHFP/46_02_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Usando a distância A’B’, com centro em B’, obtemos o ponto O’. Esse é o centro da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e122" name="sl">
            <label for="e122"></label>
            <img src="planosHFP/46_02_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Agora com centro em O, fazemos a circunferência circunscrita</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e123" name="sl">
            <label for="e123"></label>
            <img src="planosHFP/46_02_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos as primeiras projeções dos vértices da base ABCDEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e124" name="sl">
            <label for="e124"></label>
            <img src="planosHFP/46_02_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Utilizando a mediatriz de A’B’, fazemos a divisão de cada arco em duas partes.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e125" name="sl">
            <label for="e125"></label>
            <img src="planosHFP/46_02_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>Dessa maneira, encontramos a primeira projeção dos vértices da base GHIJKL. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e126" name="sl">
            <label for="e126"></label>
            <img src="planosHFP/46_02_10.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando que a base ABCDEF possui cota maior que a base GHIJKL, as arestas da base GHIJKL são invisíveis. Unindo os pontos convenientemente, obtemos a primeira projeção do anti-prisma.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/46_02_00.png" class="fundo"/>
@@ -4377,61 +4377,61 @@
            <input type="radio" id="e127" name="sl">
            <label for="e127"></label>
            <img src="planosHFP/46_02_11.png"/>
-        <figcaption></figcaption>
+        <figcaption>Construímos as linhas de chamada dos vértices.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e128" name="sl">
            <label for="e128"></label>
            <img src="planosHFP/46_02_12.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos as segundas projeções dos vértices da base ABCDEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e129" name="sl">
            <label for="e129"></label>
            <img src="planosHFP/46_02_13.png"/>
-        <figcaption></figcaption>
+        <figcaption>Para encontrarmos a altura do anti-prisma, construímos um triângulo retângulo auxiliar. Um dos catetos desse triângulo tem a medida A’G’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e130" name="sl">
            <label for="e130"></label>
            <img src="planosHFP/46_02_14.png"/>
-        <figcaption></figcaption>
+        <figcaption>A hipotenusa desse triângulo tem a medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e131" name="sl">
            <label for="e131"></label>
            <img src="planosHFP/46_02_15.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com isso encontramos a altura do anti-prisma.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e132" name="sl">
            <label for="e132"></label>
            <img src="planosHFP/46_02_16.png"/>
-        <figcaption></figcaption>
+        <figcaption>A altura do anti-prisma está em VG na segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e133" name="sl">
            <label for="e133"></label>
            <img src="planosHFP/46_02_17.png"/>
-        <figcaption></figcaption>
+        <figcaption>Podemos marcá-la em uma das linhas de chamada, a partir do plano da segunda projeção da base ABCDEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e134" name="sl">
            <label for="e134"></label>
            <img src="planosHFP/46_02_18.png"/>
-        <figcaption></figcaption>
+        <figcaption>Traçamos uma paralela a LT, por esse ponto.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e135" name="sl">
            <label for="e135"></label>
            <img src="planosHFP/46_02_19.png"/>
-        <figcaption></figcaption>
+        <figcaption>Agora podemos marcar as segundas projeções da base GHIJKL.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e136" name="sl">
            <label for="e136"></label>
            <img src="planosHFP/46_02_20.png"/>
-        <figcaption></figcaption>
+        <figcaption>Observando os critérios de visibilidade, finalizamos a segunda projeção do anti-prisma.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/46_02_10.png" class="fundo"/>
