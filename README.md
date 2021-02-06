@@ -893,6 +893,9 @@
 	<img src="pontos-retas/14_01_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+	 <iframe width="100%" src="https://www.youtube.com/embed/0B0rcrhjtQc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
 	<img src="pontos-retas/AposGD2020_0015.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar as projeções de um ponto <b>A</b> em perspectiva.</p>
