@@ -4019,64 +4019,28 @@
            <input type="radio" id="e053" name="sl">
            <label for="e053"></label>
            <img src="planosHFP/44_02_01.png"/>
-        <figcaption>Marcar os pontos A e B em épura.</figcaption>
+        <figcaption>Iniciamos marcando as projeções dos pontos A, B e V. Como o quadrado está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B, estarão sobre o traço do plano em &pi;’’.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e054" name="sl">
            <label for="e054"></label>
            <img src="planosHFP/44_02_02.png"/>
-        <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do quadrado da base.</figcaption>
+        <figcaption>A projeção do quadrado estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e055" name="sl">
            <label for="e055"></label>
            <img src="planosHFP/44_02_03.png"/>
-        <figcaption>Encontre as projeções C’e D’ dos vértices do quadrado transportando a medida de A’B’ a partir de A’ e B’ em retas perpendiculares.</figcaption>
+        <figcaption>Fazemos a construção da segunda projeção dos vértices do quadrado. Note que a segunda projeção do quadrado está sobre o traço do plano em &pi;’’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e056" name="sl">
            <label for="e056"></label>
            <img src="planosHFP/44_02_04.png"/>
-        <figcaption>Na VG da base (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção V’ do vértice da pirâmide.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e057" name="sl">
-           <label for="e057"></label>
-           <img src="planosHFP/44_02_05.png"/>
-        <figcaption>Trace as linhas de chamada dos pontos C, D e V.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e058" name="sl">
-           <label for="e058"></label>
-           <img src="planosHFP/44_02_06.png"/>
-        <figcaption>Encontre os pontos C”, D” e O” na interseção das linhas de chamada dos pontos C, D e O com a LT.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e059" name="sl">
-           <label for="e059"></label>
-           <img src="planosHFP/44_02_07.png"/>
-        <figcaption>Na linha de chamada do ponto V marque a altura 50 da pirâmide a partir de O” na base da pirâmide (LT).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e060" name="sl">
-           <label for="e060"></label>
-           <img src="planosHFP/44_02_08.png"/>
-        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e061" name="sl">
-           <label for="e061"></label>
-           <img src="planosHFP/44_02_09.png"/>
-        <figcaption>Destaque as projeções A’B’C’D’V’ e A”B”C”D”V”  da pirâmide.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e062" name="sl">
-           <label for="e062"></label>
-           <img src="planosHFP/44_02_10.png"/>
-        <figcaption></figcaption>
+        <figcaption>Utilizando os critérios de visibilidade, construímos as projeções das arestas laterais da pirâmide.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/44_02_00.png" class="fundo"/>
+	<img src="planosHFP/44_02_01.png" class="fundo"/>
   </details>
 	<a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -4088,85 +4052,79 @@
            <input type="radio" id="e076" name="sl">
            <label for="e076"></label>
            <img src="planosHFP/45_01_01.png"/>
-        <figcaption>Marcar os pontos A e B em épura. </figcaption>
+        <figcaption>Iniciamos marcando as projeções dos pontos A e B. Como a base do tetraedro está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e077" name="sl">
            <label for="e077"></label>
-           <img src="planosHFP/45_01_03.png"/>
-        <figcaption>Traçar uma reta passando por A’ e B’. A' B' é a verdadeira grandeza do lado do tetraedro.</figcaption>
+           <img src="planosHFP/45_01_02.png"/>
+        <figcaption>Como se trata de um tetraedro regular, sua base é um triângulo equilátero, cuja VG está em primeira projeção. Iniciamos construindo o segmento A’B’.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e078" name="sl">
            <label for="e078"></label>
-           <img src="planosHFP/45_01_04.png"/>
-        <figcaption>Encontre a projeção C’ do vértice do triângulo da base transportando a medida de A’B’ a partir de A’ e B’.</figcaption>
+           <img src="planosHFP/45_01_03.png"/>
+        <figcaption>Abrimos o compasso em A’B’.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e079" name="sl">
            <label for="e079"></label>
            <img src="planosHFP/45_01_04.png"/>
-        <figcaption>Na VG da base (1ª projeção), determinar o centro da base O’ que coincide com a primeira projeção D’ do vértice do tetraedro.</figcaption>
+        <figcaption>Com centro em B’, fazemos uma marca.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e080" name="sl">
            <label for="e080"></label>
+           <img src="planosHFP/45_01_05.png"/>
+        <figcaption>Com a mesma abertura e centro em A’, encontramos o terceiro vértice C’.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e081a" name="sl">
+           <label for="e081a"></label>
            <img src="planosHFP/45_01_06.png"/>
-        <figcaption>O Centro da base (triângulo equilátero) pode ser determinado no encontro das bissetrizes ou mediatrizes do triângulo.</figcaption>
+        <figcaption>Usando as bissetrizes dos lados do triângulo equilátero, encontramos o seu centro que coincide com a primeira projeção do vértice D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e081" name="sl">
            <label for="e081"></label>
            <img src="planosHFP/45_01_07.png"/>
-        <figcaption>Trace as linhas de chamada dos pontos C e O.</figcaption>
+        <figcaption>Marcamos então as primeiras projeções dos vértices A, B e C e do centro O.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e082" name="sl">
            <label for="e082"></label>
            <img src="planosHFP/45_01_08.png"/>
-        <figcaption>Encontre os pontos C” e O”  na interseção das linhas de chamada dos pontos C e O com a LT.</figcaption>
+        <figcaption>A altura está em VG na segunda projeção. Para encontrá-la, traçamos um triângulo retângulo auxiliar. Um dos catetos desse triângulo é a medida de uma das projeções das arestas laterais (A’D’=B’D’=C’D).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e084" name="sl">
            <label for="e084"></label>
-           <img src="planosHFP/45_01_10.png"/>
-        <figcaption>Para encontrar a altura do tetraedro construa o triângulo AOD. A medida OD é a altura do tetraedro.</figcaption>
+           <img src="planosHFP/45_01_09.png"/>
+        <figcaption>Construímos então uma perpendicular e com a abertura do compasso igual a aresta A’B’=B’C’=A’B’ encontramos o triângulo. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e085" name="sl">
            <label for="e085"></label>
-           <img src="planosHFP/45_01_11.png"/>
-        <figcaption>Na linha de chamada do ponto D marque a altura h do tetraedro a partir de O” na base do tetraedro (LT).</figcaption>
+           <img src="planosHFP/45_01_10.png"/>
+        <figcaption>A VG da altura é o outro cateto desse triângulo (OD).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e086" name="sl">
            <label for="e086"></label>
-           <img src="planosHFP/45_01_12.png"/>
-        <figcaption>Completar a visibilidade nas 1ª e 2ª projeções.</figcaption>
+           <img src="planosHFP/45_01_11.png"/>
+        <figcaption>Marcamos essa altura sobre a linha de chamada de O.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e087" name="sl">
            <label for="e087"></label>
-           <img src="planosHFP/45_01_13.png"/>
-        <figcaption>Destaque as projeções A’B’C’D’ e A”B”C”D”  do tetraedro.</figcaption>
+           <img src="planosHFP/45_01_12.png"/>
+        <figcaption>Assim encontramos a segunda projeção do vértice D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e088" name="sl">
            <label for="e088"></label>
-           <img src="planosHFP/45_01_14.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e089" name="sl">
-           <label for="e089"></label>
-           <img src="planosHFP/45_01_15.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e090" name="sl">
-           <label for="e090"></label>
-           <img src="planosHFP/45_01_16.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/45_01_13.png"/>
+        <figcaption>Finalizamos a segunda projeção do tetraedro.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/45_01_00.png" class="fundo"/>
@@ -4180,73 +4138,73 @@
            <input type="radio" id="e091" name="sl">
            <label for="e091"></label>
            <img src="planosHFP/45_02_01.png"/>
-        <figcaption></figcaption>
+        <figcaption>Iniciamos marcando as projeções dos pontos A eO. Como a base do prisma triangular está em um plano horizontal, todos os seus vértices terão a mesma cota.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e092" name="sl">
            <label for="e092"></label>
            <img src="planosHFP/45_02_02.png"/>
-        <figcaption></figcaption>
+        <figcaption>Construímos a circunferência circunscrita à base, de centro O e raio O’A’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e093" name="sl">
            <label for="e093"></label>
            <img src="planosHFP/45_02_03.png"/>
-        <figcaption></figcaption>
+        <figcaption>Abrimos o compasso em O’A’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e094" name="sl">
            <label for="e094"></label>
            <img src="planosHFP/45_02_04.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com centro em A’, fazemos uma marca sobre a circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e095" name="sl">
            <label for="e095"></label>
            <img src="planosHFP/45_02_05.png"/>
-        <figcaption></figcaption>
+        <figcaption>Com a mesma abertura, fazemos outra marca.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e096" name="sl">
            <label for="e096"></label>
            <img src="planosHFP/45_02_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos o vértice B’. O vértice C’, pode ser encontrado usando a distância A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e097" name="sl">
            <label for="e097"></label>
            <img src="planosHFP/45_02_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Temos então a primeira projeção da base do prisma. Para encontrar a segunda projeção traçamos linhas de chamada sobre A’, B’ e C’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e098" name="sl">
            <label for="e098"></label>
            <img src="planosHFP/45_02_08.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos então as segundas projeção da base. Como se trata de um prisma reto, as primeiras projeções das bases coincidem (A’=D’, B’=E’ e C’=F’).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e099" name="sl">
            <label for="e099"></label>
            <img src="planosHFP/45_02_09.png"/>
-        <figcaption></figcaption>
+        <figcaption>A altura está em VG na segunda projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e100" name="sl">
            <label for="e100"></label>
            <img src="planosHFP/45_02_10.png"/>
-        <figcaption></figcaption>
+        <figcaption>Marcamos essa altura sobre a linha de chamada de O.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e101" name="sl">
            <label for="e101"></label>
            <img src="planosHFP/45_02_11.png"/>
-        <figcaption></figcaption>
+        <figcaption>Assim encontramos a segunda projeção da base DEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e102" name="sl">
            <label for="e102"></label>
            <img src="planosHFP/45_02_12.png"/>
-        <figcaption></figcaption>
+        <figcaption>Finalizamos a segunda projeção do prisma.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/45_02_00.png" class="fundo"/>
