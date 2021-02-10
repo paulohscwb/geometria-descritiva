@@ -2506,6 +2506,9 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0022.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+	   <iframe width="100%" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 	<img src="pontos-retas/AposGD2020_0023.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/AposGD2020_0024.png"/>
