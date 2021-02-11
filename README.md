@@ -5661,7 +5661,12 @@
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0075.png"/>
-	<div class="combo"><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="planosTV/75_01_00.png"/>
+	<figcaption></figcaption>
+  </details>
+	<a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0076.png"/>
 	<div class="combo"><a href="vr/a19.html" target="_blank" class="visu">Visualização em 3D</a></div>
