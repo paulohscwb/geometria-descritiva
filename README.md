@@ -4642,7 +4642,7 @@
            <input type="radio" id="099z" name="sl">
            <label for="099z"></label>
            <img src="basico/09_01_04.png"/>
-           <figcaption>Construa a circunferência de centro no ponto <b>2</b> e raio <b>l = 3cm</b> obtendo sobre a primeira circunferência os pontos <b>3</b> e <b>4</b>. </figcaption>
+           <figcaption>Construa a circunferência de centro no vértice <b>2</b> e raio <b>l = 3cm</b> obtendo sobre a primeira circunferência os pontos <b>3</b> e <b>4</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="0001z" name="sl">
