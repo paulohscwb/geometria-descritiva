@@ -4801,9 +4801,14 @@
   </details>
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0051a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>A base do prisma arquimediano está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção do pentágono regular</summary>
+	<p>Vamos relembrar como se constrói um pentágono regular a partir de um de seus lados.</p>
 	<img src="planosHFP/51_02_00.png"/>
+	<figcaption></figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A base do prisma arquimediano está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
+	<img src="planosHFP/51_02_01.png"/>
 	<figcaption>A altura é de um prisma arquimediano tem tamanho igual ao lado da base e aparece em VG na primeira projeção.</figcaption>
   </details>
   <a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
