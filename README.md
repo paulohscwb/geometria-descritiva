@@ -4629,7 +4629,7 @@
 	<img src="planosHFP/48_1.png"/>
 	<figcaption></figcaption>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção de um pentágono</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção de um pentágono, dada a medida do lado</summary>
   <p>Vamos construir um pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
   <ul class="slider">
 	   <li>
