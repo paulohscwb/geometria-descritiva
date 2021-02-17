@@ -3716,6 +3716,9 @@
 	<img src="planosHFP/38.png"/>
 	<figcaption></figcaption>
   </details></div>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/73Qg-RFB5dM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/AposGD2020_0039.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
