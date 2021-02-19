@@ -4802,7 +4802,7 @@
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0051a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção do pentágono regular</summary>
-	<p>Vamos relembrar como se constrói um pentágono regular a partir de um de seus lados.</p>
+	<p>Vamos lembrar como se constrói um pentágono regular a partir de um de seus lados.</p>
 	<img src="planosHFP/51_02_00.png"/>
 	<figcaption></figcaption>
   </details>
