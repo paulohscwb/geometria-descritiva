@@ -4839,12 +4839,12 @@
 	<p>Material da página 54 até a página 67</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 54 ATÉ A PÁGINA 64, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0054.png"/>
-	<div class="embed-container">
-	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/AposGD2020_0054a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 	<img src="planosHFP/AposGD2020_0055.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
