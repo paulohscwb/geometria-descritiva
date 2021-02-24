@@ -5191,6 +5191,126 @@
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0063.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
+  <p>Vamos começar recuperando a solução do exercício 2 da página 44.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s054" name="sl">
+           <label for="s054"></label>
+           <img src="planosTV/63_01_02.png"/>
+        <figcaption>Representar o ponto Z (70, 0, 0) e os traços do plano &alpha;. Sendo &alpha; um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma ângulo com a LT igual ao ângulo que o plano forma no espaço com &pi;'.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s055" name="sl">
+           <label for="s055"></label>
+           <img src="planosTV/63_01_03.png"/>
+        <figcaption>Como &alpha; é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical.A interseção das arestas da pirâmide com o &alpha;&pi;'' nos fornece os vértices do polígono resultante da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s057" name="sl">
+           <label for="s057"></label>
+           <img src="planosTV/63_01_04.png"/>
+        <figcaption>Encontramos a primeira projeção dos vértices do polígono resultante da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s058" name="sl">
+           <label for="s058"></label>
+           <img src="planosTV/63_01_05.png"/>
+        <figcaption>Unindo os vértices temos a primeira projeção da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s059" name="sl">
+           <label for="s059"></label>
+           <img src="planosTV/63_01_06.png"/>
+        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método do rebatimento do plano &alpha; sobre o plano &pi;'. Utilizando o traço horizontal como eixo, rebatemos o plano &alpha; até ele se tornar horizontal. Os pontos, na segunda projeção, se deslocam segundo arcos de circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s060" name="sl">
+           <label for="s060"></label>
+           <img src="planosTV/63_01_07.png"/>
+        <figcaption>Os pontos se deslocam paralelamente à LT na primeira projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s061" name="sl">
+           <label for="s061"></label>
+           <img src="planosTV/63_01_08.png"/>
+        <figcaption>Pronto! A VG da seção está representada.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s062" name="sl">
+           <label for="s062"></label>
+           <img src="planosTV/63_01_09.png"/>
+        <figcaption>Para planificar o tronco da pirâmide resultante da seção precisamos da VG de todas as suas faces. Conhecemos a VG da base da pirâmide e da seção. Precisamos encontrar a VG das arestas da pirâmide. Neste exemplo a aresta VD, que define uma reta qualquer, foi rotacionada até ser transformada em uma reta frontal, apresentando VG na segunda projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s063" name="sl">
+           <label for="s063"></label>
+           <img src="planosTV/63_01_10.png"/>
+        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano &alpha;. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta VD. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/63_01_01.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Desenhe uma reta r e marque sobre ela o um dos lados do quadrado (por exemplo o lado CD).</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s064" name="sl">
+           <label for="s064"></label>
+           <img src="planosTV/63_01_12.png"/>
+        <figcaption>Construa o quadrado ABCD</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s065" name="sl">
+           <label for="s065"></label>
+           <img src="planosTV/63_01_13.png"/>
+        <figcaption>Agora vamos construir as faces laterais da pirâmide. Desenhe dois arcos de circunferência: um com centro em A e raio igual ao valor da aresta em VG e o outro com mesmo raio e centro em B. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s066" name="sl">
+           <label for="s066"></label>
+           <img src="planosTV/63_01_14.png"/>
+        <figcaption>Marcar o vértice V na interseção dos dois arcos de circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s067" name="sl">
+           <label for="s067"></label>
+           <img src="planosTV/63_01_15.png"/>
+        <figcaption>Traçar um arco de circunferência com centro em V e raio igual à aresta.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s068" name="sl">
+           <label for="s068"></label>
+           <img src="planosTV/63_01_16.png"/>
+        <figcaption>Sobre este arco de circunferência marcar o ponto C que está a uma distância l do ponto B (sendo l o lado do quadrado). Ainda sobre esta arco, marcar o ponto D, que está a uma distância l do ponto A e novamente o ponto C, a uma distância l do ponto D. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s069" name="sl">
+           <label for="s069"></label>
+           <img src="planosTV/63_01_17.png"/>
+        <figcaption>Unir o vértice V aos vértices A, B, C e D.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s070" name="sl">
+           <label for="s070"></label>
+           <img src="planosTV/63_01_18.png"/>
+        <figcaption>Com a valor dos segmentos A1, B2, C3 e D4, marcar os pontos 1, 2, 3 e 4 respectivamente sobre as arestas AV, BV, CV e DV.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s071" name="sl">
+           <label for="s071"></label>
+           <img src="planosTV/63_01_19.png"/>
+        <figcaption>Reforçar as arestas laterais do tronco da pirâmide.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s072" name="sl">
+           <label for="s072"></label>
+           <img src="planosTV/63_01_20.png"/>
+        <figcaption>Transportar a seção para a planificação. Como sugestão podemos dividir a seção em dois triângulos (por exemplo triângulo 432 e triângulo 124). Reforçar os lados da seção.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/63_01_11.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/AposGD2020_0063a.png"/>
 	<img src="planosTV/AposGD2020_0063b.png"/>
 	<img src="planosTV/AposGD2020_0063c.png"/>
