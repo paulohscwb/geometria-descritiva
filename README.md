@@ -5251,7 +5251,7 @@
 	</ul>
 	<img src="planosTV/63_01_01.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Planificação</summary>
   <p>Desenhe uma reta r e marque sobre ela o um dos lados do quadrado (por exemplo o lado CD).</p>
   <ul class="slider">
       <li>
