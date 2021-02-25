@@ -846,7 +846,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="pontos">2. Pontos e Retas</summary>
+<details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 14 até a página 37</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 14 ATÉ A PÁGINA 18, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
 	<img src="pontos-retas/AposGD2020_0014.png"/>
