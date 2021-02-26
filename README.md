@@ -5768,6 +5768,42 @@
 	<img src="planosTV/72_00_00.png" class="fundo"/>
   </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0072a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l063s" name="sl">
+           <label for="l063s"></label>
+           <img src="planosTV/72_08_01.png"/>
+        <figcaption>Representar o plano vertical que passa pelo ponto Z e forma 30&ordfm; com &pi;"</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l064s" name="sl">
+           <label for="l064s"></label>
+           <img src="planosTV/72_08_02.png"/>
+         <figcaption>Encontrar os pontos de seçao na 1&ordf; e 2&ordf; projeções: 1,2, 3, 4</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l065s" name="sl">
+           <label for="l065s"></label>
+           <img src="planosTV/72_08_03.png"/>
+         <figcaption>Representar a 1&ordf; e a 2&ordf; projeções da seção</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l066s" name="sl">
+           <label for="l066s"></label>
+           <img src="planosTV/72_08_04.png"/>
+         <figcaption>Econtrar a vg da seção fazendo o rebatimento</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l066s" name="sl">
+           <label for="l066s"></label>
+           <img src="planosTV/72_08_05.png"/>
+         <figcaption>Planificação</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/72_08_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/AposGD2020_0072b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0073.png"/>
