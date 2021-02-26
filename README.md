@@ -5796,8 +5796,8 @@
          <figcaption>Econtrar a vg da seção fazendo o rebatimento</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="l066s" name="sl">
-           <label for="l066s"></label>
+           <input type="radio" id="l067s" name="sl">
+           <label for="l067s"></label>
            <img src="planosTV/72_08_05.png"/>
          <figcaption>Planificação</figcaption>
        </li>
