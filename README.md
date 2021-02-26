@@ -5802,7 +5802,7 @@
          <figcaption>Planificação</figcaption>
        </li>
 	</ul>
-	<img src="planosTV/72_08_00.png" class="fundo"/>
+	<img src="planosTV/72_08_00.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="planosTV/AposGD2020_0072b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
