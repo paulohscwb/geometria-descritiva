@@ -4835,7 +4835,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos2">4. Planos: de perfil e de topo</summary>
+<details open><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 54 até a página 67</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 54 ATÉ A PÁGINA 64, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0054.png"/>
