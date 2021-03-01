@@ -5104,7 +5104,7 @@
        </li>
     </ul>
 	<img src="planosTV/59_00_01.png" class="fundo"/>
-  </details>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
 	<img src="planosTV/AposGD2020_0060a.png"/>
