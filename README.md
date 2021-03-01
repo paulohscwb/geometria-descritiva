@@ -5090,7 +5090,14 @@
            <img src="planosTV/59_00_07.png"/>
         <figcaption>Forma ângulo de 90&ordm; com &pi;'', e com &pi;' e &pi;"' forma ângulo entre 0&ordm; e 90&ordm;.</figcaption>
        </li>
-	   <li>
+    </ul>
+	<img src="planosTV/59_00_01.png" class="fundo"/>
+  </details></div>
+  <img src="planosTV/AposGD2020_0059b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+       <li>
            <input type="radio" id="s041n" name="sl">
            <label for="s041n"></label>
            <img src="planosTV/59_00_08.png"/>
@@ -5103,7 +5110,7 @@
         <figcaption>Qualquer reta perpendicular ao plano é uma reta frontal.</figcaption>
        </li>
     </ul>
-	<img src="planosTV/59_00_01.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosTV/59_00_08.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
