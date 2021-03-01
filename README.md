@@ -5045,6 +5045,66 @@
 	<img src="planosTV/AposGD2020_0059.png"/>
 	<div class="combo"><a href="vr/plano_topo.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/AposGD2020_0059a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s034n" name="sl">
+           <label for="s034n"></label>
+           <img src="planosTV/59_00_01.png"/>
+        <figcaption>&alpha;&pi;'é perpendicular à LT e &alpha;&pi;" é oblíquo à LT.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s035n" name="sl">
+           <label for="s035n"></label>
+           <img src="planosTV/59_00_02.png"/>
+        <figcaption>São necessários dois pontos para definir um plano de topo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s036n" name="sl">
+           <label for="s036n"></label>
+           <img src="planosTV/59_00_03.png"/>
+        <figcaption>Qualquer figura contida no plano tem sua 2a projeção reduzida a um segmento de reta.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s037n" name="sl">
+           <label for="s037n"></label>
+           <img src="planosTV/59_00_04.png"/>
+        <figcaption>Não tem projeção em VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s038n" name="sl">
+           <label for="s038n"></label>
+           <img src="planosTV/59_00_05.png"/>
+        <figcaption>É projetante na segunda projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s039n" name="sl">
+           <label for="s039n"></label>
+           <img src="planosTV/59_00_06.png"/>
+        <figcaption>Num plano de topo temos retas de topo, frontais e quaisquer.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s040n" name="sl">
+           <label for="s040n"></label>
+           <img src="planosTV/59_00_07.png"/>
+        <figcaption>Forma ângulo de 90&ordm; com &pi;'', e com &pi;' e &pi;"' forma ângulo entre 0&ordm; e 90&ordm;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s041n" name="sl">
+           <label for="s041n"></label>
+           <img src="planosTV/59_00_08.png"/>
+        <figcaption>A segunda projeção do traço (r&alpha;) de uma reta r com o plano de topo pertence ao traço vertical do plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s042n" name="sl">
+           <label for="s042n"></label>
+           <img src="planosTV/59_00_09.png"/>
+        <figcaption>Qualquer reta perpendicular ao plano é uma reta frontal.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/59_00_01.png" class="fundo"/>
+  </details>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
 	<img src="planosTV/AposGD2020_0060a.png"/>
