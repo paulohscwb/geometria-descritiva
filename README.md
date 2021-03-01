@@ -5103,7 +5103,7 @@
         <figcaption>Qualquer reta perpendicular ao plano é uma reta frontal.</figcaption>
        </li>
     </ul>
-	<img src="planosTV/59_00_01.png" class="fundo"/>
+	<img src="planosTV/59_00_01.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/AposGD2020_0060.png"/>
@@ -6486,8 +6486,75 @@
     </ul>
 	<img src="planosPQ/87_01_00.png" class="fundo"/>
   </details></div>
+  <img src="planosPQ/AposGD2020_0087b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Devemos lembrar que uma reta é perpendicular a um plano quando ela for perpendicular ou ortogonal a duas retas concorrentes desse plano. E também lembrar da Propriedade 7 das Projeções Cilíndricas. Assim, vamos aplicar duas vezes essa Propriedade para obtermos a reta p!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d047n" name="sl">
+           <label for="d047n"></label>
+           <img src="planosPQ/87_02_01.png"/>
+        <figcaption>Construa p’ passando por P’ e perpendicular a &alpha;&pi;’. Como esse traço é uma horizontal do Plano Qualquer &alpha; então pela Propriedade 7 temos que as retas &alpha;&pi;’ e p formam 90°.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d048n" name="sl">
+           <label for="d048n"></label>
+           <img src="planosPQ/87_02_02.png"/>
+        <figcaption>Construa p’’ passando por P’’ e perpendicular a &alpha;&pi;’’. Como esse traço é uma frontal do Plano Qualquer &alpha; então pela Propriedade 7 temos que as retas &alpha;&pi;’’ e p formam 90°. Temos então a reta p que passa pelo ponto dado P e é perpendicular ao plano dado &alpha;!</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/87_01_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0088.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>O Plano Qualquer está determinado pelo ponto A e pelo traço &alpha;&pi;’. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d034n" name="sl">
+           <label for="d034n"></label>
+           <img src="planosPQ/88_01.png"/>
+        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço &alpha;&pi;’. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d035n" name="sl">
+           <label for="d035n"></label>
+           <img src="planosPQ/88_02.png"/>
+        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto A a partir de A’.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d036n" name="sl">
+           <label for="d036n"></label>
+           <img src="planosPQ/88_03.png"/>
+         <figcaption>Marque sobre essa Nova LC a cota do ponto A do Sistema Anterior obtendo o ponto A’’<sub>1</sub>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d037n" name="sl">
+           <label for="d037n"></label>
+           <img src="planosPQ/88_04.png"/>
+         <figcaption>Construa o &alpha;&pi;’’<sub>1</sub> ligando os pontos A’’<sub>1</sub> e S. Note que nesse 2º Sistema o Primeiro Traço está perpendicular à 2ª LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d038n" name="sl">
+           <label for="d038n"></label>
+           <img src="planosPQ/88_05.png"/>
+         <figcaption>Agora vamos efetuar uma MP Horizontal para tornar esse Plano de Topo em Horizontal. Desenhe a 3ª LT paralela ao traço &alpha;&pi;’’<sub>1</sub>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d039n" name="sl">
+           <label for="d039n"></label>
+           <img src="planosPQ/88_06.png"/>
+         <figcaption>Construa a Nova LC para o ponto A a partir de A’’<sub>1</sub>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d040n" name="sl">
+           <label for="d040n"></label>
+           <img src="planosPQ/88_07.png"/>
+         <figcaption>Marque sobre essa Nova LC o afastamento do ponto A do Sistema Anterior (do Segundo Sistema) obtendo o ponto A’<sub>1</sub>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT. Note que nesse 3º Sistema o Segundo Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/88_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosPQ/AposGD2020_0088a.png"/>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0089.png"/>
