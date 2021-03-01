@@ -6510,7 +6510,7 @@
         <figcaption>Construa p’’ passando por P’’ e perpendicular a &alpha;&pi;’’. Como esse traço é uma frontal do Plano Qualquer &alpha; então pela Propriedade 7 temos que as retas &alpha;&pi;’’ e p formam 90°. Temos então a reta p que passa pelo ponto dado P e é perpendicular ao plano dado &alpha;!</figcaption>
        </li>
     </ul>
-	<img src="planosPQ/87_01_00.png" class="fundo"/>
+	<img src="planosPQ/87_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/AposGD2020_0088.png"/>
