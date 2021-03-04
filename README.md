@@ -3706,7 +3706,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos1">3. Planos: horizontal e frontal</summary>
+<details><summary id="planos1">3. Planos: horizontal e frontal</summary>
 	<p>Material da página 38 até a página 53</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 38 ATÉ A PÁGINA 48, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="planosHFP/AposGD2020_0038.png"/>
