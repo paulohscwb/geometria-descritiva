@@ -5617,7 +5617,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
+<details open><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
 	<p>Material da página 68 até a página 86</p>
 	<img src="planosTV/AposGD2020_0068.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
