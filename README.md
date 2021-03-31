@@ -5,200 +5,1488 @@
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/02/ApostilaGD2019.pdf" target="_blank">apostila de Geometria Descritiva</a></p>
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details><summary id="basico">Uso dos materiais básicos de Desenho</summary>
+<details><summary id="desenho">1. Desenho Geométrico</summary>
+	<p>Material da página 1 até a página 10.</p>
 	<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<p>Veja o passo a passo das construções básicas mostradas no vídeo.</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA FOI PRODUZIDO PELA <b>prof&ordf; DEISE MARIA BETHOLDI COSTA.</b></figcaption>
-	<img src="basico/Cotadas_2020_0001.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+   <img src="dg/Apost_GD_2021_00001.png"/>  
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1" name="sl" checked>
 			   <label for="1"></label>
-			   <img src="basico/01_01_01.png"/>
+			   <img src="dg/01_01_01.png"/>
 			   <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="2" name="sl">
 			   <label for="2"></label>
-			   <img src="basico/01_01_02.png"/>
+			   <img src="dg/01_01_02.png"/>
 			   <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="3" name="sl">
 			   <label for="3"></label>
-			   <img src="basico/01_01_03.png"/>
+			   <img src="dg/01_01_03.png"/>
 			   <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="4" name="sl">
 			   <label for="4"></label>
-			   <img src="basico/01_01_04.png"/>
+			   <img src="dg/01_01_04.png"/>
 			   <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="5" name="sl">
 			   <label for="5"></label>
-			   <img src="basico/01_01_05.png"/>
+			   <img src="dg/01_01_05.png"/>
 			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída. Note que a figura <b>PAQB</b> é um losango e, portanto, suas diagonais são perpendiculares e se encontram no ponto médio das mesmas.</figcaption>
 		   </li>
 		</ul>
-		<img src="basico/01_01_00.png" class="fundo"/>
+		<img src="dg/01_01_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 2&deg; segmento</summary>
+  <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="6" name="sl">
+           <label for="6"></label>
+           <img src="dg/01_01_06.png"/>
+           <figcaption>Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="7" name="sl">
+           <label for="7"></label>
+           <img src="dg/01_01_07.png"/>
+           <figcaption>Com a ponta seca em <b>B</b>, podemos desenhar um arco com a mesma medida usada no ponto <b>A</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="8" name="sl">
+           <label for="8"></label>
+           <img src="dg/01_01_09.png"/>
+           <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="9" name="sl">
+           <label for="9"></label>
+           <img src="dg/01_01_10.png"/>
+           <figcaption>Desenhando os arcos com centros em <b>A</b> e <b>B</b> com mesma medida, encontramos os pontos <b>P</b> e <b>Q</b> da mediatriz.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="10" name="sl">
+           <label for="10"></label>
+           <img src="dg/01_01_12.png"/>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>Q</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="11" name="sl">
+           <label for="11"></label>
+           <img src="dg/01_01_13.png"/>
+           <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
+       </li>
+  </ul>
+  <img src="dg/01_01_00.png" class="fundo"/>
   </details></div>
-  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
-  <img src="basico/Cotadas_2020_0002.png"/>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00002.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="12" name="sl">
            <label for="12"></label>
-           <img src="basico/02_01_01.png"/>
+           <img src="dg/02_01_01.png"/>
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="13" name="sl">
            <label for="13"></label>
-           <img src="basico/02_01_02.png"/>
+           <img src="dg/02_01_02.png"/>
            <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
        </li>
        <li>
            <input type="radio" id="14" name="sl">
            <label for="14"></label>
-           <img src="basico/02_01_03.png"/>
+           <img src="dg/02_01_03.png"/>
            <figcaption>Deslize o esquadro até chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="15" name="sl">
            <label for="15"></label>
-           <img src="basico/02_01_04.png"/>
+           <img src="dg/02_01_04.png"/>
            <figcaption>Desenhe a reta que passa pelo ponto <b>P</b> com o cateto do esquadro.</figcaption>
        </li>
        <li>
            <input type="radio" id="16" name="sl">
            <label for="16"></label>
-           <img src="basico/02_01_05.png"/>
+           <img src="dg/02_01_05.png"/>
            <figcaption>Pronto! A reta paralela <b>s // r</b> está construída.</figcaption>
        </li>
     </ul>
-    <img src="basico/02_01_00.png" class="fundo"/>
+    <img src="dg/02_01_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+  <p> Agora veja os passos da construção feita com régua e compasso.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="17" name="sl">
+           <label for="17"></label>
+           <img src="dg/02_01_01c.png"/>
+           <figcaption>Desenhe um arco com a ponta seca em <b>P</b>, que intercepte a reta <b>r</b> no ponto <b>Q</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="18" name="sl">
+           <label for="18"></label>
+           <img src="dg/02_01_02c.png"/>
+           <figcaption>Com a ponta seca em <b>Q</b>, use o mesmo raio <b>PQ</b> para marcar o ponto <b>R</b> na reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="19" name="sl">
+           <label for="19"></label>
+           <img src="dg/02_01_03c.png"/>
+           <figcaption>Desenhe o arco com a ponta seca em <b>R</b>, com a mesma medida <b>PQ</b>, interceptando o primeiro arco que você desenhou no ponto <b>S</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="20" name="sl">
+           <label for="20"></label>
+           <img src="dg/02_01_04c.png"/>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>S</b> com a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="21" name="sl">
+           <label for="21"></label>
+           <img src="dg/02_01_05c.png"/>
+           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída. Note que a figura <b>PQRS</b> é um losango e, portanto, seus lados opostos são paralelos.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/02_01_05c.png" class="fundo"/>
   </details></div>
-  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
-  <img src="basico/Cotadas_2020_0002a.png"/>
+  <img src="dg/Apost_GD_2021_00002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="22" name="sl">
            <label for="22"></label>
-           <img src="basico/02_02_01.png"/>
+           <img src="dg/02_02_01.png"/>
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="23" name="sl">
            <label for="23"></label>
-           <img src="basico/02_02_02.png"/>
+           <img src="dg/02_02_02.png"/>
            <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
        </li>
        <li>
            <input type="radio" id="24" name="sl">
            <label for="24"></label>
-           <img src="basico/02_02_03.png"/>
+           <img src="dg/02_02_03.png"/>
            <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="25" name="sl">
            <label for="25"></label>
-           <img src="basico/02_02_04.png"/>
+           <img src="dg/02_02_04.png"/>
            <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="26" name="sl">
            <label for="26"></label>
-           <img src="basico/02_02_05.png"/>
+           <img src="dg/02_02_05.png"/>
            <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
        </li>
        <li>
            <input type="radio" id="27" name="sl">
            <label for="27"></label>
-           <img src="basico/02_02_06.png"/>
+           <img src="dg/02_02_06.png"/>
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="28" name="sl">
            <label for="28"></label>
-           <img src="basico/02_02_07.png"/>
+           <img src="dg/02_02_07.png"/>
            <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
        </li>
        <li>
            <input type="radio" id="29" name="sl">
            <label for="29"></label>
-           <img src="basico/02_02_08.png"/>
+           <img src="dg/02_02_08.png"/>
            <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="30" name="sl">
            <label for="30"></label>
-           <img src="basico/02_02_09.png"/>
+           <img src="dg/02_02_09.png"/>
            <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="31" name="sl">
            <label for="31"></label>
-           <img src="basico/02_02_10.png"/>
+           <img src="dg/02_02_10.png"/>
            <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
        </li>
     </ul>
-    <img src="basico/02_02_00.png" class="fundo"/>
+    <img src="dg/02_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
+	<ul class="slider">
+       <li>
+           <input type="radio" id="32" name="sl">
+           <label for="32"></label>
+           <img src="dg/02_02_01c.png"/>
+           <figcaption>Com a ponta seca em <b>P</b> desenhe um arco para a esquerda obtendo o ponto <b>Q</b> sobre a reta <b>r</b> e um arco para a direita obtendo o ponto <b>R</b> sobre a reta. Ambos os arcos com o mesmo raio.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="33" name="sl">
+           <label for="33"></label>
+           <img src="dg/02_02_02c.png"/>
+           <figcaption>Com a ponta seca em <b>Q</b>, desenhe um arco com raio maior do que a metade de <b>QR</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="34" name="sl">
+           <label for="34"></label>
+           <img src="dg/02_02_03c.png"/>
+           <figcaption>Com a ponta seca em <b>R</b>, desenhe um arco com o mesmo raio usado no passo anterior. Os pontos de interseção dos arcos são <b>S</b> e <b>T</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="35" name="sl">
+           <label for="35"></label>
+           <img src="dg/02_02_04c.png"/>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>S</b> e <b>T</b> de interseção dos arcos. Pronto! A perpendicular à reta <b>r</b> que passa pelo ponto <b>P</b> está construída!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="36" name="sl">
+           <label for="36"></label>
+           <img src="dg/02_02_05c.png"/>
+           <figcaption>Com a ponta seca em <b>P</b> desenhe um arco com raio maior que a distância de <b>P</b> à reta <b>r</b>, obtendo os pontos <b>Q</b> e <b>R</b> sobre a reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="37" name="sl">
+           <label for="37"></label>
+           <img src="dg/02_02_06c.png"/>
+           <figcaption>Com a ponta seca em <b>Q</b> desenhe um arco.</figcaption>
+       </li>
+      <li>
+           <input type="radio" id="38" name="sl">
+           <label for="38"></label>
+           <img src="dg/02_02_07c.png"/>
+           <figcaption>Com a ponta seca em <b>R</b> desenhe um arco com o mesmo raio do passo anterior, obtendo o ponto <b>S</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="39" name="sl">
+           <label for="39"></label>
+           <img src="dg/02_02_08c.png"/>
+           <figcaption>Desenhe a reta <b>p</b> que passa pelos pontos <b>P</b> e <b>S</b>. Pronto! A reta <b>p</b> é perpendicular à reta <b>r</b> e passa pelo ponto <b>P</b>. Note que essa construção é baseada na construção da mediatriz de um segmento dado!</figcaption>
+       </li>
+  </ul>
+  <img src="dg/02_02_00c.png" class="fundo"/>
   </details></div>
-  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
-  <img src="basico/Cotadas_2020_0002b.png"/>
+  <img src="dg/Apost_GD_2021_00002b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="40" name="sl">
            <label for="40"></label>
-           <img src="basico/02_03_01.png"/>
+           <img src="dg/02_03_01.png"/>
            <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>P</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
        </li>
        <li>
            <input type="radio" id="41" name="sl">
            <label for="41"></label>
-           <img src="basico/02_03_02.png"/>
+           <img src="dg/02_03_02.png"/>
            <figcaption>Com a ponta seca no ponto <b>P</b> desenhe um arco.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="41a" name="sl">
            <label for="41a"></label>
-           <img src="basico/02_03_03.png"/>
+           <img src="dg/02_03_03.png"/>
            <figcaption>Com a ponta seca em <b>Q</b> desenhe um arco com o mesmo raio do passo anterior, obtendo o ponto <b>R</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="42" name="sl">
            <label for="42"></label>
-           <img src="basico/02_03_04.png"/>
+           <img src="dg/02_03_04.png"/>
            <figcaption>Desenhe a reta <b>OR</b> que é a bissetriz do ângulo dado.</figcaption>
        </li>
        <li>
            <input type="radio" id="43" name="sl">
            <label for="43"></label>
-           <img src="basico/02_03_05.png"/>
+           <img src="dg/02_03_05.png"/>
            <figcaption>Note que construímos dois triângulos: um verde e outro laranja.</figcaption>
        </li>
        <li>
            <input type="radio" id="44" name="sl">
            <label for="44"></label>
-           <img src="basico/02_03_06.png"/>
+           <img src="dg/02_03_06.png"/>
            <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos <b>&alpha;</b> e <b>&beta;</b> são também congruentes.</figcaption>
        </li>
     </ul>
-    <img src="basico/02_03_00.png" class="fundo"/>
+    <img src="dg/02_03_00.png" class="fundo"/>
   </details></div>
-  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00003.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="45" name="sl">
+           <label for="45"></label>
+           <img src="dg/03_01_01.png"/>
+           <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>R</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="46" name="sl">
+           <label for="46"></label>
+           <img src="dg/03_01_02.png"/>
+           <figcaption>Com o mesmo raio do passo anterior, desenhe um arco agora com vértice no ponto <b>P</b>, obtendo o ponto <b>S</b> sobre a reta <b>r</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="47" name="sl">
+           <label for="47"></label>
+           <img src="dg/03_01_03.png"/>
+           <figcaption>Agora meça com o compasso o tamanho do segmento <b>QR</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="48" name="sl">
+           <label for="48"></label>
+           <img src="dg/03_01_04.png"/>
+           <figcaption>Com raio <b>QR</b> desenhe um arco com centro no ponto <b>S</b>, obtendo o ponto <b>T</b> sobre o segundo arco desenhado.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="49" name="sl">
+           <label for="49"></label>
+           <img src="dg/03_01_05.png"/>
+           <figcaption>Construa a reta <b>PT</b>. O ângulo <b>&alpha;</b> obtido é congruente ao ângulo <b>&alpha;</b> dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00003a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <h4>Ângulos de 60&deg; e 30&deg;:</h4>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="50" name="sl">
+           <label for="50"></label>
+           <img src="dg/03_02_01.png"/>
+           <figcaption>Desenhe uma reta <b>r</b> e marque dois pontos <b>A</b> e <b>B</b> sobre ela.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="51" name="sl">
+           <label for="51"></label>
+           <img src="dg/03_02_02.png"/>
+           <figcaption>Construa o arco de centro <b>A</b> e raio <b>AB</b> e o arco de centro <b>B</b> e raio <b>AB</b> obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="52" name="sl">
+           <label for="52"></label>
+           <img src="dg/03_02_03.png"/>
+           <figcaption>Construa a reta <b>AC</b>. O ângulo <b>CAB</b> mede <b>60°</b>, pois o triângulo <b>ABC</b> construído é equilátero e, portanto, todos os seus ângulos internos medem <b>60°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="53" name="sl">
+           <label for="53"></label>
+           <img src="dg/03_02_04.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>60°</b> e o de <b>120°</b>. Quando dois ângulos somam <b>180°</b> são chamados de suplementares.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="54" name="sl">
+           <label for="54"></label>
+           <img src="dg/03_02_05.png"/>
+           <figcaption>Para obtermos o ângulo de <b>30°</b> basta dividir o ângulo de <b>60°</b> em duas partes iguais. Então construa novamente um ângulo de <b>60°</b> conforme vimos anteriormente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="55" name="sl">
+           <label for="55"></label>
+           <img src="dg/03_02_06.png"/>
+           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AD</b>. O ângulo <b>DAB</b> mede <b>30°</b>. Que ângulo também obtivemos nessa construção? Lembre-se do ângulo suplementar!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="56" name="sl">
+           <label for="56"></label>
+           <img src="dg/03_02_07.png"/>
+           <figcaption>Essa construção fornece também o suplemento do ângulo de <b>30°</b>, ou seja, o ângulo de <b>150°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_00.png" class="fundo"/>
+	<hr>
+	<h4>Ângulos de 90&deg; e 45&deg;:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="57" name="sl">
+           <label for="57"></label>
+           <img src="dg/03_02_08.png"/>
+           <figcaption>Para construir um ângulo de <b>90°</b> com régua e compasso basta construir uma reta perpendicular. Lembra que já fizemos isso? Vamos repetir então. Desenhe uma reta <b>r</b> e marque um ponto <b>A</b> sobre ela. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="58" name="sl">
+           <label for="58"></label>
+           <img src="dg/03_02_09.png"/>
+           <figcaption>Com a ponta seca do compasso em <b>A</b>, marque um ponto <b>B</b> para a esquerda e um ponto <b>C</b> para a direita. Use o mesmo raio para esses arcos. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="59" name="sl">
+           <label for="59"></label>
+           <img src="dg/03_02_10.png"/>
+           <figcaption>Com centro em <b>B</b> e um raio maior que a metade do segmento <b>BC</b> construa um arco, e faça o mesmo em <b>C</b>. Na interseção desses arcos obtemos os pontos <b>D</b> e <b>E</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="60" name="sl">
+           <label for="60"></label>
+           <img src="dg/03_02_11.png"/>
+           <figcaption>A reta <b>DE</b> é perpendicular à reta <b>r</b> e, assim, o ângulo obtido mede <b>90°</b>,</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="61" name="sl">
+           <label for="61"></label>
+           <img src="dg/03_02_12.png"/>
+           <figcaption>Para obtermos o ângulo de <b>45°</b> basta dividir o ângulo de <b>90°</b> em duas partes iguais. Então construa novamente um ângulo de <b>90°</b> conforme vimos anteriormente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="62" name="sl">
+           <label for="62"></label>
+           <img src="dg/03_02_13.png"/>
+           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AF</b>. O ângulo <b>FAC</b> mede <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="63" name="sl">
+           <label for="63"></label>
+           <img src="dg/03_02_14.png"/>
+           <figcaption>Lembra do ângulo suplementar? O suplemento do ângulo de <b>45°</b> mede <b>135°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_07.png" class="fundo"/>
+  <hr>
+  <h4>Ângulos de 75&deg; e 15&deg;:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="64" name="sl">
+           <label for="64"></label>
+           <img src="dg/03_02_15.png"/>
+           <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>BAC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="65" name="sl">
+           <label for="65"></label>
+           <img src="dg/03_02_16.png"/>
+           <figcaption>Construa sua bissetriz, obtendo um ângulo de <b>30°</b>. O suplemento do ângulo de <b>30°</b> irá medir <b>150°</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="66" name="sl">
+           <label for="66"></label>
+           <img src="dg/03_02_17.png"/>
+           <figcaption>Como o ângulo <b>DAF</b> mede <b>150°</b>, basta agora construir usa bissetriz, obtendo o ângulo de <b>75°</b>. Os ângulos <b>DAE</b> e <b>EAF</b> medem <b>75°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="67" name="sl">
+           <label for="67"></label>
+           <img src="dg/03_02_18.png"/>
+           <figcaption>Para construir um ângulo de <b>15°</b> basta construir um ângulo de <b>30°</b>. E para construir um ângulo de <b>30°</b> basta construir um de <b>60°</b>. Então vamos começar construindo um ângulo de <b>60°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="68" name="sl">
+           <label for="68"></label>
+           <img src="dg/03_02_19.png"/>
+           <figcaption>Agora construa a bissetriz do ângulo de <b>60°</b>, obtendo dois ângulos de <b>30°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="69" name="sl">
+           <label for="69"></label>
+           <img src="dg/03_02_20.png"/>
+           <figcaption>Escolha um dos ângulos de <b>30°</b> e construa sua bissetriz, obtendo dois ângulos de <b>15°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_14.png" class="fundo"/>
+	</details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <h4>Ângulos de 60&deg; e 30&deg;:</h4>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="70" name="sl">
+           <label for="70"></label>
+           <img src="dg/03_02_01e.png"/>
+           <figcaption>Para construir o ângulo de <b>60°</b> desenhe uma reta <b>r</b> e encaixe o cateto menor do esquadro de <b>30/60</b> sobre essa reta. O ângulo da esquerda do esquadro mede <b>60°</b> e o de cima mede <b>30°</b>. Já temos o ângulo de <b>60°</b> formado com a reta! Mas não podemos ainda traçar o outro lado do ângulo de <b>60°</b> pois o vértice não estará definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="71" name="sl">
+           <label for="71"></label>
+           <img src="dg/03_02_02e.png"/>
+           <figcaption>Use a régua para apoiar o outro cateto desse esquadro (você pode usar também o outro esquadro ao invés da régua).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="72" name="sl">
+           <label for="72"></label>
+           <img src="dg/03_02_03e.png"/>
+           <figcaption>Deslize o esquadro de <b>30/60</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixa a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="73" name="sl">
+           <label for="73"></label>
+           <img src="dg/03_02_04e.png"/>
+           <figcaption>Desenhe a reta s concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="74" name="sl">
+           <label for="74"></label>
+           <img src="dg/03_02_05e.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>60°</b> e o seu suplemento de <b>120°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="75" name="sl">
+           <label for="75"></label>
+           <img src="dg/03_02_06e.png"/>
+           <figcaption>Construir o ângulo de <b>30°</b> com os esquadros é muito parecido com o de <b>60°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>. O ângulo da esquerda do esquadro mede <b>30°</b> e o de cima mede <b>60°</b>. Já temos o ângulo de <b>30°</b> formado, mas como na construção anterior, não podemos traçar o lado do ângulo ainda!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="76" name="sl">
+           <label for="76"></label>
+           <img src="dg/03_02_07e.png"/>
+           <figcaption>Vamos usar o esquadro de <b>45</b> apoiado no outro cateto. Podemos usar a régua também.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="77" name="sl">
+           <label for="77"></label>
+           <img src="dg/03_02_08e.png"/>
+           <figcaption>Deslize o esquadro de <b>30/60</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="78" name="sl">
+           <label for="78"></label>
+           <img src="dg/03_02_09e.png"/>
+           <figcaption>Desenhe a reta s concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="79" name="sl">
+           <label for="79"></label>
+           <img src="dg/03_02_10e.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>30°</b> e o seu suplemento de <b>150°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_00e.png" class="fundo"/>
+	<hr>
+	<h4>Ângulos de 90&deg; e 45&deg;:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="80" name="sl">
+           <label for="80"></label>
+           <img src="dg/03_02_11e.png"/>
+           <figcaption>Lembra quando construímos uma reta perpendicular à outra reta? Então, o ângulo formado é reto, ou seja, de <b>90°</b>. Vamos repetir o processo agora. Desenhe uma reta <b>r</b> e encaixe um cateto do esquadro nessa reta (você pode usar qualquer esquadro agora).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="81" name="sl">
+           <label for="81"></label>
+           <img src="dg/03_02_12e.png"/>
+           <figcaption>Use a régua para apoiar a hipotenusa desse esquadro (você pode usar também o outro esquadro ao invés da régua).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="82" name="sl">
+           <label for="82"></label>
+           <img src="dg/03_02_13e.png"/>
+           <figcaption>Deslize o esquadro até que o outro cateto corte a reta <b>r</b>. Mantenha fixa a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="83" name="sl">
+           <label for="83"></label>
+           <img src="dg/03_02_14e.png"/>
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="84" name="sl">
+           <label for="84"></label>
+           <img src="dg/03_02_15e.png"/>
+           <figcaption>Essa construção fornece dois ângulos retos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="85" name="sl">
+           <label for="85"></label>
+           <img src="dg/03_02_16e.png"/>
+           <figcaption>Construir o ângulo de <b>45°</b> com os esquadros é muito parecido com o de <b>30°</b> e o de <b>60°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto do esquadro de <b>45</b> sobre a reta <b>r</b>. Já temos o ângulo de <b>45°</b> formado, mas não podemos traçar o lado do ângulo ainda! Lembra o porquê?</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="86" name="sl">
+           <label for="86"></label>
+           <img src="dg/03_02_17e.png"/>
+           <figcaption>Use o outro esquadro ou a régua para apoiar o outro cateto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="87" name="sl">
+           <label for="87"></label>
+           <img src="dg/03_02_18e.png"/>
+           <figcaption>Deslize o esquadro de <b>45</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="88" name="sl">
+           <label for="88"></label>
+           <img src="dg/03_02_19e.png"/>
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice O do ângulo está definido!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="89" name="sl">
+           <label for="89"></label>
+           <img src="dg/03_02_20e.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>45°</b> e o seu suplemento de <b>135°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_10e.png" class="fundo"/>
+  <hr>
+  <h4>Ângulos de 75&deg; e 15&deg;:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="90" name="sl">
+           <label for="90"></label>
+           <img src="dg/03_02_21e.png"/>
+           <figcaption>Para construir o ângulo de <b>75°</b> basta lembrar que ele é a soma de <b>30°</b> com <b>45°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>30°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="91" name="sl">
+           <label for="91"></label>
+           <img src="dg/03_02_22e.png"/>
+           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos da esquerda é <b>75°</b>, mas não podemos traçar o lado do ângulo ainda!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="92" name="sl">
+           <label for="92"></label>
+           <img src="dg/03_02_23e.png"/>
+           <figcaption>Deslize o esquadro de <b>45</b> até que o cateto corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="93" name="sl">
+           <label for="93"></label>
+           <img src="dg/03_02_24e.png"/>
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada utilizando o cateto do esquadro de <b>45</b>. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="94" name="sl">
+           <label for="94"></label>
+           <img src="dg/03_02_25e.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>75°</b> e o seu suplemento de <b>105°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="95" name="sl">
+           <label for="95"></label>
+           <img src="dg/03_02_26e.png"/>
+           <figcaption>A construção do ângulo de <b>15°</b> é parecida com a de <b>75°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto menor do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>60°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="96" name="sl">
+           <label for="96"></label>
+           <img src="dg/03_02_27e.png"/>
+           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos de cima é <b>75°</b> e como o ângulo da direita é de <b>90°</b> então o ângulo que aparecerá no lado esquerdo, após deslizarmos o esquadro de <b>45</b>, será de <b>15°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="97" name="sl">
+           <label for="97"></label>
+           <img src="dg/03_02_28e.png"/>
+           <figcaption>Deslize o esquadro de <b>45</b> até que o cateto corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="98" name="sl">
+           <label for="98"></label>
+           <img src="dg/03_02_29e.png"/>
+           <figcaption>Segure agora o esquadro de <b>45</b> e deslize o de <b>30/60</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="99" name="sl">
+           <label for="99"></label>
+           <img src="dg/03_02_30e.png"/>
+           <figcaption>Mantenha fixo agora o de <b>30/60</b> e deslize o de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="001" name="sl">
+           <label for="001"></label>
+           <img src="dg/03_02_31e.png"/>
+           <figcaption>Pronto! Só traçar a reta <b>s</b> utilizando o cateto de cima do esquadro de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="002" name="sl">
+           <label for="002"></label>
+           <img src="dg/03_02_32e.png"/>
+           <figcaption>Essa construção fornece dois ângulos: o de <b>15°</b> e o seu suplemento de <b>165°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_20e.png" class="fundo"/>
+	</details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00004.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="003" name="sl">
+           <label for="003"></label>
+           <img src="dg/04_01_01.png"/>
+           <figcaption>Na figura da direita temos o feixe de retas paralelas: <b>r</b>, <b>s</b>, <b>t</b> e <b>u</b>, e o feixe de retas concorrentes em <b>O</b>: <b>f</b> e <b>g</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="004" name="sl">
+           <label for="004"></label>
+           <img src="dg/04_01_02.png"/>
+           <figcaption>Essas paralelas determinam sobre as retas concorrentes os segmentos: <b>a</b>, <b>b</b> e <b>c</b>, e os seus correspondentes nesta ordem: <b>m</b>, <b>n</b> e <b>p</b>. Assim, o Teorema de Tales garante que os segmentos <b>a</b>, <b>b</b> e <b>c</b> são proporcionais aos segmentos correspondentes <b>m</b>, <b>n</b> e <b>p</b>. Ou seja, <b>a/m = b/n = c/p</b>. Note que podemos ter variações na forma de montar as proporções, por exemplo, <b>a/m = b/n</b> é análogo a <b>a/b=m/n</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="005" name="sl">
+           <label for="005"></label>
+           <img src="dg/04_01_03.png"/>
+           <figcaption>Vamos aplicar esse teorema na divisão gráfica do segmento dado <b>AB</b> em 5 partes iguais. Trace uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="006" name="sl">
+           <label for="006"></label>
+           <img src="dg/04_01_04.png"/>
+           <figcaption>Precisamos marcar 5 unidades iguais sobre a reta auxiliar a partir do ponto <b>A</b>. Então abra o compasso com uma unidade arbitrária <b>u</b> (usamos aqui <b>u=1,5cm</b>).Construa um arco com centro em <b>A</b> e raio <b>u</b>, obtendo o ponto <b>1</b> sobre a reta auxiliar.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="007" name="sl">
+           <label for="007"></label>
+           <img src="dg/04_01_05.png"/>
+           <figcaption>Construa um novo arco agora com centro no ponto <b>1</b> e o mesmo raio <b>u</b>, obtendo o ponto <b>2</b> sobre a reta auxiliar.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="008" name="sl">
+           <label for="008"></label>
+           <img src="dg/04_01_06.png"/>
+           <figcaption>Continue o processo até obter o ponto <b>5</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="009" name="sl">
+           <label for="009"></label>
+           <img src="dg/04_01_07.png"/>
+           <figcaption>Desenhe a reta <b>r</b> ligando os pontos <b>5</b> e <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="010" name="sl">
+           <label for="010"></label>
+           <img src="dg/04_01_08.png"/>
+           <figcaption>Trace com os esquadros uma reta <b>s</b> paralela à reta <b>r</b> que passe pelo ponto <b>4</b>, obtendo o ponto <b>F</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="011" name="sl">
+           <label for="011"></label>
+           <img src="dg/04_01_09.png"/>
+           <figcaption>Trace com os esquadros as demais retas paralelas passando pelos pontos <b>3</b>, <b>2</b> e <b>1</b>. Determinando sobre a reta <b>AB</b> os pontos <b>E</b>, <b>D</b> e <b>C</b>, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="012" name="sl">
+           <label for="012"></label>
+           <img src="dg/04_01_10.png"/>
+           <figcaption>Pelo Teorema de Tales como os segmentos <b>A1</b>, <b>12</b>, <b>23</b>, <b>34</b>, <b>45</b> são proporcionais a <b>u</b> então <b>AC</b>, <b>CD</b>, <b>DE</b>, <b>EF</b> e <b>FB</b> são proporcionais a <b>u’</b>. E, portanto, o segmento <b>AB</b> foi dividido graficamente em 5 partes iguais.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00004a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="013" name="sl">
+           <label for="013"></label>
+           <img src="dg/04_02_01.png"/>
+           <figcaption>Comece traçando uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="014" name="sl">
+           <label for="014"></label>
+           <img src="dg/04_02_02.png"/>
+           <figcaption>Como queremos dividir o segmento dado <b>AB</b> em partes proporcionais aos números dados <b>m</b>, <b>n</b> e <b>p</b>, vamos associá-los a segmentos de comprimentos <b>2cm</b>, <b>4,2cm</b> e <b>5,3cm</b>, respectivamente. Marque sobre a reta auxiliar, a partir do ponto <b>A</b>, um segmento m de medida <b>2cm</b>, obtendo o ponto <b>1</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="015" name="sl">
+           <label for="015"></label>
+           <img src="dg/04_02_03.png"/>
+           <figcaption>A partir do ponto <b>1</b>, marque o segmento <b>n</b> de medida <b>4,2cm</b>, obtendo o ponto <b>2</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="016" name="sl">
+           <label for="016"></label>
+           <img src="dg/04_02_04.png"/>
+           <figcaption>Marque o segmento <b>p</b> de comprimento <b>5,3cm</b>, a partir do ponto <b>2</b>, obtendo o ponto <b>3</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="017" name="sl">
+           <label for="017"></label>
+           <img src="dg/04_02_05.png"/>
+           <figcaption>Desenhe a reta <b>r</b> ligando os pontos <b>3</b> e <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="018" name="sl">
+           <label for="018"></label>
+           <img src="dg/04_02_06.png"/>
+           <figcaption>Trace com os esquadros uma reta <b>s</b> paralela à reta <b>r</b> que passe pelo ponto <b>2</b>, obtendo o ponto <b>D</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="019" name="sl">
+           <label for="019"></label>
+           <img src="dg/04_02_07.png"/>
+           <figcaption>Trace com os esquadros uma reta <b>t</b> paralela à reta <b>r</b> (ou <b>s</b>) que passe pelo ponto <b>1</b>, obtendo o ponto <b>C</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="020" name="sl">
+           <label for="020"></label>
+           <img src="dg/04_02_08.png"/>
+           <figcaption>Pelo Teorema de Tales temos que os segmentos <b>AC</b>, <b>CD</b> e <b>DB</b> são proporcionais a <b>A1</b>, <b>12</b> e <b>23</b>, respectivamente. Ou seja, <b>a</b>, <b>b</b> e <b>c</b> são proporcionais a <b>m</b>, <b>n</b> e <b>p</b> nesta ordem. Assim, o segmento <b>AB</b> foi dividido em partes proporcionais pelos pontos <b>C</b> e <b>D</b> como pedido.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00004b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="021" name="sl">
+           <label for="021"></label>
+           <img src="dg/04_03_01.png"/>
+           <figcaption>Vamos iniciar pensando no exercício resolvido, ou seja, na figura auxiliar da direita temos uma circunferência de centro O que passa pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Vamos procurar uma relação do centro <b>O</b> com os dados do exercício.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="022" name="sl">
+           <label for="022"></label>
+           <img src="dg/04_03_02.png"/>
+           <figcaption>Note que a distância do centro <b>O</b> ao ponto <b>A</b> é <b>r</b>, o mesmo acontece com o ponto <b>C</b>, ou seja, a distância do centro <b>O</b> ao ponto <b>C</b> também é <b>r</b>. Não sabemos quanto mede <b>r</b>, mas conhecemos que <b>O</b> é equidistante de <b>A</b> e <b>C</b>!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="023" name="sl">
+           <label for="023"></label>
+           <img src="dg/04_03_03.png"/>
+           <figcaption>Assim, o ponto <b>O</b> pertence à mediatriz do segmento <b>AC</b>! Lembra que vimos essa propriedade da mediatriz?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="024" name="sl">
+           <label for="024"></label>
+           <img src="dg/04_03_04.png"/>
+           <figcaption>Agora vamos observar que a distância do centro <b>O</b> ao ponto <b>C</b> é <b>r</b>, e que a distância do centro <b>O</b> ao ponto <b>B</b> também é <b>r</b>. Assim, o ponto <b>O</b> é equidistante de <b>B</b> e <b>C</b>! </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="025" name="sl">
+           <label for="025"></label>
+           <img src="dg/04_03_05.png"/>
+           <figcaption>Logo, o ponto O pertence à mediatriz do segmento <b>BC</b>! </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="026" name="sl">
+           <label for="026"></label>
+           <img src="dg/04_03_06.png"/>
+           <figcaption>Portanto, já temos a estratégia de solução: para obtermos o centro <b>O</b> basta construir as mediatrizes dos segmentos <b>AC</b> e <b>BC</b>! Agora vamos à construção gráfica!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="027" name="sl">
+           <label for="027"></label>
+           <img src="dg/04_03_07.png"/>
+           <figcaption>Construa a mediatriz do segmento <b>AC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="028" name="sl">
+           <label for="028"></label>
+           <img src="dg/04_03_08.png"/>
+           <figcaption>Construa a mediatriz do segmento <b>BC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="029" name="sl">
+           <label for="029"></label>
+           <img src="dg/04_03_09.png"/>
+           <figcaption>Obtenha o ponto <b>O</b> na interseção da <b>med(AC)</b> com a <b>med(BC)</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="030" name="sl">
+           <label for="030"></label>
+           <img src="dg/04_03_10.png"/>
+           <figcaption>Pronto! Agora é só construir a circunferência de centro <b>O</b> que ela passará pelos pontos dados <b>A</b>, <b>B</b> e <b>C</b>. Note que poderíamos ter utilizado também a mediatriz do segmento <b>AB</b> ao invés de alguma outra. Não construímos as três mediatrizes, bastam duas apenas!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_03_00.png" class="fundo"/>
+  </details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00005.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="031" name="sl">
+           <label for="031"></label>
+           <img src="dg/05_01_01.png"/>
+           <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="032" name="sl">
+           <label for="032"></label>
+           <img src="dg/05_01_02.png"/>
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do triângulo que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="033" name="sl">
+           <label for="033"></label>
+           <img src="dg/05_01_03.png"/>
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=7cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=7cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="034" name="sl">
+           <label for="034"></label>
+           <img src="dg/05_01_04.png"/>
+           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=9cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>c=9cm</b>! Construa essa primeira circunferência!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="035" name="sl">
+           <label for="035"></label>
+           <img src="dg/05_01_05.png"/>
+           <figcaption>Sabemos que a distância entre <b>C</b> e A mede <b>b=6cm</b>. Assim, A estará sobre uma circunferência de centro <b>C</b> e raio <b>b=6cm</b>! Construa essa segunda circunferência! Na interseção dessas duas circunferências obtemos o vértice <b>A</b> do triângulo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="036" name="sl">
+           <label for="036"></label>
+           <img src="dg/05_01_06.png"/>
+           <figcaption>Pronto! Com os três vértices determinados podemos representar agora o triângulo <b>ABC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="037" name="sl">
+           <label for="037"></label>
+           <img src="dg/05_01_07.png"/>
+           <figcaption>Para obter o circuncentro <b>O</b> basta construir as mediatrizes dos lados do triângulo <b>ABC</b>. Temos três lados e, portanto, três mediatrizes. Basta construir duas apenas. Construa a mediatriz do lado <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="038" name="sl">
+           <label for="038"></label>
+           <img src="dg/05_01_08.png"/>
+           <figcaption>Construa a mediatriz do lado <b>AC</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="039" name="sl">
+           <label for="039"></label>
+           <img src="dg/05_01_09.png"/>
+           <figcaption>Essas duas mediatrizes se encontram no ponto <b>O</b> denominado de Circuncentro do triângulo <b>ABC</b>. Note que esse ponto é equidistante das extremidades dos segmentos <b>AB</b> e <b>AC</b> e, portanto, é equidistante dos três pontos ao mesmo tempo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="040" name="sl">
+           <label for="040"></label>
+           <img src="dg/05_01_10.png"/>
+           <figcaption>Logo, o circuncentro <b>O</b> é o centro da circunferência circunscrita ao triângulo <b>ABC</b>!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/05_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00005a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="041" name="sl">
+           <label for="041"></label>
+           <img src="dg/05_02_01.png"/>
+           <figcaption>Vamos nomear os vértices do triângulo como <b>A</b>, <b>B</b> e <b>C</b>. Construa as mediatrizes dos lados <b>AB</b> e <b>AC</b>, obtendo também os pontos médios <b>Mc</b> e <b>Mb</b>, respectivamente.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="043" name="sl">
+           <label for="043"></label>
+           <img src="dg/05_02_02.png"/>
+           <figcaption>Desenhe o segmento <b>mb</b> ligando o ponto <b>B</b> ao ponto médio <b>Mb</b> do lado oposto, este é a mediana relativa ao lado <b>b</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="042" name="sl">
+           <label for="042"></label>
+           <img src="dg/05_02_03.png"/>
+           <figcaption>Agora desenhe o segmento <b>mc</b> ligando o ponto <b>C</b> ao ponto médio <b>Mc</b> do lado oposto, este é a mediana relativa ao lado <b>c</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="044" name="sl">
+           <label for="044"></label>
+           <img src="dg/05_02_04.png"/>
+           <figcaption>A interseção das duas medianas <b>mb</b> e <b>mc</b> nos dá o baricentro <b>G</b> Note que não é preciso desenhar a terceira mediana <b>ma</b>!  O baricentro possui uma propriedade importante: ele divide cada mediana em duas partes, sendo que a parte que contém o vértice tem o dobro do tamanho da parte que contém o ponto médio. Meça no desenho para verificar!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/05_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00005b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
+  <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
+  <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00006.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="050" name="sl">
+           <label for="050"></label>
+           <img src="dg/06_01_01.png"/>
+           <figcaption>Construa pelo vértice <b>B</b> uma reta perpendicular ao lado oposto <b>b</b>, obtendo o ponto <b>Hb</b> sobre a reta <b>AC</b>. Essa reta é denominada de reta suporte da altura. E a altura relativa ao lado <b>b</b> é o segmento <b>BHb</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="051" name="sl">
+           <label for="051"></label>
+           <img src="dg/06_01_02.png"/>
+           <figcaption>Agora construa pelo vértice <b>C</b> uma reta perpendicular ao lado oposto <b>c</b>, obtendo o ponto <b>Hc</b> sobre a reta <b>AB</b>. A altura relativa ao lado <b>c</b> é o segmento <b>CHc</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="052" name="sl">
+           <label for="052"></label>
+           <img src="dg/06_01_03.png"/>
+           <figcaption>A interseção das retas suportes das alturas nos fornece o Ortocentro <b>H</b> do triângulo <b>ABC</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00006a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Quando dividimos uma circunferência em partes iguais estamos dividindo o ângulo central de <b>360°</b> em partes iguais e também estamos construindo polígonos regulares inscritos nessa circunferência. É importante observar que se a circunferência for dividida em <b>n</b> partes iguais, também será facilmente dividida em <b>2n</b> partes, bastando traçar bissetrizes dos ângulos centrais.</p> 
+  <p>Vamos dividir a circunferência em <b>3</b> partes iguais, ou seja, construir o polígono regular de <b>3</b> lados inscrito na circunferência dada. Esse será o <b>triângulo equilátero</b>!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="053" name="sl">
+           <label for="053"></label>
+           <img src="dg/06_02_01.png"/>
+           <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada.Coloque a ponta seca do compasso no ponto <b>A</b> e abra até chegar ao centro <b>O</b> da circunferência dada. Estamos “pegando” o raio <b>OA</b> com o compasso. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="054" name="sl">
+           <label for="054"></label>
+           <img src="dg/06_02_02.png"/>
+           <figcaption>Construa dois arcos de circunferência, um para a esquerda e outro para a direita, com centro em <b>A</b> e raio <b>OA</b>, obtendo os pontos <b>B</b> e <b>F</b>, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="055" name="sl">
+           <label for="055"></label>
+           <img src="dg/06_02_03.png"/>
+           <figcaption>Agora com centro em <b>B</b> e raio <b>OA</b> construa mais um arco obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="056" name="sl">
+           <label for="056"></label>
+           <img src="dg/06_02_04.png"/>
+           <figcaption>Com centro em <b>F</b> e raio <b>OA</b> construa mais um arco obtendo o ponto <b>E</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="057" name="sl">
+           <label for="057"></label>
+           <img src="dg/06_02_05.png"/>
+           <figcaption>Com centro ou em <b>E</b> ou em <b>C</b>, construa mais um arco obtendo um ponto <b>D</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="058" name="sl">
+           <label for="058"></label>
+           <img src="dg/06_02_06.png"/>
+           <figcaption>Acabamos de dividir a circunferência em 6 partes iguais obtendo o hexágono regular inscrito na circunferência! Pois construímos 6 triângulos: <b>OAB</b>, <b>OBC</b>, <b>OCD</b>, <b>ODE</b>, <b>OEF</b> e <b>OFA</b>, todos equiláteros de lado <b>OA</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="059" name="sl">
+           <label for="059"></label>
+           <img src="dg/06_02_07.png"/>
+           <figcaption>Finalmente para obter o triângulo equilátero inscrito nessa circunferência basta unir os vértices <b>B</b>, <b>D</b> e <b>F</b>, por exemplo.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00006b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>4</b> partes iguais, ou seja, construir o polígono regular de <b>4</b> lados inscrito na circunferência dada. Esse será o quadrado!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="060" name="sl">
+           <label for="060"></label>
+           <img src="dg/06_03_01.png"/>
+           <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada. Construa a reta <b>OA</b> obtendo o ponto <b>C</b> sobre a circunferência.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="061" name="sl">
+           <label for="061"></label>
+           <img src="dg/06_03_02.png"/>
+           <figcaption>Usando os esquadros construa uma reta perpendicular à reta <b>OA</b> passando pelo centro <b>O</b>, obtendo os pontos <b>B</b> e <b>D</b> sobre a circunferência. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="062" name="sl">
+           <label for="062"></label>
+           <img src="dg/06_03_03.png"/>
+           <figcaption>Agora desenhe o polígono <b>ABCD</b>. Ele é um quadrado pois os ângulos centrais formados são de <b>90°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_03_00.png" class="fundo"/>
+  </details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00007.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="063" name="sl">
+           <label for="063"></label>
+           <img src="dg/07_01_01.png"/>
+           <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00007a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>8</b> partes iguais. Para isso, vamos começar dividindo a circunferência em <b>4</b> partes iguais. Lembra? Já fizemos isso no item b desse exercício! </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="064" name="sl">
+           <label for="064"></label>
+           <img src="dg/07_02_01.png"/>
+           <figcaption>Comece por um ponto <b>A</b> qualquer da circunferência e trace dois diâmetros <b>AE</b> e <b>CG</b> perpendiculares utilizando os esquadros. Já temos o quadrado <b>ACEG</b> inscrito. Não precisa representar esse quadrado! </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="065" name="sl">
+           <label for="065"></label>
+           <img src="dg/07_02_02.png"/>
+           <figcaption>Construa a bissetriz do ângulo <b>GOE</b> obtendo os pontos <b>B</b> e <b>F</b> sobre a circunferência. Acabamos de obter ângulos centrais de <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="066" name="sl">
+           <label for="066"></label>
+           <img src="dg/07_02_03.png"/>
+           <figcaption>Construa agora a bissetriz do ângulo <b>COE</b> obtendo sobre a circunferência os pontos <b>D</b> e <b>H</b>. Temos mais 4 ângulos centrais de <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="067" name="sl">
+           <label for="067"></label>
+           <img src="dg/07_02_04.png"/>
+           <figcaption>Pronto! O polígono <b>ABCDEFG</b> é um octógono regular inscrito na circunferência dada. Agora é só representar. O que é preciso fazer para obtermos o polígono regular de <b>16</b> lados inscrito nessa circunferência?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00007b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>10</b> partes iguais. Acompanhe o procedimento.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="068" name="sl">
+           <label for="068"></label>
+           <img src="dg/07_03_01.png"/>
+           <figcaption>Desenhe um diâmetro <b>12</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="069" name="sl">
+           <label for="069"></label>
+           <img src="dg/07_03_02.png"/>
+           <figcaption>Construa um segundo diâmetro <b>34</b> perpendicular ao primeiro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="070" name="sl">
+           <label for="070"></label>
+           <img src="dg/07_03_03.png"/>
+           <figcaption>Trace a mediatriz do raio <b>O1</b>, obtendo o ponto <b>5</b>, médio do segmento.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="071" name="sl">
+           <label for="071"></label>
+           <img src="dg/07_03_04.png"/>
+           <figcaption>Construa o arco de centro no ponto <b>5</b> e raio <b>53</b>, obtendo o ponto <b>6</b> sobre o diâmetro <b>12</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="072" name="sl">
+           <label for="072"></label>
+           <img src="dg/07_03_05.png"/>
+           <figcaption>O segmento <b>O6=l<sub>10</sub></b> é o lado do decágono regular inscrito nessa circunferência. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="073" name="sl">
+           <label for="073"></label>
+           <img src="dg/07_03_06.png"/>
+           <figcaption>Marque essa medida <b>l<sub>10</sub></b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="074" name="sl">
+           <label for="074"></label>
+           <img src="dg/07_03_07.png"/>
+           <figcaption>Com a mesma medida <b>l<sub>10</sub></b> no compasso, construa um arco de centro em <b>B</b> obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="075" name="sl">
+           <label for="075"></label>
+           <img src="dg/07_03_08.png"/>
+           <figcaption>Continue o processo até obter o ponto <b>J</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="076" name="sl">
+           <label for="076"></label>
+           <img src="dg/07_03_09.png"/>
+           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, ..., <b>J</b> para obter o decágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l<sub>10</sub></b> é o segmento áureo do raio e, portanto, mede <b>r(√5-1)/2</b>. Para deduzir essa relação basta observar o triângulo retângulo <b>O53</b> e que os segmentos <b>56</b> e <b>53</b> são congruentes!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_03_00.png" class="fundo"/>
+  </details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00008.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividir a circunferência em <b>5</b> partes iguais podemos dividi-la primeiro em <b>10</b> partes iguais e ao invés de unir os vértices um a um, basta unir de dois em dois, ou utilizar uma propriedade geométrica. Veja a seguir qual seria.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="077" name="sl">
+           <label for="077"></label>
+           <img src="dg/08_01_01.png"/>
+           <figcaption>Repita o processo da divisão da circunferência em <b>10</b> partes iguais visto no item anterior. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="078" name="sl">
+           <label for="078"></label>
+           <img src="dg/08_01_02.png"/>
+           <figcaption>O segmento <b>63=l<sub>5</sub></b> é o lado do pentágono regular inscrito na circunferência dada.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="079" name="sl">
+           <label for="079"></label>
+           <img src="dg/08_01_03.png"/>
+           <figcaption>Marque essa medida <b>l<sub>5</sub></b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="080" name="sl">
+           <label for="080"></label>
+           <img src="dg/08_01_04.png"/>
+           <figcaption>Com a mesma medida do <b>l<sub>5</sub></b> no compasso, obtenha os demais vértices.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="081" name="sl">
+           <label for="081"></label>
+           <img src="dg/08_01_05.png"/>
+           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b> e <b>E</b> para representar o pentágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l<sub>5</sub></b> é hipotenusa de um triângulo retângulo de catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub>=r</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00008a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o triângulo equilátero de lado <b>l</b> dado! Mas antes reveja o exercício 6 da página 3 em que construímos o ângulo de <b>60°</b>, lá utilizamos dois processos: um com régua e compasso e outro com os esquadros para obtermos o ângulo de <b>60°</b>. Reveja também o exercício 10 da página 5, em que construímos um triângulo dados os tamanhos dos lados. O que já aprendemos iremos utilizar agora. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="082" name="sl">
+           <label for="082"></label>
+           <img src="dg/08_02_01.png"/>
+           <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="083" name="sl">
+           <label for="083"></label>
+           <img src="dg/08_02_02.png"/>
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do triângulo que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="084" name="sl">
+           <label for="084"></label>
+           <img src="dg/08_02_03.png"/>
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=l=4cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=l=4cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="085" name="sl">
+           <label for="085"></label>
+           <img src="dg/08_02_04.png"/>
+           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=l=4cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>c=l=4cm</b>! Construa essa primeira circunferência! Veja que não é preciso construir toda ela, basta um arco somente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="086" name="sl">
+           <label for="086"></label>
+           <img src="dg/08_02_05.png"/>
+           <figcaption>Sabemos que a distância entre <b>C</b> e <b>A</b> mede <b>b=l=4cm</b>. Assim, <b>A</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>b=l=4cm</b>! Construa essa segunda circunferência, ou melhor, esse segundo arco! Na interseção desses doisarcos de circunferência obtemos o vértice <b>A</b> do triângulo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="087" name="sl">
+           <label for="087"></label>
+           <img src="dg/08_02_06.png"/>
+           <figcaption>Pronto! Com os três vértices determinados podemos representar agora o triângulo <b>ABC</b>. Nessa construção usamos somente régua e compasso! Como seria a construção usando régua e esquadros?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00008b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o quadrado de lado <b>l</b> dado! O quadrado é um polígono que possui os quatro lados congruentes (iguais) e os quatro ângulos internos também congruentes e cada um medindo <b>90°</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="088" name="sl">
+           <label for="088"></label>
+           <img src="dg/08_03_01.png"/>
+           <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="089" name="sl">
+           <label for="089"></label>
+           <img src="dg/08_03_02.png"/>
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do quadrado que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="090" name="sl">
+           <label for="090"></label>
+           <img src="dg/08_03_03.png"/>
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=l=4cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=l=4cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="091" name="sl">
+           <label for="091"></label>
+           <img src="dg/08_03_04.png"/>
+           <figcaption>O ângulo interno do quadrado que queremos construir é <b>90°</b>, então o ponto A estará sobre uma perpendicular à reta <b>r</b> passando pelo ponto <b>B</b>. Use os esquadros ou o compasso para construir essa perpendicular.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="092" name="sl">
+           <label for="092"></label>
+           <img src="dg/08_03_05.png"/>
+           <figcaption>Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>l=4cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>l=4cm</b>! Construa essa primeira circunferência! Lembre-se que não é preciso construir toda ela!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="093" name="sl">
+           <label for="093"></label>
+           <img src="dg/08_03_06.png"/>
+           <figcaption>Falta obtermos o último vértice <b>D</b>. Como a distância entre <b>D</b> e <b>C</b> é <b>l=4cm</b>, então <b>D</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>l=4cm</b>. Construa essa circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="094" name="sl">
+           <label for="094"></label>
+           <img src="dg/08_03_07.png"/>
+           <figcaption>E como a distância entre <b>D</b> e <b>A</b> é <b>l=4cm</b>, então <b>D</b> estará sobre uma circunferência de centro <b>A</b> e raio <b>l=4cm</b>. Construa essa circunferência obtendo o ponto <b>D</b> sobre a circunferência obtida no passo anterior.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="095" name="sl">
+           <label for="095"></label>
+           <img src="dg/08_03_08.png"/>
+           <figcaption>Pronto! O quadrado está construído. Para obter o ponto <b>D</b> poderíamos ter usado os esquadros e traçado paralelas, tente fazer novamente dessa maneira. </figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_03_00.png" class="fundo"/>
+  </details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00009.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="096" name="sl">
+           <label for="096"></label>
+           <img src="dg/09_01_01.png"/>
+           <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="097" name="sl">
+           <label for="097"></label>
+           <img src="dg/09_01_02.png"/>
+           <figcaption>Marque um ponto <b>1</b> sobre a mesma. Esse será o primeiro vértice do pentágono que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="098" name="sl">
+           <label for="098"></label>
+           <img src="dg/09_01_03.png"/>
+           <figcaption>Marque no compasso <b>3</b> centímetros e construa a circunferência de centro <b>1</b> e raio <b>l=3cm</b>, obtendo sobre a reta <b>r</b> o ponto <b>2</b>, que será o segundo vértice do pentágono. Não feche o compasso, vamos usar essa medida mais vezes! </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="099" name="sl">
+           <label for="099"></label>
+           <img src="dg/09_01_04.png"/>
+           <figcaption>Construa a circunferência de centro no ponto <b>2</b> e raio <b>l=3cm</b> obtendo sobre a primeira circunferência os pontos <b>3</b> e <b>4</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0001" name="sl">
+           <label for="0001"></label>
+           <img src="dg/09_01_05.png"/>
+           <figcaption>Construa a reta <b>s</b> que passe pelos pontos <b>3</b> e <b>4</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0002" name="sl">
+           <label for="0002"></label>
+           <img src="dg/09_01_06.png"/>
+           <figcaption>Agora com centro no ponto <b>4</b> construa uma terceira circunferência de raio <b>l=3cm</b> obtendo sobre a primeira o ponto <b>5</b>, sobre a segunda o ponto <b>7</b> e sobre a reta <b>s</b> o ponto <b>6</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0003" name="sl">
+           <label for="0003"></label>
+           <img src="dg/09_01_07.png"/>
+           <figcaption>Trace a reta <b>t</b> unindo os pontos <b>5</b> e <b>6</b> obtendo o ponto <b>8</b> sobre a segunda circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0004" name="sl">
+           <label for="0004"></label>
+           <img src="dg/09_01_08.png"/>
+           <figcaption>E agora trace a reta <b>u</b> pelos pontos <b>6</b> e <b>7</b> obtendo o ponto <b>9</b> sobre a primeira circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0005" name="sl">
+           <label for="0005"></label>
+           <img src="dg/09_01_09.png"/>
+           <figcaption>Para obtermos o último vértice construa um arco de circunferência de centro no ponto <b>8</b> e raio <b>l=3cm</b> e outro arco com centro no ponto <b>9</b> e raio <b>l=3cm</b> encontrando na interseção o último vértice <b>10</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0006" name="sl">
+           <label for="0006"></label>
+           <img src="dg/09_01_10.png"/>
+           <figcaption>Agora é só unir os pontos <b>1</b>, <b>2</b>, <b>8</b>, <b>10</b> e <b>9</b>! Embora essa construção nos dê um polígono com os <b>5</b> lados congruentes, os ângulos internos não são iguais! </figcaption>
+       </li>
+    </ul>
+    <img src="dg/09_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="dg/Apost_GD_2021_00009a.png"/>
+  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <img id="atv12" src="dg/Apost_GD_2021_00009b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="0013" name="sl">
+           <label for="0013"></label>
+           <img src="dg/09_03_01.png"/>
+           <figcaption>Veja a primeira figura auxiliar.Por definição uma reta tangente possui um único ponto <b>T</b> em comum com a circunferência! E por propriedade a reta tangente forma com o raio <b>r=OT</b> no ponto <b>T</b> um ângulo de <b>90°</b>!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="0014" name="sl">
+           <label for="0014"></label>
+           <img src="dg/09_03_02.png"/>
+           <figcaption>Na segunda figura auxiliar temos que o segmento <b>QR</b> é um diâmetro da circunferência de centro <b>M</b>, assim, temos a seguinte propriedade: qualquer ponto <b>P</b> da mesma sempre “enxerga” esse diâmetro segundo um ângulo reto, ou seja, o ângulo <b>QPR=90°</b>. Dizemos que a semicircunferência é um Arco Capaz de <b>90°</b> do segmento <b>QR</b>. Temos dois Arcos Capazes de <b>90°</b>!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0015" name="sl">
+           <label for="0015"></label>
+           <img src="dg/09_03_03.png"/>
+           <figcaption>Agora é a resolução gráfica!  Nomeie o centro da circunferência dada como <b>O</b>. Construa a reta <b>AO</b>. Vamos obter o ponto <b>T</b> de tangência para obter a reta tangente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0016" name="sl">
+           <label for="0016"></label>
+           <img src="dg/09_03_04.png"/>
+           <figcaption>Como o ângulo <b>OTA=90°</b> então <b>T</b> pertence ao Arco Capaz de <b>90°</b> do segmento <b>AO</b>. Ou seja, pertence à circunferência de diâmetro <b>AO</b>. Construa a mediatriz do segmento <b>OA</b> obtendo o ponto <b>M</b> médio do segmento.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0017" name="sl">
+           <label for="0017"></label>
+           <img src="dg/09_03_05.png"/>
+           <figcaption>Construa a circunferência de centro <b>M</b> e raio <b>OM</b>, obtendo sobre a circunferência dada dois pontos de tangência <b>T<sub>1</sub></b> e <b>T<sub>2</sub></b>. Note que são duas soluções para o ponto de tangência!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="0018" name="sl">
+           <label for="0018"></label>
+           <img src="dg/09_03_06.png"/>
+           <figcaption>Desenhe as retas <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> que são as retas tangentes à circunferência dada passando pelo ponto dado <b>A</b>. Pronto! Você consegue agora identificar as propriedades vistas nas figuras auxiliares?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/09_03_00.png" class="fundo"/>
+  </details></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <img src="dg/Apost_GD_2021_00010.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <img src="dg/Apost_GD_2021_00010a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="0022" name="sl">
+           <label for="0022"></label>
+           <img src="dg/10_02_01.png" />
+           <figcaption>Construa a reta <b>OT</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="0024" name="sl">
+           <label for="0024"></label>
+           <img src="dg/10_02_02.png" />
+           <figcaption>Usando os esquadros ou o compasso construa a reta <b>t</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>s</b>. Pronto! A reta <b>t</b> é tangente à circunferência dada pois o ângulo formado entre ela e o raio no ponto <b>T</b> é <b>90°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/10_02_00.png" class="fundo" />
+  </details></div>
+  <p>19. Construir um triângulo ABC sabendo-se que:
+  <br>a) seu perímetro (perímetro é a soma dos lados do polígono) mede 15cm
+  <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 5, BC é proporcional a 3 e AC é proporcional a 4,5.</p>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
+  <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
