@@ -1109,15 +1109,8 @@
   <img src="dg/Apost_GD_2021_00007.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="063" name="sl">
-           <label for="063"></label>
-           <img src="dg/07_01_01.png"/>
-           <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
-       </li>
-    </ul>
-    <img src="dg/07_01_00.png" class="fundo"/>
+    <img src="dg/07_01_01.png"/>
+    <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
   </details></div>
   <img src="dg/Apost_GD_2021_00007a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
