@@ -1481,28 +1481,28 @@
 </details>
 
 <details>
-  <summary id="propriedades">1. Propriedades das projeções cilíndricas</summary>
-	<p>Material da página 1 até a página 13.</p>
-	<p>Leia o conteúdo das páginas 1, 2 e 3 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
+  <summary id="propriedades">2. Propriedades das projeções cilíndricas</summary>
+	<p>Material da página 11 até a página 24.</p>
+	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
-	<img src="prop/AposGD2020_0001.png"/>
+	<img src="prop/Apost_GD_2021_00011.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0002.png"/>
+	<img src="prop/Apost_GD_2021_00012.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0003.png"/>
+	<img src="prop/Apost_GD_2021_00013.png"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="prop/AposGD2020_0003a.png"/>
+	<img src="prop/Apost_GD_2021_00013a.png"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
 	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0004.png"/>
+	<img src="prop/Apost_GD_2021_00014.png"/>
     <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a></div>
-	<img src="prop/AposGD2020_0004a.png"/>
+	<img src="prop/Apost_GD_2021_00014a.png"/>
     <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
@@ -1551,31 +1551,40 @@
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/E_9yowlSx3I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="prop/AposGD2020_0005.png"/>  
+	<img src="prop/Apost_GD_2021_00015.png"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/AposGD2020_0005a.png"/>  
+    <img src="prop/Apost_GD_2021_00015a.png"/>  
 	<div class="combo"><figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
     <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/AposGD2020_0005b.png"/>  
+    <img src="prop/Apost_GD_2021_00015b.png"/>  
     <div class="combo"><figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
     <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-    <div class="combo"><img src="prop/AposGD2020_0006.png"/> 
+    <div class="combo"><img src="prop/Apost_GD_2021_00016.png"/> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/AposGD2020_0006a.png"/> 
+    <img src="prop/Apost_GD_2021_00016a.png"/> 
     <div class="combo"><figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-	<img src="prop/AposGD2020_0006b.png"/> 
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0007.png"/> 
-    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<img src="prop/Apost_GD_2021_00017.png"/> 
+	<div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
+    <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+	<img src="prop/Apost_GD_2021_00017a.png"/> 
+    <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
+    <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <img src="prop/Apost_GD_2021_00018.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
        <li>
@@ -1611,9 +1620,9 @@
     </ul>
     <img src="prop/19_01_00.png" class="fundo"/>
   </details></div>
-  <img src="prop/AposGD2020_0007a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p> Vamos utilizar a régua e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
+  <img src="prop/Apost_GD_2021_00018a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
+  <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="105" name="sl">
@@ -1625,75 +1634,113 @@
            <input type="radio" id="106" name="sl">
            <label for="106"></label>
            <img src="prop/19_02_02.png"/>
-           <figcaption>Alinhando o esquadro de 45<sup>o</sup> com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
+           <figcaption>Alinhando o esquadro de 45&deg; com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45&deg; deixando o outro esquadro ou a régua fixo.</figcaption>
        </li>
        <li>
            <input type="radio" id="107" name="sl">
            <label for="107"></label>
            <img src="prop/19_02_03.png"/>
-           <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a <b>B'C'</b> passando por <b>A'</b>. Alinhando-se a hipotenusa do esquadro de 45 com <b>B'C'</b>, apoie o outro esquadro ou a régua com um cateto do esquadro de 45.</figcaption>
+           <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a <b>A'D'</b>, ou usar o compasso. Pela propriedade 3, <b>A'B' = C'D'</b>, logo, podemos "pegar" a medida <b>A'B'</b> com o compasso... </figcaption>
        </li>
        <li>
            <input type="radio" id="108" name="sl">
            <label for="108"></label>
            <img src="prop/19_02_04.png"/>
-           <figcaption>Deslizando o esquadro de 45 e mantendo o outro esquadro fixo, você consegue desenhar a paralela a <b>B'C'</b> passando por <b>A'</b>.</figcaption>
+           <figcaption>... e desenhá-la com centro em <b>D'</b> e o raio <b>A'B'</b>. Logo, encontramos o ponto <b>C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="109" name="sl">
            <label for="109"></label>
            <img src="prop/19_02_05.png"/>
-           <figcaption>A interseção das duas paralelas é o vértice <b>D'</b>. Pronto, o paralelogramo está construído.</figcaption>
+           <figcaption>Pronto! O paralelogramo está construído. Agora é sua vez de fazer o item b!</figcaption>
        </li>
     </ul>
     <img src="prop/19_02_00.png" class="fundo"/>
-  </details></div>
-  <img src="prop/AposGD2020_0007b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+	<hr>
+	<h4>Solução do item b</h4>
+	<img src="prop/19_02_00b.png">
+	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens c e d</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="110" name="sl">
            <label for="110"></label>
            <img src="prop/19_02_01c.png"/>
-           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
+           <figcaption>O vértice <b>C'</b> do paralelogramo estará no prolongamento da reta <b>A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="111" name="sl">
            <label for="111"></label>
            <img src="prop/19_02_02c.png"/>
-           <figcaption>Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso e prolongar o segmento <b>A'M'</b>.</figcaption>
+           <figcaption>De acordo com a propriedade 3, os segmentos <b>A'B'</b> e <b>C'D'</b> são iguais. Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="112" name="sl">
            <label for="112"></label>
            <img src="prop/19_02_03c.png"/>
-           <figcaption>Para encontrar <b>C'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
+           <figcaption>... e desenhar o arco com medida <b>A'B'</b> no prolongamento deste segmento.</figcaption>
        </li>
        <li>
            <input type="radio" id="113" name="sl">
            <label for="113"></label>
            <img src="prop/19_02_04c.png"/>
-           <figcaption>O mesmo acontece com os segmentos <b>B'M'</b> e <b>M'D'</b>. Logo, podemos "pegar" a medida <b>B'M'</b> com o compasso...</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="113a" name="sl">
-           <label for="113a"></label>
-           <img src="prop/19_02_05c.png"/>
-           <figcaption>... e podemos desenhar o arco com centro em <b>M'</b> e raio <b>B'M'</b>.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="113b" name="sl">
-           <label for="113b"></label>
-           <img src="prop/19_02_06c.png"/>
-           <figcaption>Pronto! O paralelogramo está construído. Não esqueça de desenhar os lados desta figura.</figcaption>
+           <figcaption>Assim, encontramos o vértice <b>C'</b> do paralelogramo.</figcaption>
        </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo"/>
+	<hr>
+	<h4>Solução do item d</h4>
+	<img src="prop/19_02_00d.png">
+	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details></div>
-  <img src="prop/AposGD2020_0007c.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
-  <p>Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <img src="prop/Apost_GD_2021_00019.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="114" name="sl">
+           <label for="114"></label>
+           <img src="prop/20_03_01a.png"/>
+           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="115" name="sl">
+           <label for="115"></label>
+           <img src="prop/20_03_02a.png"/>
+           <figcaption>Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso e prolongar o segmento <b>A'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="116" name="sl">
+           <label for="116"></label>
+           <img src="prop/20_03_03a.png"/>
+           <figcaption>Para encontrar <b>C'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="117" name="sl">
+           <label for="117"></label>
+           <img src="prop/20_03_04a.png"/>
+           <figcaption>O mesmo acontece com os segmentos <b>B'M'</b> e <b>M'D'</b>. Logo, podemos "pegar" a medida <b>B'M'</b> com o compasso...</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="118" name="sl">
+           <label for="118"></label>
+           <img src="prop/20_03_05a.png"/>
+           <figcaption>... e podemos desenhar o arco com centro em <b>M'</b> e raio <b>B'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="119" name="sl">
+           <label for="119"></label>
+           <img src="prop/20_03_06a.png"/>
+           <figcaption>Pronto! O paralelogramo está construído. Não esqueça de desenhar os lados desta figura.</figcaption>
+       </li>
+    </ul>
+    <img src="prop/20_03_00a.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="120" name="sl">
@@ -1721,15 +1768,14 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo"/>
-   </details>
-   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
-   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
-	<img src="prop/20_03_00c.png"/>
+	<hr>
+	<h4>Solução do item c</h4>
+	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
-  </details></div>
-  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/AposGD2020_0008.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  </details>
+  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+  <img src="prop/Apost_GD_2021_00019a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1776,9 +1822,8 @@
        </li> 
     </ul>
     <img src="prop/20_04_00_a.png" class="fundo"/>
-  </details></div>
-    <img src="prop/AposGD2020_0008a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1813,16 +1858,16 @@
        </li>
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo"/>
+    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a>
+    <hr>
+	<h4>Solução do item c.</h4>
+  	<img src="prop/20_04_00c.png"/>
+	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     </details>
-	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
-	<img src="prop/20_04_00c.png"/>
-  	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
-  </details>
-	<a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a>
-  </div>
-  <img src="prop/AposGD2020_0008b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <img src="prop/Apost_GD_2021_00020.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1881,13 +1926,12 @@
        </li>
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo"/>
-  </details>
-  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
-  <img src="prop/AposGD2020_0008c.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item b</summary>
-    <img src="prop/21_05_00b.png"/>
+    <hr>
+	<h4>Solução do item b</h4>
+	<img src="prop/21_05_00b.png">
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
+  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1937,27 +1981,17 @@
 	<img src="prop/21_05_00c.png" class="fundo"/>
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
-  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/AposGD2020_0009.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
-  <img src="prop/AposGD2020_0009a.png"/>
-  <div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
-    <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/AposGD2020_0010.png"/> 
-    <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
-    <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-	<img src="prop/AposGD2020_0010a.png"/>
+  <img src="prop/Apost_GD_2021_00020a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <img src="prop/Apost_GD_2021_00021.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
   <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
-  <img src="prop/AposGD2020_0010b.png"/>
-  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/AposGD2020_0011.png"/>
+  <img src="prop/Apost_GD_2021_00021a.png"/>
   <div class="combo"><figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
   <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
-    <img src="prop/AposGD2020_0011a.png"/>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+	<img src="prop/Apost_GD_2021_00022.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1971,7 +2005,7 @@
            <input type="radio" id="153" name="sl">
            <label for="153"></label>
            <img src="prop/23_01_02.png"/>
-         <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90<sup>o</sup> está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
+         <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90&deg; está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="154" name="sl">
@@ -1995,7 +2029,7 @@
 	<img src="prop/23_01_00.png" class="fundo"/>
   </details>
   <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a></div>
-  <img src="prop/AposGD2020_0011b.png"/>
+  <img src="prop/Apost_GD_2021_00022a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -2003,7 +2037,7 @@
            <input type="radio" id="157" name="sl">
            <label for="157"></label>
            <img src="prop/23_02_01.png"/>
-        <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
+        <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90&deg;.</figcaption>
        </li>
        <li>
            <input type="radio" id="158" name="sl">
@@ -2015,7 +2049,7 @@
            <input type="radio" id="159" name="sl">
            <label for="159"></label>
            <img src="prop/23_02_03.png"/>
-         <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90<sup>o</sup>.</figcaption>
+         <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90&deg;.</figcaption>
        </li>
        <li>
            <input type="radio" id="160" name="sl">
@@ -2027,7 +2061,7 @@
            <input type="radio" id="161" name="sl">
            <label for="161"></label>
            <img src="prop/23_02_05.png"/>
-         <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90<sup>o</sup> é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
+         <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90&deg; é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="162" name="sl">
@@ -2046,7 +2080,7 @@
   </details>
   <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/AposGD2020_0012.png"/>
+  <img src="prop/Apost_GD_2021_00023.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
@@ -2054,7 +2088,7 @@
            <input type="radio" id="164" name="sl">
            <label for="164"></label>
            <img src="prop/24_01_01.png"/>
-        <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis.</figcaption>
+        <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
        </li>
        <li>
            <input type="radio" id="165" name="sl">
@@ -2066,7 +2100,7 @@
            <input type="radio" id="166" name="sl">
            <label for="166"></label>
            <img src="prop/24_01_03.png"/>
-         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
+         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45&deg; para alinhar com o segmento.</figcaption>
        </li>
        <li>
            <input type="radio" id="167" name="sl">
@@ -2113,17 +2147,18 @@
     </ul>
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
-  <img src="prop/AposGD2020_0012a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <img src="prop/Apost_GD_2021_00023a.png"/>
+  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/AposGD2020_0013.png"/>
+  <img src="prop/Apost_GD_2021_00024.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
-	<img src="prop/25_01_00.png"/>
+	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-</details>
+</details>	
+
 
 <details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 14 até a página 37</p>
@@ -8076,7 +8111,7 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
-<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso às páginas de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></p>
