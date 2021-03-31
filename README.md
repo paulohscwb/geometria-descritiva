@@ -1577,7 +1577,6 @@
 	<div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00017a.png"/> 
     <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -2161,9 +2160,9 @@
 
 
 <details><summary id="pontos">2. Pontos e Retas</summary>
-	<p>Material da página 14 até a página 37</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 14 ATÉ A PÁGINA 18, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
-	<img src="pontos-retas/AposGD2020_0014.png"/>
+	<p>Material da página 25 até a página 37</p>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 25 ATÉ A PÁGINA 29, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
+	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
   <ul class="slider">
@@ -2210,7 +2209,7 @@
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/0B0rcrhjtQc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
-	<img src="pontos-retas/AposGD2020_0015.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00026.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar as projeções de um ponto <b>A</b> em perspectiva.</p>
   <ul class="slider">
@@ -2277,7 +2276,7 @@
     </ul>
 	<img src="pontos-retas/15_01_00.png" class="fundo"/>
   </details></div>
-  <img src="pontos-retas/AposGD2020_0015a.png"/>
+  <img src="pontos-retas/Apost_GD_2021_00026a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Agora vamos representar um ponto <b>A</b> em épura, ou seja, as projeções deste ponto nos planos <b>&pi;'</b> e <b>&pi;''</b> ficarão em um só plano.</p>
   <ul class="slider">
@@ -2352,7 +2351,7 @@
   </details>
   <a href="vr/a_epura0.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0016.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00027.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar um ponto <b>A</b> pertencente ao 1&ordm; diedro por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam o eixo <b>x</b>.</p>
   <ul class="slider">
@@ -2437,19 +2436,19 @@
     </ul>
 	<img src="pontos-retas/16_01_00.png" class="fundo"/>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0016a.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00027a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
     <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>B</b> em perspectiva e colocá-las em épura.</p>
     <img src="pontos-retas/16_02_00.png"/>
 	<figcaption>As coordenadas <b>y</b> e <b>z</b> são marcadas para cima da linha da terra para o ponto <b>B</b> do 2&ordm; diedro. Note que a 2&ordf; projeção de <b>B</b> vem de trás para a frente.</figcaption>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0016b.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00027b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
     <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>C</b> em perspectiva e colocá-las em épura.</p>
     <img src="pontos-retas/16_03_00.png"/>
 	<figcaption>A coordenada <b>y</b> é marcada para cima da linha de terra, pois é negativa, e a coordenada  <b>z</b> é marcada para baixo da linha da terra, pois também é negativa.</figcaption>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0016c.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00027c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
     <p>Usando as mesmas construções do ponto <b>A</b> do 1&ordm; diedro, conseguimos encontrar as coordenadas de <b>D</b> em perspectiva e colocá-las em épura.</p>
     <img src="pontos-retas/16_04_00.png"/>
@@ -2457,7 +2456,7 @@
   </details>
   <a href="vr/a_epura1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0017.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00028.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos planos de projeção por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
   <ul class="slider">
@@ -2542,7 +2541,7 @@
     </ul>
 	<img src="pontos-retas/17_01_00.png" class="fundo"/>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0017a.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00028a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos eixos por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
   <ul class="slider">
@@ -2622,7 +2621,7 @@
 	<img src="pontos-retas/17_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0018.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00029.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;'</b>, <b>&pi;''</b> e <b>&pi;'''</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
   <ul class="slider">
@@ -2710,7 +2709,7 @@
   <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 19 ATÉ A PÁGINA 32, FOI PRODUZIDO PELA <b>prof&ordf; BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR.</b></figcaption>
-	<img src="pontos-retas/AposGD2020_0019.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00030.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
   <p>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</p>
   <ul class="slider">
@@ -2813,7 +2812,7 @@
    </ul>
 	<img src="pontos-retas/19_01b_00.png" class="fundo"/>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0019a.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00030a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item c</summary>
   <p></p>
   <ul class="slider">
@@ -2923,7 +2922,7 @@
 	<img src="pontos-retas/19_01d_00.png" class="fundo"/>
   </details>
 	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="pontos-retas/AposGD2020_0019b.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00030b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -2997,7 +2996,7 @@
 	<img src="pontos-retas/19_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0020.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00031.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>A resolução deste exercício é semelhante à resolução do exercício 1.</p>
   <ul class="slider">
@@ -3119,7 +3118,7 @@
 	<img src="pontos-retas/20_09.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="pontos-retas/AposGD2020_0021.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00032.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -3180,10 +3179,8 @@
     </ul>
 	<img src="pontos-retas/21_04_01.png" class="fundo"/>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0021a.png"/>
-  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
-	<img src="pontos-retas/AposGD2020_0021b.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
+	<img src="pontos-retas/Apost_GD_2021_00032a.png"/>
+  	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
       <li>
@@ -3272,389 +3269,8 @@
        </li>
     </ul>
 	<img src="pontos-retas/21_06a_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item b</summary>
-  <p>A resolução deste exercício é semelhante ao anterior.</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="351" name="sl">
-           <label for="351"></label>
-           <img src="pontos-retas/21_06b_01.png"/>
-        <figcaption></figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="352" name="sl">
-           <label for="352"></label>
-           <img src="pontos-retas/21_06b_02.png"/>
-        <figcaption></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="353" name="sl">
-           <label for="353"></label>
-           <img src="pontos-retas/21_06b_03.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="354" name="sl">
-           <label for="354"></label>
-           <img src="pontos-retas/21_06b_04.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="355" name="sl">
-           <label for="355"></label>
-           <img src="pontos-retas/21_06b_05.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="356" name="sl">
-           <label for="356"></label>
-           <img src="pontos-retas/21_06b_06.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="357" name="sl">
-           <label for="357"></label>
-           <img src="pontos-retas/21_06b_07.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="358" name="sl">
-           <label for="358"></label>
-           <img src="pontos-retas/21_06b_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="359" name="sl">
-           <label for="359"></label>
-           <img src="pontos-retas/21_06b_09.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="360" name="sl">
-           <label for="360"></label>
-           <img src="pontos-retas/21_06b_10.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="361" name="sl">
-           <label for="361"></label>
-           <img src="pontos-retas/21_06b_11.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_06b_00.png" class="fundo"/>
   </details></div>
-	<img src="pontos-retas/AposGD2020_0021c.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="362" name="sl">
-           <label for="362"></label>
-           <img src="pontos-retas/21_07a_01.png"/>
-        <figcaption>Marcar os pontos A, B em épura. Como o hexágono está contido em π" os pontos A e B têm afastamento nulo.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="363" name="sl">
-           <label for="363"></label>
-           <img src="pontos-retas/21_07a_03.png"/>
-        <figcaption>Traçar uma reta passando por A” e B” na segunda projeção (A"B" &equiv; VG de AB).</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="364" name="sl">
-           <label for="364"></label>
-           <img src="pontos-retas/21_07a_04.png"/>
-         <figcaption>Com o compasso medir o segmento A”B” (VG de AB).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="365" name="sl">
-           <label for="365"></label>
-           <img src="pontos-retas/21_07a_05.png"/>
-         <figcaption>Transportar a medida de AB a partir de B” para determinar o LG1 de O”(centro da circunferência circunscrita ao hexágono).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="366" name="sl">
-           <label for="366"></label>
-           <img src="pontos-retas/21_07a_06.png"/>
-         <figcaption>Transportar a medida de AB a partir de A” para determinar o LG2 de O”(centro da circunferência circunscrita ao hexágono).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="367" name="sl">
-           <label for="367"></label>
-           <img src="pontos-retas/21_07a_08.png"/>
-         <figcaption>Marque O”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="368" name="sl">
-           <label for="368"></label>
-           <img src="pontos-retas/21_07a_09.png"/>
-         <figcaption>Ponta seca do compasso em O” trace a circunferência.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="369" name="sl">
-           <label for="369"></label>
-           <img src="pontos-retas/21_07a_10.png"/>
-         <figcaption>Encontre as projeções C”, D”, E” e F” dos vértices do hexágono transportando a medida de AB a partir de A” e B” na circunferência.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="370" name="sl">
-           <label for="370"></label>
-           <img src="pontos-retas/21_07a_12.png"/>
-         <figcaption>Destaque a projeção A”B”C”D”E”F”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="371" name="sl">
-           <label for="371"></label>
-           <img src="pontos-retas/21_07a_13.png"/>
-         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="372" name="sl">
-           <label for="372"></label>
-           <img src="pontos-retas/21_07a_14.png"/>
-         <figcaption>Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="373" name="sl">
-           <label for="373"></label>
-           <img src="pontos-retas/21_07a_15.png"/>
-         <figcaption>Destaque a projeçãoA’B’C’D’E’F’ do hexágono.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="374" name="sl">
-           <label for="374"></label>
-           <img src="pontos-retas/21_07a_16.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="375" name="sl">
-           <label for="375"></label>
-           <img src="pontos-retas/21_07a_17.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_07a_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item b</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="376" name="sl">
-           <label for="376"></label>
-           <img src="pontos-retas/21_07b_01.png"/>
-        <figcaption>Marcar o ponto A em épura. Como o hexágono está contido em π" os pontos A e C têm afastamento nulo.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="377" name="sl">
-           <label for="377"></label>
-           <img src="pontos-retas/21_07b_02.png"/>
-        <figcaption>Marcar o ponto C em épura.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="378" name="sl">
-           <label for="378"></label>
-           <img src="pontos-retas/21_07b_03.png"/>
-         <figcaption>Traçar uma reta passando por A” e C” na segunda projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="379" name="sl">
-           <label for="379"></label>
-           <img src="pontos-retas/21_07b_04.png"/>
-         <figcaption>Com o compasso medir o segmento A”C”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="380" name="sl">
-           <label for="380"></label>
-           <img src="pontos-retas/21_07b_05.png"/>
-         <figcaption>Transportar a medida de AC a partir de C” para determinar o LG1 deE”(vértice do hexágono).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="381" name="sl">
-           <label for="381"></label>
-           <img src="pontos-retas/21_07b_06.png"/>
-         <figcaption>Transportar a medida de AC a partir de A” para determinar o LG2 de E”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="382" name="sl">
-           <label for="382"></label>
-           <img src="pontos-retas/21_07b_07.png"/>
-         <figcaption>Encontre o centro do triângulo ACE traçando duas bissetrizes do triângulo.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="383" name="sl">
-           <label for="383"></label>
-           <img src="pontos-retas/21_07b_08.png"/>
-         <figcaption>Ponta seca do compasso em O” e raio OA trace a circunferência circunscrita ao hexágono.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="384" name="sl">
-           <label for="384"></label>
-           <img src="pontos-retas/21_07b_09.png"/>
-         <figcaption>Encontre as projeções B”, D” e F” dos vértices do hexágono na interseção das bissetrizes com a  circunferência.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="385" name="sl">
-           <label for="385"></label>
-           <img src="pontos-retas/21_07b_10.png"/>
-         <figcaption>Destaque a projeçãoA”B”C”D”E”F” do hexágono.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="386" name="sl">
-           <label for="386"></label>
-           <img src="pontos-retas/21_07b_11.png"/>
-         <figcaption>Trace as linhas de chamada dos pontos C, D, E e F.Encontre os pontos C’, D’, E’ e F’ na interseção das linhas de chamada dos pontos C, D, E e F com a LT.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="387" name="sl">
-           <label for="387"></label>
-           <img src="pontos-retas/21_07b_12.png"/>
-         <figcaption>Destaque a projeçãoA’B’C’D’E’F’ do hexágono.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="388" name="sl">
-           <label for="388"></label>
-           <img src="pontos-retas/21_07b_13.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="389" name="sl">
-           <label for="389"></label>
-           <img src="pontos-retas/21_07b_14.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_07b_00.png" class="fundo"/>
-  </details></div>
-	<img src="pontos-retas/AposGD2020_0021d.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="390" name="sl">
-           <label for="390"></label>
-           <img src="pontos-retas/21_08_01.png"/>
-        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' A” &equiv; O.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="391" name="sl">
-           <label for="391"></label>
-           <img src="pontos-retas/21_08_02.png"/>
-        <figcaption>Como AB é paralelo a LT, traçar uma reta paralela a LT passando por A’.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="392" name="sl">
-           <label for="392"></label>
-           <img src="pontos-retas/21_08_03.png"/>
-         <figcaption>Ponta seca do compasso em A’ e abertura igual a 30 traçar para direita ou para esquerda na paralela para encontrar B’ (VG de AB).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="393" name="sl">
-           <label for="393"></label>
-           <img src="pontos-retas/21_08_04.png"/>
-         <figcaption>Encontrar D’ na linha de chamada do ponto A.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="394" name="sl">
-           <label for="394"></label>
-           <img src="pontos-retas/21_08_05.png"/>
-         <figcaption>Perpendicular a LT por B’ para encontrar C’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="395" name="sl">
-           <label for="395"></label>
-           <img src="pontos-retas/21_08_06.png"/>
-         <figcaption>Marque C’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="396" name="sl">
-           <label for="396"></label>
-           <img src="pontos-retas/21_08_07.png"/>
-         <figcaption>Destaque a projeção A’B’C’D’ do quadrado.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="397" name="sl">
-           <label for="397"></label>
-           <img src="pontos-retas/21_08_08.png"/>
-         <figcaption>Encontre os pontos C” e D” na interseção das linhas de chamada dos pontos C e D com a LT.Destaque a projeçãoA”B”C”D”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="398" name="sl">
-           <label for="398"></label>
-           <img src="pontos-retas/21_08_09.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_08_00.png" class="fundo"/>
-  </details></div>
-	<img src="pontos-retas/AposGD2020_0021e.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="399" name="sl">
-           <label for="399"></label>
-           <img src="pontos-retas/21_09_01.png"/>
-        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' → A" &equiv; O.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="400" name="sl">
-           <label for="400"></label>
-           <img src="pontos-retas/21_09_02.png"/>
-        <figcaption>Traçar uma circunferência com centro em A’ e raio 30 (LG1 de B).</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="401" name="sl">
-           <label for="401"></label>
-           <img src="pontos-retas/21_09_03.png"/>
-         <figcaption>Traçar uma paralela a LT com distância 50 (Afastamento de B).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="402" name="sl">
-           <label for="402"></label>
-           <img src="pontos-retas/21_09_04.png"/>
-         <figcaption>Encontre o ponto B’ na interseção da circunferência com a paralela (O problema tem duas soluções).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="403" name="sl">
-           <label for="403"></label>
-           <img src="pontos-retas/21_09_05.png"/>
-         <figcaption>Faça a linha de chamada do ponto B encontrando B” sobre a LT.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="404" name="sl">
-           <label for="404"></label>
-           <img src="pontos-retas/21_09_06.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="405" name="sl">
-           <label for="405"></label>
-           <img src="pontos-retas/21_09_07.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="406" name="sl">
-           <label for="406"></label>
-           <img src="pontos-retas/21_09_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="407" name="sl">
-           <label for="407"></label>
-           <img src="pontos-retas/21_09_09.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="408" name="sl">
-           <label for="408"></label>
-           <img src="pontos-retas/21_09_10.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_09_00.png" class="fundo"/>
-  </details></div>
-	<img src="pontos-retas/AposGD2020_0021f.png"/>
+	<img src="pontos-retas/Apost_GD_2021_00032b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
   <p></p>
   <ul class="slider">
