@@ -2159,7 +2159,7 @@
 </details>	
 
 
-<details><summary id="pontos">2. Pontos e Retas</summary>
+<details><summary id="pontos">3. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 37</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 25 ATÉ A PÁGINA 29, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
