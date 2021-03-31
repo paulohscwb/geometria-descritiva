@@ -1475,9 +1475,7 @@
     </ul>
     <img src="dg/10_02_00.png" class="fundo" />
   </details></div>
-  <p>19. Construir um triângulo ABC sabendo-se que:
-  <br>a) seu perímetro (perímetro é a soma dos lados do polígono) mede 15cm
-  <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 5, BC é proporcional a 3 e AC é proporcional a 4,5.</p>
+  <img src="dg/Apost_GD_2021_00010b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
   <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
