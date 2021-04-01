@@ -6071,7 +6071,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00071a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
+	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 70.</p>
 	<img src="planosTV/62_01_00.png"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
   </details>
@@ -6079,7 +6079,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00072.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
+  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 70.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s052" name="sl">
@@ -6101,7 +6101,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00073.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
-  <p>Vamos começar recuperando a solução do exercício 2 da página 44.</p>
+  <p>Vamos começar recuperando a solução do exercício 2 da página 54.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s054" name="sl">
