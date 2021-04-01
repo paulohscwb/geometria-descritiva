@@ -6456,7 +6456,7 @@
 </details>
 
 <details><summary id="planos3">6. Planos: vertical e paralelo à linha de terra</summary>
-	<p>Material da página 78 até a página 94</p>
+	<p>Material da página 78 até a página 95</p>
 	<img src="planosTV/Apost_GD_2021_00078.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00078a.png"/>
