@@ -4590,11 +4590,13 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos1">3. Planos: horizontal e frontal</summary>
-	<p>Material da página 38 até a página 53</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 38 ATÉ A PÁGINA 48, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
-	<img src="planosHFP/AposGD2020_0038.png"/>
-	<img src="planosHFP/AposGD2020_0038a.png"/>
+<details><summary id="planos1">4. Planos: horizontal e frontal</summary>
+	<p>Material da página 48 até a página 63</p>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 48 ATÉ A PÁGINA 58, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
+	<img src="planosHFP/Apost_GD_2021_00048.png"/>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
+	<a href="vr/rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosHFP/Apost_GD_2021_00048a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/38.png"/>
@@ -4604,7 +4606,7 @@
 		<iframe width="95%" src="https://www.youtube.com/embed/73Qg-RFB5dM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0039.png"/>
+	<img src="planosHFP/Apost_GD_2021_00049.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4630,22 +4632,22 @@
 	<img src="planosHFP/39_1.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0040.png"/>
+	<img src="planosHFP/Apost_GD_2021_00050.png"/>
 	<div class="combo"><a href="vr/plano_horizontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0040a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00050a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/40_1.png"/>
 	<figcaption></figcaption>
   </details></div>
-	<img src="planosHFP/AposGD2020_0040b.png"/>
+	<img src="planosHFP/Apost_GD_2021_00050b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/40_2.png"/>
 	<figcaption></figcaption>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0041.png"/>
+	<img src="planosHFP/Apost_GD_2021_00051.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4670,7 +4672,7 @@
 	</ul>
 	<img src="planosHFP/41_1_0.png" class="fundo" style="visibility:hidden"/>
   </details></div>
-	<img src="planosHFP/AposGD2020_0041a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00051a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4695,7 +4697,7 @@
 	</ul>
 	<img src="planosHFP/41_2_0.png" class="fundo" style="visibility:hidden"/>
   </details></div>
-	<img src="planosHFP/AposGD2020_0041b.png"/>
+	<img src="planosHFP/Apost_GD_2021_00051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4721,9 +4723,9 @@
 	<img src="planosHFP/41_3_0.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0042.png"/>
+	<img src="planosHFP/Apost_GD_2021_00052.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0043.png"/>
+	<img src="planosHFP/Apost_GD_2021_00053.png"/>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4845,7 +4847,7 @@
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0044.png"/>
+	<img src="planosHFP/Apost_GD_2021_00054.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4901,7 +4903,7 @@
 	<img src="planosHFP/44_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a45.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0044a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00054a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -4934,7 +4936,7 @@
   </details>
 	<a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0045.png"/>
+	<img src="planosHFP/Apost_GD_2021_00055.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5020,7 +5022,7 @@
 	<img src="planosHFP/45_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a47.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0045a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00055a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5101,7 +5103,7 @@
   </details>
 	<a href="vr/a48.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0046.png"/>
+	<img src="planosHFP/Apost_GD_2021_00056.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5193,7 +5195,7 @@
 	<img src="planosHFP/46_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0046a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00056a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p></p>
   <ul class="slider">
@@ -5328,7 +5330,7 @@
   </details>
 	<a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0047.png"/>
+	<img src="planosHFP/Apost_GD_2021_00057.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Marcamos as projeções dos pontos A e B. Como seção equatorial ABCD está contida em um plano horizontal, o quadrado ABCD terá mesma cota.</p>
   <ul class="slider">
@@ -5414,7 +5416,7 @@
 	<img src="planosHFP/47_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0047a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00057a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Marcamos as projeções dos pontos A e B. Como a face ABC está contida em um plano horizontal, sua VG estará em primeira projeção.</p>
   <ul class="slider">
@@ -5507,7 +5509,7 @@
   </details>
 	<a href="vr/a51.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0048.png"/>
+	<img src="planosHFP/Apost_GD_2021_00058.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/48_1.png"/>
@@ -5567,15 +5569,15 @@
     </ul>
     <img src="basico/09_01_03.png" class="fundo"/>
   </details></div>
-	<img src="planosHFP/AposGD2020_0048a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/48_2.png"/>
 	<figcaption></figcaption>
   </details></div>
-	<img src="planosHFP/AposGD2020_0048b.png"/>
+	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
-	<img src="planosHFP/AposGD2020_0048c.png"/>
+	<img src="planosHFP/Apost_GD_2021_00058c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/48_4.png"/>
@@ -5583,12 +5585,13 @@
   </details>
 	<a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 49 ATÉ A PÁGINA 53, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
-	<img src="planosHFP/AposGD2020_0049.png"/>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 59 ATÉ A PÁGINA 63, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
+	<img src="planosHFP/Apost_GD_2021_00059.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0049a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00059a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00059b.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0050.png"/>
+	<img src="planosHFP/Apost_GD_2021_00060.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5637,7 +5640,7 @@
     </ul>
 	<img src="planosHFP/50_01_00.png" class="fundo"/>
   </details></div>
-	<img src="planosHFP/AposGD2020_0050a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00060a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5657,8 +5660,7 @@
            <input type="radio" id="s010" name="sl">
            <label for="s010"></label>
            <img src="planosHFP/50_02_03.png"/>
-         <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs. Retas de topo têm a segunda projeção reduzida a pontos e apresenta VG de segmentos no primeira projeção.
-</figcaption>
+         <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs. Retas de topo têm a segunda projeção reduzida a pontos e apresenta VG de segmentos no primeira projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="s011" name="sl">
@@ -5677,14 +5679,14 @@
   </details>
   <a href="vr/a2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0051.png"/>
+	<img src="planosHFP/Apost_GD_2021_00061.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A base da pirâmide está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
 	<img src="planosHFP/51_01_00.png"/>
 	<figcaption>A altura é de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto O.</figcaption>
   </details>
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0051a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00061a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção do pentágono regular</summary>
 	<p>Vamos lembrar como se constrói um pentágono regular a partir de um de seus lados.</p>
 	<img src="planosHFP/51_02_00.png"/>
@@ -5697,20 +5699,20 @@
   </details>
   <a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0052.png"/>
+	<img src="planosHFP/Apost_GD_2021_00062.png"/>
 	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span>
 	<br><a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0052a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00062a.png"/>
 	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0053.png"/>
+	<img src="planosHFP/Apost_GD_2021_00063.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Retas tangentes a circunferências são perpendiculares à reta que passa pelo centro e pelo ponto de tangência.</p>
 	<img src="planosHFP/53_01_00.png"/>
 	<figcaption></figcaption>
   </details>
 	<a href="vr/a0.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0053a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00063a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Retas tangentes a circunferências são perpendiculares à reta que passa pelo centro e pelo ponto de tangência.</p>
 	<img src="planosHFP/53_02_00.png"/>
