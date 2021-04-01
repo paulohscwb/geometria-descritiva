@@ -5722,16 +5722,17 @@
 </details>
 
 <details><summary id="planos2">4. Planos: de perfil e de topo</summary>
-	<p>Material da página 54 até a página 67</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 54 ATÉ A PÁGINA 64, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
-	<img src="planosHFP/AposGD2020_0054.png"/>
+	<p>Material da página 64 até a página 77</p>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 64 ATÉ A PÁGINA 74, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
+	<img src="planosHFP/Apost_GD_2021_00064.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0054a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00064a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00064b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-	<img src="planosHFP/AposGD2020_0055.png"/>
+	<img src="planosHFP/Apost_GD_2021_00065.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5774,7 +5775,7 @@
     </ul>
 	<img src="planosHFP/55_01_00.png" class="fundo"/>
   </details></div>
-	<img src="planosHFP/AposGD2020_0055a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00065a.png"/>
 	<div class="combo"><figcaption>A partir deste ponto, o endereço para visualizar os sólidos em Realidade Aumentada mudou para: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
 	<details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
 		<p>A partir deste ponto da apostila, você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
@@ -5824,14 +5825,14 @@
   </details>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0056.png"/>
+	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
 	<img src="planosHFP/56_01_00.png"/>
 	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
   </details>
   <a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0056a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00066a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5900,10 +5901,10 @@
   </details>
   <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0057.png"/>
+	<img src="planosHFP/Apost_GD_2021_00067.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
 	<br><a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosHFP/AposGD2020_0057a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00067a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5924,13 +5925,13 @@
   </details>
   <a href="vr/a10.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosHFP/AposGD2020_0058.png"/>
-	<img src="planosHFP/AposGD2020_0058a.png"/>
+	<img src="planosHFP/Apost_GD_2021_00068.png"/>
+	<img src="planosHFP/Apost_GD_2021_00068a.png"/>
 	<div class="combo"><a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0059.png"/>
+	<img src="planosTV/Apost_GD_2021_00069.png"/>
 	<div class="combo"><a href="vr/plano_topo.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosTV/AposGD2020_0059a.png"/>
+	<img src="planosTV/Apost_GD_2021_00069a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5979,7 +5980,7 @@
     </ul>
 	<img src="planosTV/59_00_01.png" class="fundo"/>
   </details></div>
-  <img src="planosTV/AposGD2020_0059b.png"/>
+  <img src="planosTV/Apost_GD_2021_00069b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -5999,58 +6000,8 @@
 	<img src="planosTV/59_00_08.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0060.png"/>
-	<img src="planosTV/AposGD2020_0060a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="s036" name="sl">
-           <label for="s036"></label>
-           <img src="planosTV/60_02_01.png"/>
-        <figcaption>Encontrar as projeções do ponto A.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="s037" name="sl">
-           <label for="s037"></label>
-           <img src="planosTV/60_02_02.png"/>
-        <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s038" name="sl">
-           <label for="s038"></label>
-           <img src="planosTV/60_02_03.png"/>
-        <figcaption>Com auxílio dos esquadros encontrar o traço vertical do plano &alpha;.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s039" name="sl">
-           <label for="s039"></label>
-           <img src="planosTV/60_02_04.png"/>
-        <figcaption>Encontrar as projeções do ponto T. O ponto T é o ponto comum do plano &alpha; com a LT, ou seja, é o ponto do plano &alpha; que possui cota e afastamento nulos.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s040" name="sl">
-           <label for="s040"></label>
-           <img src="planosTV/60_02_05.png"/>
-        <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s041" name="sl">
-           <label for="s041"></label>
-           <img src="planosTV/60_02_06.png"/>
-        <figcaption>Com auxílio dos esquadros encontrar o traço horizontal do plano &alpha;.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s042" name="sl">
-           <label for="s042"></label>
-           <img src="planosTV/60_02_07.png"/>
-        <figcaption>Pronto! O plano &alpha; está representado por seus traços.</figcaption>
-       </li>
-    </ul>
-	<img src="planosTV/60_02_00.png" class="fundo"/>
-  </details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0061.png"/>
+	<img src="planosTV/Apost_GD_2021_00070.png"/>
+	<img src="planosTV/Apost_GD_2021_00070a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -6111,21 +6062,22 @@
     </ul>
 	<img src="planosTV/61_01_01.png" class="fundo"/>
   </details></div>
-	<img src="planosTV/AposGD2020_0061a.png"/>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/Apost_GD_2021_00071.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A solução é similar a do exercício anterior.</p>
 	<img src="planosTV/61_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0062.png"/>
+	<img src="planosTV/Apost_GD_2021_00071a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
 	<img src="planosTV/62_01_00.png"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
   </details>
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosTV/AposGD2020_0062a.png"/>
+	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<img src="planosTV/Apost_GD_2021_00072.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 2 da página 61.</p>
   <ul class="slider">
@@ -6145,8 +6097,9 @@
 	<img src="planosTV/62_02_00.png" class="fundo"/>
   </details>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="planosTV/Apost_GD_2021_00072a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0063.png"/>
+	<img src="planosTV/Apost_GD_2021_00073.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
   <p>Vamos começar recuperando a solução do exercício 2 da página 44.</p>
   <ul class="slider">
@@ -6267,17 +6220,15 @@
 	</ul>
 	<img src="planosTV/63_01_11.png" class="fundo"/>
   </details></div>
-	<img src="planosTV/AposGD2020_0063a.png"/>
-	<img src="planosTV/AposGD2020_0063b.png"/>
-	<img src="planosTV/AposGD2020_0063c.png"/>
+	<img src="planosTV/Apost_GD_2021_00073a.png"/>
+	<img src="planosTV/Apost_GD_2021_00073b.png"/>
+	<img src="planosTV/Apost_GD_2021_00073c.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0064.png"/>
+	<img src="planosTV/Apost_GD_2021_00074.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
-	<img src="planosTV/AposGD2020_0064a.png"/>
-	<img src="planosTV/AposGD2020_0064b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 65 ATÉ A PÁGINA 80, FOI PRODUZIDO PELA <b>prof&ordf; LUZIA VIDAL DE SOUZA.</b></figcaption>
-	<img src="planosTV/AposGD2020_0065.png"/>
+	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 75 ATÉ A PÁGINA 90, FOI PRODUZIDO PELA <b>prof&ordf; LUZIA VIDAL DE SOUZA.</b></figcaption>
+	<img src="planosTV/Apost_GD_2021_00075.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
   <ul class="slider">
@@ -6405,9 +6356,10 @@
 	<img src="planosTV/65_01_07.png" class="fundo"/>
   </details>
 	<a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosTV/AposGD2020_0065a.png"/>
+	<img src="planosTV/Apost_GD_2021_00075a.png"/>
+	<img src="planosTV/Apost_GD_2021_00075b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0066.png"/>
+	<img src="planosTV/Apost_GD_2021_00076.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
   <ul class="slider">
@@ -6494,7 +6446,7 @@
   </details>
 	<a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/AposGD2020_0067.png"/>
+	<img src="planosTV/Apost_GD_2021_00077.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de 4 pontos para representá-la.</p>
 	<img src="planosTV/67_01_00.png"/>
