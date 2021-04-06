@@ -2791,113 +2791,53 @@
 	<img src="pontos-retas/30_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00030a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item c</summary>
-  <p></p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos marcar a primeira, segunda e terceira projeções dos pontos C e D.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="279" name="sl">
            <label for="279"></label>
-           <img src="pontos-retas/19_01c_01.png"/>
-        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto C.</figcaption>
+           <img src="pontos-retas/30_02_01.png"/>
+        <figcaption>Começamos marcando a abscissa 40mm e a ordenada de 20mm negativa, acima da linha da terra, na linha de chamada do ponto <b>C</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="280" name="sl">
            <label for="280"></label>
-           <img src="pontos-retas/19_01c_02.png"/>
-        <figcaption>Marcar a abcissado ponto  C em épura.</figcaption>
+           <img src="pontos-retas/30_02_02.png"/>
+        <figcaption>Como a cota é negativa, marcamos a medida 10mm abaixo da linha de terra, na linha de chamada do ponto <b>C</b>. Logo, temos a primeira e a segunda projeções deste ponto.</figcaption>
        </li>
        <li>
            <input type="radio" id="281" name="sl">
            <label for="281"></label>
-           <img src="pontos-retas/19_01c_03.png"/>
-         <figcaption>Traçar a linha de chamada do ponto C perpendicular a LT.</figcaption>
+           <img src="pontos-retas/30_02_03.png"/>
+         <figcaption>Construindo os eixos <b>y</b> e <b>z</b>, perpendiculares à linha de terra a partir da origem, podemos construir a reta paralela à linha de terra que passa por <b>C''</b>. Como a ordenada é negativa, marcamos a distância 20mm a partir do eixo <b>z</b>, à direita da origem.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="282" name="sl">
            <label for="282"></label>
-           <img src="pontos-retas/19_01c_04.png"/>
-         <figcaption>Marcar o afastamento e a cota do ponto C.</figcaption>
+           <img src="pontos-retas/30_02_04.png"/>
+         <figcaption>Para o ponto <b>D</b>, marcamos a abscissa de 30mm e a ordenada negativa, acima da linha de terra, com distância de 25mm.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="283" name="sl">
            <label for="283"></label>
-           <img src="pontos-retas/19_01c_05.png"/>
-         <figcaption>Para obter a terceira projeção do ponto C é necessário traçar paralelas a LT passando por C’ e C”.</figcaption>
+           <img src="pontos-retas/30_02_05.png"/>
+         <figcaption>Como a cota do ponto <b>D</b> é positiva, marcamos a distância de 35mm acima da linha de terra. Logo, temos a primeira e a segunda projeções do ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="284" name="sl">
            <label for="284"></label>
-           <img src="pontos-retas/19_01c_06.png"/>
-         <figcaption>Com o compasso pegue a medida do afastamento do ponto C e faça um arco até a LT no sentido horário.</figcaption>
+           <img src="pontos-retas/30_02_06.png"/>
+         <figcaption>Para encontrar a terceira projeção de <b>D</b>, construimos a reta paralela à linha de terra que passa por <b>D''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="285" name="sl">
            <label for="285"></label>
-           <img src="pontos-retas/19_01c_07.png"/>
-         <figcaption>A terceira projeção do ponto C está na interseção das retas que contém as medidas do afastamento e cota do ponto C.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="286" name="sl">
-           <label for="286"></label>
-           <img src="pontos-retas/19_01c_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="287" name="sl">
-           <label for="287"></label>
-           <img src="pontos-retas/19_01c_09.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/30_02_07.png"/>
+         <figcaption>Como a ordenada é negativa, marcamos a distância de 25mm à direita do eixo <b>z</b> para encontrar o ponto <b>D'''</b>.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/19_01c_00.png" class="fundo"/>
-  </details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item d</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="288" name="sl">
-           <label for="288"></label>
-           <img src="pontos-retas/19_01d_01.png"/>
-        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto D.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="289" name="sl">
-           <label for="289"></label>
-           <img src="pontos-retas/19_01d_02.png"/>
-        <figcaption>Marcar a abcissado ponto  D em épura.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="290" name="sl">
-           <label for="290"></label>
-           <img src="pontos-retas/19_01d_03.png"/>
-         <figcaption>Traçar a linha de chamada do ponto D perpendicular a LT.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="291" name="sl">
-           <label for="291"></label>
-           <img src="pontos-retas/19_01d_04.png"/>
-         <figcaption>Marcar o afastamento e a cota do ponto D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="292" name="sl">
-           <label for="292"></label>
-           <img src="pontos-retas/19_01d_05.png"/>
-         <figcaption>Para obter a terceira projeção do ponto D é necessário traçar paralelas a LT passando por D’ e D”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="293" name="sl">
-           <label for="293"></label>
-           <img src="pontos-retas/19_01d_06.png"/>
-         <figcaption>Com o compasso pegue a medida do afastamento do ponto D e faça um arco até a LT no sentido horário.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="294" name="sl">
-           <label for="294"></label>
-           <img src="pontos-retas/19_01d_07.png"/>
-         <figcaption>A terceira projeção do ponto D está na interseção das retas que contém as medidas do afastamento e cota do ponto D.</figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/19_01d_00.png" class="fundo"/>
+	<img src="pontos-retas/30_02_00.png" class="fundo"/>
   </details>
 	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/Apost_GD_2021_00030b.png"/>
