@@ -1484,7 +1484,6 @@
   <summary id="propriedades">2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
 	<img src="prop/Apost_GD_2021_00011.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00012.png"/>
@@ -2160,7 +2159,6 @@
 
 <details><summary id="pontos">3. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 25 ATÉ A PÁGINA 29, FOI PRODUZIDO PELO <b>prof. PAULO HENRIQUE SIQUEIRA.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
@@ -2707,109 +2705,90 @@
   </details>
   <a href="vr/a_epura3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 29 ATÉ A PÁGINA 43, FOI PRODUZIDO PELA <b>prof&ordf; BÁRBARA DE CÁSSIA XAVIER CASSINS AGUIAR.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00030.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
-  <p>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos marcar a primeira, segunda e terceira projeções dos pontos A e B.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="253" name="sl">
            <label for="253"></label>
-           <img src="pontos-retas/19_01a_01.png"/>
-        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto A.</figcaption>
+           <img src="pontos-retas/30_01_01.png"/>
+        <figcaption>Começamos construindo a linha de terra, e marcamos o ponto <b>O</b> que será a origem do sistema de coordenadas.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="254" name="sl">
            <label for="254"></label>
-           <img src="pontos-retas/19_01a_02.png"/>
-        <figcaption>Marcar a abcissa do ponto A em épura.</figcaption>
+           <img src="pontos-retas/30_01_02.png"/>
+        <figcaption>Utilizando a régua, podemos marcar a partir da origem a abscissa com tamanho 20mm = 2cm à direita da origem, sobre a linha de terra.</figcaption>
        </li>
        <li>
            <input type="radio" id="255" name="sl">
            <label for="255"></label>
-           <img src="pontos-retas/19_01a_03.png"/>
-         <figcaption>Traçar a linha de chamada do ponto A perpendicular a LT.</figcaption>
+           <img src="pontos-retas/30_01_03.png"/>
+         <figcaption>Alinhe um cateto de um dos esquadros com a linha de terra e deixe o outro esquadro como apoio.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="257" name="sl">
            <label for="257"></label>
-           <img src="pontos-retas/19_01a_04.png"/>
-         <figcaption>Marcar o afastamento e a cota do ponto A.</figcaption>
+           <img src="pontos-retas/30_01_04.png"/>
+         <figcaption>Deslize o esquadro alinhado até chegar na origem...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="258" name="sl">
            <label for="258"></label>
-           <img src="pontos-retas/19_01a_05.png"/>
-         <figcaption>Para obter a terceira projeção do ponto A é necessário traçar paralelas a LT passando por A’ e A”.</figcaption>
+           <img src="pontos-retas/30_01_05.png"/>
+         <figcaption>... e continue deslizando até a abscissa que marcamos com tamanho 20mm. Assim, construímos a linha de chamada do ponto <b>A</b> e os eixos <b>y</b> e <b>z</b> que passam pela origem.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="259" name="sl">
            <label for="259"></label>
-           <img src="pontos-retas/19_01a_06.png"/>
-         <figcaption>Com o compasso pegue a medida do afastamento do ponto A e faça um arco até a LT no sentido horário.</figcaption>
+           <img src="pontos-retas/30_01_06.png"/>
+         <figcaption>A partir da linha de terra, podemos marcar com a régua, na linha de chamada, a ordenada de 20mm do ponto. Como a ordenada é positiva, marcamos esta medida para baixo da linha de terra. A primeira projeção do ponto está determinada.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="260" name="sl">
            <label for="260"></label>
-           <img src="pontos-retas/19_01a_07.png"/>
-         <figcaption>A terceira projeção do ponto A está na interseção das retas que contém as medidas do afastamento e cota do ponto A.</figcaption>
+           <img src="pontos-retas/30_01_07.png"/>
+         <figcaption>A partir da linha de terra, podemos marcar com a régua, na linha de chamada, a cota de 30mm do ponto. Como a cota é positiva, marcamos esta medida para cima da linha de terra. A segunda projeção do ponto está determinada.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="260a" name="sl">
-           <label for="260a"></label>
-           <img src="pontos-retas/19_01a_08.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/19_01a_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item b</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
            <input type="radio" id="273" name="sl">
            <label for="273"></label>
-           <img src="pontos-retas/19_01b_01.png"/>
-        <figcaption>Vamos marcar a primeira, segunda e terceira projeções do ponto B.</figcaption>
+           <img src="pontos-retas/30_01_08.png"/>
+         <figcaption>Para construir a terceira projeção do ponto <b>A</b>, construímos a reta paralela à linha de terra (eixo <b>x</b>) que passa por <b>A''</b>.</figcaption>
        </li>
-	  <li>
+	   <li>
            <input type="radio" id="274" name="sl">
            <label for="274"></label>
-           <img src="pontos-retas/19_01b_02.png"/>
-        <figcaption>Marcar a abcissado ponto  B em épura.</figcaption>
+           <img src="pontos-retas/30_01_09.png"/>
+         <figcaption>A partir do eixo <b>z</b>, marcamos a ordenada de 20mm do ponto. Como a ordenada é positiva, devemos marcá-la à esquerda do eixo <b>z</b>.</figcaption>
        </li>
-       <li>
+	   <li>
            <input type="radio" id="275" name="sl">
            <label for="275"></label>
-           <img src="pontos-retas/19_01b_03.png"/>
-         <figcaption>Traçar a linha de chamada do ponto B perpendicular a LT.</figcaption>
+           <img src="pontos-retas/30_01_10.png"/>
+         <figcaption>No ponto <b>B</b>, podemos construir uma nova linha de terra, e marcar a abscissa 10mm. Na linha de chamada do ponto, marcamos a ordenada 15mm para baixo da linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="276" name="sl">
            <label for="276"></label>
-           <img src="pontos-retas/19_01b_04.png"/>
-         <figcaption>Marcar o afastamento e a cota do ponto B.</figcaption>
+           <img src="pontos-retas/30_01_11.png"/>
+         <figcaption>Como a cota tem valor negativo, devemos marcar a medida 20mm para baixo da linha de terra. Logo, encontramos as projeções <b>B'</b> e <b>B''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="277" name="sl">
            <label for="277"></label>
-           <img src="pontos-retas/19_01b_05.png"/>
-         <figcaption>Para obter a terceira projeção do ponto B é necessário traçar paralelas a LT passando por B’ e B”.</figcaption>
+           <img src="pontos-retas/30_01_12.png"/>
+         <figcaption>Para construir a terceira projeção de <b>B</b>, construimos a reta perpendicular à linha de terra que passa pela origem, e a reta paralela à linha de terra que passa por <b>B''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="278" name="sl">
            <label for="278"></label>
-           <img src="pontos-retas/19_01b_06.png"/>
-         <figcaption>Com o compasso pegue a medida do afastamento do ponto B e faça um arco até a LT no sentido horário.</figcaption>
+           <img src="pontos-retas/30_01_13.png"/>
+         <figcaption>A partir do eixo <b>z</b>, marcamos a ordenada 15mm à esquerda do eixo, pois esta medida é positiva.</figcaption>
        </li>
-	   <li>
-           <input type="radio" id="278a" name="sl">
-           <label for="278a"></label>
-           <img src="pontos-retas/19_01b_07.png"/>
-         <figcaption>A terceira projeção do ponto B está na interseção das retas que contém as medidas do afastamento e cota do ponto B.</figcaption>
-       </li>
-   </ul>
-	<img src="pontos-retas/19_01b_00.png" class="fundo"/>
+    </ul>
+	<img src="pontos-retas/30_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00030a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item c</summary>
