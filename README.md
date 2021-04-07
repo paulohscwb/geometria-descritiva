@@ -2,7 +2,7 @@
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Geometria Descritiva I</p>
-<p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2021/04/Apost_GD_2021.pdf" target="_blank">apostila de Geometria Descritiva</a></p>
+<p>A apostila está disponível no link: <a href="vr/Apost_GD_2021.pdf" target="_blank">apostila de Geometria Descritiva</a></p>
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1. Desenho Geométrico</summary>
