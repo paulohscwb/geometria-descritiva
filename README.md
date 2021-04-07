@@ -3149,6 +3149,10 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00033.png"/>
+	<figcaption>No primeiro exemplo, temos que <b>P' &isin; r'</b>, mas <b>P" &notin; r"</b>. Logo, podemos concluir que <b>P &notin; r</b>.
+	<br>No segundo exemplo, temos que <b>P' &isin; r"</b>, e <b>P" &isin; r'</b>. Neste caso, o ponto <b>P</b> está no 3&ordm; diedro, e as projeções do ponto não pertencem às projeções de mesmo nome da reta. Logo, podemos concluir que <b>P &notin; r</b>.
+	<br>No terceiro exemplo, temos que <b>P' &isin; r'</b>, e <b>P" &isin; r"</b>. Logo, podemos concluir que <b>P &isin; r</b>.
+	</figcaption>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 	   <iframe width="100%" src="https://www.youtube.com/embed/aIJxPdmxOBg" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
