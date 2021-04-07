@@ -2966,64 +2966,58 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00032.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar as projeções do quadrado contido em <b>&pi;'</b>, dado o lado <b>A'B'</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="314" name="sl">
            <label for="314"></label>
-           <img src="pontos-retas/21_04_02.png"/>
-        <figcaption>Traçar o lado AB do quadrado em VG na primeira projeção. Traçar por A’ ou por B’ uma perpendicular ao lado AB.</figcaption>
+           <img src="pontos-retas/32_01_01.png"/>
+        <figcaption>Como o quadrado pertence a <b>&pi;'</b>, as cotas de <b>A</b> e <b>B</b> são nulas. Logo, <b>A''</b> e <b>B''</b> pertencem à linha de terra.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="315" name="sl">
            <label for="315"></label>
-           <img src="pontos-retas/21_04_03.png"/>
-        <figcaption>Com o compasso medir o lado AB.</figcaption>
+           <img src="pontos-retas/32_01_02.png"/>
+        <figcaption>Como o quadrado pertence a <b>&pi;'</b>, a primeira projeção está em verdadeira grandeza (vg). Logo, podemos construir as retas perpendiculares ao segmento <b>A'B'</b> que passam por <b>A'</b> e por <b>B'</b> com os esquadros.</figcaption>
        </li>
        <li>
            <input type="radio" id="316" name="sl">
            <label for="316"></label>
-           <img src="pontos-retas/21_04_04.png"/>
-         <figcaption>Transportar a medida do lado AB para a perpendicular e marque D’.</figcaption>
+           <img src="pontos-retas/32_01_03.png"/>
+         <figcaption>Utilizando o compasso, "pegue" a medida do lado <b>A'B'</b> e ...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="317" name="sl">
            <label for="317"></label>
-           <img src="pontos-retas/21_04_05.png"/>
-         <figcaption>Trace por D’ uma paralela ao lado AB e encontre o vértice C’ do quadrado.</figcaption>
+           <img src="pontos-retas/32_01_04.png"/>
+         <figcaption>... com centro em <b>B'</b>, construa o arco com a medida <b>A'B'</b>, encontrando o vértice <b>C'</b> na reta perpendicular que construimos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="318" name="sl">
            <label for="318"></label>
-           <img src="pontos-retas/21_04_06.png"/>
-         <figcaption>Destaque a projeção A’B’C’D’ do quadrado.</figcaption>
+           <img src="pontos-retas/32_01_05.png"/>
+         <figcaption>Para encontrar o vértice <b>D'</b>, podemos construir o arco com medida <b>A'B'</b> e centro em <b>A'</b>, ou podemos construir a reta paralela a <b>A'B'</b> que passa por <b>C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="319" name="sl">
            <label for="319"></label>
-           <img src="pontos-retas/21_04_07.png"/>
-         <figcaption>Faça as linhas de chamada dos pontos C e D.</figcaption>
+           <img src="pontos-retas/32_01_06.png"/>
+         <figcaption>Construa as linhas de chamada de <b>C'</b> e <b>D'</b>, encontrando as projeções <b>C''</b> e <b>D''</b> na linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="320" name="sl">
            <label for="320"></label>
-           <img src="pontos-retas/21_04_08.png"/>
-         <figcaption>Como o quadrado está contido em &pi;'  a segunda projeção do quadrado está na interseção das linhas de chamada dos pontos A, B, C e D com a LT.</figcaption>
+           <img src="pontos-retas/32_01_07.png"/>
+         <figcaption>A primeira projeção do quadrado fica em vg, e a segunda projeção é reduzida ao segmento <b>C''A''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="321" name="sl">
            <label for="321"></label>
-           <img src="pontos-retas/21_04_09.png"/>
-         <figcaption>Destaque a projeção A”B”C”D” do quadrado.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="322" name="sl">
-           <label for="322"></label>
-           <img src="pontos-retas/21_04_10.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/32_01_08.png"/>
+         <figcaption>Outra solução possível pode ser construída se marcarmos a medida <b>A'B'</b> para cima.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/21_04_01.png" class="fundo"/>
+	<img src="pontos-retas/32_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00032a.png"/>
   	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3866,71 +3860,71 @@
       <li>
            <input type="radio" id="501" name="sl">
            <label for="501"></label>
-           <img src="pontos-retas/32_01_01.png"/>
+           <img src="pontos-retas/32_01_01a.png"/>
         <figcaption>A reta r é de perfil, vamos encontrar a VG de AB fazendo uma MPV.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="502" name="sl">
            <label for="502"></label>
-           <img src="pontos-retas/32_01_02.png"/>
+           <img src="pontos-retas/32_01_02a.png"/>
         <figcaption>Na primeira projeção faça a nova LT paralela a r’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="503" name="sl">
            <label for="503"></label>
-           <img src="pontos-retas/32_01_03.png"/>
+           <img src="pontos-retas/32_01_03a.png"/>
         <figcaption>Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="504" name="sl">
            <label for="504"></label>
-           <img src="pontos-retas/32_01_04.png"/>
+           <img src="pontos-retas/32_01_04a.png"/>
         <figcaption>Trace a reta r”1 passando A”1 e B”1. No novo sistema a reta é frontal e A”1B”1= VG AB.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="505" name="sl">
            <label for="505"></label>
-           <img src="pontos-retas/32_01_05.png"/>
+           <img src="pontos-retas/32_01_05a.png"/>
         <figcaption>Para encontrar o ponto M de afastamento 23, com o compasso marque a medida do afastamento na r’ e encontre M’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="506" name="sl">
            <label for="506"></label>
-           <img src="pontos-retas/32_01_06.png"/>
+           <img src="pontos-retas/32_01_06a.png"/>
         <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M”1 sobre r”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="507" name="sl">
            <label for="507"></label>
-           <img src="pontos-retas/32_01_07.png"/>
+           <img src="pontos-retas/32_01_07a.png"/>
         <figcaption>Com o compasso pegue a medida da cota do ponto M.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="508" name="sl">
            <label for="508"></label>
-           <img src="pontos-retas/32_01_08.png"/>
+           <img src="pontos-retas/32_01_08a.png"/>
         <figcaption>Transporte a medida da cota de M para r” a partir da LT encontrando M”.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="509" name="sl">
            <label for="509"></label>
-           <img src="pontos-retas/32_01_09.png"/>
+           <img src="pontos-retas/32_01_09a.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="510" name="sl">
            <label for="510"></label>
-           <img src="pontos-retas/32_01_10.png"/>
+           <img src="pontos-retas/32_01_10a.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="511" name="sl">
            <label for="511"></label>
-           <img src="pontos-retas/32_01_11.png"/>
+           <img src="pontos-retas/32_01_11a.png"/>
         <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_01_00.png" class="fundo"/>
+	<img src="pontos-retas/32_01_00a.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00043a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
