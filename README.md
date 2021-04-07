@@ -3021,94 +3021,52 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00032a.png"/>
   	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos construir as projeções do paralelogramo usando a propriedade 3 de projeções cilíndricas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="337" name="sl">
            <label for="337"></label>
-           <img src="pontos-retas/21_06a_01.png"/>
-        <figcaption>Marcar os pontos A, B e M em épura. </figcaption>
+           <img src="pontos-retas/32_02_01.png"/>
+        <figcaption>Começamos marcando as projeções dos pontos <b>A</b>, <b>B</b> e <b>M</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="338" name="sl">
            <label for="338"></label>
-           <img src="pontos-retas/21_06a_02.png"/>
-        <figcaption>Marcar a abscissa do ponto B. Traçar a linha de chamada do ponto A perpendicular a LT.Marcar o afastamento e a cota do ponto A.</figcaption>
+           <img src="pontos-retas/32_02_02.png"/>
+        <figcaption>De acordo com a propriedade 3 de projeções cilíndricas, os segmentos <b>AM</b> e <b>CM</b> têm projeções com mesma medida (o encontro das diagonais de um paralelogramo está no ponto médio das diagonais). Pegue a medida <b>A"M"</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="339" name="sl">
            <label for="339"></label>
-           <img src="pontos-retas/21_06a_03.png"/>
-         <figcaption>Com o compasso medir o segmento AM.</figcaption>
+           <img src="pontos-retas/32_02_03.png"/>
+         <figcaption>... e marque esta medida com centro em <b>M"</b>, encontrando a projeção <b>C"</b> no prolongamento de <b>A"M"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="340" name="sl">
            <label for="340"></label>
-           <img src="pontos-retas/21_06a_04.png"/>
-         <figcaption>Traçar a linha de chamada do ponto B perpendicular a LT.Marcar o afastamento e a cota do ponto B.</figcaption>
+           <img src="pontos-retas/32_02_04.png"/>
+         <figcaption>Fazendo a mesma construção com a diagonal <b>BD</b>, encontramos a projeção <b>D"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="341" name="sl">
            <label for="341"></label>
-           <img src="pontos-retas/21_06a_06.png"/>
-         <figcaption>Marcar a abscissa do ponto M. Traçar a linha de chamada do ponto M perpendicular a LT. Marcar o afastamento e a cota do ponto M.</figcaption>
+           <img src="pontos-retas/32_02_05.png"/>
+         <figcaption>Agora basta determinar a linha de chamada de <b>D"</b>, e a interseção desta linha com o prolongamento de <b>B'M'</b> é a projeção <b>D'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="342" name="sl">
            <label for="342"></label>
-           <img src="pontos-retas/21_06a_07.png"/>
-         <figcaption>Traçar o lado AB  e as diagonais AM e BM do paralelogramo na primeira ou na segunda projeção.</figcaption>
+           <img src="pontos-retas/32_02_06.png"/>
+         <figcaption>Determine a linha de chamada de <b>C"</b>. A interseção desta linha com o prolongamento de <b>A'M'</b> é a projeção <b>C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="343" name="sl">
            <label for="343"></label>
-           <img src="pontos-retas/21_06a_08.png"/>
-         <figcaption>Com o compasso medir o segmento AM.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="344" name="sl">
-           <label for="344"></label>
-           <img src="pontos-retas/21_06a_09.png"/>
-         <figcaption>Transportar a medida AM na diagonal maior encontrando C”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="345" name="sl">
-           <label for="345"></label>
-           <img src="pontos-retas/21_06a_10.png"/>
-         <figcaption>Com o compasso medir o segmento BM.Transportar a medida BM na diagonal menor encontrando D”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="346" name="sl">
-           <label for="346"></label>
-           <img src="pontos-retas/21_06a_11.png"/>
-         <figcaption>Destaque a projeção A”B”C”D” do paralelogramo.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="347" name="sl">
-           <label for="347"></label>
-           <img src="pontos-retas/21_06a_12.png"/>
-         <figcaption>Traçar o lado AB e as diagonais AM e BM do paralelogramo na primeira projeção. </figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="348" name="sl">
-           <label for="348"></label>
-           <img src="pontos-retas/21_06a_13.png"/>
-         <figcaption>Faça a linha de chamada do ponto C e encontre C’ na interseção da linha de chamada do ponto C com a diagonal AM.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="349" name="sl">
-           <label for="349"></label>
-           <img src="pontos-retas/21_06a_14.png"/>
-         <figcaption>Faça a linha de chamada do ponto D e encontre D’na interseção da linha de chamada do ponto D com a diagonal AN.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="350" name="sl">
-           <label for="350"></label>
-           <img src="pontos-retas/21_06a_15.png"/>
-         <figcaption>Destaque a projeção A’B’C’D’ do paralelogramo.</figcaption>
+           <img src="pontos-retas/32_02_07.png"/>
+         <figcaption>Agora basta unir os vértices na primeira projeção (vista superior do paralelogramo) e da segunda projeção (vista frontal do paralelogramo).</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/21_06a_00.png" class="fundo"/>
+	<img src="pontos-retas/32_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00032b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
@@ -3933,53 +3891,53 @@
       <li>
            <input type="radio" id="512" name="sl">
            <label for="512"></label>
-           <img src="pontos-retas/32_02_01.png"/>
+           <img src="pontos-retas/32_02_01a.png"/>
         <figcaption>A reta s é de perfil, vamos encontrar a VG de CD fazendo uma MPV.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="513" name="sl">
            <label for="513"></label>
-           <img src="pontos-retas/32_02_02.png"/>
+           <img src="pontos-retas/32_02_02a.png"/>
         <figcaption>Na primeira projeção faça a nova LT paralela a s’. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="514" name="sl">
            <label for="514"></label>
-           <img src="pontos-retas/32_02_03.png"/>
+           <img src="pontos-retas/32_02_03a.png"/>
         <figcaption>Trace as linhas de chamada dos pontos C e D perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos C e D a partir da nova LT encontrando as projeções C”1 e D”1. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="515" name="sl">
            <label for="515"></label>
-           <img src="pontos-retas/32_02_04.png"/>
+           <img src="pontos-retas/32_02_04a.png"/>
         <figcaption>Trace a reta s”1 passando C”1 e D”1. No novo sistema a reta é frontal e C”1D”1= VG CD.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="516" name="sl">
            <label for="516"></label>
-           <img src="pontos-retas/32_02_05.png"/>
+           <img src="pontos-retas/32_02_05a.png"/>
         <figcaption>Para encontrar o ponto M de cota nula, marque M”1 na interseção da nova LT com a s”1.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="517" name="sl">
            <label for="517"></label>
-           <img src="pontos-retas/32_02_06.png"/>
+           <img src="pontos-retas/32_02_06a.png"/>
         <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M’ sobre r’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="518" name="sl">
            <label for="518"></label>
-           <img src="pontos-retas/32_02_07.png"/>
+           <img src="pontos-retas/32_02_07a.png"/>
         <figcaption>Marque M” na LT (cota nula).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="519" name="sl">
            <label for="519"></label>
-           <img src="pontos-retas/32_02_08.png"/>
+           <img src="pontos-retas/32_02_08a.png"/>
         <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_02_00.png" class="fundo"/>
+	<img src="pontos-retas/32_02_00a.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00043b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
