@@ -3216,28 +3216,22 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00035a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar em épura a reta vertical que contém o ponto <b>A</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="433a" name="sl">
            <label for="433a"></label>
-           <img src="pontos-retas/24_02_02.png"/>
-        <figcaption>A reta r é vertical, então A'&equiv; r'&equiv; B'</figcaption>
+           <img src="pontos-retas/35_02_01.png"/>
+        <figcaption>A primeira projeção da reta fica coincidente com a primeira projeção de <b>A</b>: <b>A' &equiv; r'</b>. A segunda projeção é o prolongamento da linha de chamada do ponto <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="434a" name="sl">
            <label for="434a"></label>
-           <img src="pontos-retas/24_02_03.png"/>
-        <figcaption>Marcar B” sobre r” com cota 10.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="435a" name="sl">
-           <label for="435a"></label>
-           <img src="pontos-retas/24_02_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/35_02_02.png"/>
+        <figcaption>Podemos marcar a cota de 10mm do ponto <b>B</b> com a régua. Logo, temos a projeção <b>B"</b> sobre <b>r"</b>. A projeção <b>B'</b> fica coincidente com a projeção <b>r'</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/24_02_00.png" class="fundo"/>
+	<img src="pontos-retas/35_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00036.png"/>
