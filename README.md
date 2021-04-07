@@ -2879,125 +2879,89 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00031.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-  <p>A resolução deste exercício é semelhante à resolução do exercício 1.</p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos utilizar apenas uma linha de terra para representar os pontos deste exercício em épura.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="295" name="sl">
            <label for="295"></label>
-           <img src="pontos-retas/20_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/31_01_01.png"/>
+        <figcaption>O ponto <b>A</b> tem abscissa 20mm (marcada à direita da origem), afastamento 30mm (marcado abaixo da linha de terra) e cota 10mm (marcada acima da linha de terra). Assim, encontramos as duas primeiras projeções do ponto.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="296" name="sl">
            <label for="296"></label>
-           <img src="pontos-retas/20_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/31_01_02.png"/>
+        <figcaption>Construindo a reta paralela à linha de terra que passa por <b>A''</b>, marcamos o afastamento de 30mm a partir do eixo <b>z</b>, à esquerda, encontrando a terceira projeção do ponto. Como este ponto tem cota e afastamento positivos. Logo, este ponto pertence ao <b>1&ordm; diedro</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="297" name="sl">
            <label for="297"></label>
-           <img src="pontos-retas/20_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_03.png"/>
+         <figcaption>O ponto <b>B</b> tem abscissa 50mm (marcada à direita da origem) e afastamento -20mm (marcado acima da linha de terra). Assim, determinamos a primeira projeção do ponto.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="298" name="sl">
            <label for="298"></label>
-           <img src="pontos-retas/20_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_04.png"/>
+         <figcaption>A cota de <b>B</b> tem medida 40mm (marcada acima da linha de terra). Logo, encontramos as segunda projeção do ponto.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="299" name="sl">
            <label for="299"></label>
-           <img src="pontos-retas/20_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_05.png"/>
+         <figcaption>Construindo a reta paralela à linha de terra que passa por <b>B''</b>, marcamos o afastamento de -20mm a partir do eixo <b>z</b>, à direita, encontrando a terceira projeção do ponto. Como este ponto tem cota positiva e afastamento negativos. Logo, este ponto pertence ao <b>2&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="300" name="sl">
            <label for="300"></label>
-           <img src="pontos-retas/20_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_06.png"/>
+         <figcaption>O ponto <b>C</b> tem afastamento e cota negativos. Logo, este ponto pertence ao <b>3&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="301" name="sl">
            <label for="301"></label>
-           <img src="pontos-retas/20_07.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_07.png"/>
+         <figcaption>O ponto <b>D</b> tem afastamento positivo e cota negativa. Logo, este ponto pertence ao <b>4&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="302" name="sl">
            <label for="302"></label>
-           <img src="pontos-retas/20_08.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_08.png"/>
+         <figcaption>O ponto <b>E</b> tem afastamento nulo e cota positiva. Logo, este ponto pertence ao plano <b>&pi;''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="303" name="sl">
            <label for="303"></label>
-           <img src="pontos-retas/20_09.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_09.png"/>
+         <figcaption>O ponto <b>F</b> tem afastamento positivo e cota nula. Logo, este ponto pertence ao plano <b>&pi;'</b>.</figcaption>
        </li>
-    </ul>
-	<img src="pontos-retas/20_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
-  <p>A resolução deste exercício é semelhante à resolução do exercício 1.</p>
-  <ul class="slider">
-      <li>
+	   <li>
            <input type="radio" id="304" name="sl">
            <label for="304"></label>
-           <img src="pontos-retas/20_10.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/31_01_10.png"/>
+        <figcaption>O ponto <b>G</b> tem afastamento nulo e cota negativa. Logo, este ponto pertence ao plano <b>&pi;''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="305" name="sl">
            <label for="305"></label>
-           <img src="pontos-retas/20_11.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/31_01_11.png"/>
+        <figcaption>O ponto <b>H</b> tem afastamento positivo e cota negativa. Logo, este ponto pertence ao <b>4&ordm; diedro</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="306" name="sl">
            <label for="306"></label>
-           <img src="pontos-retas/20_12.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_12.png"/>
+         <figcaption>O ponto <b>I</b> tem afastamento negativo e cota nula. Logo, este ponto pertence ao plano <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="307" name="sl">
            <label for="307"></label>
-           <img src="pontos-retas/20_13.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="308" name="sl">
-           <label for="308"></label>
-           <img src="pontos-retas/20_14.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="309" name="sl">
-           <label for="309"></label>
-           <img src="pontos-retas/20_15.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="310" name="sl">
-           <label for="310"></label>
-           <img src="pontos-retas/20_16.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="311" name="sl">
-           <label for="311"></label>
-           <img src="pontos-retas/20_17.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="313" name="sl">
-           <label for="313"></label>
-           <img src="pontos-retas/20_19.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/31_01_13.png"/>
+         <figcaption>O ponto <b>J</b> tem afastamento positivo pertence ao plano <b>&pi;'</b>. Logo, este ponto tem cota nula, ou seja, a segunda projeção pertence à linha de terra.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/20_09.png" class="fundo"/>
+	<img src="pontos-retas/31_01_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00032.png"/>
@@ -3861,17 +3825,17 @@
       <li>
            <input type="radio" id="496" name="sl">
            <label for="496"></label>
-           <img src="pontos-retas/31_01_01.png"/>
+           <img src="pontos-retas/31_01_01a.png"/>
         <figcaption>Vamos fazer uma MPV para a reta de perfil. Trace os pontos A e B da reta de perfil em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="497" name="sl">
            <label for="497"></label>
-           <img src="pontos-retas/31_01_02.png"/>
+           <img src="pontos-retas/31_01_02a.png"/>
         <figcaption>Na primeira projeção faça a nova LT paralela a r’. Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1. No novo sistema a reta é frontal.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/31_01_00.png" class="fundo"/>
+	<img src="pontos-retas/31_01_00a.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png"/>
 	<div class="combo"><a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
