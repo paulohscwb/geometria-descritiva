@@ -2966,7 +2966,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00032.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar as projeções do quadrado contido em <b>&pi;'</b>, dado o lado <b>A'B'</b>.</p>
+  <p>Vamos representar as projeções do quadrado contido em <b>&pi;'</b>, dado o lado <b>A'B'</b>. Utilizaremos a propriedade 4 de projeções cilíndricas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="314" name="sl">
@@ -3069,167 +3069,83 @@
 	<img src="pontos-retas/32_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00032b.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item a</summary>
-  <p></p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir as projeções dos triângulos equiláteros usando a propriedade 4 de projeções cilíndricas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="409" name="sl">
            <label for="409"></label>
-           <img src="pontos-retas/21_10_01.png"/>
-        <figcaption>Marcar o ponto A em épura. Como A está contido em &pi;' e pertence a &pi;" → A' &equiv; A'' sobre a LT.</figcaption>
+           <img src="pontos-retas/32_03_01.png"/>
+        <figcaption>No item a, o ponto <b>A</b> tem abscissa 40mm. Como <b>A &isin; &pi;"</b>, então as coordenadas <b>y</b> e <b>z</b> serão nulas, ou seja, <b>A' &equiv; A"</b> sobre a linha de terra. Como <b>AB &perp; &pi;"</b>, podemos construir <b>l<sub>3</sub> &perp; x</b>, encontrando a projeção <b>B'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="410" name="sl">
            <label for="410"></label>
-           <img src="pontos-retas/21_10_02.png"/>
-        <figcaption>Como AB é perpendicular a LT, traçar a linha de chamada do ponto A e marcar B’ com distância 30 (lado do triângulo).</figcaption>
+           <img src="pontos-retas/32_03_02.png"/>
+        <figcaption>Como o triângulo pertence a <b>&pi;'</b>, a primeira projeção está em vg. Pegue com o compasso a medida <b>A'B'</b>...</figcaption>
        </li>
        <li>
            <input type="radio" id="411" name="sl">
            <label for="411"></label>
-           <img src="pontos-retas/21_10_03.png"/>
-         <figcaption>B” coincide com A' e A'' sobre a LT.</figcaption>
+           <img src="pontos-retas/32_03_03.png"/>
+         <figcaption>... e construa os arcos de centros em <b>B'</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="412" name="sl">
            <label for="412"></label>
-           <img src="pontos-retas/21_10_04.png"/>
-         <figcaption>Ponta seca em A’ e raio 30, encontre o LG1 de C’(O problema tem duas soluções).</figcaption>
+           <img src="pontos-retas/32_03_04.png"/>
+         <figcaption>... e <b>A'</b> com raio <b>A'B'</b>. Assim, encontramos a primeira projeção de <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="413" name="sl">
            <label for="413"></label>
-           <img src="pontos-retas/21_10_05.png"/>
-         <figcaption>Ponta seca em B’ e raio 30, encontre o LG2 de C’.</figcaption>
+           <img src="pontos-retas/32_03_05.png"/>
+         <figcaption>A cota de <b>C</b> é nula, pois o triângulo pertence a <b>&pi;'</b>. A primeira projeção fica como o triângulo <b>A'B'C'</b> em vg e a segunda projeção é o segmento <b>A"C"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="414" name="sl">
            <label for="414"></label>
-           <img src="pontos-retas/21_10_06.png"/>
-         <figcaption>Destaque a projeção A’B’C’.</figcaption>
+           <img src="pontos-retas/32_03_06.png"/>
+         <figcaption>No item b, temos a abscissa -35mm que pode ser marcada à esquerda da origem. Assim, encontramos <b>A' &equiv; A"</b> na linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="415" name="sl">
            <label for="415"></label>
-           <img src="pontos-retas/21_10_07.png"/>
-         <figcaption>Faça a linha de chamada do ponto C encontrando C” sobre a LT.</figcaption>
+           <img src="pontos-retas/32_03_07.png"/>
+         <figcaption>Como o lado <b>BC &perp; &pi;"</b>, podemos construir uma reta perpendicular à linha de terra que passa por <b>A'</b> e marcar sobre esta reta a metade da medida do lado do triângulo para cima e a metade para baixo da linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="416" name="sl">
            <label for="416"></label>
-           <img src="pontos-retas/21_10_08.png"/>
-         <figcaption>Destaque a projeção A”B”C” do triângulo.</figcaption>
+           <img src="pontos-retas/32_03_08.png"/>
+         <figcaption>Construa as retas paralelas à linha de terra com distância 15mm. Este será o lugar geométrico dos vértices <b>B'</b> e <b>C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="417" name="sl">
            <label for="417"></label>
-           <img src="pontos-retas/21_10_09.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/32_03_09.png"/>
+         <figcaption>Construa o arco de circunferência com centro em <b>A'</b> e raio de 30mm. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="418" name="sl">
            <label for="418"></label>
-           <img src="pontos-retas/21_10_10.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/32_03_10.png"/>
+         <figcaption>Na interseção do arco com as retas paralelas, encontramos os vértices <b>B'</b> e <b>C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="419" name="sl">
            <label for="419"></label>
-           <img src="pontos-retas/21_10_11.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/32_03_11.png"/>
+         <figcaption>As segundas projeções dos vértices <b>B"</b> e <b>C"</b> coincidem na linha de terra, pois o triângulo tem cotas nulas.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="420" name="sl">
            <label for="420"></label>
-           <img src="pontos-retas/21_10_12.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="421" name="sl">
-           <label for="421"></label>
-           <img src="pontos-retas/21_10_13.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/32_03_12.png"/>
+         <figcaption>A primeira projeção fica como o triângulo <b>A'B'C'</b> em vg e a segunda projeção é o segmento <b>A"B"</b>.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/21_10_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do item b</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="422" name="sl">
-           <label for="422"></label>
-           <img src="pontos-retas/21_10b_01.png"/>
-        <figcaption></figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="423" name="sl">
-           <label for="423"></label>
-           <img src="pontos-retas/21_10b_02.png"/>
-        <figcaption></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="424" name="sl">
-           <label for="424"></label>
-           <img src="pontos-retas/21_10b_03.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="425" name="sl">
-           <label for="425"></label>
-           <img src="pontos-retas/21_10b_04.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="426" name="sl">
-           <label for="426"></label>
-           <img src="pontos-retas/21_10b_05.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="427" name="sl">
-           <label for="427"></label>
-           <img src="pontos-retas/21_10b_06.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="428" name="sl">
-           <label for="428"></label>
-           <img src="pontos-retas/21_10b_07.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="429" name="sl">
-           <label for="429"></label>
-           <img src="pontos-retas/21_10b_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="429a" name="sl">
-           <label for="429a"></label>
-           <img src="pontos-retas/21_10b_09.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="430" name="sl">
-           <label for="430"></label>
-           <img src="pontos-retas/21_10b_10.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="431" name="sl">
-           <label for="431"></label>
-           <img src="pontos-retas/21_10b_11.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="432" name="sl">
-           <label for="432"></label>
-           <img src="pontos-retas/21_10b_12.png"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="pontos-retas/21_10b_00.png" class="fundo"/>
+	<img src="pontos-retas/32_03_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00033.png"/>
@@ -3946,23 +3862,23 @@
       <li>
            <input type="radio" id="512a" name="sl">
            <label for="512a"></label>
-           <img src="pontos-retas/32_03_01.png"/>
+           <img src="pontos-retas/32_03_01a.png"/>
         <figcaption></figcaption>
        </li>
 	  <li>
            <input type="radio" id="513a" name="sl">
            <label for="513a"></label>
-           <img src="pontos-retas/32_03_02.png"/>
+           <img src="pontos-retas/32_03_02a.png"/>
         <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="514a" name="sl">
            <label for="514a"></label>
-           <img src="pontos-retas/32_03_03.png"/>
+           <img src="pontos-retas/32_03_03a.png"/>
         <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_03_00.png" class="fundo"/>
+	<img src="pontos-retas/32_03_00a.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 44 ATÉ A PÁGINA 47, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
