@@ -2842,76 +2842,40 @@
 	<a href="vr/a_epura2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/Apost_GD_2021_00030b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>De acordo com as projeções, podemos determinar as posições dos pontos em relação aos planos fundamentais de referência.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="261" name="sl">
            <label for="261"></label>
-           <img src="pontos-retas/19_02_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/30_03_01.png"/>
+        <figcaption>O ponto <b>A</b> tem ordenada (afastamento) e cota positivas. Logo, está no <b>1&ordm; diedro</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="262" name="sl">
            <label for="262"></label>
-           <img src="pontos-retas/19_02_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/30_03_02.png"/>
+        <figcaption>O ponto <b>B</b> tem ordenada positiva e cota negativa. Logo, está no está no <b>4&ordm; diedro</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="264" name="sl">
            <label for="264"></label>
-           <img src="pontos-retas/19_02_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/30_03_03.png"/>
+         <figcaption>O ponto <b>C</b> tem ordenada negativa e cota positiva. Logo, está no está no <b>2&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="265" name="sl">
            <label for="265"></label>
-           <img src="pontos-retas/19_02_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/30_03_04.png"/>
+         <figcaption>O ponto <b>D</b> tem ordenada e cota negativas. Logo, está no está no <b>3&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="266" name="sl">
            <label for="266"></label>
-           <img src="pontos-retas/19_02_06.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="267" name="sl">
-           <label for="267"></label>
-           <img src="pontos-retas/19_02_07.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="268" name="sl">
-           <label for="268"></label>
-           <img src="pontos-retas/19_02_08.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="269" name="sl">
-           <label for="269"></label>
-           <img src="pontos-retas/19_02_09.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="270" name="sl">
-           <label for="270"></label>
-           <img src="pontos-retas/19_02_10.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="271" name="sl">
-           <label for="271"></label>
-           <img src="pontos-retas/19_02_13.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="272" name="sl">
-           <label for="272"></label>
-           <img src="pontos-retas/19_02_16.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/30_03_05.png"/>
+         <figcaption>O ponto <b>E</b> tem ordenada positiva e cota nula. Logo, está no está no plano <b>&pi;'</b>. Mesmo se a ordenada fosse negativa, mantendo-se a cota nula, este ponto continuaria pertencente ao plano <b>&pi;'</b>.</figcaption>
        </li>
     </ul>
-	<img src="pontos-retas/19_02_00.png" class="fundo"/>
+	<img src="pontos-retas/30_03_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00031.png"/>
