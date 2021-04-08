@@ -3290,10 +3290,29 @@
 	<img src="pontos-retas/36_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00036a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>A reta r é de topo, então r” é um ponto → A" &equiv; r". </p>
-	<img src="pontos-retas/25_02_01.png"/>
-	<figcaption>Marcar o ponto B em épura. Como s é paralela a r, então s é de topo  → B" &equiv; s".</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar em épura a reta de topo que contém o ponto <b>A</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="433b" name="sl">
+           <label for="433b"></label>
+           <img src="pontos-retas/36_02_01.png"/>
+        <figcaption>A segunda projeção da reta fica coincidente com a segunda projeção de <b>A</b>: <b>A" &equiv; r"</b>. A primeira projeção é o prolongamento da linha de chamada do ponto <b>A</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="434b" name="sl">
+           <label for="434b"></label>
+           <img src="pontos-retas/36_02_02.png"/>
+        <figcaption>Marque as coordenadas do ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="435b" name="sl">
+           <label for="435b"></label>
+           <img src="pontos-retas/36_02_03.png"/>
+        <figcaption>A reta paralela à reta de topo <b>r</b> será outra reta de topo. Logo, a projeção <b>B"</b> coincide com <b>s"</b>, e a projeção <b>s'</b> é o prolongamento da linha de chamada de <b>B</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/36_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00037.png"/>
