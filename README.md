@@ -4343,7 +4343,6 @@
 	</ul>
 	<img src="planosHFP/48_01_01.png" class="fundo"/>
   </details>
-	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00048a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -4629,31 +4628,31 @@
            <input type="radio" id="e063" name="sl">
            <label for="e063"></label>
            <img src="planosHFP/54_01_01.png"/>
-        <figcaption>Marcar os pontos A e B.</figcaption>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e064" name="sl">
            <label for="e064"></label>
            <img src="planosHFP/54_01_02.png"/>
-        <figcaption>Construir o quadrado da base ABCD.</figcaption>
+        <figcaption>Construir o quadrado da base <b>ABCD</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e065" name="sl">
            <label for="e065"></label>
            <img src="planosHFP/54_01_03.png"/>
-        <figcaption>Encontrar as segundas projeçoes dos pontos C e D.</figcaption>
+        <figcaption>Encontrar as segundas projeçoes dos pontos <b>C</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e066" name="sl">
            <label for="e066"></label>
            <img src="planosHFP/54_01_04.png"/>
-        <figcaption>Encontrar o centro da base O.</figcaption>
+        <figcaption>Encontrar o centro da base <b>O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e067" name="sl">
            <label for="e067"></label>
            <img src="planosHFP/54_01_05.png"/>
-        <figcaption>Marcar a altura da piramide, determinando o vértice V".</figcaption>
+        <figcaption>Marcar a altura da piramide, determinando o vértice <b>V"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e068" name="sl">
