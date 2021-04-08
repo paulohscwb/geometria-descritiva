@@ -3891,7 +3891,6 @@
 	<img src="pontos-retas/32_03_00a.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 44 ATÉ A PÁGINA 47, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00044.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p></p>
@@ -4317,7 +4316,6 @@
 
 <details><summary id="planos1">4. Planos: horizontal e frontal</summary>
 	<p>Material da página 48 até a página 63</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 48 ATÉ A PÁGINA 58, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Os três pontos <b>A</b>, <b>B</b> e <b>C</b> distintos e não colineares definem um único plano <b>&alpha;</b>. A notação utilizada é <b>&alpha;(A,B,C)</b>.</p>
@@ -5346,7 +5344,6 @@
   </details>
 	<a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 59 ATÉ A PÁGINA 63, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00059.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00059a.png"/>
@@ -5484,7 +5481,6 @@
 
 <details><summary id="planos2">5. Planos: de perfil e de topo</summary>
 	<p>Material da página 64 até a página 77</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 64 ATÉ A PÁGINA 74, FOI PRODUZIDO PELA <b>prof&ordf; SIMONE DA SILVA SORIA MEDINA.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00064.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00064a.png"/>
@@ -5988,7 +5984,6 @@
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 75 ATÉ A PÁGINA 90, FOI PRODUZIDO PELA <b>prof&ordf; LUZIA VIDAL DE SOUZA.</b></figcaption>
 	<img src="planosTV/Apost_GD_2021_00075.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
@@ -6803,7 +6798,6 @@
 	<img src="planosPQ/80_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 81 ATÉ A PÁGINA 86, FOI PRODUZIDO PELA <b>prof&ordf; DEISE MARIA BETHOLDI COSTA.</b></figcaption>
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
 	<div class="combo"><a href="vr/a23.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
@@ -7015,7 +7009,6 @@
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="planos4">7. Plano qualquer</summary>
 	<p>Material da página 96 até a página 105</p>
-	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA FOI PRODUZIDO PELA <b>prof&ordf; DEISE MARIA BETHOLDI COSTA.</b></figcaption>
 	<img src="planosPQ/Apost_GD_2021_00096.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/Apost_GD_2021_00096a.png"/>
