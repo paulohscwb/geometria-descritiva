@@ -3479,46 +3479,58 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00039.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>A reta frontal é paralela ao plano <b>&pi;''</b> e oblíqua aos planos <b>&pi;'</b> e <b>&pi;'''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="467" name="sl">
            <label for="467"></label>
-           <img src="pontos-retas/28_01_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/39_01_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta frontal <b>r</b>. Para determinar a segunda projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>y</b> que passam por <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="468" name="sl">
            <label for="468"></label>
-           <img src="pontos-retas/28_01_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/39_01_02.png"/>
+        <figcaption>Para determinar a primeira e a terceira projeção de <b>r</b>, basta construir as projetantes paralelas aos eixos <b>z</b> e <b>x</b> que passam por <b>A</b> e <b>B</b>. Podemos "pegar" a medida da abscissa do ponto <b>A</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="469" name="sl">
            <label for="469"></label>
-           <img src="pontos-retas/28_01_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/39_01_03.png"/>
+         <figcaption>... e marcá-la na linha de terra da épura. Se fizermos o mesmo com as demais coordenadas dos pontos <b>A</b> e <b>B</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="470" name="sl">
            <label for="470"></label>
-           <img src="pontos-retas/28_01_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/39_01_04.png"/>
+         <figcaption>... temos as duas projeções da reta frontal: a primeira projeção fica paralela à linha de terra (a reta tem afastamento constante) e a segunda projeção fica oblíqua.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="471" name="sl">
            <label for="471"></label>
-           <img src="pontos-retas/28_01_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/39_01_05.png"/>
+         <figcaption>Se uma parte da reta está contida no 1&ordm; diedro, a outra fica no 4&ordm; diedro. Se uma parte da reta está contida no 2&ordm; diedro, a outra fica no 3&ordm; diedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="472" name="sl">
            <label for="472"></label>
-           <img src="pontos-retas/28_01_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/39_01_06.png"/>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;'</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;'</b> é o ângulo entre a linha de terra e <b>r''</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r''</b> e uma linha de chamada ou com a projeção do eixo <b>z</b>. Note que estes ângulos são complementares.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="471a" name="sl">
+           <label for="471a"></label>
+           <img src="pontos-retas/39_01_07.png"/>
+         <figcaption>Como a reta é paralela ao plano <b>&pi;''</b>, esta projeção fica em vg.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="472a" name="sl">
+           <label for="472a"></label>
+           <img src="pontos-retas/39_01_08.png"/>
+         <figcaption>Precisamos de dois pontos para representar uma reta frontal.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/28_01_00.png" class="fundo"/>
+	<img src="pontos-retas/39_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00039a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
