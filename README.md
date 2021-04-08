@@ -3317,46 +3317,58 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00037.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>A reta fronto-horizontal é perpendicular ao plano <b>&pi;'''</b> e paralela aos planos <b>&pi;'</b> e <b>&pi;''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="445" name="sl">
            <label for="445"></label>
-           <img src="pontos-retas/26_01_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/37_01_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta fronto-horizontal <b>r</b>. Para determinar a segunda projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>y</b> que passam por <b>A</b> e <b>B</b>. A projetante paralela a <b>y</b> que passa por <b>A''' &equiv; B'''</b> determina o afastamento  constante desta reta.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="446" name="sl">
            <label for="446"></label>
-           <img src="pontos-retas/26_01_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/37_01_02.png"/>
+        <figcaption>Para determinar a primeira projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>z</b> que passam por <b>A</b> e <b>B</b>. A projetante paralela a <b>z</b> que passa por <b>A''' &equiv; B'''</b> determina a cota constante desta reta. Podemos "pegar" a medida da abscissa do ponto <b>A</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="447" name="sl">
            <label for="447"></label>
-           <img src="pontos-retas/26_01_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/37_01_03.png"/>
+         <figcaption>... e marcá-la na linha de terra da épura. Se fizermos o mesmo com a cota da reta e com as ordenadas dos pontos <b>A</b> e <b>B</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="448" name="sl">
            <label for="448"></label>
-           <img src="pontos-retas/26_01_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/37_01_04.png"/>
+         <figcaption>... temos as duas projeções da reta fronto-horizontal: as duas projeções ficam paralelas à linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="449" name="sl">
            <label for="449"></label>
-           <img src="pontos-retas/26_01_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/37_01_05.png"/>
+         <figcaption>Esta reta fica inteiramente contida em um diedro: no 1&ordm; diedro, no 2&ordm; diedro, no 3&ordm; diedro ou no 4&ordm; diedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="450" name="sl">
            <label for="450"></label>
-           <img src="pontos-retas/26_01_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/37_01_06.png"/>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção são de 0&ordm;, 0&ordm; e 90&ordm;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="450a" name="sl">
+           <label for="450a"></label>
+           <img src="pontos-retas/37_01_07.png"/>
+         <figcaption>Como a reta é paralela aos planos <b>&pi;'</b> e <b>&pi;''</b>, estas projeções ficam em vg.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="451a" name="sl">
+           <label for="451a"></label>
+           <img src="pontos-retas/37_01_08.png"/>
+         <figcaption>Basta um ponto para determinar a reta fronto-horizontal, pois o afastamento e a cota são constantes.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/26_01_00.png" class="fundo"/>
+	<img src="pontos-retas/37_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00037a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
