@@ -3403,7 +3403,7 @@
       <li>
            <input type="radio" id="455" name="sl">
            <label for="455"></label>
-           <img src="pontos-retas/37_01_01.png"/>
+           <img src="pontos-retas/38_01_01.png"/>
         <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta horizontal <b>r</b>. Para determinar a primeira projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>z</b> que passam por <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
