@@ -4700,29 +4700,41 @@
       <li>
            <input type="radio" id="e053" name="sl">
            <label for="e053"></label>
-           <img src="planosHFP/44_02_01.png"/>
-        <figcaption>Iniciamos marcando as projeções dos pontos A, B e V. Como o quadrado está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B, estarão sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/54_02_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>V</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e054" name="sl">
            <label for="e054"></label>
-           <img src="planosHFP/44_02_02.png"/>
-        <figcaption>A projeção do quadrado estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’.</figcaption>
+           <img src="planosHFP/54_02_02.png"/>
+        <figcaption>Construir o quadrado da base <b>ABCD</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e055" name="sl">
            <label for="e055"></label>
-           <img src="planosHFP/44_02_03.png"/>
-        <figcaption>Fazemos a construção da segunda projeção dos vértices do quadrado. Note que a segunda projeção do quadrado está sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/54_02_03.png"/>
+        <figcaption>Encontrar as segundas projeçoes dos pontos <b>C</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e056" name="sl">
            <label for="e056"></label>
-           <img src="planosHFP/44_02_04.png"/>
-        <figcaption>Utilizando os critérios de visibilidade, construímos as projeções das arestas laterais da pirâmide.</figcaption>
+           <img src="planosHFP/54_02_04.png"/>
+        <figcaption>Representar o contorno aparente na 1&ordf; e na 2&ordf; projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e055a" name="sl">
+           <label for="e055a"></label>
+           <img src="planosHFP/54_02_05.png"/>
+        <figcaption>Representar as arestas internas.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e056a" name="sl">
+           <label for="e056a"></label>
+           <img src="planosHFP/54_02_06.png"/>
+        <figcaption>Finalizar a representação.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/44_02_01.png" class="fundo"/>
+	<img src="planosHFP/54_02_00.png" class="fundo"/>
   </details>
 	<a href="vr/a46.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
