@@ -3236,46 +3236,58 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00036.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>A reta de topo é perpendicular ao plano <b>&pi;''</b> e paralela aos planos <b>&pi;'</b> e <b>&pi;'''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="439" name="sl">
            <label for="439"></label>
-           <img src="pontos-retas/25_01_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/36_01_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta de topo <b>r</b>. Para determinar a terceira projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>x</b> que passam por <b>A</b> e <b>B</b>. A projetante paralela a <b>x</b> que passa por <b>A" &equiv; B"</b> determina a abscissa constante desta reta.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="440" name="sl">
            <label for="440"></label>
-           <img src="pontos-retas/25_01_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/36_01_02.png"/>
+        <figcaption>Para determinar a primeira projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>z</b> que passam por <b>A</b> e <b>B</b>. A projetante paralela a <b>z</b> que passa por <b>A" &equiv; B"</b> determina a cota constante desta reta. Podemos "pegar" a medida da abscissa da reta com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="441" name="sl">
            <label for="441"></label>
-           <img src="pontos-retas/25_01_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/36_01_03.png"/>
+         <figcaption>... e marcá-la na linha de terra da épura. Se fizermos o mesmo com a cota da reta e com as ordenadas dos pontos <b>A</b> e <b>B</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="442" name="sl">
            <label for="442"></label>
-           <img src="pontos-retas/25_01_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/36_01_04.png"/>
+         <figcaption>... temos as duas projeções da reta de topo: a segunda projeção fica reduzida a um ponto e a primeira projeção é a reta <b>r'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="443" name="sl">
            <label for="443"></label>
-           <img src="pontos-retas/25_01_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/36_01_05.png"/>
+         <figcaption>Se uma parte da reta está contida no 1&ordm; diedro, a outra fica no 2&ordm; diedro. Se uma parte da reta está contida no 3&ordm; diedro, a outra fica no 4&ordm; diedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="444" name="sl">
            <label for="444"></label>
-           <img src="pontos-retas/25_01_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/36_01_06.png"/>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção são de 0&ordm;, 90&ordm; e 0&ordm;.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="444a" name="sl">
+           <label for="444a"></label>
+           <img src="pontos-retas/36_01_07.png"/>
+         <figcaption>Como a reta é paralela aos planos <b>&pi;'</b> e <b>&pi;'''</b>, estas projeções ficam em vg.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="445a" name="sl">
+           <label for="445a"></label>
+           <img src="pontos-retas/36_01_08.png"/>
+         <figcaption>Basta um ponto para determinar a reta de topo, pois a abscissa e a cota são constantes.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/25_01_00.png" class="fundo"/>
+	<img src="pontos-retas/36_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00036a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
