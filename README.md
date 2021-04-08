@@ -3410,7 +3410,7 @@
            <input type="radio" id="456" name="sl">
            <label for="456"></label>
            <img src="pontos-retas/38_01_02.png"/>
-        <figcaption>Para determinar a segunda e a terceira projeção de <b>r</b>, basta construir as projetantes paralelas aos eixos <b>y</b> <b>x</b> que passam por <b>A</b> e <b>B</b>. Podemos "pegar" a medida da abscissa do ponto <b>A</b> com o compasso...</figcaption>
+        <figcaption>Para determinar a segunda e a terceira projeção de <b>r</b>, basta construir as projetantes paralelas aos eixos <b>y</b> e <b>x</b> que passam por <b>A</b> e <b>B</b>. Podemos "pegar" a medida da abscissa do ponto <b>A</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="457" name="sl">
@@ -3434,7 +3434,7 @@
            <input type="radio" id="460" name="sl">
            <label for="460"></label>
            <img src="pontos-retas/38_01_06.png"/>
-         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;''</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;''</b> é o ângulo entre a linha de terra e <b>r'</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r'</b> e uma linha de chamada ou o eixo <b>y</b>.</figcaption>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;''</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;''</b> é o ângulo entre a linha de terra e <b>r'</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r'</b> e uma linha de chamada ou com a projeção do eixo <b>y</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="459a" name="sl">
