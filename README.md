@@ -3398,46 +3398,58 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00038.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>A reta horizontal é paralela ao plano <b>&pi;'</b> e oblíqua aos planos <b>&pi;''</b> e <b>&pi;'''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="455" name="sl">
            <label for="455"></label>
-           <img src="pontos-retas/27_01_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/37_01_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta horizontal <b>r</b>. Para determinar a primeira projeção de <b>r</b>, basta construir as projetantes paralelas ao eixo <b>z</b> que passam por <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="456" name="sl">
            <label for="456"></label>
-           <img src="pontos-retas/27_01_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/38_01_02.png"/>
+        <figcaption>Para determinar a segunda e a terceira projeção de <b>r</b>, basta construir as projetantes paralelas aos eixos <b>y</b> <b>x</b> que passam por <b>A</b> e <b>B</b>. Podemos "pegar" a medida da abscissa do ponto <b>A</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="457" name="sl">
            <label for="457"></label>
-           <img src="pontos-retas/27_01_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/38_01_03.png"/>
+         <figcaption>... e marcá-la na linha de terra da épura. Se fizermos o mesmo com as demais coordenadas dos pontos <b>A</b> e <b>B</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="458" name="sl">
            <label for="458"></label>
-           <img src="pontos-retas/27_01_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/38_01_04.png"/>
+         <figcaption>... temos as duas projeções da reta horizontal: a segunda projeção fica paralela à linha de terra (a reta tem cota constante) e a primeira projeção fica oblíqua.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="459" name="sl">
            <label for="459"></label>
-           <img src="pontos-retas/27_01_05.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/38_01_05.png"/>
+         <figcaption>Se uma parte da reta está contida no 1&ordm; diedro, a outra fica no 2&ordm; diedro. Se uma parte da reta está contida no 3&ordm; diedro, a outra fica no 4&ordm; diedro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="460" name="sl">
            <label for="460"></label>
-           <img src="pontos-retas/27_01_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/38_01_06.png"/>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;''</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;''</b> é o ângulo entre a linha de terra e <b>r'</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r'</b> e uma linha de chamada ou o eixo <b>y</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="459a" name="sl">
+           <label for="459a"></label>
+           <img src="pontos-retas/38_01_07.png"/>
+         <figcaption>Como a reta é paralela ao plano <b>&pi;'</b>, esta projeção fica em vg.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="460a" name="sl">
+           <label for="460a"></label>
+           <img src="pontos-retas/38_01_08.png"/>
+         <figcaption>Precisamos de dois pontos para representar uma reta horizontal.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/27_01_00.png" class="fundo"/>
+	<img src="pontos-retas/38_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00038a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
