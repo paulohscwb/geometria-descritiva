@@ -3534,70 +3534,34 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00039a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar em épura a reta frontal que passa pelos pontos <b>A</b> e <b>B</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="473" name="sl">
            <label for="473"></label>
-           <img src="pontos-retas/28_02_01.png"/>
-        <figcaption>Traçar r” passando por A” e B”.</figcaption>
+           <img src="pontos-retas/39_02_01.png"/>
+        <figcaption>A projeção <b>r'</b> é paralela à linha de terra e passa por <b>A'</b>. A segunda projeção <b>r"</b> passa pelos pontos <b>A"</b> e <b>B"</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="474" name="sl">
            <label for="474"></label>
-           <img src="pontos-retas/28_02_02.png"/>
-        <figcaption>Traçar r’ paralela a LT passando por A’.</figcaption>
+           <img src="pontos-retas/39_02_02.png"/>
+        <figcaption>Trace a linha de chamada de <b>B"</b> para determinar a projeção <b>B' &isin; r'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="475" name="sl">
            <label for="475"></label>
-           <img src="pontos-retas/28_02_03.png"/>
-         <figcaption>Traçar a linha de chamada do ponto B.</figcaption>
+           <img src="pontos-retas/39_02_03.png"/>
+         <figcaption>Para encontrar o ponto da reta com cota 20mm, podemos usar a linha de chamada de <b>A</b> para marcar a cota 20. Trace a reta paralela à linha de terra com distância 20mm.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="476" name="sl">
            <label for="476"></label>
-           <img src="pontos-retas/28_02_04.png"/>
-         <figcaption>Encontrar B’ na interseção da linha de chamada de B com r’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476a" name="sl">
-           <label for="476a"></label>
-           <img src="pontos-retas/28_02_05.png"/>
-         <figcaption>Marcar uma paralela a LT com distância 20 (Cota de C).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476b" name="sl">
-           <label for="476b"></label>
-           <img src="pontos-retas/28_02_06.png"/>
-         <figcaption>Encontrar C” na interseção da paralela com r”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476c" name="sl">
-           <label for="476c"></label>
-           <img src="pontos-retas/28_02_07.png"/>
-         <figcaption>Traçar a linha de chamada do ponto C.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476d" name="sl">
-           <label for="476d"></label>
-           <img src="pontos-retas/28_02_08.png"/>
-         <figcaption>Encontrar C’ na interseção da linha de chamada de C com r’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476e" name="sl">
-           <label for="476e"></label>
-           <img src="pontos-retas/28_02_09.png"/>
-         <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="476f" name="sl">
-           <label for="476f"></label>
-           <img src="pontos-retas/28_02_10.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/39_02_04.png"/>
+         <figcaption>Na interseção da reta paralela com <b>r"</b>, encontramos a projeção <b>C"</b>. Trace a linha de chamada de <b>C"</b> para determinar <b>C' &isin; r'</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/28_02_00.png" class="fundo"/>
+	<img src="pontos-retas/39_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00040.png"/>
