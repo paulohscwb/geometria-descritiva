@@ -3453,7 +3453,7 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00038a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar em épura a reta horizontal que passa pelo ponto <b>A</b> e forma 60&ordm; com <b>&pi;'</b>.</p>
+  <p>Vamos representar em épura a reta horizontal que passa pelo ponto <b>A</b> e forma 60&ordm; com <b>&pi;''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="461" name="sl">
@@ -3465,7 +3465,7 @@
            <input type="radio" id="462" name="sl">
            <label for="462"></label>
            <img src="pontos-retas/38_02_02.png"/>
-        <figcaption>Deslize o esquadro de 60 até chegar no ponto <b>A'</b>: assim, construímos o ângulo <b>&theta;'</b> à direita de <b>A</b>. Alinhando o esquadro do 60 do outro lado, você pode construir a outra solução, com ângulo <b>&theta;'</b> à esquerda de <b>A</b>. Logo, temos a primeira projeção da reta horizontal.</figcaption>
+        <figcaption>Deslize o esquadro de 60 até chegar no ponto <b>A'</b>: assim, construímos o ângulo <b>&theta;''</b> à direita de <b>A</b>. Alinhando o esquadro do 60 do outro lado, você pode construir a outra solução, com ângulo <b>&theta;''</b> à esquerda de <b>A</b>. Logo, temos a primeira projeção da reta horizontal.</figcaption>
        </li>
        <li>
            <input type="radio" id="463" name="sl">
