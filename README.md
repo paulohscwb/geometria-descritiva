@@ -4442,7 +4442,7 @@
            <input type="radio" id="dn013" name="sl">
            <label for="dn013"></label>
            <img src="planosHFP/48_03_07.png"/>
-        <figcaption>Agora vamos representar o ponto <b>C</b> em épura. Transfira essa medida para a épura obtendo <b>C´´</b> sobre o eixo <b>z</b>. Como o afastamento do ponto <b>C</b> é nulo temos que <b>C´ &equiv; O</b>.</figcaption>
+        <figcaption>Agora vamos representar o ponto <b>C</b> em épura. Transfira essa medida para a épura obtendo <b>C’’</b> sobre o eixo <b>z</b>. Como o afastamento do ponto <b>C</b> é nulo temos que <b>C’ &equiv; O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn014" name="sl">
