@@ -4319,9 +4319,58 @@
 	<p>Material da página 48 até a página 63</p>
 	<figcaption>O CONTEÚDO DE DESENHOS E LEGENDAS DESTA PARTE DA APOSTILA, DA PÁGINA 48 ATÉ A PÁGINA 58, FOI PRODUZIDO PELO <b>prof. EMERSON ROLKOUSKI.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
-	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p>Os três pontos <b>A</b>, <b>B</b> e <b>C</b> distintos e não colineares definem um único plano <b>&alpha;</b>. A notação utilizada é <b>&alpha;(A,B,C)</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="dn001" name="sl">
+           <label for="dn001"></label>
+           <img src="planosHFP/48_01_02.png"/>
+        <figcaption>Considerando a reta <b>r</b> definida pelos pontos <b>A</b> e <b>B</b> temos uma nova forma de definir o mesmo plano <b>&alpha;</b>: por um ponto <b>C</b> e uma reta <b>r</b> que não se pertencem. A notação utilizada é <b>&alpha;(r,C)</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="dn002" name="sl">
+           <label for="dn002"></label>
+           <img src="planosHFP/48_01_03.png"/>
+        <figcaption>Os pontos <b>B</b> e <b>C</b> definem uma reta <b>s</b> concorrente com a reta <b>r</b> no ponto <b>B</b>. Assim, temos que o plano <b>&alpha;</b> agora está definido por duas retas concorrentes. A notação utilizada é <b>&alpha;(r,s)</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn003" name="sl">
+           <label for="dn003"></label>
+           <img src="planosHFP/48_01_04.png"/>
+        <figcaption>Considerando a reta <b>t</b> que é concorrente com a reta <b>r</b> no ponto <b>A</b> e que seja paralela à reta <b>s</b> temos agora que o plano <b>&alpha;</b> está definido por duas retas <b>t</b> e <b>s</b> paralelas. A notação utilizada é <b>&alpha;(s,t)</b>. Note que qualquer uma dessas representações de um plano pode recair na outra.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/48_01_01.png" class="fundo"/>
+  </details>
+	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00048a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p>As retas <b>a</b> e <b>b</b> concorrentes no ponto <b>C</b> definem um único plano <b>&alpha;</b>. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="dn004" name="sl">
+           <label for="dn004"></label>
+           <img src="planosHFP/48_02_02.png"/>
+        <figcaption>A reta <b>r<sub>1</sub></b> pertence ao plano <b>&alpha;(a,b)</b> pois ela é concorrente com a reta <b>a</b> no ponto <b>A</b> e é concorrente com a reta <b>b</b> no ponto <b>B</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="dn005" name="sl">
+           <label for="dn005"></label>
+           <img src="planosHFP/48_02_03.png"/>
+        <figcaption>A reta <b>r<sub>2</sub></b> pertence ao plano <b>&alpha;(a,b)</b> pois ela é concorrente com a reta <b>a</b> no ponto <b>A</b> e é paralela à reta <b>b</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn006" name="sl">
+           <label for="dn006"></label>
+           <img src="planosHFP/48_02_04.png"/>
+        <figcaption>O ponto <b>P</b> pertence ao plano <b>&alpha;(a,b)</b> pois ele pertence à reta <b>r<sub>1</sub></b> que está contida no plano <b>&alpha;</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/48_02_01.png" class="fundo"/>
+  </details></div>
+	<img src="planosHFP/Apost_GD_2021_00048b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosHFP/38.png"/>
@@ -4579,53 +4628,41 @@
       <li>
            <input type="radio" id="e063" name="sl">
            <label for="e063"></label>
-           <img src="planosHFP/44_01_01.png"/>
-        <figcaption>Marcamos as projeções do ponto A e B. O segmento A’B’ é a primeira projeção da aresta AB da base da pirâmide.</figcaption>
+           <img src="planosHFP/54_01_01.png"/>
+        <figcaption>Marcar os pontos A e B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e064" name="sl">
            <label for="e064"></label>
-           <img src="planosHFP/44_01_02.png"/>
-        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em quadrado na primeira projeção. Para tanto, traçamos perpendiculares sobre A’ e B’. Com o compasso, centro em A’ e raio A’B’ interceptamos uma das perpendiculares.</figcaption>
+           <img src="planosHFP/54_01_02.png"/>
+        <figcaption>Construir o quadrado da base ABCD.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e065" name="sl">
            <label for="e065"></label>
-           <img src="planosHFP/44_01_03.png"/>
-        <figcaption>Marcamos a primeira projeção do vértice D.</figcaption>
+           <img src="planosHFP/54_01_03.png"/>
+        <figcaption>Encontrar as segundas projeçoes dos pontos C e D.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e066" name="sl">
            <label for="e066"></label>
-           <img src="planosHFP/44_01_04.png"/>
-        <figcaption>Finalizamos o quadrado com o mesmo procedimento e observando os critérios de visibilidade, podemos traçar as primeiras projeções da base e das arestas laterais da pirâmide. </figcaption>
+           <img src="planosHFP/54_01_04.png"/>
+        <figcaption>Encontrar o centro da base O.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e067" name="sl">
            <label for="e067"></label>
-           <img src="planosHFP/44_01_05.png"/>
-        <figcaption>Traçando linhas de chamada pelos vértices, podemos marcar, as primeiras projeções dos vértices da base, já que todos estão em um mesmo plano horizontal de cota 0.</figcaption>
+           <img src="planosHFP/54_01_05.png"/>
+        <figcaption>Marcar a altura da piramide, determinando o vértice V".</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e068" name="sl">
            <label for="e068"></label>
-           <img src="planosHFP/44_01_06.png"/>
-        <figcaption>A altura da pirâmide está em VG em segunda projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e069" name="sl">
-           <label for="e069"></label>
-           <img src="planosHFP/44_01_07.png"/>
-        <figcaption>Dessa maneira, como a pirâmide é reta, sobre a linha de chamada de O, podemos marcar a segunda projeção do vértice.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e070" name="sl">
-           <label for="e070"></label>
-           <img src="planosHFP/44_01_08.png"/>
-        <figcaption>Observando os critérios de visibilidade, marcamos todas as arestas laterais em segunda projeção, a segunda e a primeira projeção do vértice V.</figcaption>
+           <img src="planosHFP/54_01_06.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/44_01_00.png" class="fundo"/>
+	<img src="planosHFP/54_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a45.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00054a.png"/>
