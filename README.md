@@ -3372,34 +3372,28 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00037a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar em épura a reta fronto-horizontal que passa pelo ponto <b>A</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="451" name="sl">
            <label for="451"></label>
-           <img src="pontos-retas/26_02_01.png"/>
-        <figcaption>Traçar r’ e r” paralelas a LT passando por A’ e A” respectivamente.</figcaption>
+           <img src="pontos-retas/37_02_01.png"/>
+        <figcaption>Podemos construir as retas <b>r'</b> e <b>r''</b> paralelas à linha de terra que passam por <b>A'</b> e <b>A''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="452" name="sl">
            <label for="452"></label>
-           <img src="pontos-retas/26_02_02.png"/>
-        <figcaption>Traçar a linha de chamada ponto B com abcissa 40.</figcaption>
+           <img src="pontos-retas/37_02_02.png"/>
+        <figcaption>Marque a abscissa do ponto <b>B</b> com medida 40.</figcaption>
        </li>
        <li>
            <input type="radio" id="453" name="sl">
            <label for="453"></label>
-           <img src="pontos-retas/26_02_03.png"/>
-         <figcaption>Encontrar as projeções B’ e B” na interseção da linha de chamada com r’ e r” respectivamente.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="454" name="sl">
-           <label for="454"></label>
-           <img src="pontos-retas/26_02_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/37_02_03.png"/>
+         <figcaption>Agora basta traçar a linha de chamada de <b>B</b>, e as projeções <b>B' &isin; r'</b> e <b>B" &isin; r"</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/26_02_00.png" class="fundo"/>
+	<img src="pontos-retas/37_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00038.png"/>
