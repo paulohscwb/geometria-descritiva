@@ -4399,10 +4399,65 @@
 	<img src="planosHFP/48_02_01.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00048b.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
-	<img src="planosHFP/38.png"/>
-	<figcaption></figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p>Os traços de um plano são as interseções dele com cada um dos Planos Fundamentais de Referência, ou seja, são três retas: <b>&alpha;&pi;’</b> – uma reta horizontal do plano de cota nula, <b>&alpha;&pi;’’</b> – uma reta frontal do plano de afastamento nulo e <b>&alpha;&pi;’’’</b> – uma reta de perfil do plano de abscissa nula. Vamos representar em épura os traços do plano <b>&alpha;</b>. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="dn007" name="sl">
+           <label for="dn007"></label>
+           <img src="planosHFP/48_03_01.png"/>
+        <figcaption>Para representar o primeiro traço <b>&alpha;&pi;’</b> vamos utilizar os pontos <b>A</b> e <b>B</b>. O ponto <b>A</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>x</b>. Marque no compasso a abscissa do ponto <b>A</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="dn008" name="sl">
+           <label for="dn008"></label>
+           <img src="planosHFP/48_03_02.png"/>
+        <figcaption>Agora vamos representar o ponto <b>A</b> em épura. Transfira essa medida para a épura obtendo <b>A' &equiv; A''</b> sobre o eixo <b>x</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn009" name="sl">
+           <label for="dn009"></label>
+           <img src="planosHFP/48_03_03.png"/>
+        <figcaption>O ponto <b>B</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>y</b>. Marque no compasso o afastamento do ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn010" name="sl">
+           <label for="dn010"></label>
+           <img src="planosHFP/48_03_04.png"/>
+        <figcaption>Agora vamos representar o ponto <b>B</b> em épura. Transfira essa medida para a épura obtendo <b>B'</b> sobre o eixo <b>y</b>. Como a cota do ponto <b>B</b> é nula temos que <b>B'' &equiv; O</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn011" name="sl">
+           <label for="dn011"></label>
+           <img src="planosHFP/48_03_05.png"/>
+        <figcaption>A reta definida por <b>A’</b> e <b>B’</b> é a primeira projeção do primeiro traço <b>&alpha;&pi;’</b>, que denotamos simplesmente por <b>&alpha;&pi;’</b>. Como a segunda projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn012" name="sl">
+           <label for="dn012"></label>
+           <img src="planosHFP/48_03_06.png"/>
+        <figcaption>Para representar o segundo traço <b>&alpha;&pi;’’</b> vamos utilizar os pontos <b>A</b> e <b>C</b>. O ponto <b>C</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>z</b>. Marque no compasso a cota do ponto <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn013" name="sl">
+           <label for="dn013"></label>
+           <img src="planosHFP/48_03_07.png"/>
+        <figcaption>Agora vamos representar o ponto <b>C</b> em épura. Transfira essa medida para a épura obtendo <b>C´´</b> sobre o eixo <b>z</b>. Como o afastamento do ponto <b>C</b> é nulo temos que <b>C´ &equiv; O</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn014" name="sl">
+           <label for="dn014"></label>
+           <img src="planosHFP/48_03_08.png"/>
+        <figcaption>A reta definida por <b>C’’</b> e <b>A’’</b> é a segunda projeção do segundo traço <b>&alpha;&pi;’’</b>, que denotamos simplesmente por <b>&alpha;&pi;’’</b>. Como a primeira projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn015" name="sl">
+           <label for="dn015"></label>
+           <img src="planosHFP/48_03_09.png"/>
+        <figcaption>Para representar o terceiro traço <b>&alpha;&pi;’’’</b> vamos utilizar os pontos <b>B</b> e <b>C</b>. A primeira e segunda projeções desse traço coincidem com o eixo <b>y</b> e <b>z</b> respectivamente. O que representamos em épura é a sua terceira projeção, que denotamos simplesmente por <b>&alpha;&pi;’’’</b>. Para obtê-la basta encontrar a terceira projeção dos pontos <b>B</b> e <b>C</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/48_03_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/73Qg-RFB5dM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
