@@ -3434,7 +3434,7 @@
            <input type="radio" id="460" name="sl">
            <label for="460"></label>
            <img src="pontos-retas/38_01_06.png"/>
-         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;''</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;''</b> é o ângulo entre a linha de terra e <b>r'</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r'</b> e uma linha de chamada ou com a projeção do eixo <b>y</b>.</figcaption>
+         <figcaption>Os ângulos que a reta forma com os planos de projeção <b>&pi;''</b> e <b>&pi;'''</b> são projetados em vg: <b>&theta;''</b> é o ângulo entre a linha de terra e <b>r'</b>, e <b>&theta;'''</b> é o ângulo formado entre a reta <b>r'</b> e uma linha de chamada ou com a projeção do eixo <b>y</b>. Note que estes ângulos são complementares.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="459a" name="sl">
@@ -3453,46 +3453,28 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00038a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar em épura a reta horizontal que passa pelo ponto <b>A</b> e forma 60&ordm; com <b>&pi;'</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="461" name="sl">
            <label for="461"></label>
-           <img src="pontos-retas/27_02_01.png"/>
-        <figcaption>Traçar r” passando por A” paralela a LT.</figcaption>
+           <img src="pontos-retas/38_02_01.png"/>
+        <figcaption>A projeção <b>r"</b> é paralela à linha de terra e passa por <b>A"</b>. Alinhe o menor cateto do esquadro de 60 com a linha de terra e deixe a hipotenusa do outro esquadro apoiada no cateto maior do esquadro de 60.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="462" name="sl">
            <label for="462"></label>
-           <img src="pontos-retas/27_02_02.png"/>
-        <figcaption>Como r faz 60° com &pi;" e r é horizontal a VG do ângulo aparece na primeira projeção. Traçar 30° por A’ para encontrar r’( O problema tem duas soluções). Assim r’ faz 60° com a LT.</figcaption>
+           <img src="pontos-retas/38_02_02.png"/>
+        <figcaption>Deslize o esquadro de 60 até chegar no ponto <b>A'</b>: assim, construímos o ângulo <b>&theta;'</b> à direita de <b>A</b>. Alinhando o esquadro do 60 do outro lado, você pode construir a outra solução, com ângulo <b>&theta;'</b> à esquerda de <b>A</b>. Logo, temos a primeira projeção da reta horizontal.</figcaption>
        </li>
        <li>
            <input type="radio" id="463" name="sl">
            <label for="463"></label>
-           <img src="pontos-retas/27_02_03.png"/>
-         <figcaption>Encontrar  B’ na interseção da LT com r’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="464" name="sl">
-           <label for="464"></label>
-           <img src="pontos-retas/27_02_04.png"/>
-         <figcaption>Traçar a linha de chamada do ponto B.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="465" name="sl">
-           <label for="465"></label>
-           <img src="pontos-retas/27_02_05.png"/>
-         <figcaption>Encontrar B” na interseção da linha de chamada de B com r”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="466" name="sl">
-           <label for="466"></label>
-           <img src="pontos-retas/27_02_06.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/38_02_03.png"/>
+         <figcaption>A interseção de <b>r'</b> com a linha de terra é o ponto da reta que tem afastamento nulo. Faça a linha de chamada de <b>B'</b> para encontrar a projeção <b>B'' &isin; r''</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/27_02_00.png" class="fundo"/>
+	<img src="pontos-retas/38_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00039.png"/>
