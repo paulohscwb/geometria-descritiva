@@ -4782,80 +4782,62 @@
       <li>
            <input type="radio" id="e076" name="sl">
            <label for="e076"></label>
-           <img src="planosHFP/45_01_01.png"/>
-        <figcaption>Iniciamos marcando as projeções dos pontos A e B. Como a base do tetraedro está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B.</figcaption>
+           <img src="planosHFP/55_01_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e077" name="sl">
            <label for="e077"></label>
-           <img src="planosHFP/45_01_02.png"/>
-        <figcaption>Como se trata de um tetraedro regular, sua base é um triângulo equilátero, cuja VG está em primeira projeção. Iniciamos construindo o segmento A’B’.</figcaption>
+           <img src="planosHFP/55_01_02.png"/>
+        <figcaption>Construir o triângulo de base <b>ABC</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e078" name="sl">
            <label for="e078"></label>
-           <img src="planosHFP/45_01_03.png"/>
-        <figcaption>Abrimos o compasso em A’B’.</figcaption>
+           <img src="planosHFP/55_01_03.png"/>
+        <figcaption>Encontrar a segunda projeção do ponto <b>C</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e079" name="sl">
            <label for="e079"></label>
-           <img src="planosHFP/45_01_04.png"/>
-        <figcaption>Com centro em B’, fazemos uma marca.</figcaption>
+           <img src="planosHFP/55_01_04.png"/>
+        <figcaption> Encontrar o centro da base <b>O</b>, traçando pelos vértices, as perpendiculares ao lado oposto.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e080" name="sl">
            <label for="e080"></label>
-           <img src="planosHFP/45_01_05.png"/>
-        <figcaption>Com a mesma abertura e centro em A’, encontramos o terceiro vértice C’.</figcaption>
+           <img src="planosHFP/55_01_05.png"/>
+        <figcaption>Encontrar a altura do tetraedro, para isso, fazer uma perpendicular pelo ponto <b>O'</b> a <b>O'B'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e081a" name="sl">
            <label for="e081a"></label>
-           <img src="planosHFP/45_01_06.png"/>
-        <figcaption>Usando as bissetrizes dos lados do triângulo equilátero, encontramos o seu centro que coincide com a primeira projeção do vértice D.</figcaption>
+           <img src="planosHFP/55_01_06.png"/>
+        <figcaption>Tomar a medida da aresta <b>B'C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e081" name="sl">
            <label for="e081"></label>
-           <img src="planosHFP/45_01_07.png"/>
-        <figcaption>Marcamos então as primeiras projeções dos vértices A, B e C e do centro O.</figcaption>
+           <img src="planosHFP/55_01_07.png"/>
+        <figcaption>Marcar a medida da aresta a partir do vértice <b>B'</b>, obtendo a altura do sólido <b>h</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e082" name="sl">
            <label for="e082"></label>
-           <img src="planosHFP/45_01_08.png"/>
-        <figcaption>A altura está em VG na segunda projeção. Para encontrá-la, traçamos um triângulo retângulo auxiliar. Um dos catetos desse triângulo é a medida de uma das projeções das arestas laterais (A’D’=B’D’=C’D).</figcaption>
+           <img src="planosHFP/55_01_08.png"/>
+        <figcaption>Tomar a altura <b>h</b> com o compasso.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e084" name="sl">
            <label for="e084"></label>
-           <img src="planosHFP/45_01_09.png"/>
-        <figcaption>Construímos então uma perpendicular e com a abertura do compasso igual a aresta A’B’=B’C’=A’B’ encontramos o triângulo. </figcaption>
+           <img src="planosHFP/55_01_09.png"/>
+        <figcaption>Marcar a altura na 2&ordf; projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e085" name="sl">
            <label for="e085"></label>
-           <img src="planosHFP/45_01_10.png"/>
-        <figcaption>A VG da altura é o outro cateto desse triângulo (OD).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e086" name="sl">
-           <label for="e086"></label>
-           <img src="planosHFP/45_01_11.png"/>
-        <figcaption>Marcamos essa altura sobre a linha de chamada de O.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e087" name="sl">
-           <label for="e087"></label>
-           <img src="planosHFP/45_01_12.png"/>
-        <figcaption>Assim encontramos a segunda projeção do vértice D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e088" name="sl">
-           <label for="e088"></label>
-           <img src="planosHFP/45_01_13.png"/>
-        <figcaption>Finalizamos a segunda projeção do tetraedro.</figcaption>
+           <img src="planosHFP/55_01_10.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/45_01_00.png" class="fundo"/>
@@ -5576,41 +5558,41 @@
       <li>
            <input type="radio" id="s013" name="sl">
            <label for="s013"></label>
-           <img src="planosHFP/55_01_01.png"/>
+           <img src="planosHFP/55_01_01a.png"/>
         <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s014" name="sl">
            <label for="s014"></label>
-           <img src="planosHFP/55_01_02.png"/>
+           <img src="planosHFP/55_01_02a.png"/>
         <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="s015" name="sl">
            <label for="s015"></label>
-           <img src="planosHFP/55_01_03.png"/>
+           <img src="planosHFP/55_01_03a.png"/>
          <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
        </li>
        <li>
            <input type="radio" id="s016" name="sl">
            <label for="s016"></label>
-           <img src="planosHFP/55_01_04.png"/>
+           <img src="planosHFP/55_01_04a.png"/>
          <figcaption>Construímos o triângulo em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>). </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s017" name="sl">
            <label for="s017"></label>
-           <img src="planosHFP/55_01_05.png"/>
+           <img src="planosHFP/55_01_05a.png"/>
          <figcaption>Voltamos com o rebatimento e encontramos as projeções do ponto C.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s018" name="sl">
            <label for="s018"></label>
-           <img src="planosHFP/55_01_06.png"/>
+           <img src="planosHFP/55_01_06a.png"/>
          <figcaption>As duas projeções do triângulo foram encontradas. Ambas são segmentos de reta.</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/55_01_00.png" class="fundo"/>
+	<img src="planosHFP/55_01_00a.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00065a.png"/>
 	<div class="combo"><figcaption>A partir deste ponto, o endereço para visualizar os sólidos em Realidade Aumentada mudou para: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
