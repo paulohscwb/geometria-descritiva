@@ -4441,28 +4441,34 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00049.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Um plano <b>&alpha;</b> pode ocupar sete posições distintas em relação aos três Planos Fundamentais de Referência (PFR). Podemos classificar essas posições em três conjuntos: os planos que são paralelos a um dos PFR, os planos que são perpendiculares a um dos PFR e oblíquo em relação a outro, e os planos oblíquos em relação aos PFR.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e033f" name="sl">
            <label for="e033f"></label>
-           <img src="planosHFP/39_1.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/49_01_01.png"/>
+        <figcaption>No primeiro conjunto temos os planos que são paralelos a um dos PFR. O plano paralelo ao <b>&pi;’</b> é chamado de Plano Horizontal. O plano paralelo ao <b>&pi;’’</b> é chamado de Plano Frontal. O plano paralelo ao <b>&pi;’’’</b> é chamado de Plano de Perfil.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034f" name="sl">
            <label for="e034f"></label>
-           <img src="planosHFP/39_2.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/49_01_02.png"/>
+        <figcaption>No segundo conjunto temos os planos que são perpendiculares a um dos PFR e oblíquo em relação a outro. O plano que é perpendicular ao <b>&pi;’’</b> e oblíquo ao <b>&pi;’</b>, em consequência é oblíquo também ao <b>&pi;’’’</b>, é chamado de Plano de Topo.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="e034fa" name="sl">
+       <label for="e034fa"></label>
+           <img src="planosHFP/49_01_02.png"/>
+        <figcaption>O plano que é perpendicular ao <b>&pi;’</b> e oblíquo ao <b>&pi;’’</b>, em consequência é oblíquo também ao <b>&pi;’’’</b>, é chamado de Plano Vertical. O plano que é perpendicular ao <b>&pi;’’’</b> e oblíquo ao <b>&pi;’</b>, em consequência é oblíquo também ao <b>&pi;’’</b>, é chamado de Plano Paralelo à Linha de Terra ou de Plano Rampa.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035f" name="sl">
            <label for="e035f"></label>
-           <img src="planosHFP/39_3.png"/>
-        <figcaption></figcaption>
+           <img src="planosHFP/49_01_03.png"/>
+        <figcaption>No terceiro conjunto temos os planos que são oblíquos em relação a todos os PFR, esse tipo de plano é chamado de Plano Qualquer.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/39_1.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/49_01_01.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00050.png"/>
