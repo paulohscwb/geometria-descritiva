@@ -4840,7 +4840,7 @@
         <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/45_01_00.png" class="fundo"/>
+	<img src="planosHFP/55_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a47.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00055a.png"/>
