@@ -4474,10 +4474,71 @@
 	<img src="planosHFP/Apost_GD_2021_00050.png"/>
 	<div class="combo"><a href="vr/plano_horizontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00050a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
-	<img src="planosHFP/40_1.png"/>
-	<figcaption></figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos estudar o Plano Horizontal.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn999" name="sl">
+        <label for="dn999"></label>
+        <img src="planosHFP/50_01_01.png"/>
+        <figcaption>A característica espacial do Plano Horizontal é ser paralelo a <b>&pi;’</b> e, portanto, será perpendicular a <b>&pi;’’</b> e a <b>&pi;’’’</b>.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn998" name="sl">
+       <label for="dn998"></label>
+           <img src="planosHFP/50_01_02.png"/>
+        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;’</b> não existe interseção do plano com o primeiro PFR. Dizemos então que o primeiro traço não existe ou que é uma reta imprópria do plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn997" name="sl">
+           <label for="dn997"></label>
+           <img src="planosHFP/50_01_03.png"/>
+        <figcaption>O seu segundo traço <b>&alpha;&pi;’’</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn996" name="sl">
+           <label for="dn996"></label>
+           <img src="planosHFP/50_01_04.png"/>
+        <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de topo de abscissa nula, concorrente com o segundo traço sobre o eixo <b>z</b>. Em geral, não representamos esse traço em épura, somente quando for necessário.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn995" name="sl">
+           <label for="dn995"></label>
+           <img src="planosHFP/50_01_05.png"/>
+        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;’</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;’</b> é 0°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn994" name="sl">
+           <label for="dn994"></label>
+           <img src="planosHFP/50_01_06.png"/>
+        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;’’</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;’’</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn993" name="sl">
+           <label for="dn993"></label>
+           <img src="planosHFP/50_01_07.png"/>
+        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;’’’</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;’’’</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn992" name="sl">
+           <label for="dn992"></label>
+           <img src="planosHFP/50_01_08.png"/>
+        <figcaption>O Plano Horizontal é perpendicular a <b>&pi;’’</b> então ele é projetante em segunda projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua segunda projeção contida em <b>&alpha;&pi;’’</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Horizontal &xhArr; <b>F’’ &isin; &alpha;&pi;’’</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn991" name="sl">
+           <label for="dn991"></label>
+           <img src="planosHFP/50_01_09.png"/>
+        <figcaption>O triângulo <b>ABC</b> se projeta em VG em primeira projeção. Isso porque o Plano Horizontal é paralelo ao primeiro PFR.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn990" name="sl">
+           <label for="dn990"></label>
+           <img src="planosHFP/50_01_10.png"/>
+        <figcaption>As retas contidas num Plano Horizontal podem ser: horizontais, fronto-horizontais ou de topo. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/50_01_00.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00050b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -5418,47 +5479,47 @@
       <li>
            <input type="radio" id="s001" name="sl">
            <label for="s001"></label>
-           <img src="planosHFP/50_01_01.png"/>
+           <img src="planosHFP/50_01_01a.png"/>
         <figcaption>Encontrar as projeções do ponto O.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s002" name="sl">
            <label for="s002"></label>
-           <img src="planosHFP/50_01_02.png"/>
+           <img src="planosHFP/50_01_02a.png"/>
         <figcaption>Encontrar o traço horizontal do plano &alpha;, paralelo à LT, assim como a circunferência em VG na segunda projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="s003" name="sl">
            <label for="s003"></label>
-           <img src="planosHFP/50_01_03.png"/>
+           <img src="planosHFP/50_01_03a.png"/>
          <figcaption>Traçar uma reta frontal (r) do plano &alpha;, que passe pelo ponto O e forme ângulo de 30&deg; com &pi;'. Este ângulo aparece em VG na épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="s004" name="sl">
            <label for="s004"></label>
-           <img src="planosHFP/50_01_04.png"/>
+           <img src="planosHFP/50_01_04a.png"/>
          <figcaption>A interseção da circunferência com a reta r encontramos as segundas projeções de dois vértices do hexágono (C'' e F'').</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s005" name="sl">
            <label for="s005"></label>
-           <img src="planosHFP/50_01_05.png"/>
+           <img src="planosHFP/50_01_05a.png"/>
          <figcaption>Construímos a segunda projeção do hexágono regular inscrito na circunferência. Esta projeção está em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s006" name="sl">
            <label for="s006"></label>
-           <img src="planosHFP/50_01_06.png"/>
+           <img src="planosHFP/50_01_06a.png"/>
          <figcaption>A primeira projeção do hexágono fica reduzida a um segmento de reta sobre o traço horizontal do plano.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s007" name="sl">
            <label for="s007"></label>
-           <img src="planosHFP/50_01_07.png"/>
+           <img src="planosHFP/50_01_07a.png"/>
          <figcaption>Verifique que o lado AB do hexágono é uma reta frontal que forma ângulo de 30° com &pi;'.</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/50_01_00.png" class="fundo"/>
+	<img src="planosHFP/50_01_00a.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00060a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
