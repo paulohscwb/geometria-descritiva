@@ -4911,77 +4911,47 @@
 	  <li>
            <input type="radio" id="e091" name="sl">
            <label for="e091"></label>
-           <img src="planosHFP/45_02_01.png"/>
-        <figcaption>Iniciamos marcando as projeções dos pontos A eO. Como a base do prisma triangular está em um plano horizontal, todos os seus vértices terão a mesma cota.</figcaption>
+           <img src="planosHFP/55_02_01.png"/>
+        <figcaption>Marcar os pontos <b>O</b> e <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e092" name="sl">
            <label for="e092"></label>
-           <img src="planosHFP/45_02_02.png"/>
-        <figcaption>Construímos a circunferência circunscrita à base, de centro O e raio O’A’.</figcaption>
+           <img src="planosHFP/55_02_02.png"/>
+        <figcaption>Traçar a circunferência de centro <b>O</b> que passa pelo ponto <b>A</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e093" name="sl">
            <label for="e093"></label>
-           <img src="planosHFP/45_02_03.png"/>
-        <figcaption>Abrimos o compasso em O’A’.</figcaption>
+           <img src="planosHFP/55_02_03.png"/>
+        <figcaption>Inscrever o triângulo na circunferência, lembrando que o raio divide a circunferência em 6 partes iguais, tomando 3 desses vértices, temos o triângulo equilátero inscrito na circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e094" name="sl">
            <label for="e094"></label>
-           <img src="planosHFP/45_02_04.png"/>
-        <figcaption>Com centro em A’, fazemos uma marca sobre a circunferência.</figcaption>
+           <img src="planosHFP/55_02_04.png"/>
+        <figcaption>Encontrar a segunda projeção dos vértices <b>B</b> e <b>C </b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e095" name="sl">
            <label for="e095"></label>
-           <img src="planosHFP/45_02_05.png"/>
-        <figcaption>Com a mesma abertura, fazemos outra marca.</figcaption>
+           <img src="planosHFP/55_02_05.png"/>
+        <figcaption>Por um ponto qualquer, marcar a altura do sólido, h = 40 que pode estar acima ou abaixo do plano <b>&alpha;</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e096" name="sl">
            <label for="e096"></label>
-           <img src="planosHFP/45_02_06.png"/>
-        <figcaption>Marcamos o vértice B’. O vértice C’, pode ser encontrado usando a distância A’B’.</figcaption>
+           <img src="planosHFP/55_02_06.png"/>
+        <figcaption>Representar o plano <b>&beta;</b> que contém os vértices <b>D</b>, <b>E</b> e <b>F</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e097" name="sl">
            <label for="e097"></label>
-           <img src="planosHFP/45_02_07.png"/>
-        <figcaption>Temos então a primeira projeção da base do prisma. Para encontrar a segunda projeção traçamos linhas de chamada sobre A’, B’ e C’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e098" name="sl">
-           <label for="e098"></label>
-           <img src="planosHFP/45_02_08.png"/>
-        <figcaption>Marcamos então as segundas projeção da base. Como se trata de um prisma reto, as primeiras projeções das bases coincidem (A’=D’, B’=E’ e C’=F’).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e099" name="sl">
-           <label for="e099"></label>
-           <img src="planosHFP/45_02_09.png"/>
-        <figcaption>A altura está em VG na segunda projeção. </figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e100" name="sl">
-           <label for="e100"></label>
-           <img src="planosHFP/45_02_10.png"/>
-        <figcaption>Marcamos essa altura sobre a linha de chamada de O.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e101" name="sl">
-           <label for="e101"></label>
-           <img src="planosHFP/45_02_11.png"/>
-        <figcaption>Assim encontramos a segunda projeção da base DEF.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e102" name="sl">
-           <label for="e102"></label>
-           <img src="planosHFP/45_02_12.png"/>
-        <figcaption>Finalizamos a segunda projeção do prisma.</figcaption>
+           <img src="planosHFP/55_02_07.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/45_02_00.png" class="fundo"/>
+	<img src="planosHFP/55_02_00.png" class="fundo"/>
   </details>
 	<a href="vr/a48.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -5700,7 +5670,7 @@
 	  </details>
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção. </p>
-	<img src="planosHFP/55_02_00.png"/>
+	<img src="planosHFP/55_02_00a.png"/>
 	<figcaption>A solução apresentada foi resolvida por mudança de plano de projeção.</figcaption>
   </details>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
