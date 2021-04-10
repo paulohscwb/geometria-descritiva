@@ -4541,10 +4541,41 @@
 	<img src="planosHFP/50_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00050b.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
-	<img src="planosHFP/40_2.png"/>
-	<figcaption></figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Horizontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn989" name="sl">
+        <label for="dn989"></label>
+        <img src="planosHFP/50_02_01.png"/>
+        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r’’</b> com <b>&alpha;&pi;'</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn988" name="sl">
+       <label for="dn988"></label>
+           <img src="planosHFP/50_02_02.png"/>
+        <figcaption>Por <b>(r&alpha;'')</b> traçamos uma linha de chamada até <b>r’</b>, obtendo a primeira projeção do traço de <b>r’</b> sobre <b>&alpha;</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn987" name="sl">
+           <label for="dn987"></label>
+           <img src="planosHFP/50_02_03.png"/>
+        <figcaption>Agora vamos construir pelo ponto <b>P</b> uma reta perpendicular ao Plano Horizontal <b>&alpha;</b>. Como o Plano Horizontal é paralelo a <b>&pi;'</b> então a reta perpendicular a esse Plano é uma reta vertical. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn986" name="sl">
+           <label for="dn986"></label>
+           <img src="planosHFP/50_02_04.png"/>
+        <figcaption>Construímos por <b>P</b> uma reta vertical, ou seja, sua segunda projeção coincide com a linha de chamada do ponto <b>P</b> e sua primeira projeção coincide com <b>P'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn985" name="sl">
+           <label for="dn985"></label>
+           <img src="planosHFP/50_02_05.png"/>
+        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano Horizontal, intercepta o Plano <b>&alpha;</b> no ponto <b>(r&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Horizontal <b>&alpha;</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/50_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00051.png"/>
@@ -4936,7 +4967,7 @@
            <input type="radio" id="e095" name="sl">
            <label for="e095"></label>
            <img src="planosHFP/55_02_05.png"/>
-        <figcaption>Por um ponto qualquer, marcar a altura do sólido, h = 40 que pode estar acima ou abaixo do plano <b>&alpha;</b>.</figcaption>
+        <figcaption>Por um ponto qualquer, marcar a altura do sólido, <b>h = 40</b> que pode estar acima ou abaixo do plano <b>&alpha;</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e096" name="sl">
@@ -5498,35 +5529,35 @@
       <li>
            <input type="radio" id="s008" name="sl">
            <label for="s008"></label>
-           <img src="planosHFP/50_02_01.png"/>
+           <img src="planosHFP/50_02_01a.png"/>
         <figcaption>Representar os pontos A e B em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s009" name="sl">
            <label for="s009"></label>
-           <img src="planosHFP/50_02_02.png"/>
+           <img src="planosHFP/50_02_02a.png"/>
         <figcaption>Como a seção equatorial da pirâmide dupla está contida num plano frontal, a segunda projeção desta seção estará em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT e contido no traço horizontal do plano.</figcaption>
        </li>
        <li>
            <input type="radio" id="s010" name="sl">
            <label for="s010"></label>
-           <img src="planosHFP/50_02_03.png"/>
+           <img src="planosHFP/50_02_03a.png"/>
          <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs. Retas de topo têm a segunda projeção reduzida a pontos e apresenta VG de segmentos no primeira projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="s011" name="sl">
            <label for="s011"></label>
-           <img src="planosHFP/50_02_04.png"/>
+           <img src="planosHFP/50_02_04a.png"/>
          <figcaption>O próximo passo consiste em verificar a visibilidade das arestas: o contorno aparente vai ser sempre visível nas duas projeções. Na segunda projeção os vértices V1 e V2 não pertencem ao contorno aparente, sendo visível o de maior afastamento (V2); as arestas que partem dele são visíveis. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s012" name="sl">
            <label for="s012"></label>
-           <img src="planosHFP/50_02_04.png"/>
+           <img src="planosHFP/50_02_04a.png"/>
          <figcaption>Na primeira projeção, os vértices E e F têm maior cota, logo são visíveis e as arestas que partem deles também; os vértices C e B são os de menor cota, logo são invisíveis e as arestas que partem deles também.</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/50_02_00.png" class="fundo"/>
+	<img src="planosHFP/50_02_00a.png" class="fundo"/>
   </details>
   <a href="vr/a2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
