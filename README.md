@@ -4538,7 +4538,7 @@
         <figcaption>As retas contidas num Plano Horizontal podem ser: horizontais, fronto-horizontais ou de topo. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/50_01_00.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/50_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00050b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
