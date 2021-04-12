@@ -4598,7 +4598,7 @@
            <input type="radio" id="e035g" name="sl">
            <label for="e035g"></label>
            <img src="planosHFP/51_01_03.png"/>
-        <figcaption>O traço <b>&alpha;&pi;’’</b> é definido por <b>A’’</b> e B’’</b>.</figcaption>
+        <figcaption>O traço <b>&alpha;&pi;’’</b> é definido por <b>A’’</b> e <b>B’’</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035ng" name="sl">
@@ -4629,28 +4629,70 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados é fronto-horizontal.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e033h" name="sl">
            <label for="e033h"></label>
-           <img src="planosHFP/41_2_0.png"/>
-        <figcaption>Iniciamos marcando a projeção do centro do hexágono. Como o hexágono está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeçõesestarão sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/51_02_01.png"/>
+        <figcaption>Represente o ponto <b>O</b> em épura. </figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034h" name="sl">
            <label for="e034h"></label>
-           <img src="planosHFP/41_2_1.png"/>
-        <figcaption>A projeção do hexágono estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’E’F’. Para garantir que um de seus lados esteja sobre uma reta frontal, traçamos uma paralela à linha de terra por O’ e marcamos A’. Usando o raio da circunferência circunscrita, marcamos os demais pontos.</figcaption>
+           <img src="planosHFP/51_02_02.png"/>
+        <figcaption>Represente o traço <b>&alpha;&pi;’’</b> que contém <b>O’’</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035h" name="sl">
            <label for="e035h"></label>
-           <img src="planosHFP/41_2_2.png"/>
-        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do hexágono. Note que a segunda projeção do hexágono está sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/51_02_03.png"/>
+        <figcaption>Construa a Circunferência de centro em <b>O’</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nh" name="sl">
+           <label for="e035nh"></label>
+           <img src="planosHFP/51_02_04.png"/>
+        <figcaption>Como um dos lados do hexágono regular deve ser fronto-horizontal então um dos seus diâmetros também deve ser fronto-horizontal. Assim, construa a reta <b>r</b> que contém o ponto <b>O</b> e seja fronto-horizontal. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035ni" name="sl">
+           <label for="e035ni"></label>
+           <img src="planosHFP/51_02_05.png"/>
+        <figcaption>A interseção da Circunferência com <b>r’</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nj" name="sl">
+           <label for="e035nj"></label>
+           <img src="planosHFP/51_02_06.png"/>
+        <figcaption>Marque no compasso o raio 20 e a partir de <b>A’</b> obtenha <b>B’</b> e <b>F’</b> sobre essa Circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nk" name="sl">
+           <label for="e035nk"></label>
+           <img src="planosHFP/51_02_07.png"/>
+        <figcaption>Faça o mesmo agora com centro em <b>D’</b> obtendo <b>C’</b> e <b>E’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nl" name="sl">
+           <label for="e035nl"></label>
+           <img src="planosHFP/51_02_08.png"/>
+        <figcaption>Destaque a primeira projeção do hexágono regular.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nm" name="sl">
+           <label for="e035nm"></label>
+           <img src="planosHFP/51_02_09.png"/>
+        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;’’</b> obtendo suas segundas projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nn" name="sl">
+           <label for="e035nn"></label>
+           <img src="planosHFP/51_02_10.png"/>
+        <figcaption>Destaque a segunda projeção do hexágono regular.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/41_2_0.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/51_02_00.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5553,12 +5595,12 @@
 	<img src="planosHFP/Apost_GD_2021_00061a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção do pentágono regular</summary>
 	<p>Vamos lembrar como se constrói um pentágono regular a partir de um de seus lados.</p>
-	<img src="planosHFP/51_02_00.png"/>
+	<img src="planosHFP/51_02_00a.png"/>
 	<figcaption></figcaption>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A base do prisma arquimediano está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
-	<img src="planosHFP/51_02_01.png"/>
+	<img src="planosHFP/51_02_01a.png"/>
 	<figcaption>A altura é de um prisma arquimediano tem tamanho igual ao lado da base e aparece em VG na primeira projeção.</figcaption>
   </details>
   <a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
