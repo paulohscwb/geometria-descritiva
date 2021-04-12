@@ -5428,53 +5428,53 @@
 	   <li>
            <input type="radio" id="098z" name="sl">
            <label for="098z"></label>
-           <img src="basico/09_01_03.png"/>
+           <img src="dg/09_01_03.png"/>
            <figcaption>Neste exemplo, o lado do pentágono mede <b>l = 3cm</b>. Construa a circunferência de centro no vértice <b>1</b> e raio <b>l = 3cm</b>, e não feche o compasso, pois vamos usar essa medida do lado mais vezes! </figcaption>
        </li>
 	   <li>
            <input type="radio" id="099z" name="sl">
            <label for="099z"></label>
-           <img src="basico/09_01_04.png"/>
+           <img src="dg/09_01_04.png"/>
            <figcaption>Construa a circunferência de centro no vértice <b>2</b> e raio <b>l = 3cm</b> obtendo sobre a primeira circunferência os pontos <b>3</b> e <b>4</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="0001z" name="sl">
            <label for="0001z"></label>
-           <img src="basico/09_01_05.png"/>
+           <img src="dg/09_01_05.png"/>
            <figcaption>Construa a reta <b>s</b> que passa pelos pontos <b>3</b> e <b>4</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0002z" name="sl">
            <label for="0002z"></label>
-           <img src="basico/09_01_06.png"/>
+           <img src="dg/09_01_06.png"/>
            <figcaption>Agora com centro no ponto <b>4</b> construa uma terceira circunferência de raio <b>l = 3cm</b> obtendo sobre a primeira o ponto <b>5</b>, sobre a segunda o ponto <b>7</b> e sobre a reta <b>s</b> o ponto <b>6</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0003z" name="sl">
            <label for="0003z"></label>
-           <img src="basico/09_01_07.png"/>
+           <img src="dg/09_01_07.png"/>
            <figcaption>Trace a reta <b>t</b> unindo os pontos <b>5</b> e <b>6</b> obtendo o ponto <b>8</b> sobre a segunda circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0004z" name="sl">
            <label for="0004z"></label>
-           <img src="basico/09_01_08.png"/>
+           <img src="dg/09_01_08.png"/>
            <figcaption>E agora trace a reta <b>u</b> pelos pontos <b>6</b> e <b>7</b> obtendo o ponto <b>9</b> sobre a primeira circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0005z" name="sl">
            <label for="0005z"></label>
-           <img src="basico/09_01_09.png"/>
+           <img src="dg/09_01_09.png"/>
            <figcaption>Para obtermos o último vértice construa um arco de circunferência de centro no ponto <b>8</b> e raio <b>l = 3cm</b> e outro arco com centro no ponto <b>9</b> e raio <b>l = 3cm</b> encontrando na interseção o último vértice <b>10</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0006z" name="sl">
            <label for="0006z"></label>
-           <img src="basico/09_01_10.png"/>
+           <img src="dg/09_01_10.png"/>
            <figcaption>Agora é só unir os pontos <b>1</b>, <b>2</b>, <b>8</b>, <b>10</b> e <b>9</b>!</figcaption>
        </li>
     </ul>
-    <img src="basico/09_01_03.png" class="fundo"/>
+    <img src="dg/09_01_03.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
