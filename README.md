@@ -4580,28 +4580,52 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00051.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar as projeções do quadrado contido num Plano Horizontal <b>&alpha;</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e033g" name="sl">
            <label for="e033g"></label>
-           <img src="planosHFP/41_1_0.png"/>
-        <figcaption>Iniciamos marcando as projeções dos pontos A e B. Como o quadrado está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeções, em particular a segunda projeção de B, estarão sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/51_01_01.png"/>
+        <figcaption>Represente o ponto <b>A</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034g" name="sl">
            <label for="e034g"></label>
-           <img src="planosHFP/41_1_1.png"/>
-        <figcaption>A projeção do quadrado estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’.</figcaption>
+           <img src="planosHFP/51_01_02.png"/>
+        <figcaption>Para representar o ponto <b>B</b>, note que não é dada a sua cota, mas como sabemos que ele pertence ao mesmo Plano Horizontal do ponto <b>A</b>, então sua cota é 20, agora sim você pode representar o ponto <b>B</b> em épura.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035g" name="sl">
            <label for="e035g"></label>
-           <img src="planosHFP/41_1_2.png"/>
-        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do quadrado. Note que a segunda projeção do quadrado está sobre o traço do plano em &pi;’’.</figcaption>
+           <img src="planosHFP/51_01_03.png"/>
+        <figcaption>O traço <b>&alpha;&pi;’’</b> é definido por <b>A’’</b> e B’’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035ng" name="sl">
+           <label for="e035ng"></label>
+           <img src="planosHFP/51_01_04.png"/>
+        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção. Construa o quadrado <b>A’B’C’D’</b>. Veja que temos duas posições possíveis para desenhar o quadrado. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nh" name="sl">
+           <label for="e035nh"></label>
+           <img src="planosHFP/51_01_05.png"/>
+        <figcaption>Destaque a primeira projeção do quadrado.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035ni" name="sl">
+           <label for="e035ni"></label>
+           <img src="planosHFP/51_01_06.png"/>
+        <figcaption>Como o quadrado está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>C</b> e <b>D</b> até <b>&alpha;&pi;’’</b> obtendo <b>C’’</b> e <b>D’’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nj" name="sl">
+           <label for="e035nj"></label>
+           <img src="planosHFP/51_01_07.png"/>
+        <figcaption>Destaque a segunda projeção do quadrado.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/41_1_0.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/51_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -4993,89 +5017,47 @@
 	  <li>
            <input type="radio" id="e103" name="sl">
            <label for="e103"></label>
-           <img src="planosHFP/46_01_01.png"/>
-        <figcaption>Marcamos as projeções dos pontos A, B e E. Como a base ABCD está sobre um plano horizontal de cota 0, o ponto B terá, também, cota 0.</figcaption>
+           <img src="planosHFP/56_01_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>E</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e104" name="sl">
            <label for="e104"></label>
-           <img src="planosHFP/46_01_02.png"/>
-        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir um quadrado na primeira projeção. Para tanto, traçamos perpendiculares sobre A’ e B’. </figcaption>
+           <img src="planosHFP/56_01_02.png"/>
+        <figcaption>Representar o quadrado da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e105" name="sl">
            <label for="e105"></label>
-           <img src="planosHFP/46_01_03.png"/>
-        <figcaption>Com o compasso, tomamos a distância A’B’.</figcaption>
+           <img src="planosHFP/56_01_03.png"/>
+        <figcaption>Encontrar as segundas projeções dos vértices <b>C</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e106" name="sl">
            <label for="e106"></label>
-           <img src="planosHFP/46_01_04.png"/>
-        <figcaption>Com centro em A’ e raio A’B’ interceptamos uma das perpendiculares.Marcamos a primeira projeção do vértice D.</figcaption>
+           <img src="planosHFP/56_01_04.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e107" name="sl">
            <label for="e107"></label>
-           <img src="planosHFP/46_01_05.png"/>
-        <figcaption>Marcamos a primeira projeção do vértice C.</figcaption>
+           <img src="planosHFP/56_01_05.png"/>
+        <figcaption>Finalização .</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e108" name="sl">
            <label for="e108"></label>
-           <img src="planosHFP/46_01_06.png"/>
-        <figcaption>Representamos a primeira projeção da aresta lateral AE.</figcaption>
+           <img src="planosHFP/56_01_06.png"/>
+        <figcaption></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e109" name="sl">
            <label for="e109"></label>
-           <img src="planosHFP/46_01_07.png"/>
-        <figcaption>A projeção das outras arestas é paralela a AE, portanto, traçamos paralelas a AE pelas primeiras projeções dos outros vértices.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e110" name="sl">
-           <label for="e110"></label>
-           <img src="planosHFP/46_01_08.png"/>
-        <figcaption>A projeção das arestas da outra base são paralelas à primeira projeção da base ABCD, portanto, traçamos uma paralela a A’B’, por E’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e111" name="sl">
-           <label for="e111"></label>
-           <img src="planosHFP/46_01_09.png"/>
-        <figcaption>Finalizamos, a primeira projeção da base EFGH, traçando paralelas às primeiras projeções das arestas da base ABCD.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e112" name="sl">
-           <label for="e112"></label>
-           <img src="planosHFP/46_01_10.png"/>
-        <figcaption>Encontramos todos as primeiras projeções dos vértices e arestas do prisma.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e113" name="sl">
-           <label for="e113"></label>
-           <img src="planosHFP/46_01_11.png"/>
-        <figcaption>Utilizando os critérios de visibilidade, concluímos a primeira projeção do prisma. Traçamos linhas de chamada por todos os vértices. As segundas projeções da base ABCD possuem cota zero. </figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e114" name="sl">
-           <label for="e114"></label>
-           <img src="planosHFP/46_01_13.png"/>
-        <figcaption>As segundas projeções da base EFGH possuem cota igual à cota de E, portanto, traçamos uma paralela à LT passando por E’’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e115" name="sl">
-           <label for="e115"></label>
-           <img src="planosHFP/46_01_14.png"/>
-        <figcaption>Encontramos as segundas projeções da base EFGH.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e116" name="sl">
-           <label for="e116"></label>
-           <img src="planosHFP/46_01_15.png"/>
-        <figcaption>Observando os critérios de visibilidade, finalizamos a construção da segunda projeção do prisma ABCD-EFGH.</figcaption>
+           <img src="planosHFP/56_01_07.png"/>
+        <figcaption></figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/46_01_00.png" class="fundo"/>
+	<img src="planosHFP/56_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00056a.png"/>
@@ -5564,7 +5546,7 @@
 	<img src="planosHFP/Apost_GD_2021_00061.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A base da pirâmide está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
-	<img src="planosHFP/51_01_00.png"/>
+	<img src="planosHFP/51_01_00a.png"/>
 	<figcaption>A altura é de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto O.</figcaption>
   </details>
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -5709,7 +5691,7 @@
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
-	<img src="planosHFP/56_01_00.png"/>
+	<img src="planosHFP/56_01_00a.png"/>
 	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
   </details>
   <a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
