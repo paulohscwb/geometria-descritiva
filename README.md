@@ -4696,7 +4696,7 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados forma 15° com <b>&pi;’’<b>.</p>
+  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados forma 15° com <b>&pi;’’</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e033h1" name="sl">
@@ -4771,83 +4771,131 @@
 	<img src="planosHFP/Apost_GD_2021_00052.png"/>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00053.png"/>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>Vamos representar a pirâmide reta de base hexagonal <b>ABCDEF</b> contida num Plano Horizontal <b>&alpha;</b>, dada a altura <b>h</b> e dois vértices da base. Como a pirâmide é reta então a base é um polígono regular.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e039" name="sl">
            <label for="e039"></label>
-           <img src="planosHFP/43_01.png"/>
-        <figcaption>Marcamos as projeções do ponto A e B.</figcaption>
+           <img src="planosHFP/53_01_01.png"/>
+        <figcaption>Para representarmos um sólido devemos iniciar sua representação por uma face ou seção que está em VG. Vamos iniciar a representação da pirâmide pela sua base hexagonal. Represente os pontos <b>A</b> e <b>B</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e040" name="sl">
            <label for="e040"></label>
-           <img src="planosHFP/43_02.png"/>
-        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em hexágono regular na primeira projeção.</figcaption>
+           <img src="planosHFP/53_01_02.png"/>
+        <figcaption>Como as cotas de <b>A</b> e <b>B</b> são nulas então a base da pirâmide está contida num Plano Horizontal de cota nula, ou seja, o plano <b>&alpha;</b> coincide com o primeiro PFR e, portanto, seu segundo traço coincide com a Linha de Terra (LT). </figcaption>
        </li>
 	  <li>
            <input type="radio" id="e041" name="sl">
            <label for="e041"></label>
-           <img src="planosHFP/43_03.png"/>
-        <figcaption>Para tanto, primeiramente encontramos o centro da circunferência circunscrita. Marcamos o segmento A’B’.</figcaption>
+           <img src="planosHFP/53_01_03.png"/>
+        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, neste caso, na primeira projeção. Vamos construir o hexágono regular <b>A’B’C’D’E’F’</b>. Construa o triângulo equilátero de lado <b>A’B’</b> obtendo <b>O’</b>. Há duas possibilidades de posição para o <b>O’</b>. Trace a Linha de Chamada (LC) do ponto <b>O</b> obtendo <b>O’’</b> sobre <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e042" name="sl">
            <label for="e042"></label>
-           <img src="planosHFP/43_04.png"/>
-        <figcaption>Usando a distância A’B’, com centro em A’, fazemos uma marca.</figcaption>
+           <img src="planosHFP/53_01_04.png"/>
+        <figcaption>Construa a circunferência de centro <b>O’</b> que passe pelos pontos <b>A’</b> e <b>B’</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e043" name="sl">
            <label for="e043"></label>
-           <img src="planosHFP/43_05.png"/>
-        <figcaption>Usando a distância A’B’, com centro em B’, obtemos o ponto O’. Esse é o centro da base e coincide com a primeira projeção do vértice (V’).</figcaption>
+           <img src="planosHFP/53_01_05.png"/>
+        <figcaption>Marque no compasso a medida <b>A’B’</b> e divida a circunferência em 6 partes iguais, obtendo os pontos <b>C’</b>, <b>D’</b>, <b>E’</b> e <b>F’</b>. Não destaque ainda a primeira projeção do polígono! </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e044" name="sl">
            <label for="e044"></label>
-           <img src="planosHFP/43_06.png"/>
-        <figcaption>Agora com centro em O, fazemos a circunferência circunscrita e marcamos as primeiras projeções dos vértices da base.</figcaption>
+           <img src="planosHFP/53_01_06.png"/>
+        <figcaption>Trace as LC dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> obtendo suas segundas projeções sobre <b>&alpha;&pi;"</b>. Não destaque ainda a segunda projeção do polígono!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e045" name="sl">
            <label for="e045"></label>
-           <img src="planosHFP/43_07.png"/>
-        <figcaption>A’B’C’D’E’F’ é a primeira projeção da base da pirâmide.</figcaption>
+           <img src="planosHFP/53_01_07.png"/>
+        <figcaption>Vamos obter agora o vértice <b>V</b> da pirâmide. Como a pirâmide é reta então a projeção ortogonal do vértice <b>V</b> sobre a base coincide com o centro da mesma. Logo, a reta que contém o vértice <b>V</b> e o centro <b>O</b> da base é perpendicular à base, ou seja, a reta <b>VO</b> é uma reta vertical. Marque <b>V’</b> coincidente com <b>O’</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e046" name="sl">
            <label for="e046"></label>
-           <img src="planosHFP/43_08.png"/>
-        <figcaption>Observando os critérios de visibilidade, podemos traçar as primeiras projeções da pirâmide. </figcaption>
+           <img src="planosHFP/53_01_08.png"/>
+        <figcaption>Como a reta <b>VO</b> é vertical então sua VG está na segunda projeção. Marque <b>V’’</b> sobre o prolongamento da LC de <b>O</b> de modo que <b>V’’O’’</b> = <b>h</b> = 50mm. Há duas possibilidades de posição para <b>V’’</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e047" name="sl">
            <label for="e047"></label>
-           <img src="planosHFP/43_09.png"/>
-        <figcaption>Traçando linhas de chamada pelos vértices, podemos marcar, as primeiras projeções dos vértices da base, já que todos estão em um mesmo plano horizontal de cota 0.</figcaption>
+           <img src="planosHFP/53_01_09.png"/>
+        <figcaption>Temos todos os vértices da pirâmide representados. Precisamos agora representar suas faces e arestas de acordo com a visibilidade do sólido. Começamos escolhendo uma das projeções para fazer a visibilidade, por exemplo a primeira projeção.Inicialmente identificamos qual é o contorno aparente, que nesse caso é formado pelos lados do polígono plano <b>ABCDEF</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e048" name="sl">
            <label for="e048"></label>
-           <img src="planosHFP/43_10.png"/>
-        <figcaption>A altura da pirâmide está em VG em segunda projeção.</figcaption>
+           <img src="planosHFP/53_01_10.png"/>
+        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em primeira projeção,ou seja, os segmentos <b>A’B’</b>, <b>B’C’</b>, <b>C’D’</b>, <b>D’E’</b>, <b>E’F’</b> e <b>F’A’</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e049" name="sl">
            <label for="e049"></label>
-           <img src="planosHFP/43_11.png"/>
-        <figcaption>Dessa maneira, como a pirâmide é reta, sobre a linha de chamada de O, podemos marcar a segunda projeção do vértice</figcaption>
+           <img src="planosHFP/53_01_11.png"/>
+        <figcaption>Esse contorno aparente referente a primeira projeção divide o sólido em duas partes.Uma é composta pela base <b>ABCDEF</b>, que é não visível, pois as faces laterais encobrem essa base (para isso, basta verificar que a cota do ponto <b>V</b> é maior que a cota da base <b>ABCDEF</b>).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e050" name="sl">
            <label for="e050"></label>
-           <img src="planosHFP/43_12.png"/>
-        <figcaption>Observando os critérios de visibilidade, marcamos todas as arestas laterais em segunda projeção, a segunda e a primeira projeção do vértice V.</figcaption>
+           <img src="planosHFP/53_01_12.png"/>
+        <figcaption>E a outra parte é formadapelas faces laterais <b>ABV</b>, <b>BCV</b>, <b>CDV</b>, <b>DEV</b>, <b>EFV</b> e <b>FAV</b>, que são todas visíveis em primeira projeção. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e050a" name="sl">
+           <label for="e050a"></label>
+           <img src="planosHFP/53_01_13.png"/>
+        <figcaption>Assim, em épura representamos os segmentos <b>A’O’</b>, <b>B’O’</b>, <b>C’O’</b>, <b>D’O’</b>, <b>E’O’</b> e <b>F’O’</b> por linhas contínuas largas. O ponto <b>V</b> é um ponto visível em primeira projeção e como está dentro do contorno aparente temos que todas as arestas que partem dele serão também visíveis.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/43_00.png" class="fundo"/>
+	<img src="planosHFP/53_01_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p>Agora vamos representar a visibilidade da pirâmide na segunda projeção.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="e039a" name="sl">
+           <label for="e039a"></label>
+           <img src="planosHFP/53_01_14.png"/>
+        <figcaption>O contorno aparente na segunda projeção é formado pelos lados do polígono reverso <b>VCDEF</b>. </figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e040a" name="sl">
+           <label for="e040a"></label>
+           <img src="planosHFP/53_01_15.png"/>
+        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em segunda projeção, ou seja, os segmentos <b>V’’C’’</b>, <b>C’’D’’</b>, <b>D’’E’’</b>, <b>E’’F’’</b> e <b>F’’V’’</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="e041a" name="sl">
+           <label for="e041a"></label>
+           <img src="planosHFP/53_01_16.png"/>
+        <figcaption>Esse contorno aparente referente asegunda projeção divide o sólido em duas partes. Uma é composta pelas faces <b>VCB</b>, <b>VBA</b> e <b>VAF</b>, que não são visíveis.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e042a" name="sl">
+           <label for="e042a"></label>
+           <img src="planosHFP/53_01_17.png"/>
+        <figcaption>E a outra é formado pelas faces laterais <b>VCD</b>, <b>VDE</b> e <b>VEF</b>. Note que os afastamentos dos pontos <b>D</b> e <b>E</b> são maiores que os dos pontos <b>A</b> e <b>B</b>! E também em épura que a segunda projeção da base <b>ABCDEF</b> se reduz a um segmento!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e043a" name="sl">
+           <label for="e043a"></label>
+           <img src="planosHFP/53_01_18.png"/>
+        <figcaption>Assim, em épura representamos os segmentos <b>V’’D’’</b> e <b>V’’E’’</b> por linhas contínuas largas e, os segmentos <b>V’’B’’</b> e <b>V’’A’’</b> por linhas tracejadas largas. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e044a" name="sl">
+           <label for="e044a"></label>
+           <img src="planosHFP/53_01_19.png"/>
+        <figcaption>Pronto! A pirâmide está representada! Uma observação importante é que com os dados iniciais é possível construir a pirâmide em 4 posições distintas!</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/53_01_13.png" class="fundo"/>
   </details>
 	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a>
 	<div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
@@ -5662,7 +5710,7 @@
 	<img src="planosHFP/Apost_GD_2021_00063.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Retas tangentes a circunferências são perpendiculares à reta que passa pelo centro e pelo ponto de tangência.</p>
-	<img src="planosHFP/53_01_00.png"/>
+	<img src="planosHFP/53_01_00a.png"/>
 	<figcaption></figcaption>
   </details>
 	<a href="vr/a0.html" target="_blank" class="visu">Visualização em 3D</a></div>
