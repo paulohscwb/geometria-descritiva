@@ -5708,7 +5708,8 @@
 	<p>A solução do exercício com as coordenadas indicadas fica da seguinte maneira:</p>
 	<img src="planosHFP/64_02_00.png"/>
 	<figcaption>Note que as visibilidades ficam um pouco diferentes do exemplo mostrado anteriormente.</figcaption>
-  </details></div>
+  </details>
+  <a href="vr/a21f.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
   <img src="planosHFP/Apost_GD_2021_00065.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
