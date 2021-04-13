@@ -4696,28 +4696,76 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados forma 15° com <b>&pi;’’<b>.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="e033i" name="sl">
-           <label for="e033i"></label>
-           <img src="planosHFP/41_3_0.png"/>
-        <figcaption>Iniciamos marcando a projeção do centro do hexágono. Como o hexágono está em um plano horizontal, todos os seus vértices terão a mesma cota e as segundas projeçõesestarão sobre o traço do plano em &pi;’’.</figcaption>
+           <input type="radio" id="e033h1" name="sl">
+           <label for="e033h1"></label>
+           <img src="planosHFP/51_03_01.png"/>
+        <figcaption>Represente o ponto <b>O</b> em épura. </figcaption>
        </li>
 	  <li>
-           <input type="radio" id="e034i" name="sl">
-           <label for="e034i"></label>
-           <img src="planosHFP/41_3_1.png"/>
-        <figcaption>A projeção do hexágono estará em verdadeira grandeza em &pi;’. Dessa maneira, podemos construir a sua projeção e a primeira projeção de seus vértices A’B’C’D’E’F’. Para garantir que um de seus lados faça o ângulo de 15o com &pi;’’, podemos marcar o ângulo de 75o conforme indicado. Marcamos então A’ eusando o raio da circunferência circunscrita, marcamos os demais pontos.</figcaption>
+           <input type="radio" id="e034h1" name="sl">
+           <label for="e034h1"></label>
+           <img src="planosHFP/51_03_02.png"/>
+        <figcaption>Represente o traço <b>&alpha;&pi;’’</b> que contém <b>O’’</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="e035i" name="sl">
-           <label for="e035i"></label>
-           <img src="planosHFP/41_3_2.png"/>
-        <figcaption>Finalizamos a construção com a segunda projeção dos vértices do hexágono. Note que a segunda projeção do hexágono está sobre o traço do plano em &pi;’’.</figcaption>
+           <input type="radio" id="e035h1" name="sl">
+           <label for="e035h1"></label>
+           <img src="planosHFP/51_03_03.png"/>
+        <figcaption>Construa a Circunferência de centro em <b>O’</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nh1" name="sl">
+           <label for="e035nh1"></label>
+           <img src="planosHFP/51_03_04.png"/>
+        <figcaption>Como um dos lados do hexágono regular deve formar ângulo de 15° com <b>&pi;’’</b>, então um dos seus diâmetros também deve formar o mesmo ângulo com <b>&pi;’’</b>. Ou seja, vamos construir uma reta <b>r</b> horizontal de <b>&alpha;’’</b> que forme ângulo de 15° com <b>&pi;’’</b> e que passe pelo ponto <b>O</b> dado. Encaixe o esquadro de 45 no prolongamento da Linha de Chamada (LC) de <b>O</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035ni1" name="sl">
+           <label for="e035ni1"></label>
+           <img src="planosHFP/51_03_05.png"/>
+        <figcaption>Encaixe o cateto do esquadro de 30/60 na hipotenusa esquadro do esquadro de 45, de modo que o ângulo de 30° fique para cima. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nj1" name="sl">
+           <label for="e035nj1"></label>
+           <img src="planosHFP/51_03_06.png"/>
+        <figcaption>Desloque o esquadro de 30/60 até que a sua hipotenusa contenha o ponto <b>O’</b>. Construa a reta <b>r’</b>. Note que o ângulo formado entre <b>r’</b> e a LC de O é 75° e, portanto, o ângulo que <b>r’</b> forma com a LT é 15°. A segunda projeção de <b>r</b> coincide com <b>&alpha;&pi;’’</b>. São duas posições possíveis para <b>r</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nk1" name="sl">
+           <label for="e035nk1"></label>
+           <img src="planosHFP/51_03_07.png"/>
+        <figcaption>A interseção da Circunferência com <b>r’</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nl1" name="sl">
+           <label for="e035nl1"></label>
+           <img src="planosHFP/51_03_08.png"/>
+        <figcaption>Marque no compasso o raio 20 e a partir de <b>A’</b> obtenha <b>B’</b> e <b>F’</b> sobre essa Circunferência. Faça o mesmo para <b>D’</b>, obtendo os pontos <b>C’</b> e <b>E’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nm1" name="sl">
+           <label for="e035nm1"></label>
+           <img src="planosHFP/51_03_09.png"/>
+        <figcaption>Destaque a primeira projeção do hexágono regular.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035nn1" name="sl">
+           <label for="e035nn1"></label>
+           <img src="planosHFP/51_03_10.png"/>
+        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;’’</b> obtendo suas segundas projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="e035no1" name="sl">
+           <label for="e035no1"></label>
+           <img src="planosHFP/51_03_11.png"/>
+        <figcaption>Destaque a segunda projeção do hexágono regular.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/41_3_0.png" class="fundo" style="visibility:hidden"/>
+	<img src="planosHFP/51_03_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00052.png"/>
