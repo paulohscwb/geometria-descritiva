@@ -5624,11 +5624,73 @@
 	<img src="planosHFP/53_02_00.png"/>
 	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro OV.</figcaption>
   </details></div>
+  <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+  <img src="planosHFP/Apost_GD_2021_00064.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <p>Vamos acompanhar a construção de um dodecaedro com a face <b>ABCDE</b> contida em um plano frontal <b>&alpha;</b>. Neste exemplo, as coordenadas dos pontos <b>A</b> e <b>B</b> são conhecidas. Este exemplo mostra a construção em 3D junto com a construção em épura.</p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="p001" name="sl">
+           <label for="p001"></label>
+           <img src="planosHFP/64_01_01.png"/>
+        <figcaption>Começamos construindo o pentágono <b>ABCDE</b> no plano frontal <b>&alpha;</b>. A projeção do pentágono fica contida no traço do plano.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="p002" name="sl">
+           <label for="p002"></label>
+           <img src="planosHFP/64_01_02.png"/>
+         <figcaption>Determine o centro <b>O"</b> do pentágono em épura. Vamos utilizar a propriedade de projeções do dodecaedro: <b>O"E" = E"P"</b> e que <b>P"</b> pertence à mediatriz de <b>A"E"</b>. O vértice <b>P"</b> pertence à face adjacente de <b>ABCDE</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="p003" name="sl">
+           <label for="p003"></label>
+           <img src="planosHFP/64_01_03.png"/>
+         <figcaption>Construa a circunferência de centro <b>O"</b> e raio <b>O"P"</b>. Os vértices das faces adjacentes a <b>ABCDE</b> pertencem a esta circunferência. Para encontrar os primeiros vértices destas faces, basta prolongar <b>O"A"</b>, <b>O"B"</b>, <b>O"C"</b>, <b>O"D"</b> e <b>O"E"</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="p004" name="sl">
+           <label for="p004"></label>
+           <img src="planosHFP/64_01_04.png"/>
+         <figcaption>A altura destes vértices é o cateto de um triângulo retângulo com hipotenusa de medida igual à aresta <b>A"B" = a</b> e o outro cateto mede a distância entre as projeções dos vértices das faces consecutivas (por exemplo, <b>C"J"</b>). As projeções dos vértices <b>J'</b>, <b>H'</b>, <b>L'</b>, <b>F'</b> e <b>N'</b> pertencem ao traço do plano frontal <b>&beta;</b> de distância <b>h<sub>1</sub></b> ao plano <b>&alpha;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="p005" name="sl">
+           <label for="p005"></label>
+           <img src="planosHFP/64_01_05.png"/>
+         <figcaption>A altura dos próximos vértices das faces adjacentes é o cateto de um triângulo retângulo com hipotenusa de medida igual à aresta <b>A"B" = a</b> e o outro cateto mede a distância entre as projeções dos vértices das faces consecutivas (por exemplo, <b>M"N"</b>). As projeções dos vértices <b>I'</b>, <b>K'</b>, <b>G'</b>, <b>M'</b> e <b>P'</b> pertencem ao traço do plano frontal <b>&delta;</b> de distância <b>h<sub>2</sub></b> ao plano <b>&beta;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="p006" name="sl">
+           <label for="p006"></label>
+           <img src="planosHFP/64_01_06.png"/>
+         <figcaption>A face <b>QRSTU</b> fica paralela ao pentágono <b>ABCDE</b>. Os vértices ficam nos encontros das mediatrizes dos lados do pentágono <b>ABCDE</b> com a circunferência circunscrita deste pentágono. As projeções dos vértices <b>Q'</b>, <b>R'</b>, <b>S'</b>, <b>T'</b> e <b>U'</b> pertencem ao traço do plano frontal <b>&lambda;</b> de distância <b>h<sub>1</sub></b> ao plano <b>&delta;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="p007" name="sl">
+           <label for="p007"></label>
+           <img src="planosHFP/64_01_07.png"/>
+         <figcaption>Finalize o dodecaedro usando os critérios de visibilidade que já usamos nos outros sólidos.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/64_01_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A solução do exercício com as coordenadas indicadas fica da seguinte maneira:</p>
+	<img src="planosHFP/64_02_00.png"/>
+	<figcaption>Note que as visibilidades ficam um pouco diferentes do exemplo mostrado anteriormente.</figcaption>
+  </details></div>
+  <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+  <img src="planosHFP/Apost_GD_2021_00065.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para representar o dodecaedro regular de aresta <b>AB</b>, com a face <b>ABCDE</b> contida no plano horizontal <b>&alpha;</b>, veja o detalhamento das construções mostradas na página anterior.</p>
+	<img src="planosPQ/96_01.png"/>
+	<figcaption></figcaption>
+  </details><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
 <details><summary id="planos2">5. Planos: de perfil e de topo</summary>
-	<p>Material da página 64 até a página 77</p>
+	<p>Material da página 66 até a página 79</p>
 	<img src="planosHFP/Apost_GD_2021_00064.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00064a.png"/>
@@ -7490,17 +7552,6 @@
 	<img src="planosPQ/93_01.png"/>
 	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual a aresta da base.</figcaption>
   </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00103.png"/>
-	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00104.png"/>
-	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00105.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Para representar o dodecaedro regular de aresta <b>AB</b>, com a face <b>ABCDE</b> contida no plano horizontal <b>&alpha;</b>, veja o detalhamento da construção nas páginas anteriores.</p>
-	<img src="planosPQ/96_01.png"/>
-	<figcaption></figcaption>
-  </details><a href="vr/a21.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
