@@ -4322,7 +4322,7 @@
 </details>
 
 <details><summary id="planos1">4. Planos: horizontal e frontal</summary>
-	<p>Material da página 48 até a página 63</p>
+	<p>Material da página 48 até a página 65</p>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Os três pontos <b>A</b>, <b>B</b> e <b>C</b> distintos e não colineares definem um único plano <b>&alpha;</b>. A notação utilizada é <b>&alpha;(A,B,C)</b>.</p>
@@ -6422,10 +6422,10 @@
 </details>
 
 <details><summary id="planos3">6. Planos: vertical e paralelo à linha de terra</summary>
-	<p>Material da página 78 até a página 95</p>
-	<img src="planosTV/Apost_GD_2021_00078.png"/>
+	<p>Material da página 80 até a página 97</p>
+	<img src="planosTV/Apost_GD_2021_00080.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosTV/Apost_GD_2021_00078a.png"/>
+	<img src="planosTV/Apost_GD_2021_00080a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>&alpha;&pi;'é oblíquo à LT e &alpha;&pi;" é perpendicular à LT.</p>
   <ul class="slider">
@@ -6478,7 +6478,7 @@
 		<iframe width="95%" src="https://www.youtube.com/embed/MLDlCoV04aY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00079.png"/>
+	<img src="planosTV/Apost_GD_2021_00081.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Dado o plano vertical &alpha; e o ponto A, fazer o rebatimento do ponto A sobre o plano &pi;"</p>
   <ul class="slider">
@@ -6503,7 +6503,7 @@
 	</ul>
 	<img src="planosTV/69_01.png" class="fundo"/>
   </details></div>
-	<img src="planosTV/Apost_GD_2021_00079a.png"/>
+	<img src="planosTV/Apost_GD_2021_00081a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -6553,14 +6553,14 @@
 	<img src="planosTV/70_01_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00080.png"/>
-	<img src="planosTV/Apost_GD_2021_00080a.png"/>
+	<img src="planosTV/Apost_GD_2021_00082.png"/>
+	<img src="planosTV/Apost_GD_2021_00082a.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
 	<br><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00081.png"/>
-	<img src="planosTV/Apost_GD_2021_00081a.png"/>
-	<img src="planosTV/Apost_GD_2021_00081b.png"/>
+	<img src="planosTV/Apost_GD_2021_00083.png"/>
+	<img src="planosTV/Apost_GD_2021_00083a.png"/>
+	<img src="planosTV/Apost_GD_2021_00083b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -6622,7 +6622,7 @@
 	<img src="planosTV/72_00_00.png" class="fundo"/>
   </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00082.png"/>
+	<img src="planosTV/Apost_GD_2021_00084.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -6659,10 +6659,10 @@
 	</ul>
 	<img src="planosTV/72_08_00.png" class="fundo"/>
   </details></div>
-	<img src="planosTV/Apost_GD_2021_00082a.png"/>
-	<img src="planosTV/Apost_GD_2021_00082b.png"/>
+	<img src="planosTV/Apost_GD_2021_00084a.png"/>
+	<img src="planosTV/Apost_GD_2021_00084b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00083.png"/>
+	<img src="planosTV/Apost_GD_2021_00085.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
@@ -6735,7 +6735,7 @@
 	</ul>
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00084.png"/>
+	<img src="planosTV/Apost_GD_2021_00086.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosTV/75_01_00.png"/>
@@ -6743,7 +6743,7 @@
   </details>
 	<a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00085.png"/>
+	<img src="planosTV/Apost_GD_2021_00087.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="planosTV/76_00_01.png"/>
@@ -6751,7 +6751,7 @@
   </details>
   <a href="vr/a19.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosTV/Apost_GD_2021_00086.png"/>
+	<img src="planosTV/Apost_GD_2021_00088.png"/>
 	<div class="combo">
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
@@ -6760,9 +6760,9 @@
   </details>
 	<a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00087.png"/>
+	<img src="planosPQ/Apost_GD_2021_00089.png"/>
 	<div class="combo"><a href="vr/plano_rampa.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosPQ/Apost_GD_2021_00087a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00089a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano Paralelo à Linha de Terra, também denominado de Plano Rampa.</p>
   <ul class="slider">
@@ -6829,7 +6829,7 @@
     </ul>
 	<img src="planosPQ/78_01_00.png" class="fundo"/>
   </details></div>
-	<img src="planosPQ/Apost_GD_2021_00087b.png"/>
+	<img src="planosPQ/Apost_GD_2021_00089b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pela reta qualquer <b>AB</b>.</p>
   <ul class="slider">
@@ -6876,8 +6876,8 @@
 		<iframe width="95%" src="https://www.youtube.com/embed/ccjGaH_dO_A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00088.png"/>
-	<img src="planosPQ/Apost_GD_2021_00088a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00090.png"/>
+	<img src="planosPQ/Apost_GD_2021_00090a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pelo ponto A e pelo seu traço em &pi;´ </p>
   <ul class="slider">
@@ -6920,9 +6920,9 @@
     </ul>
 	<img src="planosPQ/79_01_00.png" class="fundo"/>
   </details></div>
-	<img src="planosPQ/Apost_GD_2021_00088b.png"/>
+	<img src="planosPQ/Apost_GD_2021_00090b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00089.png"/>
+	<img src="planosPQ/Apost_GD_2021_00091.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o quadradocontido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
@@ -7008,10 +7008,10 @@
 	<img src="planosPQ/80_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00090.png"/>
+	<img src="planosPQ/Apost_GD_2021_00092.png"/>
 	<div class="combo"><a href="vr/a23.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00091.png"/>
+	<img src="planosPQ/Apost_GD_2021_00093.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Para representar o hexaedro regular com uma face contida no plano paralelo à linha de terra vamos utilizar o Método de Mudança de Planos (MP). Depois de representado o sólido vamos obter a seção plana nesse hexaedro por um plano de topo.</p>
   <ul class="slider">
@@ -7146,25 +7146,25 @@
   </details>
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00092.png"/>
+	<img src="planosPQ/Apost_GD_2021_00094.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A resolução desse exercício é semelhante ao anterior, a base agora será um hexágono regular e altura é dada.</p>
 	<img src="planosPQ/83_01.png"/>
   </details>
 	<a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00093.png"/>
+	<img src="planosPQ/Apost_GD_2021_00095.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Note que agora será representada uma pirâmide e, portanto, a altura deverá ser marcada a partir do centro da base da mesma.</p>
 	<img src="planosPQ/84_01.png"/>
 	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
   </details><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00094.png"/>
+	<img src="planosPQ/Apost_GD_2021_00096.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
 	<br><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00095.png"/>
+	<img src="planosPQ/Apost_GD_2021_00097.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>O Plano Paralelo à Linha de Terra está determinado pelo ponto A e pelo traço &alpha;&pi;’’. Vamos aplicar uma MP Horizontal (MPH) e, em seguida, uma MP Vertical (MPV).</p>
   <ul class="slider">
@@ -7213,15 +7213,15 @@
     </ul>
 	<img src="planosPQ/86_00.png" class="fundo"/>
   </details></div>
-	<img src="planosPQ/Apost_GD_2021_00095a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00097a.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="planos4">7. Plano qualquer</summary>
-	<p>Material da página 96 até a página 105</p>
-	<img src="planosPQ/Apost_GD_2021_00096.png"/>
+	<p>Material da página 98 até a página 104</p>
+	<img src="planosPQ/Apost_GD_2021_00098.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosPQ/Apost_GD_2021_00096a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00098a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano Qualquer.</p>
   <ul class="slider">
@@ -7282,7 +7282,7 @@
     </ul>
 	<img src="planosPQ/87_01_00.png" class="fundo"/>
   </details></div>
-  <img src="planosPQ/Apost_GD_2021_00096b.png"/>
+  <img src="planosPQ/Apost_GD_2021_00098b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Devemos lembrar que uma reta é perpendicular a um plano quando ela for perpendicular ou ortogonal a duas retas concorrentes desse plano. E também lembrar da Propriedade 7 das Projeções Cilíndricas. Assim, vamos aplicar duas vezes essa Propriedade para obtermos a reta p!</p>
   <ul class="slider">
@@ -7305,8 +7305,8 @@
 		<iframe width="95%" src="https://www.youtube.com/embed/7XTfhpsDNiA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00097.png"/>
-	<img src="planosPQ/Apost_GD_2021_00097a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00099.png"/>
+	<img src="planosPQ/Apost_GD_2021_00099a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>O Plano Qualquer está determinado pelo ponto A e pelo traço &alpha;&pi;’. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
   <ul class="slider">
@@ -7356,7 +7356,7 @@
 	<img src="planosPQ/88_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00098.png"/>
+	<img src="planosPQ/Apost_GD_2021_00100.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o triângulo equilátero contido no plano qualquervamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
@@ -7442,7 +7442,7 @@
 	<img src="planosPQ/89_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00099.png"/>
+	<img src="planosPQ/Apost_GD_2021_00101.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o prisma regular hexagonal com uma face contida no plano qualquer vamos utilizar o Método de Mudança de Planos (MP). O plano qualquer está representado pelas retas <b>AB</b> e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. </p>
   <ul class="slider">
@@ -7529,24 +7529,24 @@
   </details>
 	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00100.png"/>
+	<img src="planosPQ/Apost_GD_2021_00102.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p>
 	<img src="planosPQ/91_01.png"/>
 	<figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption>
   </details><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00101.png"/>
+	<img src="planosPQ/Apost_GD_2021_00103.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
 	<br><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="planosPQ/Apost_GD_2021_00101a.png"/>
+	<img src="planosPQ/Apost_GD_2021_00103a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
 	<img src="planosPQ/92_02_01.png"/>
 	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;’</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-	<img src="planosPQ/Apost_GD_2021_00102.png"/>
+	<img src="planosPQ/Apost_GD_2021_00104.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/93_01.png"/>
