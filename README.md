@@ -4895,7 +4895,7 @@
         <figcaption>Pronto! A pirâmide está representada! Uma observação importante é que com os dados iniciais é possível construir a pirâmide em 4 posições distintas!</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/53_01_13.png" class="fundo"/>
+	<img src="planosHFP/53_01_14.png" class="fundo"/>
   </details>
 	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a>
 	<div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
@@ -5199,139 +5199,73 @@
   </details>
 	<a href="vr/a49.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00056a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
   <ul class="slider">
 	   <li>
            <input type="radio" id="e117" name="sl">
            <label for="e117"></label>
-           <img src="planosHFP/46_02_01.png"/>
+           <img src="planosHFP/56_02_01.png"/>
         <figcaption>Marcamos as projeções do ponto A e B.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e118" name="sl">
            <label for="e118"></label>
-           <img src="planosHFP/46_02_02.png"/>
+           <img src="planosHFP/56_02_02.png"/>
         <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em hexágono regular na primeira projeção. Marcamos o segmento A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e119" name="sl">
            <label for="e119"></label>
-           <img src="planosHFP/46_02_03.png"/>
+           <img src="planosHFP/56_02_03.png"/>
         <figcaption>Agora iremos encontrar o centro da circunferência circunscrita.Tomamos a medida A’B’.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e120" name="sl">
            <label for="e120"></label>
-           <img src="planosHFP/46_02_04.png"/>
+           <img src="planosHFP/56_02_04.png"/>
         <figcaption>Usando a distância A’B’, com centro em A’, traçamos um arco.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e121" name="sl">
            <label for="e121"></label>
-           <img src="planosHFP/46_02_05.png"/>
+           <img src="planosHFP/56_02_05.png"/>
         <figcaption>Usando a distância A’B’, com centro em B’, obtemos o ponto O’. Esse é o centro da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e122" name="sl">
            <label for="e122"></label>
-           <img src="planosHFP/46_02_06.png"/>
+           <img src="planosHFP/56_02_06.png"/>
         <figcaption>Agora com centro em O, fazemos a circunferência circunscrita</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e123" name="sl">
            <label for="e123"></label>
-           <img src="planosHFP/46_02_07.png"/>
+           <img src="planosHFP/56_02_07.png"/>
         <figcaption>Marcamos as primeiras projeções dos vértices da base ABCDEF.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e124" name="sl">
            <label for="e124"></label>
-           <img src="planosHFP/46_02_08.png"/>
+           <img src="planosHFP/56_02_08.png"/>
         <figcaption>Utilizando a mediatriz de A’B’, fazemos a divisão de cada arco em duas partes.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e125" name="sl">
            <label for="e125"></label>
-           <img src="planosHFP/46_02_09.png"/>
+           <img src="planosHFP/56_02_09.png"/>
         <figcaption>Dessa maneira, encontramos a primeira projeção dos vértices da base GHIJKL. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e126" name="sl">
            <label for="e126"></label>
-           <img src="planosHFP/46_02_10.png"/>
+           <img src="planosHFP/56_02_10.png"/>
         <figcaption>Observando que a base ABCDEF possui cota maior que a base GHIJKL, as arestas da base GHIJKL são invisíveis. Unindo os pontos convenientemente, obtemos a primeira projeção do anti-prisma.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/46_02_00.png" class="fundo"/>
+	<img src="planosHFP/56_02_00.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
-  <p></p>
-  <ul class="slider">
-	   <li>
-           <input type="radio" id="e127" name="sl">
-           <label for="e127"></label>
-           <img src="planosHFP/46_02_11.png"/>
-        <figcaption>Construímos as linhas de chamada dos vértices.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e128" name="sl">
-           <label for="e128"></label>
-           <img src="planosHFP/46_02_12.png"/>
-        <figcaption>Marcamos as segundas projeções dos vértices da base ABCDEF.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e129" name="sl">
-           <label for="e129"></label>
-           <img src="planosHFP/46_02_13.png"/>
-        <figcaption>Para encontrarmos a altura do anti-prisma, construímos um triângulo retângulo auxiliar. Um dos catetos desse triângulo tem a medida A’G’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e130" name="sl">
-           <label for="e130"></label>
-           <img src="planosHFP/46_02_14.png"/>
-        <figcaption>A hipotenusa desse triângulo tem a medida A’B’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e131" name="sl">
-           <label for="e131"></label>
-           <img src="planosHFP/46_02_15.png"/>
-        <figcaption>Com isso encontramos a altura do anti-prisma.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e132" name="sl">
-           <label for="e132"></label>
-           <img src="planosHFP/46_02_16.png"/>
-        <figcaption>A altura do anti-prisma está em VG na segunda projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e133" name="sl">
-           <label for="e133"></label>
-           <img src="planosHFP/46_02_17.png"/>
-        <figcaption>Podemos marcá-la em uma das linhas de chamada, a partir do plano da segunda projeção da base ABCDEF.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e134" name="sl">
-           <label for="e134"></label>
-           <img src="planosHFP/46_02_18.png"/>
-        <figcaption>Traçamos uma paralela a LT, por esse ponto.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e135" name="sl">
-           <label for="e135"></label>
-           <img src="planosHFP/46_02_19.png"/>
-        <figcaption>Agora podemos marcar as segundas projeções da base GHIJKL.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e136" name="sl">
-           <label for="e136"></label>
-           <img src="planosHFP/46_02_20.png"/>
-        <figcaption>Observando os critérios de visibilidade, finalizamos a segunda projeção do anti-prisma.</figcaption>
-       </li>
-	</ul>
-	<img src="planosHFP/46_02_10.png" class="fundo"/>
-  </details>
-	<a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  	<a href="vr/a50.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00057.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5902,65 +5836,65 @@
       <li>
            <input type="radio" id="s019" name="sl">
            <label for="s019"></label>
-           <img src="planosHFP/56_02_01.png"/>
+           <img src="planosHFP/56_02_01a.png"/>
         <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s020" name="sl">
            <label for="s020"></label>
-           <img src="planosHFP/56_02_02.png"/>
+           <img src="planosHFP/56_02_02a.png"/>
         <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="s021" name="sl">
            <label for="s021"></label>
-           <img src="planosHFP/56_02_03.png"/>
+           <img src="planosHFP/56_02_03a.png"/>
          <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
        </li>
        <li>
            <input type="radio" id="s022" name="sl">
            <label for="s022"></label>
-           <img src="planosHFP/56_02_04.png"/>
+           <img src="planosHFP/56_02_04a.png"/>
          <figcaption>Construímos a base em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub>). </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s023" name="sl">
            <label for="s023"></label>
-           <img src="planosHFP/56_02_05.png"/>
+           <img src="planosHFP/56_02_05a.png"/>
          <figcaption>Encontramos A' B' C' D' E' F'.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s024" name="sl">
            <label for="s024"></label>
-           <img src="planosHFP/56_02_06.png"/>
+           <img src="planosHFP/56_02_06a.png"/>
          <figcaption>Encontramos A'' B'' C'' D'' E'' F''.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s025" name="sl">
            <label for="s025"></label>
-           <img src="planosHFP/56_02_07.png"/>
+           <img src="planosHFP/56_02_07a.png"/>
          <figcaption>Encontramos o centro da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s026" name="sl">
            <label for="s026"></label>
-           <img src="planosHFP/56_02_08.png"/>
+           <img src="planosHFP/56_02_08a.png"/>
          <figcaption>A altura OV é uma reta fronto-horizontal, logo aparece em VG nas duas projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s027" name="sl">
            <label for="s027"></label>
-           <img src="planosHFP/56_02_09.png"/>
+           <img src="planosHFP/56_02_09a.png"/>
          <figcaption>Verificamos a visibilidade das arestas na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s028" name="sl">
            <label for="s028"></label>
-           <img src="planosHFP/56_02_10.png"/>
+           <img src="planosHFP/56_02_10a.png"/>
          <figcaption>Verificamos a visibilidade das arestas na segunda projeção.</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/56_02_00.png" class="fundo"/>
+	<img src="planosHFP/56_02_00a.png" class="fundo"/>
   </details>
   <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
