@@ -7493,7 +7493,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Geometria Descritiva</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/geometria-descritiva/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
 <h4>Como citar este trabalho:</h4> 
-<p>Siqueira, P.H., Aguiar, B.C.X.C, Costa, D.M.B, Rolkouski, E., Souza, L.V.S., Medina, S.S.S. "Geometria Descritiva". Disponível em: <https://paulohscwb.github.io/geometria-descritiva/>, Outubro de 2020.</p>
+<p>Siqueira, P.H., Costa, D.M.B, Souza, L.V.S., Medina, S.S.S. "Geometria Descritiva". Disponível em: <https://paulohscwb.github.io/geometria-descritiva/>, Outubro de 2020.</p>
 
 <h4>Referências:</h4>
 <ol>
