@@ -5174,25 +5174,26 @@
            <input type="radio" id="e106" name="sl">
            <label for="e106"></label>
            <img src="planosHFP/56_01_04.png"/>
-        <figcaption>Representar a visibilidade do sólido.</figcaption>
+        <figcaption>Representar o plano <b>&beta;</b> que passa pelo ponto <b>E</b> e contém os vértices <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.
+		</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e107" name="sl">
            <label for="e107"></label>
            <img src="planosHFP/56_01_05.png"/>
-        <figcaption>Finalização .</figcaption>
+        <figcaption>Traçar as arestas <b>AE</b>, <b>BF</b>, <b>CG</b> e <b>DH</b> são paralelas e iguais, tanto na 1&ordf; quanto na 2&ordf; projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e108" name="sl">
            <label for="e108"></label>
            <img src="planosHFP/56_01_06.png"/>
-        <figcaption></figcaption>
+        <figcaption>Representar a altura do sólido, fazendo a perpendicular por uma das arestas laterais do sólido, nesse caso utilizamos a <b>A'G'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e109" name="sl">
            <label for="e109"></label>
            <img src="planosHFP/56_01_07.png"/>
-        <figcaption></figcaption>
+        <figcaption>Representar o contorno aparente do sólido. Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/56_01_00.png" class="fundo"/>
@@ -5206,61 +5207,61 @@
            <input type="radio" id="e117" name="sl">
            <label for="e117"></label>
            <img src="planosHFP/56_02_01.png"/>
-        <figcaption>Marcamos as projeções do ponto A e B.</figcaption>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="e118" name="sl">
            <label for="e118"></label>
            <img src="planosHFP/56_02_02.png"/>
-        <figcaption>Observando que a base está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir em hexágono regular na primeira projeção. Marcamos o segmento A’B’.</figcaption>
+        <figcaption>Encontrar o centro da circunferência que circunscreve o hexágono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e119" name="sl">
            <label for="e119"></label>
            <img src="planosHFP/56_02_03.png"/>
-        <figcaption>Agora iremos encontrar o centro da circunferência circunscrita.Tomamos a medida A’B’.</figcaption>
+        <figcaption>Representar o hexágono inscrito na circunferencia.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e120" name="sl">
            <label for="e120"></label>
            <img src="planosHFP/56_02_04.png"/>
-        <figcaption>Usando a distância A’B’, com centro em A’, traçamos um arco.</figcaption>
+        <figcaption>Traçar as bissetrizes dos ângulos internos do hexágono, representando um dodecágono, os vértices <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b> são os vértices da outra face do anti-prisma.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e121" name="sl">
            <label for="e121"></label>
            <img src="planosHFP/56_02_05.png"/>
-        <figcaption>Usando a distância A’B’, com centro em B’, obtemos o ponto O’. Esse é o centro da base.</figcaption>
+        <figcaption>Representar a  altura do anti-prisma, fazendo uma perpendicular a um dos lados do dodecágono <b>A'G'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e122" name="sl">
            <label for="e122"></label>
            <img src="planosHFP/56_02_06.png"/>
-        <figcaption>Agora com centro em O, fazemos a circunferência circunscrita</figcaption>
+        <figcaption>Fazer um arco de circunferencia com centro em <b>A'</b> e raio igual à aresta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e123" name="sl">
            <label for="e123"></label>
            <img src="planosHFP/56_02_07.png"/>
-        <figcaption>Marcamos as primeiras projeções dos vértices da base ABCDEF.</figcaption>
+        <figcaption>Marcar a altura encontrada, a partir do plano <b>&alpha;</b>, para cima ou para baixo, determinando o plano <b>&beta;</b>, onde ficarão os vértices: <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e124" name="sl">
            <label for="e124"></label>
            <img src="planosHFP/56_02_08.png"/>
-        <figcaption>Utilizando a mediatriz de A’B’, fazemos a divisão de cada arco em duas partes.</figcaption>
+        <figcaption>Representar o contorno aparente do sólido.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e125" name="sl">
            <label for="e125"></label>
            <img src="planosHFP/56_02_09.png"/>
-        <figcaption>Dessa maneira, encontramos a primeira projeção dos vértices da base GHIJKL. </figcaption>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e126" name="sl">
            <label for="e126"></label>
            <img src="planosHFP/56_02_10.png"/>
-        <figcaption>Observando que a base ABCDEF possui cota maior que a base GHIJKL, as arestas da base GHIJKL são invisíveis. Unindo os pontos convenientemente, obtemos a primeira projeção do anti-prisma.</figcaption>
+        <figcaption></figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/56_02_00.png" class="fundo"/>
@@ -5269,177 +5270,117 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00057.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Marcamos as projeções dos pontos A e B. Como seção equatorial ABCD está contida em um plano horizontal, o quadrado ABCD terá mesma cota.</p>
+  <p></p>
   <ul class="slider">
 	   <li>
            <input type="radio" id="e137" name="sl">
            <label for="e137"></label>
-           <img src="planosHFP/47_01_02.png"/>
-        <figcaption>Observando que a seção equatorial está contida em um plano horizontal, está em VG em primeira projeção. Dessa maneira, podemos construir um quadrado na primeira projeção.</figcaption>
+           <img src="planosHFP/57_01_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e138" name="sl">
            <label for="e138"></label>
-           <img src="planosHFP/47_01_03.png"/>
-        <figcaption>Para tanto, traçamos perpendiculares sobre A’ e B’. </figcaption>
+           <img src="planosHFP/57_01_02.png"/>
+        <figcaption>Construir o quadrado da seção equatorial. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e139" name="sl">
            <label for="e139"></label>
-           <img src="planosHFP/47_01_04.png"/>
-        <figcaption>Com o compasso, tomamos a distância A’B’.</figcaption>
+           <img src="planosHFP/57_01_03.png"/>
+        <figcaption>Representar as segundas projeções dos vértices <b>C</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e140" name="sl">
            <label for="e140"></label>
-           <img src="planosHFP/47_01_05.png"/>
-        <figcaption>Com centro em A’ e raio A’B’ interceptamos uma das perpendiculares.Marcamos a primeira projeção do vértice D.</figcaption>
+           <img src="planosHFP/57_01_04.png"/>
+        <figcaption>Representar os vértices <b>E</b> e <b>F</b>, que na 1&ordf; projeção são coincidentes com o centro do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e141" name="sl">
            <label for="e141"></label>
-           <img src="planosHFP/47_01_06.png"/>
-        <figcaption>Marcamos a primeira projeção do vértice C. Representamos a primeira projeção do octaedro.</figcaption>
+           <img src="planosHFP/57_01_05.png"/>
+        <figcaption>Representar a altura do octaedro que é igual à diagonal do quadrado. Marcar metade da diagonal acima do plano <b>&alpha;</b> e a metade abaixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e142" name="sl">
            <label for="e142"></label>
-           <img src="planosHFP/47_01_08.png"/>
-        <figcaption>Traçamos linhas de chamada por todos os vértices. As segundas projeções da base ABCD possuem mesma cota. </figcaption>
+           <img src="planosHFP/57_01_06.png"/>
+        <figcaption>Representar o contorno aparente do sólido. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e143" name="sl">
            <label for="e143"></label>
-           <img src="planosHFP/47_01_09.png"/>
-        <figcaption>Para encontrar metade a altura de cada uma das pirâmides quadradas, construímos um triângulo retângulo auxiliar. Um dos catetos tem a medida A’E’. A hipotenusa desse triângulo tem medida A’B’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e144" name="sl">
-           <label for="e144"></label>
-           <img src="planosHFP/47_01_11.png"/>
-        <figcaption>O outro cateto tem a medida igual a metade da altura do octaedro.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e145" name="sl">
-           <label for="e145"></label>
-           <img src="planosHFP/47_01_12.png"/>
-        <figcaption>A altura do octaedro está em verdadeira grandeza em segunda projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e146" name="sl">
-           <label for="e146"></label>
-           <img src="planosHFP/47_01_13.png"/>
-        <figcaption>Marcamos a segunda projeção de E.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e147" name="sl">
-           <label for="e147"></label>
-           <img src="planosHFP/47_01_14.png"/>
-        <figcaption>Procedemos de mesma maneira para encontrar a segunda projeção de D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e148" name="sl">
-           <label for="e148"></label>
-           <img src="planosHFP/47_01_15.png"/>
-        <figcaption>Marcamos D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e149" name="sl">
-           <label for="e149"></label>
-           <img src="planosHFP/47_01_16.png"/>
-        <figcaption>Observando os critérios de visibilidade, finalizamos a construção das projeções do octaedro ABCDEF.</figcaption>
+           <img src="planosHFP/57_01_07.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/47_01_00.png" class="fundo"/>
+	<img src="planosHFP/57_01_00.png" class="fundo"/>
   </details>
 	<a href="vr/a52.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00057a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Marcamos as projeções dos pontos A e B. Como a face ABC está contida em um plano horizontal, sua VG estará em primeira projeção.</p>
+  <p></p>
   <ul class="slider">
 	   <li>
            <input type="radio" id="e150" name="sl">
            <label for="e150"></label>
-           <img src="planosHFP/47_02_03.png"/>
-        <figcaption>Tomamos a medida A’B’.</figcaption>
+           <img src="planosHFP/57_02_01.png"/>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e151" name="sl">
            <label for="e151"></label>
-           <img src="planosHFP/47_02_04.png"/>
-        <figcaption>Com centro em A’, traçamos um arco.</figcaption>
+           <img src="planosHFP/57_02_02.png"/>
+        <figcaption>Construir o triângulo da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e152" name="sl">
            <label for="e152"></label>
-           <img src="planosHFP/47_02_05.png"/>
-        <figcaption>Tomamos a mesma medida.</figcaption>
+           <img src="planosHFP/57_02_03.png"/>
+        <figcaption>Representar a segunda projeção do vértices <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e153" name="sl">
            <label for="e153"></label>
-           <img src="planosHFP/47_02_06.png"/>
-        <figcaption>Com centro em B’, encontramos a primeira projeção do vértice C.</figcaption>
+           <img src="planosHFP/57_02_04.png"/>
+        <figcaption>Traçar a circunferência que circunscreve o triângulo, para isso traçar a perpendicular por cada vértice ao lado oposto e encontrar o centro da circunferencia.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e154" name="sl">
            <label for="e154"></label>
-           <img src="planosHFP/47_02_07.png"/>
-        <figcaption>Traçamos as mediatrizes de A’B’, A’C’ e B’C’.</figcaption>
+           <img src="planosHFP/57_02_05.png"/>
+        <figcaption>Determinar as primeiras projeções dos vértices <b>D</b>, <b>E</b> e <b>F</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e155" name="sl">
            <label for="e155"></label>
-           <img src="planosHFP/47_02_08.png"/>
-        <figcaption>Marcamos o ponto O’, centro da circunferência circunscrita.</figcaption>
+           <img src="planosHFP/57_02_06.png"/>
+        <figcaption>Determinar a altura do octaedro, que nesse caso, é tratado como um anti-prisma de base triangular.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e156" name="sl">
            <label for="e156"></label>
-           <img src="planosHFP/47_02_09.png"/>
-        <figcaption>Traçamos a circunferência circunscrita.</figcaption>
+           <img src="planosHFP/57_02_07.png"/>
+        <figcaption>Marcar a altura acima do plano <b>&alpha;</b> e marcar o plano <b>&beta;</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e157" name="sl">
            <label for="e157"></label>
-           <img src="planosHFP/47_02_11.png"/>
-        <figcaption>Unindo os vértices de forma conveniente e observando que a face DEF possui cota maior que a face ABC, traçamos a primeira projeção do octaedro. Para encontrar a altura do plano da base DEF, procedemos da mesma forma que o anti-prisma, construindo um triângulo retângulo auxiliar, em que  um dos catetos tem a medida E’B’.</figcaption>
+           <img src="planosHFP/57_02_08.png"/>
+        <figcaption>Representar as segundas projeções dos pontos <b>D</b>, <b>E</b> e <b>F</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e158" name="sl">
            <label for="e158"></label>
-           <img src="planosHFP/47_02_12.png"/>
-        <figcaption>A hipotenusa desse triângulo retângulo auxiliar tem a medida A’B’.</figcaption>
+           <img src="planosHFP/57_02_09.png"/>
+        <figcaption>Representar o contorno aparente do sólido na 1&ordf; e 2&ordf; projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e159" name="sl">
            <label for="e159"></label>
-           <img src="planosHFP/47_02_13.png"/>
-        <figcaption>O outro cateto do triângulo retângulo é a altura desejada, que estará em VG em segunda projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e160" name="sl">
-           <label for="e160"></label>
-           <img src="planosHFP/47_02_14.png"/>
-        <figcaption>Marcamos a altura em uma das linhas de chamada.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e161" name="sl">
-           <label for="e161"></label>
-           <img src="planosHFP/47_02_15.png"/>
-        <figcaption>Como a face DEF é paralela à face ABC, sua segunda projeção estará contida no traço de um plano horizontal.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e162" name="sl">
-           <label for="e162"></label>
-           <img src="planosHFP/47_02_16.png"/>
-        <figcaption>Marcamos as segundas projeções da face DEF.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e163" name="sl">
-           <label for="e163"></label>
-           <img src="planosHFP/47_02_17.png"/>
-        <figcaption>Observando os critérios de visibilidade, finalizamos a segunda projeção do octaedro regular ABCDEF.</figcaption>
+           <img src="planosHFP/57_02_10.png"/>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/47_02_00.png" class="fundo"/>
@@ -5909,17 +5850,17 @@
       <li>
            <input type="radio" id="s034" name="sl">
            <label for="s034"></label>
-           <img src="planosHFP/57_02_00.png"/>
+           <img src="planosHFP/57_02_00a.png"/>
         <figcaption>Encontrar as projeções do prisma. Neste exercício foi utilizado o rebatimento do plano &alpha; no sentido horário para encontrar as projeções da base do prisma.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035" name="sl">
            <label for="s035"></label>
-           <img src="planosHFP/57_02_01.png"/>
+           <img src="planosHFP/57_02_01a.png"/>
         <figcaption>Encontrar as projeções do polígono (12345) resultante da seção produzida pelo plano frontal (&delta;) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano &delta; e a segunda projeção apresenta VG.</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/57_02_00.png" class="fundo"/>
+	<img src="planosHFP/57_02_00a.png" class="fundo"/>
   </details>
   <a href="vr/a10.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
