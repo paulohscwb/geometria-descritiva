@@ -6985,7 +6985,7 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="planos4">7. Plano qualquer</summary>
+<details><summary id="planos4">7. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -7323,13 +7323,161 @@
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="dtecnico">8. Desenho Técnico</summary>
+	<p>Material da página 105 até a página 177</p>
+	<img src="dt/Apost_DT_2021_00001.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00002.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00003.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00004.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00005.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00006.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00007.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00008.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00009.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00010.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00011.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00012.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00013.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00014.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00015.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00016.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00017.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00018.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00019.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00020.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00021.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00022.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00023.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00024.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00025.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00026.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00027.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00028.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00029.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00030.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00031.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00032.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00033.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00034.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00035.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00036.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00037.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00038.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00039.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00040.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00041.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00042.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00043.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00044.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00045.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00046.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00047.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00048.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00049.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00050.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00051.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00052.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00053.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00054.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00055.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00056.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00057.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00058.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00059.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00060.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00061.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00062.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00063.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00064.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00065.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00066.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00067.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00068.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00069.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00070.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00071.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00072.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00073.png"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>	
+</details>
+
 <br>
 <h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
 <h4>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</h4> 
-<p>Bárbara de Cássia Xavier Cassins Aguiar</p>
 <p>Deise Maria Bertholdi Costa</p> 
-<p>Emerson Rolkouski</p> 
 <p>Luzia Vidal de Souza</p> 
 <p>Paulo Henrique Siqueira</p> 
 <p>Simone da Silva Soria Medina</p> 
@@ -7352,4 +7500,21 @@
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
 	<li>Ngo, K. <i>Orbit controls for A-Frame - Scripts de controle de órbita nas páginas programadas com Realidade Virtual:</i> <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> https://github.com/supermedium/superframe/tree/master/components/orbit-controls/</a>.</li>
 	<li>Plesch, A. <i>Geometry from vertices and faces - Scripts para construções das faces de poliedros nos ambientes de Realidade Aumentada e Realidade Virtual:</i> <a href="https://github.com/andreasplesch/aframe-faceset-component" target="_blank">https://github.com/andreasplesch/aframe-faceset-component</a>.</li>
+	<li>Plesch, A. <i>Geometry from vertices and faces - Scripts para construções das faces de poliedros nos ambientes de Realidade Aumentada e Realidade Virtual:</i> <a href="https://github.com/andreasplesch/aframe-faceset-component" target="_blank">https://github.com/andreasplesch/aframe-faceset-component</a>.</li>
+	<li>Lacourt, H. Noções e Fundamentos de Geometria Descritiva. Ed. Guanabara Koogan, 1995.</li> 
+	<li>Montenegro, G.A. Geometria Descritiva. Edgard Blücher, 1991.</li>
+	<li>Nascimento Jr., José Ribeiro do. Geometria Descritiva: projeção mongeana. Curitiba: UFPR, 1981</li>
+	<li>Costa, M.D.; Costa, A.P.A. Geometria Gráfica Tridimensional. UFPE, 1992.</li>
+	<li>Costa, D.M.B.; Souza, L. V.; Siqueira, P.H. Apostila de Projeções Cotadas. UFPR, 2020.</li>
+	<li>Demeterco, A. Geometria descritiva aplicada : engenharia, agronomia e desenho industrial. Curitiba: Editer, 1977. </li>
+	<li>Machado, A. Geometria Descritiva. Editora Atual, 1993.</li>
+	<li>Montenegro, G.A. Geometria Descritiva. Edgard Blücher, 1991.</li>
+	<li>Iezzi, G. Fundamentos da Matemática Elementar –Geometria Plana e Espacial. São Paulo : Atual, 2013. Vol 9 e 10.</li>
+	<li>Ricca, G. Geometria descritiva: método de monge. Lisboa: Fundação Calouste Gulbenkian, 2000</li>
+	<li>Materiais didáticos dos Professores: Andrea Faria Andrade, Luzia Vidal de Souza, Mariana Pohlmann de Oliveira, Víctor Gamarra Rosado e Zuleica Faria de Medeiros.</li>
+	<li>Bornancini, J. C.; Petzold, N. I.; Orlandi Junior, H. Desenho Técnico Básico – Fundamentos Teóricos e exercícios à mão livre.</li>
+	<li>French, T. E.; Vierck, C. Desenho Técnico e Tecnologia Gráfica. São Paulo: Ed. Globo.</li>
+	<li>Rezende, A. S.; Gransotto, L. R. Desenho de Projetos e Edificações, UFRGS, 2007.</li>
+	</li>Silva, A.; Ribeiro, C. T.; Dias, J.; Souza, L. Desenho Técnico Moderno. Ed. LTC.</li>
+	<li>Silva, Silvio. A Linguagem do Desenho Técnico. Rio de Janeiro. LTC.</li>
 </ol>
