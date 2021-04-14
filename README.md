@@ -3652,83 +3652,41 @@
       <li>
            <input type="radio" id="483" name="sl">
            <label for="483"></label>
-           <img src="pontos-retas/30_01.png"/>
-        <figcaption>Para representar a reta de perfil r que forma 60° com &pi;' vamos marcar a terceira projeção da reta r.</figcaption>
+           <img src="pontos-retas/41_01_01.png"/>
+        <figcaption>Podemos representar os traços <b>&pi;'&pi;'''<b> e <b>&pi;''&pi;'''<b> passando pelo origem. Representamos também as projeções <b>r'</b> e <b>r''</b> da reta de perfil, que são coincidentes e perpendiculares à LT. Observe que existem infinitas retas de perfil que passam por <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="484" name="sl">
            <label for="484"></label>
-           <img src="pontos-retas/30_02.png"/>
-        <figcaption>Para obter a terceira projeção do ponto A é necessário traçar paralelas a LT passando por A’ e A”.</figcaption>
+           <img src="pontos-retas/41_01_02.png"/>
+        <figcaption>Encontramos <b>A'''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="485" name="sl">
            <label for="485"></label>
-           <img src="pontos-retas/30_03.png"/>
-        <figcaption>Com o compasso pegue a medida do afastamento do ponto A e faça um arco até a LT no sentido horário.</figcaption>
+           <img src="pontos-retas/41_01_03.png"/>
+        <figcaption>Retas de perfil são oblíquas a <b>&pi;'</b> e a <b>&pi;''</b> e a verdadeira grandeza dos ângulos aparecem na terceira projeção. O ângulo que a reta forma com <b>&pi;'</b> corresponde ao ângulo formado pela terceira projeção e a LT. Observe que podemos ter duas soluções: <b>r</b> e <b>r<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="486" name="sl">
            <label for="486"></label>
-           <img src="pontos-retas/30_04.png"/>
-        <figcaption>A terceira projeção do ponto A está na interseção das retas que contém as medidas do afastamento e cota do ponto A.</figcaption>
+           <img src="pontos-retas/41_01_04.png"/>
+        <figcaption>As retas de perfil ficam definidas por dois de seus pontos, então escolhemos um ponto <b>P</b> sobre a reta <b>r</b> e um ponto <b>P<sub>1</sub></b> sobre <b>r<sub>1</sub></b>. Neste caso escolhemos os pontos de cota 15: <b>P'''</b> e <b>P<sub>1</sub>'''</b> vão estar numa na interseção de uma reta de cota 15 com <b>r'''</b> e <b>r<sub>1</sub>'''</b> respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="487" name="sl">
            <label for="487"></label>
-           <img src="pontos-retas/30_05.png"/>
-        <figcaption>Com o esquadro trace a reta r’’’ passando por A’’’ formando 60° com a LT.</figcaption>
+           <img src="pontos-retas/41_01_05.png"/>
+        <figcaption>Podemos agora encontrar <b>P''</b> e <b>P<sub>1</sub>''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="488" name="sl">
            <label for="488"></label>
-           <img src="pontos-retas/30_06.png"/>
-        <figcaption>Marque a cota 15 do ponto B.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="489" name="sl">
-           <label for="489"></label>
-           <img src="pontos-retas/30_07.png"/>
-        <figcaption>Marque B’’’ na r’’’ ( paralela a LT com cota 15).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="490" name="sl">
-           <label for="490"></label>
-           <img src="pontos-retas/30_08.png"/>
-        <figcaption>Marque B’’ na r’’( paralela a LT com cota 15).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="491" name="sl">
-           <label for="491"></label>
-           <img src="pontos-retas/30_09.png"/>
-        <figcaption>Marque B’ na r’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="492" name="sl">
-           <label for="492"></label>
-           <img src="pontos-retas/30_10.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="493" name="sl">
-           <label for="493"></label>
-           <img src="pontos-retas/30_11.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="494" name="sl">
-           <label for="494"></label>
-           <img src="pontos-retas/30_12.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="495" name="sl">
-           <label for="495"></label>
-           <img src="pontos-retas/30_13.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/41_01_06.png"/>
+        <figcaption>E finalmente <b>P'</b> e <b>P<sub>1</sub>'</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/30_00.png" class="fundo"/>
+	<img src="pontos-retas/41_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00041a.png"/>
 	<div class="combo"><a href="vr/a_mpp1.html" target="_blank" class="visu">Visualização em 3D</a></div>
