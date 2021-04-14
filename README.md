@@ -7515,6 +7515,6 @@
 	<li>Bornancini, J. C.; Petzold, N. I.; Orlandi Junior, H. Desenho Técnico Básico – Fundamentos Teóricos e exercícios à mão livre.</li>
 	<li>French, T. E.; Vierck, C. Desenho Técnico e Tecnologia Gráfica. São Paulo: Ed. Globo.</li>
 	<li>Rezende, A. S.; Gransotto, L. R. Desenho de Projetos e Edificações, UFRGS, 2007.</li>
-	</li>Silva, A.; Ribeiro, C. T.; Dias, J.; Souza, L. Desenho Técnico Moderno. Ed. LTC.</li>
+	<li>Silva, A.; Ribeiro, C. T.; Dias, J.; Souza, L. Desenho Técnico Moderno. Ed. LTC.</li>
 	<li>Silva, Silvio. A Linguagem do Desenho Técnico. Rio de Janeiro. LTC.</li>
 </ol>
