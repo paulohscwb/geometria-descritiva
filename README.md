@@ -3571,17 +3571,29 @@
       <li>
            <input type="radio" id="477" name="sl">
            <label for="477"></label>
-           <img src="pontos-retas/29_01_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/40_01_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta de perfil <b>r</b>, lembrando que retas de perfil são oblíquas à <b>&pi;'</b> e à <b>&pi;''</b> e paralelas à <b>&pi;'''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="478" name="sl">
            <label for="478"></label>
-           <img src="pontos-retas/29_01_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/40_01_02.png"/>
+        <figcaption>Projetamos a reta sobre <b>&pi;'</b>, encontrando assim sua primeira projeção <b>r'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="478a" name="sl">
+           <label for="478a"></label>
+           <img src="pontos-retas/40_01_02.png"/>
+        <figcaption>E também sobre <b>pi''</b>, encontrando a segunda projeção <b>r''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="478b" name="sl">
+           <label for="478b"></label>
+           <img src="pontos-retas/40_01_02.png"/>
+        <figcaption>Podemos também projetar os pontos <b>A</b> e <b>B</b> sobre <b>&pi;'''</b>. </figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/29_01_00.png" class="fundo"/>
+	<img src="pontos-retas/40_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00040a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3590,29 +3602,53 @@
       <li>
            <input type="radio" id="479" name="sl">
            <label for="479"></label>
-           <img src="pontos-retas/29_02_01.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/40_02_01.png"/>
+        <figcaption>Passamos agora para representação em épura da reta de perfil.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="480" name="sl">
            <label for="480"></label>
-           <img src="pontos-retas/29_02_02.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/40_02_02.png"/>
+        <figcaption>Os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b>, por serem retas de abscissa constante, passam pela origem.</figcaption>
        </li>
        <li>
            <input type="radio" id="481" name="sl">
            <label for="481"></label>
-           <img src="pontos-retas/29_02_03.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/40_02_03.png"/>
+         <figcaption>Com as coordenadas dos pontos <b>A</b> e <b>B</b> podemos encontrar <b>r'</b> e <b>r''</b>...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482" name="sl">
            <label for="482"></label>
-           <img src="pontos-retas/29_02_04.png"/>
-         <figcaption></figcaption>
+           <img src="pontos-retas/40_02_04.png"/>
+         <figcaption>... e também <b>r'''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="482a" name="sl">
+           <label for="482a"></label>
+           <img src="pontos-retas/40_02_05.png"/>
+         <figcaption>De maneira geral uma reta de perfil atravessa três diedros...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="482b" name="sl">
+           <label for="482b"></label>
+           <img src="pontos-retas/40_02_06.png"/>
+         <figcaption>... e é oblíqua em relação a <b>&pi;'</b> e a <b>&pi;''</b> e paralela a <b>&pi;'''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="482c" name="sl">
+           <label for="482c"></label>
+           <img src="pontos-retas/40_02_07.png"/>
+         <figcaption>Por ser paralela a <b>&pi;'''</b>, a terceira projeção apresenta VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="482d" name="sl">
+           <label for="482d"></label>
+           <img src="pontos-retas/40_02_08.png"/>
+         <figcaption>São necessários 2 pontos  para definí-la.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/29_02_00.png" class="fundo"/>
+	<img src="pontos-retas/40_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00041.png"/>
