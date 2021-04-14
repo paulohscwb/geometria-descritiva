@@ -3758,131 +3758,71 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00043.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Para encontrar a VG do segmento <b>AB</b> podemos recorrer a uma MPV ou a uma MPH.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="501" name="sl">
            <label for="501"></label>
-           <img src="pontos-retas/32_01_01a.png"/>
-        <figcaption>A reta r é de perfil, vamos encontrar a VG de AB fazendo uma MPV.</figcaption>
+           <img src="pontos-retas/43_01_01.png"/>
+        <figcaption>Vamos utilizar neste exercício a MPH. Para isso representamos uma 2LT paralela à <b>r''</b> e transportamos os afastamentos de <b>A</b> e <b>B</b>, da primeira LT para segunda LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="502" name="sl">
            <label for="502"></label>
-           <img src="pontos-retas/32_01_02a.png"/>
-        <figcaption>Na primeira projeção faça a nova LT paralela a r’. </figcaption>
+           <img src="pontos-retas/43_01_02.png"/>
+        <figcaption>Encontramos <b>r<sub>1</sub>'</b>. Esta reta apresenta a VG do segmento <b>AB</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="503" name="sl">
            <label for="503"></label>
-           <img src="pontos-retas/32_01_03a.png"/>
-        <figcaption>Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1.</figcaption>
+           <img src="pontos-retas/43_01_03.png"/>
+        <figcaption>Traçamos uma reta paralela à 2LT, cuja distância entre elas corresponde a cota do ponto <b>P</b> (23 unidades).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="504" name="sl">
            <label for="504"></label>
-           <img src="pontos-retas/32_01_04a.png"/>
-        <figcaption>Trace a reta r”1 passando A”1 e B”1. No novo sistema a reta é frontal e A”1B”1= VG AB.</figcaption>
+           <img src="pontos-retas/43_01_04.png"/>
+        <figcaption>A interseção desta reta com <b>r<sub>1</sub>'</b> nos dá <b>P<sub>1</sub>'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="505" name="sl">
            <label for="505"></label>
-           <img src="pontos-retas/32_01_05a.png"/>
-        <figcaption>Para encontrar o ponto M de afastamento 23, com o compasso marque a medida do afastamento na r’ e encontre M’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="506" name="sl">
-           <label for="506"></label>
-           <img src="pontos-retas/32_01_06a.png"/>
-        <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M”1 sobre r”1.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="507" name="sl">
-           <label for="507"></label>
-           <img src="pontos-retas/32_01_07a.png"/>
-        <figcaption>Com o compasso pegue a medida da cota do ponto M.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="508" name="sl">
-           <label for="508"></label>
-           <img src="pontos-retas/32_01_08a.png"/>
-        <figcaption>Transporte a medida da cota de M para r” a partir da LT encontrando M”.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="509" name="sl">
-           <label for="509"></label>
-           <img src="pontos-retas/32_01_09a.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="510" name="sl">
-           <label for="510"></label>
-           <img src="pontos-retas/32_01_10a.png"/>
-        <figcaption></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="511" name="sl">
-           <label for="511"></label>
-           <img src="pontos-retas/32_01_11a.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/43_01_05.png"/>
+        <figcaption>A partir de <b>P<sub>1</sub>'</b> encontramos <b>P''</b> e <b>P'</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_01_00a.png" class="fundo"/>
+	<img src="pontos-retas/43_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00043a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Para encontrar a VG do segmento <b>AB</b> podemos recorrer a uma MPV ou a uma MPH.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="512" name="sl">
            <label for="512"></label>
-           <img src="pontos-retas/32_02_01a.png"/>
-        <figcaption>A reta s é de perfil, vamos encontrar a VG de CD fazendo uma MPV.</figcaption>
+           <img src="pontos-retas/43_02_01.png"/>
+        <figcaption>Vamos utilizar neste exercício a MPV. Para isso representamos uma 2LT paralela à <b>r'</b> e transportamos as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="513" name="sl">
            <label for="513"></label>
-           <img src="pontos-retas/32_02_02a.png"/>
-        <figcaption>Na primeira projeção faça a nova LT paralela a s’. </figcaption>
+           <img src="pontos-retas/43_02_02.png"/>
+        <figcaption>Encontramos <b>r<sub>1</sub>''</b> e <b>A<sub>1</sub>''B<sub>1</sub>''</b> corresponde a VG do segmento <b>AB</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="514" name="sl">
            <label for="514"></label>
-           <img src="pontos-retas/32_02_03a.png"/>
-        <figcaption>Trace as linhas de chamada dos pontos C e D perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos C e D a partir da nova LT encontrando as projeções C”1 e D”1. </figcaption>
+           <img src="pontos-retas/43_02_03.png"/>
+        <figcaption>Encontramos a projeção do ponto <b>P<sub>1</sub></b> desta reta que tem cota nula, ou seja, a segunda projeção deste ponto está sobre a LT2.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="515" name="sl">
            <label for="515"></label>
-           <img src="pontos-retas/32_02_04a.png"/>
-        <figcaption>Trace a reta s”1 passando C”1 e D”1. No novo sistema a reta é frontal e C”1D”1= VG CD.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="516" name="sl">
-           <label for="516"></label>
-           <img src="pontos-retas/32_02_05a.png"/>
-        <figcaption>Para encontrar o ponto M de cota nula, marque M”1 na interseção da nova LT com a s”1.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="517" name="sl">
-           <label for="517"></label>
-           <img src="pontos-retas/32_02_06a.png"/>
-        <figcaption>Trace a linha de chamada do pontoMperpendicular em relação a nova LT e encontre M’ sobre r’.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="518" name="sl">
-           <label for="518"></label>
-           <img src="pontos-retas/32_02_07a.png"/>
-        <figcaption>Marque M” na LT (cota nula).</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="519" name="sl">
-           <label for="519"></label>
-           <img src="pontos-retas/32_02_08a.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/43_02_04.png"/>
+        <figcaption>A partir de <b>P<sub>1</sub>''</b> encontramos <b>P'</b> e <b>P''</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_02_00a.png" class="fundo"/>
+	<img src="pontos-retas/43_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00043b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -3891,23 +3831,35 @@
       <li>
            <input type="radio" id="512a" name="sl">
            <label for="512a"></label>
-           <img src="pontos-retas/32_03_01a.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/43_03_01.png"/>
+        <figcaption>Considere os pontos <b>A</b> e <b>B</b> pertencentes à reta qualquer <b>r</b>, lembrando que retas quaisquer são oblíquas aos 3 planos de projeção.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="513a" name="sl">
            <label for="513a"></label>
-           <img src="pontos-retas/32_03_02a.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/43_03_02.png"/>
+        <figcaption>Projetamos a reta sobre <b>&pi;'</b>, encontrando assim sua primeira projeção <b>r'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="514a" name="sl">
            <label for="514a"></label>
-           <img src="pontos-retas/32_03_03a.png"/>
-        <figcaption></figcaption>
+           <img src="pontos-retas/43_03_03.png"/>
+        <figcaption>E também sobre <b>&pi;''</b>, encontrando a segunda projeção <b>r''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="514c" name="sl">
+           <label for="514c"></label>
+           <img src="pontos-retas/43_03_03.png"/>
+        <figcaption>Vamos agora representar a reta em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="514b" name="sl">
+           <label for="514b"></label>
+           <img src="pontos-retas/43_03_03.png"/>
+        <figcaption>Encontrando as projeções dos pontos <b>A</b> e <b>B</b> temos as projeções da reta qualquer.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/32_03_00a.png" class="fundo"/>
+	<img src="pontos-retas/43_03_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00044.png"/>
