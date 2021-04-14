@@ -3584,7 +3584,7 @@
            <input type="radio" id="478a" name="sl">
            <label for="478a"></label>
            <img src="pontos-retas/40_01_02.png"/>
-        <figcaption>E também sobre <b>pi''</b>, encontrando a segunda projeção <b>r''</b>.</figcaption>
+        <figcaption>E também sobre <b>&pi;''</b>, encontrando a segunda projeção <b>r''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="478b" name="sl">
@@ -3597,54 +3597,48 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00040a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Passamos agora para representação em épura da reta de perfil.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="479" name="sl">
            <label for="479"></label>
            <img src="pontos-retas/40_02_01.png"/>
-        <figcaption>Passamos agora para representação em épura da reta de perfil.</figcaption>
+        <figcaption>Os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b>, por serem retas de abscissa constante, passam pela origem.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="480" name="sl">
            <label for="480"></label>
            <img src="pontos-retas/40_02_02.png"/>
-        <figcaption>Os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b>, por serem retas de abscissa constante, passam pela origem.</figcaption>
+        <figcaption>Com as coordenadas dos pontos <b>A</b> e <b>B</b> podemos encontrar <b>r'</b> e <b>r''</b>...</figcaption>
        </li>
        <li>
            <input type="radio" id="481" name="sl">
            <label for="481"></label>
            <img src="pontos-retas/40_02_03.png"/>
-         <figcaption>Com as coordenadas dos pontos <b>A</b> e <b>B</b> podemos encontrar <b>r'</b> e <b>r''</b>...</figcaption>
+         <figcaption>... e também <b>r'''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482" name="sl">
            <label for="482"></label>
            <img src="pontos-retas/40_02_04.png"/>
-         <figcaption>... e também <b>r'''</b>.</figcaption>
+         <figcaption>De maneira geral uma reta de perfil atravessa três diedros...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482a" name="sl">
            <label for="482a"></label>
            <img src="pontos-retas/40_02_05.png"/>
-         <figcaption>De maneira geral uma reta de perfil atravessa três diedros...</figcaption>
+         <figcaption>... e é oblíqua em relação a <b>&pi;'</b> e a <b>&pi;''</b> e paralela a <b>&pi;'''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482b" name="sl">
            <label for="482b"></label>
            <img src="pontos-retas/40_02_06.png"/>
-         <figcaption>... e é oblíqua em relação a <b>&pi;'</b> e a <b>&pi;''</b> e paralela a <b>&pi;'''</b>.</figcaption>
+         <figcaption>Por ser paralela a <b>&pi;'''</b>, a terceira projeção apresenta VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482c" name="sl">
            <label for="482c"></label>
            <img src="pontos-retas/40_02_07.png"/>
-         <figcaption>Por ser paralela a <b>&pi;'''</b>, a terceira projeção apresenta VG.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="482d" name="sl">
-           <label for="482d"></label>
-           <img src="pontos-retas/40_02_08.png"/>
          <figcaption>São necessários 2 pontos  para definí-la.</figcaption>
        </li>
 	</ul>
