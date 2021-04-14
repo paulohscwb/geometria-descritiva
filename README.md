@@ -5383,7 +5383,7 @@
         <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/47_02_00.png" class="fundo"/>
+	<img src="planosHFP/57_02_00.png" class="fundo"/>
   </details>
 	<a href="vr/a51.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
