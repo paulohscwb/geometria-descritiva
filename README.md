@@ -3951,137 +3951,29 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00045.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-  <p></p>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vimos no estudo da reta de perfil que podemos encontrar a VG de segmentos  transformando ela em uma reta frontal (ou horizontal). O mesmo podemos fazer com retas quaisquer. Vamos ver agora como podemos fazer uma Mudança de Plano Vertical (MPV) para retas quaisquer.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e019" name="sl">
            <label for="e019"></label>
-           <img src="pontos-retas/34_01.png"/>
-        <figcaption>Primeiramente obtemos as primeiras e segundas projeções de r, traçando r’ por A’B’, r’’ por A’’B’’. De maneira análoga, obtemos as primeiras e segundas projeções de s.</figcaption>
+           <img src="pontos-retas/44_03_01.png"/>
+        <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e020" name="sl">
            <label for="e020"></label>
-           <img src="pontos-retas/34_02.png"/>
-        <figcaption>Para obter o ponto da reta r de afastamento 10, tomamos uma abertura de 10 com o compasso.</figcaption>
+           <img src="pontos-retas/44_03_02.png"/>
+        <figcaption>Ao efetuarmos uma MPV vamos transformar a reta qualquer em uma reta frontal, pois vamos "deixar" o novo plano vertical de projeção paralelo à reta no espaço. Observe que ao mudarmos <b>&pi;''</b> de posição temos uma nova Linha de Terra, que chamaremos de Segunda Linha de Terra (2LT). Esta nova LT deve ser paralela (ou coincidente) com <b>r'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e021" name="sl">
            <label for="e021"></label>
-           <img src="pontos-retas/34_03.png"/>
-        <figcaption>Podemos marcar a distância de 10 na linha de chamada de A. </figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e022" name="sl">
-           <label for="e022"></label>
-           <img src="pontos-retas/34_04.png"/>
-        <figcaption>Traçamos uma paralela à  LT com distância 10. Observe que esse é o lugar geométrico das projeções dos pontos de afastamento 10.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e023" name="sl">
-           <label for="e023"></label>
-           <img src="pontos-retas/34_05.png"/>
-        <figcaption>P’ está na interseção de r’ com a paralela.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e024" name="sl">
-           <label for="e024"></label>
-           <img src="pontos-retas/34_06.png"/>
-        <figcaption>Traçamos a linha de chamada do ponto P.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e025" name="sl">
-           <label for="e025"></label>
-           <img src="pontos-retas/34_07.png"/>
-        <figcaption>P’’ está na interseção de r’’ com a linha de chamada do ponto P.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e026" name="sl">
-           <label for="e026"></label>
-           <img src="pontos-retas/34_08.png"/>
-        <figcaption>Para representar o ponto Q de cota40 na reta s, primeiramente prolongamos a linha de chamada de D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e027" name="sl">
-           <label for="e027"></label>
-           <img src="pontos-retas/34_09.png"/>
-        <figcaption>Marcamos no compasso a medida 40</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e028" name="sl">
-           <label for="e028"></label>
-           <img src="pontos-retas/34_10.png"/>
-        <figcaption>Podemos marcar essa distância na linha de chamada de D.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e029" name="sl">
-           <label for="e029"></label>
-           <img src="pontos-retas/34_11.png"/>
-        <figcaption>Traçamos uma paralela à LT com distância 40. Observe que esse é o lugar geométrico das projeções dos pontos que possuem cota 40.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e030" name="sl">
-           <label for="e030"></label>
-           <img src="pontos-retas/34_12.png"/>
-        <figcaption>Q’’ está na interseção de s’’ com a paralela.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e031" name="sl">
-           <label for="e031"></label>
-           <img src="pontos-retas/34_13.png"/>
-        <figcaption>Traçamos a linha de chamada do ponto Q.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e032" name="sl">
-           <label for="e032"></label>
-           <img src="pontos-retas/34_14.png"/>
-        <figcaption>Q’ está na interseção de s’ com a linha de chamada do ponto Q.</figcaption>
+           <img src="pontos-retas/44_03_03.png"/>
+        <figcaption>Como temos uma nova LT, teremos linhas de chamada para esta nova LT. Lembre que as linhas de chamada são sempre perpendiculares à LT. Na MPV, as cotas dos pontos não são alteradas então podemos transportar as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT, encontrando assim <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b>. Pronto! Unindo <b>A<sub>1</sub>''</b> e <b>Bsub>1</sub>''</b> encontramos <b>r<sub>1</sub>''</b>.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/34_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
-  <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="e033" name="sl">
-           <label for="e033"></label>
-           <img src="pontos-retas/34_15.png"/>
-        <figcaption>Para encontrar a VG de AB, traçamos a nova linha de terra, paralela à primeira projeção de r.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="e034" name="sl">
-           <label for="e034"></label>
-           <img src="pontos-retas/34_16.png"/>
-        <figcaption>Traçamos as linhas de chamada de A e B e marcamos as projeções auxiliares, A’’1 e B’’1 . Observe que a distância da nova LT às projeções dos pontos é igual à sua cota.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="e035" name="sl">
-           <label for="e035"></label>
-           <img src="pontos-retas/34_17.png"/>
-        <figcaption>A distância de A’’1 e B’’1 é a VG de AB.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e036" name="sl">
-           <label for="e036"></label>
-           <img src="pontos-retas/34_18.png"/>
-        <figcaption>Para encontrar a VG de CD, traçamos a nova linha de terra, paralela à primeira projeção de s.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e037" name="sl">
-           <label for="e037"></label>
-           <img src="pontos-retas/34_19.png"/>
-        <figcaption>Traçamos as linhas de chamada de C e D e marcamos as projeções auxiliares, C’’1 e D’’1 . Observe que a distância da nova LT às projeções dos pontos é igual à sua cota.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="e038" name="sl">
-           <label for="e038"></label>
-           <img src="pontos-retas/34_20.png"/>
-        <figcaption>A distância de C’’1 e D’’1 é a VG de CD.</figcaption>
-       </li>
-	</ul>
-	<img src="pontos-retas/34_14.png" class="fundo"/>
+	<img src="pontos-retas/44_03_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00045a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
