@@ -3926,25 +3926,25 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00044b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
-  <p>Vimos no estudo da reta de perfil que podemos encontrar a VG de segmentos  transformando ela em uma reta frontal (ou horizontal). </p>
+  <p>Vimos no estudo da reta de perfil que podemos encontrar a VG de segmentos  transformando ela em uma reta frontal (ou horizontal). O mesmo podemos fazer com retas quaisquer. Vamos ver agora como podemos fazer uma Mudança de Plano Vertical (MPV) para retas quaisquer.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e001" name="sl">
            <label for="e001"></label>
            <img src="pontos-retas/44_03_01.png"/>
-        <figcaption>Primeiramente traçamos a primeira e a segunda projeção de r.</figcaption>
+        <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e002" name="sl">
            <label for="e002"></label>
            <img src="pontos-retas/44_03_02.png"/>
-        <figcaption>Traçamos então a nova linha de terra, paralela à primeira projeção de r.</figcaption>
+        <figcaption>Ao efetuarmos uma MPV vamos transformar a reta qualquer em uma reta frontal, pois vamos "deixar" o novo plano vertical de projeção paralelo à reta no espaço. Observe que ao mudarmos <b>&pi;''</b> de posição temos uma nova Linha de Terra, que chamaremos de Segunda Linha de Terra (2LT). Esta nova LT deve ser paralela (ou coincidente) com <b>r'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e003" name="sl">
            <label for="e003"></label>
            <img src="pontos-retas/44_03_03.png"/>
-        <figcaption>Traçamos as linhas de chamada de A e B.</figcaption>
+        <figcaption>Como temos uma nova LT, teremos linhas de chamada para esta nova LT. Lembre que as linhas de chamada são sempre perpendiculares à LT. Na MPV, as cotas dos pontos não são alteradas então podemos transportar as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT, encontrando assim <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b>. Pronto! Unindo <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b> encontramos <b>r<sub>1</sub>''</b>.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/44_03_00.png" class="fundo"/>
@@ -3952,28 +3952,22 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00045.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vimos no estudo da reta de perfil que podemos encontrar a VG de segmentos  transformando ela em uma reta frontal (ou horizontal). O mesmo podemos fazer com retas quaisquer. Vamos ver agora como podemos fazer uma Mudança de Plano Vertical (MPV) para retas quaisquer.</p>
+  <p>A reta <b>r(A, B)</b> tem suas projeções <b>r'</b> e <b>r''</b> unindo, respectivamente, <b>A'</b> com <b>B'</b> e <b>A''</b> com <b>B''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e019" name="sl">
            <label for="e019"></label>
-           <img src="pontos-retas/44_03_01.png"/>
-        <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
+           <img src="pontos-retas/45_01_01.png"/>
+        <figcaption>Para encontrar o ponto desta reta que tem afastamento 10, traçamos uma reta paralela à LT, cuja distância entre elas seja de 10 unidades. Lembrando que afastamento positivo é marcado abaixo da LT. Na interseção desta reta com <b>r'</b> encontramos <b>P'</b> e na linha de chamada de <b>P</b> encontramos <b>P''</b> sobre <b>r''</b>. Para encontrar o VG do segmento <b>AB</b> podemos efetuar uma MPV ou uma MPH. Na solução apresentada foi efetuada uma MPH transformando a reta <b>r(A, B)</b> em uma reta horizontal.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e020" name="sl">
            <label for="e020"></label>
-           <img src="pontos-retas/44_03_02.png"/>
-        <figcaption>Ao efetuarmos uma MPV vamos transformar a reta qualquer em uma reta frontal, pois vamos "deixar" o novo plano vertical de projeção paralelo à reta no espaço. Observe que ao mudarmos <b>&pi;''</b> de posição temos uma nova Linha de Terra, que chamaremos de Segunda Linha de Terra (2LT). Esta nova LT deve ser paralela (ou coincidente) com <b>r'</b>.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="e021" name="sl">
-           <label for="e021"></label>
-           <img src="pontos-retas/44_03_03.png"/>
-        <figcaption>Como temos uma nova LT, teremos linhas de chamada para esta nova LT. Lembre que as linhas de chamada são sempre perpendiculares à LT. Na MPV, as cotas dos pontos não são alteradas então podemos transportar as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT, encontrando assim <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b>. Pronto! Unindo <b>A<sub>1</sub>''</b> e <b>Bsub>1</sub>''</b> encontramos <b>r<sub>1</sub>''</b>.</figcaption>
+           <img src="pontos-retas/45_01_02.png"/>
+        <figcaption>A reta <b>s(C, D)</b> tem suas projeções <b>s'</b> e <b>s''</b> unindo, respectivamente, <b>C'</b> com <b>D'</b> e <b>C''</b> com <b>D''</b>. Para encontrar o ponto desta reta que tem cota 40, traçamos uma reta paralela à LT, cuja distância entre elas seja de 40 unidades. Lembrando que cota positiva é marcada acima da LT. Encontramos assim <b>Q''</b> sobre <b>s''</b> e <b>Q'</b> sobre <b>s'</b>. Para encontrar o VG do segmento <b>CD</b> podemos efetuar uma MPV ou uma MPH. Na solução apresentada foi efetuada uma MPV transformando a reta <b>s(C, D)</b> em uma reta frontal.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/44_03_00.png" class="fundo"/>
+	<img src="pontos-retas/45_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00045a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
