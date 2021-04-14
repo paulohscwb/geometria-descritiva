@@ -3693,43 +3693,67 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00042.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vimos que podemos encontrar a VG de segmentos contidos em uma reta de perfil ou dos ângulos que a mesma forma com <b>&pi;'</b> e <b>&pi;''</b> na terceira projeção. Podemos também encontrar estes elementos em VG ao transformar uma reta de perfil em uma reta frontal (ou horizontal). Um dos métodos descritivos utilizados para esta transformação é a Mudança de Plano de Projeção (MPP). Vamos ver agora como podemos fazer uma Mudança de Plano Vertical (MPV).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="496" name="sl">
            <label for="496"></label>
-           <img src="pontos-retas/31_01_01a.png"/>
-        <figcaption>Vamos fazer uma MPV para a reta de perfil. Trace os pontos A e B da reta de perfil em épura.</figcaption>
+           <img src="pontos-retas/42_01_01.png"/>
+        <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="497" name="sl">
            <label for="497"></label>
-           <img src="pontos-retas/31_01_02a.png"/>
-        <figcaption>Na primeira projeção faça a nova LT paralela a r’. Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas das cotas dos pontos A e B a partir da nova LT encontrando as projeções A”1 e B”1. No novo sistema a reta é frontal.</figcaption>
+           <img src="pontos-retas/42_01_02.png"/>
+        <figcaption>A MPV, como o próprio nome diz, consiste em mudar <b>&pi;''</b> de lugar. Vamos chamar de <b>&pi;''<sub>1</sub></b> o plano vertical de projeção na nova posição, que será paralela a <b>r'</b>. Observe que ao mudar <b>&pi;''</b> de posição temos uma nova Linha de Terra, que chamaremos de Segunda Linha de Terra (2LT).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="497a" name="sl">
+           <label for="497a"></label>
+           <img src="pontos-retas/42_01_03.png"/>
+        <figcaption>Como temos uma nova LT, teremos linhas de chamada para esta nova LT. Lembre que as linhas de chamada são sempre perpendiculares à LT. Na MPV, as cotas dos pontos não são alteradas então podemos transportar as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT, encontrando assim <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="497b" name="sl">
+           <label for="497b"></label>
+           <img src="pontos-retas/42_01_04.png"/>
+        <figcaption>Pronto! Unindo <b>A<sub>1</sub>''</b> e <b>B<sub>1</sub>''</b> encontramos <b>r<sub>1</sub>''</b>. Observe que, em relação a LT2, a reta é frontal pois sua primeira projeção é paralela à LT.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/31_01_00a.png" class="fundo"/>
+	<img src="pontos-retas/42_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png"/>
 	<div class="combo"><a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/Apost_GD_2021_00042b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Podemos também transformar uma reta de perfil numa reta horizontal (segunda projeção paralela à LT). Para transformar uma reta de perfil em uma reta horizontal vamos utilizar o método descritivo de Mudança de Plano Horizontal (MPH).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="499" name="sl">
            <label for="499"></label>
-           <img src="pontos-retas/31_02_01.png"/>
-        <figcaption>Vamos fazer uma MPH para a reta de perfil. Trace os pontos A e B da reta de perfil em épura.</figcaption>
+           <img src="pontos-retas/42_01_01.png"/>
+        <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="500" name="sl">
            <label for="500"></label>
-           <img src="pontos-retas/31_02_02.png"/>
-        <figcaption>Na segunda projeção faça a nova LT paralela a r”. Trace as linhas de chamada dos pontos A e B perpendiculares em relação a nova LT e transporte as medidas dos afastamentosdos pontos A e B a partir da nova LT encontrando as projeções A’1 e B’1. Trace a reta r’1 passando A’1 e B’1.No novo sistema a reta é horizontal.</figcaption>
+           <img src="pontos-retas/42_02_02.png"/>
+        <figcaption>A MPH, como o próprio nome diz, consiste em mudar <b>&pi;'</b> de lugar. Vamos chamar de <b>&pi;'<sub>1</sub></b> o plano horizontal de projeção na nova posição, que será paralela a <b>r''</b>. Temos então uma 2LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="500a" name="sl">
+           <label for="500a"></label>
+           <img src="pontos-retas/42_02_03.png"/>
+        <figcaption>Como temos uma nova LT, teremos linhas de chamada para esta nova LT. Lembrando que as linhas de chamada são sempre perpendiculares à LT. Na MPH, os afastamentos dos pontos não são alterados, então podemos transportá-los da primeira LT para segunda LT, encontrando assim <b>A<sub>1</sub>'</b> e <b>B<sub>1</sub>'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="500b" name="sl">
+           <label for="500b"></label>
+           <img src="pontos-retas/42_02_04.png"/>
+        <figcaption>Pronto! Temos <b>r<sub>1</sub>'</b>. A VG do segmento AB aparece na primeira projeção da 2LT.</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/31_02_00.png" class="fundo"/>
+	<img src="pontos-retas/42_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00043.png"/>
