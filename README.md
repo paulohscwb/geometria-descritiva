@@ -3653,7 +3653,7 @@
            <input type="radio" id="483" name="sl">
            <label for="483"></label>
            <img src="pontos-retas/41_01_01.png"/>
-        <figcaption>Podemos representar os traços <b>&pi;'&pi;'''<b> e <b>&pi;''&pi;'''<b> passando pelo origem. Representamos também as projeções <b>r'</b> e <b>r''</b> da reta de perfil, que são coincidentes e perpendiculares à LT. Observe que existem infinitas retas de perfil que passam por <b>A</b>.</figcaption>
+        <figcaption>Podemos representar os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b> passando pelo origem. Representamos também as projeções <b>r'</b> e <b>r''</b> da reta de perfil, que são coincidentes e perpendiculares à LT. Observe que existem infinitas retas de perfil que passam por <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="484" name="sl">
