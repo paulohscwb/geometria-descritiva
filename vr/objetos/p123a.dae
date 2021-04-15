@@ -100,10 +100,10 @@
                             <color>0.1960784 0.1960784 1 0.2</color>
                         </diffuse>
                         <transparent opaque="RGB_ZERO">
-                            <color>0.8 0.8 0.8 0.2</color>
+                            <color>0.8 0.8 0.8 0.6</color>
                         </transparent>
                         <transparency>
-                            <float>0.2</float>
+                            <float>0.5</float>
                         </transparency>
                     </lambert>
                 </technique>
