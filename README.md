@@ -7365,7 +7365,7 @@
 	<img src="dt/Apost_DT_2021_00019.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00020.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Vamos acompanhar os passos necessários para a construção das vistas de um objeto. Começamos delimitando o objeto que será representado por meio das vistas ortográficas.</p>
   <ul class="slider">
        <li>
