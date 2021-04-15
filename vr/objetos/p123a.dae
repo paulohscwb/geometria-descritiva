@@ -103,7 +103,7 @@
                             <color>0.8 0.8 0.8 0.8</color>
                         </transparent>
                         <transparency>
-                            <float>0.8</float>
+                            <float>1</float>
                         </transparency>
                     </lambert>
                 </technique>
@@ -114,7 +114,7 @@
                 <technique sid="COMMON">
                     <lambert>
                         <diffuse>
-                            <color>0.9 0.9 0.9 1</color>
+                            <color>0.9 0.9 0.9 0.5</color>
                         </diffuse>
                     </lambert>
                 </technique>
