@@ -7365,6 +7365,72 @@
 	<img src="dt/Apost_DT_2021_00019.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00020.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos acompanhar os passos necessários para a construção das vistas de um objeto. Começamos delimitando o objeto que será representado por meio das vistas ortográficas.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt001" name="sl">
+           <label for="dt001"></label>
+           <img src="dt/20_01_01.png"/>
+         <figcaption>Modulamos as dimensões do objeto, observando as cotas das 3 dimensões. Neste exemplo, começamos pela largura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt002" name="sl">
+           <label for="dt002"></label>
+           <img src="dt/20_01_02.png"/>
+         <figcaption>Neste caso, a largura total do objeto mede 6 unidades: <b>L = 6</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt003" name="sl">
+           <label for="dt003"></label>
+           <img src="dt/20_01_03.png"/>
+         <figcaption>Depois, observamos as cotas da altura do objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt004" name="sl">
+           <label for="dt004"></label>
+           <img src="dt/20_01_04.png"/>
+         <figcaption>Neste caso, a altura do objeto mede 4 unidades: <b>H = 4</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt005" name="sl">
+           <label for="dt005"></label>
+           <img src="dt/20_01_05.png"/>
+        <figcaption>Finalmente, temos as cotas da profundidade do objeto.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="dt006" name="sl">
+           <label for="dt006"></label>
+           <img src="dt/20_01_06.png"/>
+        <figcaption>Neste caso, a profundidade do objeto mede 4 unidades: <b>P = 4</b>. Agora passamos à identificação das vistas: <b>VS: vista superior</b>, <b>VA: vista anterior</b> (ou <b>VF: vista frontal</b> e <b>VLE: Vista Lateral Esquerda</b>. Dependendo do objeto, representamos a <b>VLD: Vista Lateral Direita</b> ao invés da esquerda.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="dt007" name="sl">
+           <label for="dt007"></label>
+           <img src="dt/20_01_07.png"/>
+         <figcaption>Podemos deixar 1 unidade entre as vistas, e temos as medidas indicadas de <b>L + P</b> na horizontal e <b>H + P</b> na vertical.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="dt008" name="sl">
+           <label for="dt008"></label>
+           <img src="dt/20_01_08.png"/>
+         <figcaption>Logo, temos um espaço de 11 unidades na horizontal e 9 unidades na vertical. Agora podemos começar a desenhar as vistas. Neste exemplo, começamos com a vista frontal, que é equivalente à segunda projeção de Geometria Descritiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt009" name="sl">
+           <label for="dt009"></label>
+           <img src="dt/20_01_09.png"/>
+         <figcaption>Depois podemos desenhar a vista lateral esquerda, que é equivalente a uma projeção de um plano de perfil em Geometria Descritiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt010" name="sl">
+           <label for="dt010"></label>
+           <img src="dt/20_01_10.png"/>
+         <figcaption>Depois podemos concluir com a vista superior, que é equivalente à primeira projeção de Geometria Descritiva. Para finalizar o desenho, representamos as aretas invisíveis com linhas tracejadas.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/20_01_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00021.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
