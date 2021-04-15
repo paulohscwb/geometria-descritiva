@@ -103,7 +103,7 @@
                             <color>0.8 0.8 0.8 0.2</color>
                         </transparent>
                         <transparency>
-                            <float>0</float>
+                            <float>0.2</float>
                         </transparency>
                     </lambert>
                 </technique>
