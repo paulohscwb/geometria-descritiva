@@ -7425,7 +7425,7 @@
 	   <li>
            <input type="radio" id="dt010" name="sl">
            <label for="dt010"></label>
-           <img src="dt/20_01_10.png"/>
+           <img src="dt/20_01_10.PNG"/>
          <figcaption>Depois podemos concluir com a vista superior, que é equivalente à primeira projeção de Geometria Descritiva. Para finalizar o desenho, representamos as aretas invisíveis com linhas tracejadas.</figcaption>
        </li>
     </ul>
