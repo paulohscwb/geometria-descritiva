@@ -7402,7 +7402,7 @@
            <input type="radio" id="dt006" name="sl">
            <label for="dt006"></label>
            <img src="dt/20_01_06.png"/>
-        <figcaption>Neste caso, a profundidade do objeto mede 4 unidades: <b>P = 4</b>. Agora passamos à identificação das vistas: <b>VS: vista superior</b>, <b>VA: vista anterior</b> (ou <b>VF: vista frontal</b> e <b>VLE: Vista Lateral Esquerda</b>. Dependendo do objeto, representamos a <b>VLD: Vista Lateral Direita</b> ao invés da esquerda.</figcaption>
+        <figcaption>Neste caso, a profundidade do objeto mede 4 unidades: <b>P = 4</b>. Agora passamos à identificação das vistas: <b>VS: vista superior</b>, <b>VA: vista anterior</b> (ou <b>VF: vista frontal</b>) e <b>VLE: Vista Lateral Esquerda</b>. Dependendo do objeto, representamos a <b>VLD: Vista Lateral Direita</b> ao invés da esquerda.</figcaption>
        </li>
        <li>
            <input type="radio" id="dt007" name="sl">
