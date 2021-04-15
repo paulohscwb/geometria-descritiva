@@ -7470,6 +7470,90 @@
 	<img src="dt/Apost_DT_2021_00038.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00039.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para construir a circunferência em perspectiva isométrica, vamos utilizar o quadrado <b>ABCD</b> circunscrito na circunferência. Os pontos de tangência dos lados do quadrado também serão utilizados nesta construção.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt011" name="sl">
+           <label for="dt011"></label>
+           <img src="dt/39_01_01.png"/>
+         <figcaption>Vamos começar construindo os eixos isométricos <b>x</b> e <b>y</b> com o auxílio de uma reta <b>r</b>. Marque o vértice <b>A</b> e alinhe o maior cateto do esquadro de 30/60 com <b>r</b> e o ângulo de 90&ordm; à esquerda de <b>A</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt012" name="sl">
+           <label for="dt012"></label>
+           <img src="dt/39_01_02.png"/>
+         <figcaption>Deslize este esquadro até que a hipotenusa fique alinhada com <b>A</b>. Construa o segmento <b>AB</b> com a medida igual ao diâmetro da circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt013" name="sl">
+           <label for="dt013"></label>
+           <img src="dt/39_01_03.png"/>
+         <figcaption>Agora coloque o ângulo de 90&ordm; à direita de <b>A</b> e alinhe o maior cateto do esquadro de 30/60 com <b>r</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt014" name="sl">
+           <label for="dt014"></label>
+           <img src="dt/39_01_04.png"/>
+         <figcaption>Deslize este esquadro até que a hipotenusa fique alinhada com <b>A</b>. Construa o segmento <b>AD</b> com a medida igual ao diâmetro da circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt015" name="sl">
+           <label for="dt015"></label>
+           <img src="dt/39_01_05.png"/>
+        <figcaption>Construa os segmentos <b>BC // AD</b> e <b>CD // AB</b>. Temos os eixos <b>x</b>, <b>y</b> e <b>z</b> construídos em perspectiva isométrica.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="dt016" name="sl">
+           <label for="dt016"></label>
+           <img src="dt/39_01_06.png"/>
+        <figcaption>Alinhe o menor cateto do esquadro de 30/60 com a reta <b>r</b> e deslize este esquadro até a hipotenusa ficar alinhada com o vértice <b>C</b>. Construa o segmento <b>CE</b>...</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="dt017" name="sl">
+           <label for="dt017"></label>
+           <img src="dt/39_01_07.png"/>
+         <figcaption>... e deslize o esquadro até alinhar a hipotenusa com <b>A</b>, encontrando o segmento <b>AG</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="dt018" name="sl">
+           <label for="dt018"></label>
+           <img src="dt/39_01_08.png"/>
+         <figcaption>Agora inverta a posição do esquadro, alinhando o menor cateto com a reta <b>r</b> novamente. Deslize o esquadro até a hipotenusa ficar alinhada com o vértice <b>C</b>, e construa o segmento <b>CH</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt019" name="sl">
+           <label for="dt019"></label>
+           <img src="dt/39_01_09.png"/>
+         <figcaption>Deslize o esquadro até alinhar a hipotenusa com <b>A</b>. Construa o segmento <b>AF</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt020" name="sl">
+           <label for="dt020"></label>
+           <img src="dt/39_01_10.png"/>
+         <figcaption>Agora construa o arco com centro em <b>A</b> e raio <b>AF = AG</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt021" name="sl">
+           <label for="dt021"></label>
+           <img src="dt/39_01_11.png"/>
+         <figcaption>Construa o arco com centro em <b>C</b> e o mesmo raio <b>AF = AG = CH = CE</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt022" name="sl">
+           <label for="dt022"></label>
+           <img src="dt/39_01_12.png"/>
+         <figcaption>Considere os pontos <b>I</b> e <b>J</b> como interseções dos segmentos <b>AF</b> com <b>CE</b> e <b>AG</b> com <b>CH</b>. Construa o arco com centro em <b>I</b> e raio <b>IF = IE</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt023" name="sl">
+           <label for="dt023"></label>
+           <img src="dt/39_01_13.png"/>
+         <figcaption>Para finalizar nossa circunferência, construa o arco com centro em <b>J</b> e raio <b>JG = JH</b>.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/39_01_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00040.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
