@@ -7451,6 +7451,13 @@
 	<div class="combo"><a href="vr/p129d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00026.png"/>
+	<div class="combo"><a href="vr/p130a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00026a.png"/>
+	<div class="combo"><a href="vr/p130b.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00026b.png"/>
+	<div class="combo"><a href="vr/p130c.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00026c.png"/>
+	<div class="combo"><a href="vr/p130d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00027.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
