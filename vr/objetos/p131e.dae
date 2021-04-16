@@ -177,7 +177,7 @@
                             <color>0.8784314 0.8784314 0.8784314 0.8784314</color>
                         </transparent>
                         <transparency>
-                            <float>1</float>
+                            <float>0.4</float>
                         </transparency>
                     </lambert>
                 </technique>
