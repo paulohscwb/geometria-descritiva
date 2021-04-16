@@ -7442,6 +7442,13 @@
 	<div class="combo"><a href="vr/p128a.html" target="_blank" class="visu">Item a</a>    |    <a href="vr/p128b.html" target="_blank">Item b</a>    |    <a href="vr/p128c.html" target="_blank">Item c</a>    |    <a href="vr/p128d.html" target="_blank">Item d</a>    |    <a href="vr/p128e.html" target="_blank">Item e</a>    |    <a href="vr/p128f.html" target="_blank">Item f</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00025.png"/>
+	<div class="combo"><a href="vr/p129a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00025a.png"/>
+	<div class="combo"><a href="vr/p129b.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00025b.png"/>
+	<div class="combo"><a href="vr/p129c.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00025c.png"/>
+	<div class="combo"><a href="vr/p129d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00026.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
