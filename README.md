@@ -4048,14 +4048,14 @@
   <p></p>
   <ul class="slider">
       <li>
-           <input type="radio" id="e033e" name="sl">
-           <label for="e033e"></label>
+           <input type="radio" id="e033se" name="sl">
+           <label for="e033se"></label>
            <img src="pontos-retas/35_5_a.png"/>
         <figcaption>Solução do item a</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="e034e" name="sl">
-           <label for="e034e"></label>
+           <input type="radio" id="e034se" name="sl">
+           <label for="e034se"></label>
            <img src="pontos-retas/35_5_b.png"/>
         <figcaption>Solução do item b</figcaption>
        </li>
@@ -4076,14 +4076,14 @@
   <p></p>
   <ul class="slider">
       <li>
-           <input type="radio" id="e033e" name="sl">
-           <label for="e033e"></label>
+           <input type="radio" id="e033se1" name="sl">
+           <label for="e033se1"></label>
            <img src="pontos-retas/47_01_01.png"/>
         <figcaption></figcaption>
        </li>
 	  <li>
-           <input type="radio" id="e034e" name="sl">
-           <label for="e034e"></label>
+           <input type="radio" id="e034se1" name="sl">
+           <label for="e034se1"></label>
            <img src="pontos-retas/47_01_02.png"/>
         <figcaption></figcaption>
        </li>
@@ -4095,14 +4095,14 @@
   <p></p>
   <ul class="slider">
       <li>
-           <input type="radio" id="e033e" name="sl">
-           <label for="e033e"></label>
+           <input type="radio" id="e033se2" name="sl">
+           <label for="e033se2"></label>
            <img src="pontos-retas/47_02_01.png"/>
         <figcaption></figcaption>
        </li>
 	  <li>
-           <input type="radio" id="e034e" name="sl">
-           <label for="e034e"></label>
+           <input type="radio" id="e034se2" name="sl">
+           <label for="e034se2"></label>
            <img src="pontos-retas/47_02_02.png"/>
         <figcaption></figcaption>
        </li>
