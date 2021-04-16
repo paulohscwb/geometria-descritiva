@@ -7466,11 +7466,19 @@
 	<img src="dt/Apost_DT_2021_00028.png"/>
 	<div class="combo"><a href="vr/p132d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00028a.png"/>
+	<div class="combo"><a href="vr/p132a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00028b.png"/>
+	<div class="combo"><a href="vr/p132b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00029.png"/>
+	<div class="combo"><a href="vr/p133c.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00029a.png"/>
+	<div class="combo"><a href="vr/p133d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00030.png"/>
+	<div class="combo"><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00030a.png"/>
+	<img src="dt/Apost_DT_2021_00030b.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00031.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
