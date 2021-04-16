@@ -186,26 +186,22 @@
         <effect id="ID14">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <lambert>
+                    <lambert>
                         <diffuse>
                             <color>0.9 0.9 0.9 0.3</color>
                         </diffuse>
                     </lambert>
-                    </constant>
                 </technique>
             </profile_COMMON>
         </effect>
         <effect id="ID16">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <lambert>
+                    <lambert>
                         <diffuse>
                             <color>0.9 0.9 0.9 0.3</color>
                         </diffuse>
                     </lambert>
-                    </constant>
                 </technique>
             </profile_COMMON>
         </effect>

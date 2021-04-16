@@ -7457,10 +7457,16 @@
 	<img src="dt/Apost_DT_2021_00027.png"/>
 	<div class="combo"><a href="vr/p131e.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027a.png"/>
+	<div class="combo"><a href="vr/p131a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027b.png"/>
+	<div class="combo"><a href="vr/p131b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027c.png"/>
+	<div class="combo"><a href="vr/p131c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00028.png"/>
+	<div class="combo"><a href="vr/p132d.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00028a.png"/>
+	<img src="dt/Apost_DT_2021_00028b.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00029.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
