@@ -159,9 +159,9 @@
         <effect id="ID9">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <lambert>
+                     <lambert>
                         <diffuse>
-                            <color>0.2 0 0.4 0.1294118</color>
+                            <color>0.4 0.09803922 0 0.1294118</color>
                         </diffuse>
                         <transparent opaque="RGB_ZERO">
                             <color>0.8705882 0.8705882 0.8705882 0.8705882</color>
