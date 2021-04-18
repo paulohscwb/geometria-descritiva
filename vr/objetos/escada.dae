@@ -294,14 +294,11 @@
         <effect id="ID16">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0 0 0 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                    <lambert>
+                        <diffuse>
+                            <color>0.9 0.9 0.9 0.3</color>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
@@ -313,7 +310,7 @@
                             <color>0.7294118 0.572549 0.2039216 1</color>
                         </transparent>
                         <transparency>
-                            <float>1</float>
+                            <float>0.7</float>
                         </transparency>
                     </constant>
                 </technique>
