@@ -7610,6 +7610,9 @@
 	<div class="combo"><a href="vr/p147_6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00044.png"/>
+	<div class="combo"><a href="vr/p148_7.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00044a.png"/>
+	<div class="combo"><a href="vr/p148_8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00045.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
