@@ -7595,6 +7595,9 @@
 	<img src="dt/Apost_DT_2021_00040.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00041.png"/>
+	<div class="combo"><a href="vr/p145_1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="dt/Apost_DT_2021_00041a.png"/>
+	<div class="combo"><a href="vr/p145_2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00042.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
