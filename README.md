@@ -7638,6 +7638,7 @@
 	<div class="combo"><a href="vr/p156.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00053.png"/>
+	<div class="combo"><a href="vr/p157.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00054.png"/>
 	<div class="combo"><a href="vr/p158.html" target="_blank" class="visu">Visualização em 3D</a></div>
