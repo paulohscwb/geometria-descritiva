@@ -19,11 +19,14 @@
 
 		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 360; initialPosition: 200 100 450"></a-entity>
 		
-		<a-entity position="-0.5 0.5 0.5" scale="0.06 0.06 0.06" rotation="0 60 0">
+		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="0 60 0">
 			<a-entity  collada-model="#modelo"></a-entity>
+		</a-entity>
+		
+		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="0 60 0">
 			<a-entity  collada-model="#modelo1">
 			  <!--<a-animation attribute="rotation" dur="10000" fill="forwards" to="0 360 0" repeat="indefinite"></a-animation>-->
-			  <a-animation attribute="material.opacity" begin="fade" to="0"></a-animation>
+			  <a-animation attribute="opacity" from="1" to="0"></a-animation>
 			</a-entity>
 		</a-entity>
 				
