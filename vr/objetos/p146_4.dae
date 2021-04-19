@@ -97,7 +97,7 @@
                 <technique sid="COMMON">
                     <lambert>
                         <diffuse>
-                            <color>0 0 0.4 0.1411765</color>
+                            <color>0 0 0.55 0.1411765</color>
                         </diffuse>
                         <transparent opaque="RGB_ZERO">
                             <color>0.8588235 0.8588235 0.8588235 0.8588235</color>
