@@ -264,7 +264,7 @@
                             <color>0.8588235 0.8588235 0.8588235 0.8588235</color>
                         </transparent>
                         <transparency>
-                            <float>1</float>
+                            <float>0.4</float>
                         </transparency>
                     </lambert>
                 </technique>
@@ -273,28 +273,22 @@
         <effect id="ID10">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0 0 0 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                    <lambert>
+                        <diffuse>
+                            <color>0.9 0.9 0.9 0.3</color>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
         <effect id="ID24">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0.8 0.4 0 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                    <lambert>
+                        <diffuse>
+                            <color>0.9 0.9 0.9 0.3</color>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
