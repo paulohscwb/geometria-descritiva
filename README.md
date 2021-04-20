@@ -7069,6 +7069,78 @@
 	</div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00099.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos obter o 1&ordm; e 2&ordm; traços do Plano Qualquer. O plano está determinado pelos pontos <b>A</b>, <b>B</b> e <b>C</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="d034n1" name="sl">
+           <label for="d034n1"></label>
+           <img src="planosPQ/99_01_01.png"/>
+        <figcaption>Para encontrar o traço <b>&alpha;&pi;’</b> basta encontrar a reta horizontal do plano de cota nula. Ou seja, devemos obter dois pontos de cota zero do plano. Represente a reta <b>BC</b> em épura. </figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="d035n1" name="sl">
+           <label for="d035n1"></label>
+           <img src="planosPQ/99_01_02.png"/>
+        <figcaption>Vamos obter o ponto <b>P</b> da reta <b>BC</b> de cota zero. Marque <b>P’’</b> na interseção da 2&ordf; projeção da reta <b>BC</b> com a Linha de Terra (LT).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d036n1" name="sl">
+           <label for="d036n1"></label>
+           <img src="planosPQ/99_01_03.png"/>
+         <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1&ordf; projeção sobre <b>B’C’</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="d037n1" name="sl">
+           <label for="d037n1"></label>
+           <img src="planosPQ/99_01_04.png"/>
+         <figcaption>Represente a reta <b>AC</b> em épura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d038n1" name="sl">
+           <label for="d038n1"></label>
+           <img src="planosPQ/99_01_05.png"/>
+         <figcaption>Vamos obter o ponto <b>Q</b> da reta <b>AC</b> de cota zero. Marque <b>Q’’</b> na interseção da 2&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d039n1" name="sl">
+           <label for="d039n1"></label>
+           <img src="planosPQ/99_01_06.png"/>
+         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha sua 1&ordf; projeção sobre <b>A’C’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d040n1" name="sl">
+           <label for="d040n1"></label>
+           <img src="planosPQ/99_01_07.png"/>
+         <figcaption>Os pontos <b>P</b> e <b>Q</b> possuem cota zero. Desenhe por <b>P’</b> e <b>Q’</b> o traço <b>&alpha;&pi;’</b>. Pronto, já temos o 1&ordm; traço representado. Lembrando que a segunda projeção do 1&ordm; traço está sobre a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d041n1" name="sl">
+           <label for="d041n1"></label>
+           <img src="planosPQ/99_01_08.png"/>
+         <figcaption>Para obter o traço <b>&alpha;&pi;’’</b> basta encontrar a reta frontal do plano de afastamento nulo. Ou seja, devemos obter dois pontos de afastamentozero do plano. Vamos obter o ponto <b>R</b> da reta <b>AC</b> de afastamento zero. Marque <b>R’</b> na interseção da 1&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d042n1" name="sl">
+           <label for="d042n1"></label>
+           <img src="planosPQ/99_01_09.png"/>
+         <figcaption>Trace a LC do ponto <b>R</b> e obtenha sua 2ordf; projeção sobre <b>A’’C’’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d043n1" name="sl">
+           <label for="d043n1"></label>
+           <img src="planosPQ/99_01_10.png"/>
+         <figcaption>O primeiro e segundo traços do Plano Qualquer são sempre concorrentes e o ponto de concorrência está sobre a LT. Marque o ponto <b>S’</b> de interseção de <b>&alpha;&pi;’</b> com a LT. A 2&ordf; projeção desse ponto coincide com a sua 1&ordf; projeção então marque <b>S’’ &equiv; S’</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d044n1" name="sl">
+           <label for="d044n1"></label>
+           <img src="planosPQ/99_01_11.png"/>
+         <figcaption>Os pontos <b>R</b> e <b>S</b> possuem cota zero. Desenhe por <b>R’’</b> e <b>S’’</b> o traço <b>&alpha;&pi;’’</b>.Lembrando que a primeira projeção do 2&ordm; traço está sobre a LT. Pronto! Representamos o Plano Qualquer pelos seus dois traços!</figcaption>
+       </li>
+    </ul>
+	<img src="planosPQ/99_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosPQ/Apost_GD_2021_00099a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>O Plano Qualquer está determinado pelo ponto A e pelo traço &alpha;&pi;’. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
