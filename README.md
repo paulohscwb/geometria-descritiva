@@ -6320,6 +6320,11 @@
 	<figcaption>Para determinar a segunda projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas geratrizes. Podemos construir esta seção à mão livre. Faça a visibilidade da seção acompanhando a visibilidade do cilindro.</figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00083a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Construa os traços <b>&theta;&pi;'</b> e <b>&theta;&pi;''</b> do plano vertical. Como este plano é projetante em <b>&pi;'</b>, as interseções de <b>&theta;&pi;'</b> com as geratrizes <b>VA</b>, <b>VB</b>, <b>VT<sub>1</sub></b> e <b>VT<sub>2</sub></b> determinam 4 pontos da seção elíptica.</p>
+	<img src="planosTV/83_02_00.png"/>
+	<figcaption>Para determinar a segunda projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas geratrizes. Podemos construir esta seção à mão livre. Faça a visibilidade da seção acompanhando a visibilidade do cone.</figcaption>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00083b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
