@@ -7657,6 +7657,7 @@
 	<img src="dt/Apost_DT_2021_00060.png"/>
 	<div class="combo"><a href="vr/p164b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00060a.png"/>
+	<div class="combo"><a href="vr/p165c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00061.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
