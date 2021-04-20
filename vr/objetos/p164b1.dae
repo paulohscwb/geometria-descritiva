@@ -4,8 +4,8 @@
         <contributor>
             <authoring_tool>SketchUp 17.2.2555</authoring_tool>
         </contributor>
-        <created>2021-04-20T00:50:06Z</created>
-        <modified>2021-04-20T00:50:06Z</modified>
+        <created>2021-04-20T01:15:58Z</created>
+        <modified>2021-04-20T01:15:58Z</modified>
         <unit meter="0.0254" name="inch" />
         <up_axis>Z_UP</up_axis>
     </asset>
@@ -27,7 +27,7 @@
         <visual_scene id="ID2">
             <node name="SketchUp">
                 <node name="skp_camera_Last_Saved_SketchUp_View">
-                    <matrix>0.7592682 -0.2735238 0.5905053 3314.598 0.6507778 0.3191226 -0.6889477 -4146.687 5.551115e-17 0.9073839 0.4203029 2305.298 0 0 0 1</matrix>
+                    <matrix>-0.8723488 -0.1851441 0.45247 2555.793 -0.4888839 0.3303652 -0.8073732 -4823.943 -2.775558e-17 -0.9255164 -0.3787076 -2152.829 0 0 0 1</matrix>
                     <instance_camera url="#ID1" />
                 </node>
                 <node id="ID3" name="group_0">
@@ -183,7 +183,7 @@
         </geometry>
     </library_geometries>
     <library_materials>
-        <material id="ID5" name="Color_H08">
+        <material id="ID5" name="__Color_H08_1">
             <instance_effect url="#ID6" />
         </material>
         <material id="ID10" name="edge_color010210238">
@@ -214,14 +214,11 @@
         <effect id="ID11">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0 0.4 0.4 0.1490196</color>
-                        </transparent>
+                    <lambert>
                         <diffuse>
                             <color>0.9 0.9 0.9 0.3</color>
                         </diffuse>
-                    </constant>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
