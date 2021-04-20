@@ -6426,7 +6426,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00084a.png"/>
 	<img src="planosTV/Apost_GD_2021_00084b.png"/>
-	<p>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</p>
+	<figcaption>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</figcaption>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00085.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -6436,19 +6436,19 @@
            <input type="radio" id="l072" name="sl">
            <label for="l072"></label>
            <img src="planosTV/74_00_01.png"/>
-        <figcaption>Dados os pontos A e B, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;")  e como  as bases são paralelas, já podemos traçar o plano vertical que passa pelo ponto G.</figcaption>
+        <figcaption>Dados os pontos <b>A</b> e <b>B</b>, o plano vertical já fica definido pelos seus traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;"</b>). Como  as bases são paralelas, podemos traçar o plano vertical com distância igual à aresta <b>AB</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l073" name="sl">
            <label for="l073"></label>
            <img src="planosTV/74_00_02.png"/>
-         <figcaption>Efetuar a MPV para os pontos A e B, colocando a 2a LT paralela à &alpha;&pi;'</figcaption>
+         <figcaption>Efetuar a MPV para os pontos <b>A</b> e <b>B</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l074" name="sl">
            <label for="l074"></label>
            <img src="planosTV/74_00_03.png"/>
-         <figcaption>Fazer a MPV para os pontos A e B, encontrando A"1 e B"1</figcaption>
+         <figcaption>Fazer a MPV para os pontos <b>A</b> e <b>B</b>, encontrando <b>A"<sub>1</sub></b> e <b>B"<sub>1</sub></b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l075" name="sl">
@@ -6460,13 +6460,13 @@
            <input type="radio" id="l077" name="sl">
            <label for="l077"></label>
            <img src="planosTV/74_00_05.png"/>
-         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;' (C' e D')</figcaption>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre <b>&alpha;&pi;'</b> (<b>C'</b> e <b>D'</b>)</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l076" name="sl">
            <label for="l076"></label>
            <img src="planosTV/74_00_06.png"/>
-         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as 2as projeções dos pontos C" e D"</figcaption>
+         <figcaption>Fazer o alçamento em relação à 1a LT, obtendo as segundas projeções dos pontos <b>C</b> e <b>D</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l078" name="sl">
@@ -6478,25 +6478,25 @@
            <input type="radio" id="l079" name="sl">
            <label for="l079"></label>
            <img src="planosTV/74_00_08.png"/>
-         <figcaption>Representar os pontos E', F', G' e H'</figcaption>
+         <figcaption>Representar os pontos <b>E'</b>, <b>F'</b>, <b>G'</b> e <b>H'</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l080" name="sl">
            <label for="l080"></label>
            <img src="planosTV/74_00_09.png"/>
-         <figcaption>Fazer o alçamento desses pontos, lembrando que as retas perpendiculares ao plano vertical são horizontais, portanto as arestas AE, BF, CG e DH são retas horizontais e, portanto, possuem a 2a projeção paralela à LT.</figcaption>
+         <figcaption>Fazer o alçamento desses pontos, lembrando que as retas perpendiculares ao plano vertical são horizontais. Logo, as arestas <b>AE</b>, <b>BF</b>, <b>CG</b> e <b>DH</b> têm as segundas projeções paralelas à LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l081" name="sl">
            <label for="l081"></label>
            <img src="planosTV/74_00_10.png"/>
-         <figcaption>Desenhar o contorno aparente na 1a e na 2a projeções.</figcaption>
+         <figcaption>Desenhar o contorno aparente na 1&ord; e na 2&ordf; projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l082" name="sl">
            <label for="l082"></label>
            <img src="planosTV/74_00_11.png"/>
-         <figcaption>Desenhar as linhas internas, considerando a visibilidade do sólido.</figcaption>
+         <figcaption>Desenhar as linhas internas, considerando os critérios de visibilidade.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
