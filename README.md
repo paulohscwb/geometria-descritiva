@@ -6307,7 +6307,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Um ponto comum entre os planos <b>&alpha;</b> e <b>&beta;</b> está na interseção dos traços <b>&alpha;&pi;''</b> e <b>&beta;&pi;''</b>, pois são planos projetantes em <b>&pi;''</b>. Logo, a reta de interseção destes planos é <b>&alpha;&beta;</b> de topo.</p>
 	<img src="planosTV/82_01_00.png"/>
-	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;''</b> e <b>&lambda;&pi;''</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&gamma;&lambda;</b> vertical.</figcaption>
+	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;''</b> e <b>&lambda;&pi;''</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&lambda;&gamma;</b> vertical.</figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00082a.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
