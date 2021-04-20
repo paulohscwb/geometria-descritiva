@@ -6248,7 +6248,7 @@
            <input type="radio" id="l036" name="sl">
            <label for="l036"></label>
            <img src="planosTV/69_04.png"/>
-         <figcaption>Por <b>A'<sub>1</sub></b> construa uma perpendicular à LT, encontrando <b>A''<sub>1</sub></b>.</figcaption>
+         <figcaption>Por <b>A'<sub>1</sub></b> construa uma perpendicular à LT, encontrando <b>A''<sub>1</sub></b> com a reta paralela à linha de terra.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/69_01.png" class="fundo"/>
@@ -6261,7 +6261,7 @@
            <input type="radio" id="l048" name="sl">
            <label for="l048"></label>
            <img src="planosTV/70_01_01.png"/>
-        <figcaption>Dados os pontos <b>A</b> e <b>O</b>, o plano vertical já fica definido pelos seus traços horizontal <b>&alpha;&pi;'</b> e vertical &alpha;&pi;"</b></figcaption>
+        <figcaption>Dados os pontos <b>A</b> e <b>O</b>, o plano vertical já fica definido pelos seus traços horizontal <b>&alpha;&pi;'</b> e vertical <b>&alpha;&pi;"</b></figcaption>
        </li>
        <li>
            <input type="radio" id="l049" name="sl">
@@ -6304,6 +6304,11 @@
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00082.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Um ponto comum entre os planos <b>&alpha;</b> e <b>&beta;</b> está na interseção dos traços <b>&alpha;&pi;''</b> e <b>&beta;&pi;''</b>, pois são planos projetantes em <b>&pi;''</b>. Logo, a reta de interseção destes planos é <b>&alpha;&beta;</b> de topo.</p>
+	<img src="planosTV/82_01_00.png"/>
+	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;''</b> e <b>&lambda;&pi;''</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&gamma;&lambda;</b> vertical.</figcaption>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00082a.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
 	<br><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
