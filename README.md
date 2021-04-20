@@ -6395,13 +6395,13 @@
            <input type="radio" id="l063s" name="sl">
            <label for="l063s"></label>
            <img src="planosTV/72_08_01.png"/>
-        <figcaption>Representar o plano vertical que passa pelo ponto Z e forma 30&ordfm; com &pi;"</figcaption>
+        <figcaption>Representar o plano vertical que passa pelo ponto <b>Z</b> e forma 30&ordm; com <b>&pi;"</b></figcaption>
        </li>
        <li>
            <input type="radio" id="l064s" name="sl">
            <label for="l064s"></label>
            <img src="planosTV/72_08_02.png"/>
-         <figcaption>Encontrar os pontos de seçao na 1&ordf; e 2&ordf; projeções: 1,2, 3, 4</figcaption>
+         <figcaption>Encontrar os pontos de seçao na 1&ordf; e 2&ordf; projeções: <b>1</b>, <b>2</b>, <b>3</b>, <b>4</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l065s" name="sl">
@@ -6426,6 +6426,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00084a.png"/>
 	<img src="planosTV/Apost_GD_2021_00084b.png"/>
+	<p>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</p>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00085.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
