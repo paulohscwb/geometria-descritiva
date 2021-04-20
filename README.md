@@ -4028,7 +4028,7 @@
         <figcaption>Solução do item g</figcaption>
        </li>
 	</ul>
-	<img src="pontos-retas/45_08_01.png" class="fundo" style="visibility:hidden"/>
+	<img src="pontos-retas/45_04_01.png" class="fundo" style="visibility:hidden"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00045d.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
