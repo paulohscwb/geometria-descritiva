@@ -6089,7 +6089,7 @@
            <input type="radio" id="l021" name="sl">
            <label for="l021"></label>
            <img src="planosTV/66_01_03.png"/>
-        <figcaption>Fazer a MPH para os pontos A e B. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>B</b> é zero, vai permanecer zero e portanto <b>B'<sub>1</sub></b> fica sobre a nova LT. </figcaption>
+        <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>B</b> é zero, vai permanecer zero e portanto <b>B'<sub>1</sub></b> fica sobre a nova LT. </figcaption>
        </li>
        <li>
            <input type="radio" id="l022" name="sl">
@@ -6119,7 +6119,7 @@
            <input type="radio" id="l026" name="sl">
            <label for="l026"></label>
            <img src="planosTV/66_01_09.png"/>
-         <figcaption>Traçar a circunferência circunscrita ao quadrado. Traçar  a outra base: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b>.</figcaption>
+         <figcaption>Traçar a circunferência circunscrita ao quadrado. Traçar a outra base: <b>E'<sub>1</sub>F'<sub>1</sub>G'<sub>1</sub>H'<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l027" name="sl">
@@ -6143,7 +6143,7 @@
            <input type="radio" id="l030" name="sl">
            <label for="l030"></label>
            <img src="planosTV/66_01_14.png"/>
-         <figcaption>Fazer as linhas de chamada os pontos E'1F'1G'1H'1, determinando <b>E"F"G"H"</b>.</figcaption>
+         <figcaption>Fazer as linhas de chamada os pontos <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>H'<sub>1</sub></b>, determinando <b>E"F"G"H"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l031" name="sl">
@@ -6166,7 +6166,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de 4 pontos para representá-la.</p>
 	<img src="planosTV/67_01_00.png"/>
-	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro AB pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro CD que é de topo, está em verdadeira grandeza na 1a projeção.</figcaption>
+	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro <b>AB</b> pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro <b>CD</b> que é de topo, está em verdadeira grandeza na 1&ordf; projeção.</figcaption>
   </details><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
@@ -6177,49 +6177,49 @@
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00080a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>&alpha;&pi;'é oblíquo à LT e &alpha;&pi;" é perpendicular à LT.</p>
+  <p><b>&alpha;&pi;'</b> é oblíquo à LT e <b>&alpha;&pi;"</b> é perpendicular à LT.</p>
   <ul class="slider">
 	  <li>
            <input type="radio" id="l040" name="sl">
            <label for="l040"></label>
            <img src="planosTV/68_02.png"/>
-        <figcaption>São necessários dois pontos para definir o plano vertical</figcaption>
+        <figcaption>São necessários dois pontos para definir o plano vertical.</figcaption>
        </li>
        <li>
            <input type="radio" id="l041" name="sl">
            <label for="l041"></label>
            <img src="planosTV/68_03.png"/>
-         <figcaption>Qualquer figura contida no plano tem sua 1a projeção reduzida a um segmento de reta</figcaption>
+         <figcaption>Qualquer figura contida no plano tem sua 1&ordf; projeção reduzida a um segmento de reta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l042" name="sl">
            <label for="l042"></label>
            <img src="planosTV/68_04.png"/>
-         <figcaption>Não tem projeção em VG</figcaption>
+         <figcaption>Não tem projeção em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l043" name="sl">
            <label for="l043"></label>
            <img src="planosTV/68_05.png"/>
-         <figcaption>É projetante em primeira projeção, pois é perpendicular à &pi;'</figcaption>
+         <figcaption>É projetante em primeira projeção, pois é perpendicular à <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l044" name="sl">
            <label for="l044"></label>
            <img src="planosTV/68_06.png"/>
-         <figcaption>As retas do plano são: vertical, horizontal e qualquer</figcaption>
+         <figcaption>As retas do plano são: vertical, horizontal e qualquer.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l045" name="sl">
            <label for="l045"></label>
            <img src="planosTV/68_07.png"/>
-         <figcaption>O plano forma ângulo de 90&deg; com &pi;', e com &pi;' e &pi;" forma ângulo entre 0&deg; e 90&deg;.</figcaption>
+         <figcaption>O plano forma ângulo de <b>90&deg;</b> com <b>&pi;'</b>, e com <b>&pi;'</b> e <b>&pi;"</b> forma ângulo entre <b>0&deg;</b> e <b>90&deg;</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l047" name="sl">
            <label for="l047"></label>
            <img src="planosTV/68_09.png"/>
-         <figcaption>O traço da reta no plano é o ponto (r&alpha;), interseção da reta r com o plano &pi;'. A reta perpendicular ao plano é uma reta horizontal.</figcaption>
+         <figcaption>O traço da reta no plano é o ponto <b>r&alpha;</b>, interseção da reta <b>r</b> com o traço <b>&alpha;&pi;'</b>. A reta perpendicular ao plano é uma reta horizontal, tal que <b>r' &perp;  &alpha;&pi;'</b>.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/68_01.png" class="fundo"/>
