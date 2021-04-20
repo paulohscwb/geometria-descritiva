@@ -6511,18 +6511,18 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
+	<p>Utilizamos a mudança de planos para construir uma base em VG do cilindro. A outra base pode ser construída por meio das geratrizes paralelas <b>A'E'</b> e <b>B'F'</b> na primeira projeção e <b>T<sub>1</sub>''T<sub>2</sub>''</b> e <b>T<sub>3</sub>''T<sub>4</sub>''</b> na segunda projeção.</p>
 	<img src="planosTV/76_00_01.png"/>
-	<figcaption></figcaption>
+	<figcaption>As projeções das bases em <b>&pi;''</b> são elipses, com os diâmetros <b>A''B''</b>, <b>C''D''</b>, <b>E''F''</b> e <b>G''H''</b>. Podemos construir as elipses à mão livre.</figcaption>
   </details>
   <a href="vr/a19.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00088.png"/>
 	<div class="combo">
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
+	<p>Neste exercício, podemos construir a seção plana elíptica determinando outras geratrizes do cone: basta escolher um ponto qualquer (por exemplo, <b>C''</b>) da circunferência e encontrar a primeira projeção deste ponto no traço <b>&alpha;&pi;'</b>.</p>
 	<img src="planosTV/77_01_01.png"/>
-	<figcaption></figcaption>
+	<figcaption>As interseções das geratrizes com o traço do plano de seção <b>&beta;&pi;'</b> determinam a primeira projeção da seção plana. Fazendo as linhas de chamada de cada interseção, temos a segunda projeção nas respectivas projeções das geratrizes do cone.</figcaption>
   </details>
 	<a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
