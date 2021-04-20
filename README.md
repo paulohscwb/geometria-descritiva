@@ -4037,30 +4037,17 @@
 	<figcaption></figcaption>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00045e.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p></p>
 	<img src="pontos-retas/45_12_01.png"/>
 	<figcaption></figcaption>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00046.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p></p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="e033se" name="sl">
-           <label for="e033se"></label>
-           <img src="pontos-retas/35_5_a.png"/>
-        <figcaption>Solução do item a</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="e034se" name="sl">
-           <label for="e034se"></label>
-           <img src="pontos-retas/35_5_b.png"/>
-        <figcaption>Solução do item b</figcaption>
-       </li>
-	</ul>
-	<img src="pontos-retas/35_5_a.png" class="fundo" style="visibility:hidden"/>
+	<img src="pontos-retas/46_01_01.png"/>
+	<figcaption></figcaption>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00046a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
