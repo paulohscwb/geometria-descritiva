@@ -6490,7 +6490,7 @@
            <input type="radio" id="l081" name="sl">
            <label for="l081"></label>
            <img src="planosTV/74_00_10.png"/>
-         <figcaption>Desenhar o contorno aparente na 1&ord; e na 2&ordf; projeções.</figcaption>
+         <figcaption>Desenhar o contorno aparente na 1&ordf; e na 2&ordf; projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l082" name="sl">
@@ -6503,9 +6503,9 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p></p>
+	<p>Utilizamos a mudança de planos para construir duas faces paralelas em VG do octaedro regular. Neste caso, o octaedro é considerado um anti-prisma de base triangular.</p>
 	<img src="planosTV/75_01_00.png"/>
-	<figcaption></figcaption>
+	<figcaption>Depois, basta fazer os alçamentos dos vértices <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> para determinar as projeções do octaedro.</figcaption>
   </details>
 	<a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
