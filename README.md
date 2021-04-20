@@ -6230,25 +6230,25 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00081.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
-  <p>Dado o plano vertical &alpha; e o ponto A, fazer o rebatimento do ponto A sobre o plano &pi;"</p>
+  <p>Dado o plano vertical <b>&alpha;</b> e o ponto <b>A</b>, fazer o rebatimento do ponto <b>A</b> sobre o plano <b>&pi;"</b></p>
   <ul class="slider">
 	  <li>
            <input type="radio" id="l034" name="sl">
            <label for="l034"></label>
            <img src="planosTV/69_02.png"/>
-        <figcaption>Traçar por A" uma reta paralela à LT</figcaption>
+        <figcaption>Traçar por <b>A"</b> uma reta paralela à LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="l035" name="sl">
            <label for="l035"></label>
            <img src="planosTV/69_03.png"/>
-         <figcaption>Com centro em P, fazer um arco de circunferência, no sentido anti horário, até encontrar a LT (A'1).</figcaption>
+         <figcaption>Com centro em <b>P</b>, construa um arco de circunferência, no sentido anti horário, até encontrar a LT em <b>A'<sub>1</sub></b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l036" name="sl">
            <label for="l036"></label>
            <img src="planosTV/69_04.png"/>
-         <figcaption>Por A'1 traçar uma perpendicular à LT (A"1).</figcaption>
+         <figcaption>Por <b>A'<sub>1</sub></b> construa uma perpendicular à LT, encontrando <b>A''<sub>1</sub></b>.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/69_01.png" class="fundo"/>
@@ -6261,19 +6261,19 @@
            <input type="radio" id="l048" name="sl">
            <label for="l048"></label>
            <img src="planosTV/70_01_01.png"/>
-        <figcaption>Dados os pontos A e O, o plano vertical já fica definido pelos seus traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;")</figcaption>
+        <figcaption>Dados os pontos <b>A</b> e <b>O</b>, o plano vertical já fica definido pelos seus traços horizontal <b>&alpha;&pi;'</b> e vertical &alpha;&pi;"</b></figcaption>
        </li>
        <li>
            <input type="radio" id="l049" name="sl">
            <label for="l049"></label>
            <img src="planosTV/70_01_02.png"/>
-         <figcaption>Rebatemos o plano vertical sobre o plano &pi;"</figcaption>
+         <figcaption>Rebatemos o plano vertical sobre o plano <b>&pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l050" name="sl">
            <label for="l050"></label>
            <img src="planosTV/70_01_03.png"/>
-         <figcaption>Construir a circunferência de centro O e raio OA</figcaption>
+         <figcaption>Construir a circunferência de centro <b>O</b> e raio <b>OA</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l051" name="sl">
@@ -6285,7 +6285,7 @@
            <input type="radio" id="l052" name="sl">
            <label for="l052"></label>
            <img src="planosTV/70_01_05.png"/>
-         <figcaption>Fazer o alçamento (sentido contrário do rebatimento) dos pontos, encontrando suas primeiras projeções sobre &alpha;&pi;'</figcaption>
+         <figcaption>Fazer o alçamento (sentido contrário do rebatimento) dos pontos, encontrando suas primeiras projeções sobre <b>&alpha;&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l053" name="sl">
@@ -6297,7 +6297,7 @@
            <input type="radio" id="l054" name="sl">
            <label for="l054"></label>
            <img src="planosTV/70_01_07.png"/>
-         <figcaption></figcaption>
+         <figcaption>Construir as projeções do octógono.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/70_01_00.png" class="fundo"/>
