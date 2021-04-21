@@ -3860,13 +3860,13 @@
            <input type="radio" id="512" name="sl">
            <label for="512"></label>
            <img src="pontos-retas/43_02_01.png"/>
-        <figcaption>Vamos utilizar neste exercício a MPV. Para isso representamos uma 2LT paralela à <b>r'</b> e transportamos as cotas de <b>A</b> e <b>B</b>, da primeira LT para segunda LT.</figcaption>
+        <figcaption>Vamos utilizar neste exercício a MPV. Para isso representamos uma 2LT paralela à <b>s'</b> e transportamos as cotas de <b>C</b> e <b>D</b>, da primeira LT para segunda LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="513" name="sl">
            <label for="513"></label>
            <img src="pontos-retas/43_02_02.png"/>
-        <figcaption>Encontramos <b>r<sub>1</sub>''</b> e <b>A<sub>1</sub>''B<sub>1</sub>''</b> corresponde a VG do segmento <b>AB</b>.</figcaption>
+        <figcaption>Encontramos <b>s<sub>1</sub>''</b> e <b>C<sub>1</sub>''D<sub>1</sub>''</b> corresponde a VG do segmento <b>CD</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="514" name="sl">
