@@ -3809,7 +3809,7 @@
            <input type="radio" id="500b" name="sl">
            <label for="500b"></label>
            <img src="pontos-retas/42_02_04.png"/>
-        <figcaption>Pronto! Temos <b>r<sub>1</sub>'</b>. A VG do segmento AB aparece na primeira projeção da 2LT.</figcaption>
+        <figcaption>Pronto! Temos <b>r<sub>1</sub>'</b>. A VG do segmento <b>AB</b> aparece na primeira projeção da 2LT.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/42_02_00.png" class="fundo"/>
@@ -3978,7 +3978,7 @@
            <input type="radio" id="e011" name="sl">
            <label for="e011"></label>
            <img src="pontos-retas/44_02_06.png"/>
-        <figcaption>Encontramos assim <b>Q'</b> sobre <b>S'</b> e <b>Q''</b> sobre <b>s''</b>.</figcaption>
+        <figcaption>Encontramos assim <b>Q'</b> sobre <b>s'</b> e <b>Q''</b> sobre <b>s''</b>.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/44_02_00.png" class="fundo"/>
