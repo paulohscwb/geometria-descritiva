@@ -3835,7 +3835,7 @@
            <input type="radio" id="503" name="sl">
            <label for="503"></label>
            <img src="pontos-retas/43_01_03.png"/>
-        <figcaption>Traçamos uma reta paralela à 2LT, cuja distância entre elas corresponde a cota do ponto <b>P</b> (23 unidades).</figcaption>
+        <figcaption>Traçamos uma reta paralela à 2LT, cuja distância entre elas corresponde ao afastamento do ponto <b>P</b> (23 unidades).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="504" name="sl">
