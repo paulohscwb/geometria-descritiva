@@ -6643,11 +6643,10 @@
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Para determinar <b>&alpha;&pi;'</b>, encontramos o ponto <b>Q</b> de cota nula da reta <b>r(A, B)</b>. Para determinar <b>&alpha;&pi;''</b>, encontramos o ponto <b>P</b> de afastamento nulo da reta <b>r(A, B)</b>.</p>
 	<img src="planosPQ/90_00_00.png"/>
-	<figcaption>Os traços <b>&alpha;&pi;'</b> e <b>&alpha;&pi;''</b> são paralelos à linha de terra, pois são retas fronto-horizontais. O traço <b>&alpha;&pi;'''</b> é determinado pelos terceiras projeções dos pontos <b>P</b> e <b>Q</b>.</figcaption>
-  </details>
+	<figcaption>Os traços <b>&alpha;&pi;'</b> e <b>&alpha;&pi;''</b> são paralelos à linha de terra, pois são retas fronto-horizontais. O traço <b>&alpha;&pi;'''</b> é determinado pelos terceiras projeções dos pontos <b>P</b> e <b>Q</b>.</figcaption></details></div>
 	<img src="planosPQ/Apost_GD_2021_00090a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pelo ponto <b>A</b> e pelo seu traço em <b>&pi;'</b>.</p>
@@ -6695,13 +6694,13 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00091.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Para representar o quadradocontido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
+  <p>Para representar o quadrado contido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="d056" name="sl">
            <label for="d056"></label>
            <img src="planosPQ/80_01.png"/>
-        <figcaption>Represente os pontos <b>A</b> e <b>B</b> que definem oPlano Paralelo à Linha de Terra.</figcaption>
+        <figcaption>Represente os pontos <b>A</b> e <b>B</b> que definem o Plano Paralelo à Linha de Terra.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d057" name="sl">
@@ -6725,13 +6724,19 @@
            <input type="radio" id="d060" name="sl">
            <label for="d060"></label>
            <img src="planosPQ/80_07.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''</b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d060a" name="sl">
+           <label for="d060a"></label>
+           <img src="planosPQ/80_07.png"/>
+         <figcaption>Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MP Horizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''</b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d061" name="sl">
            <label for="d061"></label>
            <img src="planosPQ/80_08.png"/>
-         <figcaption>Construa as novas LC a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas LC a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referentes à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d062" name="sl">
@@ -6755,7 +6760,7 @@
            <input type="radio" id="d065" name="sl">
            <label for="d065"></label>
            <img src="planosPQ/80_13.png"/>
-        <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos <b>C</b> e <b>D</b> para o 2º sistema. Construa a LC dos pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento dos pontos <b>C</b> e <b>D</b> do 3º sistema obtendo os pontos <b>C’</b> e <b>D’</b>.Veja o processo destacado para o ponto <b>C</b>.</figcaption>
+        <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos <b>C</b> e <b>D</b> para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos dos pontos <b>C</b> e <b>D</b> do 3º sistema obtendo os pontos <b>C’</b> e <b>D’</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d066" name="sl">
@@ -6767,7 +6772,7 @@
            <input type="radio" id="d067" name="sl">
            <label for="d067"></label>
            <img src="planosPQ/80_15.png"/>
-        <figcaption>Para fazer o alçamento dos pontos <b>C</b> e <b>D</b> para o 1º sistema construa as LC dos pontos <b>C’</b> e <b>D’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema obtendo os pontos <b>C’’</b> e <b>D’’</b>.Veja o processo destacado para o ponto <b>C</b>.</figcaption>
+        <figcaption>Para fazer o alçamento dos pontos <b>C</b> e <b>D</b> para o 1º sistema construa as LC dos pontos <b>C’</b> e <b>D’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema obtendo os pontos <b>C’’</b> e <b>D’’</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d068" name="sl">
