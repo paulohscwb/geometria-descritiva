@@ -5777,7 +5777,7 @@
            <input type="radio" id="s041n" name="sl">
            <label for="s041n"></label>
            <img src="planosTV/59_00_08.png"/>
-        <figcaption>A segunda projeção do traço (r&alpha;) de uma reta r com o plano de topo pertence ao traço vertical do plano.</figcaption>
+        <figcaption>A segunda projeção do traço (r&alpha;) de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s042n" name="sl">
@@ -5798,55 +5798,55 @@
            <input type="radio" id="s043" name="sl">
            <label for="s043"></label>
            <img src="planosTV/61_01_02.png"/>
-        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s044" name="sl">
            <label for="s044"></label>
            <img src="planosTV/61_01_03.png"/>
-        <figcaption>Encontrar o traço vertical do plano &alpha; (&alpha;&pi;''). </figcaption>
+        <figcaption>Encontrar o traço vertical do plano: <b>&alpha;&pi;''</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s045" name="sl">
            <label for="s045"></label>
            <img src="planosTV/61_01_04.png"/>
-        <figcaption>Encontrar o traço horizontal do plano &alpha; (&alpha;&pi;'). </figcaption>
+        <figcaption>Encontrar o traço horizontal do plano: <b>&alpha;&pi;'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s046" name="sl">
            <label for="s046"></label>
            <img src="planosTV/61_01_05.png"/>
-        <figcaption>A primeira projeção do segmento AB apresenta VG após o rebatimento.</figcaption>
+        <figcaption>A primeira projeção do segmento <b>AB</b> apresenta VG após o rebatimento.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s047" name="sl">
            <label for="s047"></label>
            <img src="planosTV/61_01_06.png"/>
-        <figcaption>A projeção A'<sub>1</sub>B'<sub>1</sub>C'1<sub>1</sub>D'<sub>1</sub> está em VG.</figcaption>
+        <figcaption>A projeção <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> está em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s048" name="sl">
            <label for="s048"></label>
            <img src="planosTV/61_01_07.png"/>
-        <figcaption>A projeção A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub>D''<sub>1</sub> fica reduzida a um segmento de reta.</figcaption>
+        <figcaption>A projeção <b>A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub>D''<sub>1</sub></b> fica reduzida a um segmento de reta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s049" name="sl">
            <label for="s049"></label>
            <img src="planosTV/61_01_08.png"/>
-        <figcaption>Voltamos com o processo do rebatimento e encontramos C'' e D''.</figcaption>
+        <figcaption>Voltamos com o processo do rebatimento e encontramos <b>C''</b> e <b>D''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s050" name="sl">
            <label for="s050"></label>
            <img src="planosTV/61_01_09.png"/>
-        <figcaption>Encontramos C' e D'</figcaption>
+        <figcaption>Encontramos <b>C'</b> e <b>D'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s051" name="sl">
            <label for="s051"></label>
            <img src="planosTV/61_01_10.png"/>
-        <figcaption>Pronto! O quadrado ABCD contido no plano &alpha;, de topo, está representado.</figcaption>
+        <figcaption>Pronto! O quadrado <b>ABCD</b> contido no plano <b>&alpha;</b>, de topo, está representado.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/61_01_01.png" class="fundo"/>
