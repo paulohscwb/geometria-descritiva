@@ -6643,45 +6643,50 @@
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para determinar <b>&alpha;&pi;'</b>, encontramos o ponto <b>Q</b> de cota nula. Para determinar <b>&alpha;&pi;''</b>, encontramos o ponto <b>P</b> de afastamento nulo.</p>
+	<img src="planosTV/90_00_00.png"/>
+	<figcaption>Os traços <b>&alpha;&pi;'</b> e <b>&alpha;&pi;''</b> são paralelos à linha de terra, pois são retas fronto-horizontais. O traço <b>&alpha;&pi;'''</b> é determinado pelos terceiras projeções dos pontos <b>P</b> e <b>Q</b>.</figcaption>
+  </details>
 	<img src="planosPQ/Apost_GD_2021_00090a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pelo ponto A e pelo seu traço em &pi;´ </p>
+  <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pelo ponto <b>A</b> e pelo seu traço em <b>&pi;'</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="l001y" name="sl">
            <label for="l001y"></label>
            <img src="planosPQ/79_01_01.png"/>
-        <figcaption>Para fazer a MPV, transformar o plano paralelo a Linha de terra em plano de topo, fazemos a 2a LT perpendicular a &alpha;&pi;´ </figcaption>
+        <figcaption>Para fazer a MPV, transformar o plano paralelo a Linha de terra em plano de topo, fazemos a 2&ordf; LT perpendicular a <b>&alpha;&pi;'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="l002y" name="sl">
            <label for="l002y"></label>
            <img src="planosPQ/79_01_02.png"/>
-        <figcaption>Traçar a perpendicular à nova LT por A´</figcaption>
+        <figcaption>Traçar a perpendicular à nova LT por <b>A'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l003y" name="sl">
            <label for="l003y"></label>
            <img src="planosPQ/79_01_03.png"/>
-         <figcaption>Fazer a MPV para o ponto A, transportando a cota do ponto e encontrando A"1</figcaption>
+         <figcaption>Fazer a MPV para o ponto <b>A</b>, transportando a cota do ponto e encontrando <b>A"<sub>1</sub></b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l004y" name="sl">
            <label for="l004y"></label>
            <img src="planosPQ/79_01_04.png"/>
-         <figcaption>Para fazer a MPH e transformar o plano de topo em plano horizontal, Desenhe por A’ o traço &alpha;&pi;"1 e fazer a 3a LT paralela a esse traço.</figcaption>
+         <figcaption>Para fazer a MPH e transformar o plano de topo em plano horizontal, Desenhe por <b>A’</b> o traço <b>&alpha;&pi;"<sub>1</sub></b> e fazer a 3&ordf; LT paralela a esse traço.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l005y" name="sl">
            <label for="l005y"></label>
            <img src="planosPQ/79_01_05.png"/>
-         <figcaption>Fazer a Linha de chamada de A"1 em relação à 3a LT</figcaption>
+         <figcaption>Fazer a Linha de chamada de <b>A"<sub>1</sub></b> em relação à 3&ordf; LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l006y" name="sl">
            <label for="l006y"></label>
            <img src="planosPQ/79_01_06.png"/>
-         <figcaption>Transportar o afastamento do ponto A, relativo ao sistema anterior.</figcaption>
+         <figcaption>Transportar o afastamento do ponto <b>A</b>, relativo ao sistema anterior.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/79_01_00.png" class="fundo"/>
