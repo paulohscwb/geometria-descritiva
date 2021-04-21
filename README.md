@@ -3701,7 +3701,30 @@
 	<img src="pontos-retas/41_01_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00041a.png"/>
-	<div class="combo"><a href="vr/a_mpp1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção. Neste primeiro exemplo, vamos modificar a posição de <b>&pi;''</b>, mantendo-se o novo plano perpendicular a <b>&pi;'</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="496d" name="sl">
+           <label for="496d"></label>
+           <img src="pontos-retas/41_02_01.png"/>
+        <figcaption>Considere neste exemplo o ponto <b>A</b> representado por meio das projeções em <b>&pi;'</b> e <b>&pi;''</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="497d" name="sl">
+           <label for="497d"></label>
+           <img src="pontos-retas/41_02_02.png"/>
+        <figcaption>Escolhemos uma posição conveniente para o novo plano de projeção <b>&pi;<sub>1</sub>''</b>, determinando a Segunda Linha de Terra (2LT). As cotas dos pontos serão mantidas neste novo sistema de projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="498d" name="sl">
+           <label for="498d"></label>
+           <img src="pontos-retas/41_02_03.png"/>
+        <figcaption>Na épura, basta construir a linha de chamada perpendicular à nova linha de terra, e marcar a cota do ponto <b>A</b> a partir da nova linha de terra. Temos a projeção <b>A'</b> mantida, e a nova projeção <b>A<sub>1</sub>''</b> do ponto <b>A</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="pontos-retas/41_02_00.png" class="fundo"/>
+  </details><a href="vr/a_mpp1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00042.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3736,7 +3759,7 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de plano consiste na modificação de posição de um dos planos de projeção. Neste caso, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
+  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção. Neste caso, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="496c" name="sl">
@@ -3748,7 +3771,7 @@
            <input type="radio" id="497c" name="sl">
            <label for="497c"></label>
            <img src="pontos-retas/42_03_02.png"/>
-        <figcaption>Escolhemos uma posição conveniente para o novo plano de projeção <b>&pi;<sub>1</sub>''</b>, determinando a Segunda Linha de Terra (2LT). Os afastamentos dos pontos serão mantidos neste novo sistema de projeções.</figcaption>
+        <figcaption>Escolhemos uma posição conveniente para o novo plano de projeção <b>&pi;<sub>1</sub>'</b>, determinando a Segunda Linha de Terra (2LT). Os afastamentos dos pontos serão mantidos neste novo sistema de projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="498c" name="sl">
@@ -3758,8 +3781,8 @@
        </li>
 	</ul>
 	<img src="pontos-retas/42_03_00.png" class="fundo"/>
-  </details></div>
-	<div class="combo"><a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details>
+  <a href="vr/a_mpp2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/Apost_GD_2021_00042b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Podemos também transformar uma reta de perfil numa reta horizontal (segunda projeção paralela à LT). Para transformar uma reta de perfil em uma reta horizontal vamos utilizar o método descritivo de Mudança de Plano Horizontal (MPH).</p>
@@ -3767,7 +3790,7 @@
       <li>
            <input type="radio" id="499" name="sl">
            <label for="499"></label>
-           <img src="pontos-retas/42_01_01.png"/>
+           <img src="pontos-retas/42_02_01.png"/>
         <figcaption>Representamos a reta <b>r</b> em épura.</figcaption>
        </li>
 	  <li>
