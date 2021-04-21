@@ -5326,25 +5326,25 @@
            <input type="radio" id="s001" name="sl">
            <label for="s001"></label>
            <img src="planosHFP/50_01_01a.png"/>
-        <figcaption>Encontrar as projeções do ponto O.</figcaption>
+        <figcaption>Encontrar as projeções do ponto <b>O</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s002" name="sl">
            <label for="s002"></label>
            <img src="planosHFP/50_01_02a.png"/>
-        <figcaption>Encontrar o traço horizontal do plano &alpha;, paralelo à LT, assim como a circunferência em VG na segunda projeção.</figcaption>
+        <figcaption>Encontrar o traço horizontal do plano <b>&alpha;</b>, paralelo à LT, assim como a circunferência em VG na segunda projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="s003" name="sl">
            <label for="s003"></label>
            <img src="planosHFP/50_01_03a.png"/>
-         <figcaption>Traçar uma reta frontal (r) do plano &alpha;, que passe pelo ponto O e forme ângulo de 30&deg; com &pi;'. Este ângulo aparece em VG na épura.</figcaption>
+         <figcaption>Traçar uma reta frontal <b>r</b> do plano <b>&alpha;</b>, que passe pelo ponto <b>O</b> e forme ângulo de 30&deg; com <b>&pi;'</b>. Este ângulo aparece em VG na épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="s004" name="sl">
            <label for="s004"></label>
            <img src="planosHFP/50_01_04a.png"/>
-         <figcaption>A interseção da circunferência com a reta r encontramos as segundas projeções de dois vértices do hexágono (C'' e F'').</figcaption>
+         <figcaption>A interseção da circunferência com a reta <b>r</b> encontramos as segundas projeções de dois vértices do hexágono (<b>C''</b> e <b>F''</b>).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s005" name="sl">
@@ -5362,7 +5362,7 @@
            <input type="radio" id="s007" name="sl">
            <label for="s007"></label>
            <img src="planosHFP/50_01_07a.png"/>
-         <figcaption>Verifique que o lado AB do hexágono é uma reta frontal que forma ângulo de 30° com &pi;'.</figcaption>
+         <figcaption>Verifique que o lado <b>AB</b> do hexágono é uma reta frontal que forma ângulo de 30° com <b>&pi;'</b>.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/50_01_00a.png" class="fundo"/>
@@ -5375,7 +5375,7 @@
            <input type="radio" id="s008" name="sl">
            <label for="s008"></label>
            <img src="planosHFP/50_02_01a.png"/>
-        <figcaption>Representar os pontos A e B em épura.</figcaption>
+        <figcaption>Representar os pontos <b>A</b> e <b>B</b> em épura.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s009" name="sl">
@@ -5387,19 +5387,19 @@
            <input type="radio" id="s010" name="sl">
            <label for="s010"></label>
            <img src="planosHFP/50_02_03a.png"/>
-         <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs. Retas de topo têm a segunda projeção reduzida a pontos e apresenta VG de segmentos no primeira projeção.</figcaption>
+         <figcaption>A altura da pirâmide é perpendicular à seção equatorial, ou seja, está sobre uma reta de topo. Esta reta de topo passa pelo centro do hexágono regular. Obs: Retas de topo têm a segunda projeção reduzida a pontos e apresentam VG de segmentos na primeira projeção.</figcaption>
        </li>
        <li>
            <input type="radio" id="s011" name="sl">
            <label for="s011"></label>
            <img src="planosHFP/50_02_04a.png"/>
-         <figcaption>O próximo passo consiste em verificar a visibilidade das arestas: o contorno aparente vai ser sempre visível nas duas projeções. Na segunda projeção os vértices V1 e V2 não pertencem ao contorno aparente, sendo visível o de maior afastamento (V2); as arestas que partem dele são visíveis. </figcaption>
+         <figcaption>O próximo passo consiste em verificar a visibilidade das arestas: o contorno aparente vai ser sempre visível nas duas projeções. Na segunda projeção os vértices <b>V<sub>1</sub></b> e <b>V<sub>2</sub></b> não pertencem ao contorno aparente, sendo visível o de maior afastamento (<b>V<sub>2</sub></b>); as arestas que partem dele são visíveis. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s012" name="sl">
            <label for="s012"></label>
            <img src="planosHFP/50_02_04a.png"/>
-         <figcaption>Na primeira projeção, os vértices E e F têm maior cota, logo são visíveis e as arestas que partem deles também; os vértices C e B são os de menor cota, logo são invisíveis e as arestas que partem deles também.</figcaption>
+         <figcaption>Na primeira projeção, os vértices <b>E</b> e <b>F</b> têm maior cota, logo são visíveis e as arestas que partem deles também; os vértices <b>C</b> e <b>B</b> são os de menores cotas, logo são invisíveis e as arestas que partem deles também.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/50_02_00a.png" class="fundo"/>
