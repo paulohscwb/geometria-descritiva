@@ -1864,13 +1864,14 @@
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo"/>
    </details>
-	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+	<img src="prop/Apost_GD_2021_00019c.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
   <p>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</p>
     <img src="prop/20_04_00c.png">
 	<figcaption></figcaption>
   </details>
-  <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
+  <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00020.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
