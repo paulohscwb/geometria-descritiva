@@ -7206,7 +7206,7 @@
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00100.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Para representar o triângulo equilátero contido no plano qualquervamos utilizar o Método de Mudança de Planos (MP).</p>
+  <p>Para representar o triângulo equilátero contido no plano qualquer vamos utilizar o Método de Mudança de Planos (MP).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="d034" name="sl">
@@ -7218,7 +7218,7 @@
            <input type="radio" id="d035" name="sl">
            <label for="d035"></label>
            <img src="planosPQ/89_02.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d036" name="sl">
@@ -7230,13 +7230,13 @@
            <input type="radio" id="d037" name="sl">
            <label for="d037"></label>
            <img src="planosPQ/89_04.png"/>
-         <figcaption>Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+         <figcaption>Vamos efetuar agora uma MP Horizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um polígono, não é necessário deixar um espaço grande entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d038" name="sl">
            <label for="d038"></label>
            <img src="planosPQ/89_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d039" name="sl">
