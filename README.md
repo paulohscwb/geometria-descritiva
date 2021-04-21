@@ -7322,7 +7322,7 @@
            <input type="radio" id="d024" name="sl">
            <label for="d024"></label>
            <img src="planosPQ/90_06.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o prisma regular hexagonal com a face ABCDEF contida nesse plano. Inicie construindo o hexágono regular <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub>E’<sub>1</sub>F’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o prisma regular hexagonal com a face <b>ABCDEF</b> contida nesse plano. Inicie construindo o hexágono regular <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub>E’<sub>1</sub>F’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d025" name="sl">
@@ -7404,7 +7404,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/93_01.png"/>
-	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual a aresta da base.</figcaption>
+	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual à aresta da base.</figcaption>
   </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
