@@ -7023,56 +7023,56 @@
            <input type="radio" id="d050" name="sl">
            <label for="d050"></label>
            <img src="planosPQ/87_01_04.png"/>
-         <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos y e z, respectivamente.</figcaption>
+         <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos <b>y</b> e <b>z</b>, respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d051" name="sl">
            <label for="d051"></label>
            <img src="planosPQ/87_01_05.png"/>
-         <figcaption>O Plano Qualquer não é perpendicular a nenhum Plano se Projeção e, portanto, não é projetante. Note que as 1<sup>as</sup> projeções dos <b>A</b>, <b>B</b> e <b>C</b> não estão alinhadas, o mesmo acontece para as demais projeções.</figcaption>
+         <figcaption>O Plano Qualquer não é perpendicular a nenhum Plano se Projeção e, portanto, não é projetante. Note que as primeiras projeções dos <b>A</b>, <b>B</b> e <b>C</b> não estão alinhadas, o mesmo acontece para as demais projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d052" name="sl">
            <label for="d052"></label>
            <img src="planosPQ/87_01_06.png"/>
-         <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano é oblíquo aos Planos de Projeção. Para obtermos a VG de algum elemento do plano iremos utilizar o Método da Mudança de Planos.</figcaption>
+         <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano é oblíquo aos Planos de Projeção. Para obtermos a VG de algum elemento do plano utilizaremos o Método da Mudança de Planos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d053" name="sl">
            <label for="d053"></label>
            <img src="planosPQ/87_01_07.png"/>
-         <figcaption>As retas contidas num Plano Paralelo à Linha de Terra podem ser: horizontais, frontas, de perfil ou quaisquer. </figcaption>
+         <figcaption>As retas contidas num Plano Qualquer podem ser: horizontais, frontas, de perfil ou quaisquer. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d054" name="sl">
            <label for="d054"></label>
            <img src="planosPQ/87_01_08.png"/>
-        <figcaption>Para se representar um Plano Qualquersão necessários 3 pontos distintos e não colineares, que não definam nenhum dos planos anteriores.</figcaption>
+        <figcaption>Para se representar um Plano Qualquer são necessários 3 pontos distintos e não colineares, que não definam nenhum dos planos anteriores.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d055" name="sl">
            <label for="d055"></label>
            <img src="planosPQ/87_01_09.png"/>
-        <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Qualquer forma com <b>&pi’;</b> é o ângulo é o mesmo ângulo que uma de suas retas quaisquer, que seja perpendicular a <b>&alpha;&pi;''</b>, forma com <b>&pi’;</b>. Analogamente obtemos os ângulos <b>&theta;<sub>2</sub></b> e <b>&theta;<sub>3</sub></b>. Podemos também obter o ângulo <b>&theta;<sub>1</sub></b> efetuando uma MPV tornando-o de Topo num novo sistema, e obter o ângulo <b>&theta;<sub>3</sub></b> efetuando uma MPH tornando-o Vertical num outro sistema. Não há relação entre os três ângulos que o Plano Qualquer forma com os Planos de Projeção.</figcaption>
+        <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Qualquer forma com <b>&pi;'</b> é o mesmo ângulo que uma de suas retas quaisquer, que seja perpendicular a <b>&alpha;&pi;''</b>, forma com <b>&pi;'</b>. Analogamente obtemos os ângulos <b>&theta;<sub>2</sub></b> e <b>&theta;<sub>3</sub></b>. Podemos também obter o ângulo <b>&theta;<sub>1</sub></b> efetuando uma MPV tornando-o de Topo num novo sistema, e obter o ângulo <b>&theta;<sub>3</sub></b> efetuando uma MPH tornando-o Vertical num outro sistema. Não há relação entre os três ângulos que o Plano Qualquer forma com os Planos de Projeção.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/87_01_00.png" class="fundo"/>
   </details></div>
   <img src="planosPQ/Apost_GD_2021_00098b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Devemos lembrar que uma reta é perpendicular a um plano quando ela for perpendicular ou ortogonal a duas retas concorrentes desse plano. E também lembrar da Propriedade 7 das Projeções Cilíndricas. Assim, vamos aplicar duas vezes essa Propriedade para obtermos a reta p!</p>
+  <p>Devemos lembrar que uma reta é perpendicular a um plano quando ela for perpendicular ou ortogonal a duas retas concorrentes desse plano. E também lembrar da Propriedade 7 das Projeções Cilíndricas. Assim, vamos aplicar duas vezes essa Propriedade para obtermos a reta <b>p</b>!</p>
   <ul class="slider">
       <li>
            <input type="radio" id="d047n" name="sl">
            <label for="d047n"></label>
            <img src="planosPQ/87_02_01.png"/>
-        <figcaption>Construa p’ passando por P’ e perpendicular a &alpha;&pi;’. Como esse traço é uma horizontal do Plano Qualquer &alpha; então pela Propriedade 7 temos que as retas &alpha;&pi;’ e p formam 90°.</figcaption>
+        <figcaption>Construa <b>p’</b> passando por <b>P’</b> e perpendicular a <b>&alpha;&pi;’</b>. Como esse traço é uma horizontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;’</b> e <b>p</b> formam 90°.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d048n" name="sl">
            <label for="d048n"></label>
            <img src="planosPQ/87_02_02.png"/>
-        <figcaption>Construa p’’ passando por P’’ e perpendicular a &alpha;&pi;’’. Como esse traço é uma frontal do Plano Qualquer &alpha; então pela Propriedade 7 temos que as retas &alpha;&pi;’’ e p formam 90°. Temos então a reta p que passa pelo ponto dado P e é perpendicular ao plano dado &alpha;!</figcaption>
+        <figcaption>Construa <b>p’’</b> passando por <b>P’’</b> e perpendicular a <b>&alpha;&pi;’’</b>. Como esse traço é uma frontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;’’</b> e <b>p</b> formam 90°. Temos então a reta <b>p</b> que passa pelo ponto dado <b>P</b> e é perpendicular ao plano dado <b>&alpha;</b>!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/87_02_00.png" class="fundo"/>
