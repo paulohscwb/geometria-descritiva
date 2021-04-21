@@ -6801,7 +6801,7 @@
            <input type="radio" id="d002" name="sl">
            <label for="d002"></label>
            <img src="planosPQ/82_02.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d003" name="sl">
@@ -6813,13 +6813,13 @@
            <input type="radio" id="d004" name="sl">
            <label for="d004"></label>
            <img src="planosPQ/82_04.png"/>
-         <figcaption>Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+         <figcaption>Vamos efetuar agora uma MP Horizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d005" name="sl">
            <label for="d005"></label>
            <img src="planosPQ/82_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d006" name="sl">
@@ -6831,7 +6831,7 @@
            <input type="radio" id="d007" name="sl">
            <label for="d007"></label>
            <img src="planosPQ/82_07.png"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;pi;’’<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;’’<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d008" name="sl">
@@ -6843,7 +6843,7 @@
            <input type="radio" id="d009" name="sl">
            <label for="d009"></label>
            <img src="planosPQ/82_09.png"/>
-        <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>EFGH</b> marque a altura do sólido, que é a VG da aresta, a partir do traço <b>&alpha;&pi;’’<sub>1</sub></b> e construa o 2º traço do plano horizontal gama paralelo a ele. No plano gama estarão os pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>. </figcaption>
+        <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>EFGH</b> marque a altura do sólido, que é a VG da aresta, a partir do traço <b>&alpha;&pi;’’<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>. </figcaption>
        </li>
        <li>
            <input type="radio" id="d010" name="sl">
@@ -6873,7 +6873,7 @@
            <input type="radio" id="d013" name="sl">
            <label for="d013"></label>
            <img src="planosPQ/82_13.png"/>
-         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>H’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento do 3º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>H’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d014" name="sl">
@@ -6885,7 +6885,7 @@
            <input type="radio" id="d015" name="sl">
            <label for="d015"></label>
            <img src="planosPQ/82_15.png"/>
-         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>H’</b> perpendiculares à 1ª LT. Marque sobre essas LC a cota do 2º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>H’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d016" name="sl">
@@ -6909,7 +6909,7 @@
            <input type="radio" id="d019" name="sl">
            <label for="d019"></label>
            <img src="planosPQ/82_19.png"/>
-         <figcaption>Trace as LC dos pontos de interseção, obtendo as suas 1as projeções nas 1as projeções das arestas a que pertencem.</figcaption>
+         <figcaption>Trace as LC dos pontos de interseção, obtendo as suas 1as projeções nas primeiras projeções das arestas a que pertencem.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d020" name="sl">
