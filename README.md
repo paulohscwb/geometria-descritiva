@@ -1774,7 +1774,7 @@
   </details>
   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
   <img src="prop/Apost_GD_2021_00019b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
     <img src="prop/20_03_00c.png">
 	<figcaption></figcaption>
@@ -1866,7 +1866,7 @@
    </details>
 	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
 	<img src="prop/Apost_GD_2021_00019c.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</p>
     <img src="prop/20_04_00c.png">
 	<figcaption></figcaption>
