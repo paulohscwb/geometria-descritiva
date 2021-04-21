@@ -3702,7 +3702,7 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00041a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção. Neste primeiro exemplo, vamos modificar a posição de <b>&pi;''</b>, mantendo-se o novo plano perpendicular a <b>&pi;'</b>.</p>
+  <p>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção, mantendo-se o outro plano de projeção. Neste primeiro exemplo, vamos modificar a posição de <b>&pi;''</b>, mantendo-se o novo plano perpendicular a <b>&pi;'</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="496d" name="sl">
@@ -3759,7 +3759,7 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção. Neste caso, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
+  <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção, mantendo-se o outro plano de projeção. Neste segundo exemplo, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="496c" name="sl">
