@@ -5860,7 +5860,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00073a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 70.</p>
+	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 72.</p>
 	<img src="planosTV/62_01_00.png"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
   </details>
@@ -5868,19 +5868,19 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 70.</p>
+  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 72.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s052" name="sl">
            <label for="s052"></label>
            <img src="planosTV/62_02_00.png"/>
-        <figcaption>As arestas de um prisma são paralelas entre si e de mesmo tamanho. Como conhecemos a aresta CG, logo podemos representar as demais arestas. A base EFGH está contida no plano &beta;, paralelo ao plano &alpha;.</figcaption>
+        <figcaption>As arestas de um prisma são paralelas entre si e de mesmo tamanho. Como conhecemos a aresta <b>CG</b>, logo podemos representar as demais arestas. A base <b>EFGH</b> está contida no plano <b>&beta;</b>, paralelo ao plano <b>&alpha;</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s053" name="sl">
            <label for="s053"></label>
            <img src="planosTV/62_02_02.png"/>
-        <figcaption>Para encontrar a seção produzida pelo plano de topo &delta;, encontramos os pontos de interseção deste com as arestas do prisma (polígono 1234). A segunda projeção do polígono fica reduzida a um segmento de reta.  </figcaption>
+        <figcaption>Para encontrar a seção produzida pelo plano de topo <b>&delta;</b>, encontramos os pontos de interseção deste com as arestas do prisma (polígono <b>1234</b>). A segunda projeção do polígono fica reduzida a um segmento de reta.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/62_02_00.png" class="fundo"/>
@@ -5896,13 +5896,13 @@
            <input type="radio" id="s054" name="sl">
            <label for="s054"></label>
            <img src="planosTV/63_01_02.png"/>
-        <figcaption>Representar o ponto Z (70, 0, 0) e os traços do plano &alpha;. Sendo &alpha; um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma ângulo com a LT igual ao ângulo que o plano forma no espaço com &pi;'.</figcaption>
+        <figcaption>Representar o ponto <b>Z</b> e os traços do plano <b>&alpha;</b>. Sendo <b>&alpha;</b> um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma com a LT um ângulo igual ao ângulo que o plano forma no espaço com <b>&pi;'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s055" name="sl">
            <label for="s055"></label>
            <img src="planosTV/63_01_03.png"/>
-        <figcaption>Como &alpha; é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical.A interseção das arestas da pirâmide com o &alpha;&pi;'' nos fornece os vértices do polígono resultante da seção.</figcaption>
+        <figcaption>Como <b>&alpha;</b> é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical. A interseção das arestas da pirâmide com o <b>&alpha;&pi;''</b> nos fornece os vértices do polígono resultante da seção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s057" name="sl">
@@ -5920,7 +5920,7 @@
            <input type="radio" id="s059" name="sl">
            <label for="s059"></label>
            <img src="planosTV/63_01_06.png"/>
-        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método do rebatimento do plano &alpha; sobre o plano &pi;'. Utilizando o traço horizontal como eixo, rebatemos o plano &alpha; até ele se tornar horizontal. Os pontos, na segunda projeção, se deslocam segundo arcos de circunferência.</figcaption>
+        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método do rebatimento do plano <b>&alpha;</b> sobre o plano <b>&pi;'</b>. Utilizando o traço horizontal como eixo, rebatemos o plano <b>&alpha;</b> até ele se tornar horizontal. Os pontos, na segunda projeção, se deslocam segundo arcos de circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s060" name="sl">
@@ -5938,61 +5938,61 @@
            <input type="radio" id="s062" name="sl">
            <label for="s062"></label>
            <img src="planosTV/63_01_09.png"/>
-        <figcaption>Para planificar o tronco da pirâmide resultante da seção precisamos da VG de todas as suas faces. Conhecemos a VG da base da pirâmide e da seção. Precisamos encontrar a VG das arestas da pirâmide. Neste exemplo a aresta VD, que define uma reta qualquer, foi rotacionada até ser transformada em uma reta frontal, apresentando VG na segunda projeção.</figcaption>
+        <figcaption>Para planificar o tronco da pirâmide resultante da seção precisamos da VG de todas as suas faces. Conhecemos a VG da base da pirâmide e da seção. Precisamos encontrar a VG das arestas da pirâmide. Neste exemplo a aresta <b>VD</b>, que define uma reta qualquer, foi rotacionada até ser transformada em uma reta frontal, apresentando VG na segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s063" name="sl">
            <label for="s063"></label>
            <img src="planosTV/63_01_10.png"/>
-        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano &alpha;. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta VD. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
+        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano <b>&alpha;</b>. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta <b>VD</b>. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/63_01_01.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Planificação</summary>
-  <p>Desenhe uma reta r e marque sobre ela o um dos lados do quadrado (por exemplo o lado CD).</p>
+  <p>Desenhe uma reta <b>r</b> e marque sobre ela o um dos lados do quadrado (por exemplo o lado <b>CD</b>).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s064" name="sl">
            <label for="s064"></label>
            <img src="planosTV/63_01_12.png"/>
-        <figcaption>Construa o quadrado ABCD</figcaption>
+        <figcaption>Construa o quadrado <b>ABCD</b></figcaption>
        </li>
 	  <li>
            <input type="radio" id="s065" name="sl">
            <label for="s065"></label>
            <img src="planosTV/63_01_13.png"/>
-        <figcaption>Agora vamos construir as faces laterais da pirâmide. Desenhe dois arcos de circunferência: um com centro em A e raio igual ao valor da aresta em VG e o outro com mesmo raio e centro em B. </figcaption>
+        <figcaption>Agora vamos construir as faces laterais da pirâmide. Desenhe dois arcos de circunferência: um com centro em <b>A</b> e raio igual ao valor da aresta em VG e o outro com mesmo raio e centro em <b>B</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s066" name="sl">
            <label for="s066"></label>
            <img src="planosTV/63_01_14.png"/>
-        <figcaption>Marcar o vértice V na interseção dos dois arcos de circunferência.</figcaption>
+        <figcaption>Marcar o vértice <b>V</b> na interseção dos dois arcos de circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s067" name="sl">
            <label for="s067"></label>
            <img src="planosTV/63_01_15.png"/>
-        <figcaption>Traçar um arco de circunferência com centro em V e raio igual à aresta.</figcaption>
+        <figcaption>Traçar um arco de circunferência com centro em <b>V</b> e raio igual à aresta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s068" name="sl">
            <label for="s068"></label>
            <img src="planosTV/63_01_16.png"/>
-        <figcaption>Sobre este arco de circunferência marcar o ponto C que está a uma distância l do ponto B (sendo l o lado do quadrado). Ainda sobre esta arco, marcar o ponto D, que está a uma distância l do ponto A e novamente o ponto C, a uma distância l do ponto D. </figcaption>
+        <figcaption>Sobre este arco de circunferência marcar o ponto <b>C</b> que está a uma distância <b>l</b> do ponto <b>B</b> (sendo <b>l</b> o lado do quadrado). Ainda sobre este arco, marcar o ponto <b>D</b>, que está a uma distância <b>l</b> do ponto <b>A</b> e novamente o ponto <b>C</b>, a uma distância <b>l</b> do ponto <b>D</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s069" name="sl">
            <label for="s069"></label>
            <img src="planosTV/63_01_17.png"/>
-        <figcaption>Unir o vértice V aos vértices A, B, C e D.</figcaption>
+        <figcaption>Unir o vértice <b>V</b> aos vértices <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s070" name="sl">
            <label for="s070"></label>
            <img src="planosTV/63_01_18.png"/>
-        <figcaption>Com a valor dos segmentos A1, B2, C3 e D4, marcar os pontos 1, 2, 3 e 4 respectivamente sobre as arestas AV, BV, CV e DV.</figcaption>
+        <figcaption>Com o valor dos segmentos <b>A1</b>, <b>B2</b>, <b>C3</b> e <b>D4</b>, marcar os pontos <b>1</b>, <b>2</b>, <b>3</b> e <b>4</b> respectivamente sobre as arestas <b>AV</b>, <b>BV</b>, <b>CV</b> e <b>DV</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s071" name="sl">
@@ -6004,7 +6004,7 @@
            <input type="radio" id="s072" name="sl">
            <label for="s072"></label>
            <img src="planosTV/63_01_20.png"/>
-        <figcaption>Transportar a seção para a planificação. Como sugestão podemos dividir a seção em dois triângulos (por exemplo triângulo 432 e triângulo 124). Reforçar os lados da seção.</figcaption>
+        <figcaption>Transportar a seção para a planificação. Como sugestão podemos dividir a seção em dois triângulos (por exemplo triângulo <b>432</b> e triângulo <b>124</b>). Reforçar os lados da seção.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/63_01_11.png" class="fundo"/>
@@ -6018,7 +6018,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00077.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-  <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a  verdadeira grandeza da base do sólido.</p>
+  <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a verdadeira grandeza da base do sólido.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="l001" name="sl">
@@ -6036,13 +6036,13 @@
            <input type="radio" id="l003" name="sl">
            <label for="l003"></label>
            <img src="planosTV/65_01_03.png"/>
-         <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>A</b> é zero, vai permanecer zero e portanto <b>A'1</b> fica sobre a nova LT. Para transportar o afastamento do ponto <b>B</b>, tomamos essa medida com o compasso. </figcaption>
+         <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>A</b> é zero, vai permanecer zero e portanto <b>A'<sub>1</sub></b> fica sobre a nova LT. Para transportar o afastamento do ponto <b>B</b>, tomamos essa medida com o compasso. </figcaption>
        </li>
        <li>
            <input type="radio" id="l004" name="sl">
            <label for="l004"></label>
            <img src="planosTV/65_01_04.png"/>
-         <figcaption>Transportamos o afastamento do ponto <b>B</b>, sobre a perpendicular à LT a partir da nova LT. <b>A'1B'1</b> é a verdadeira grandeza do lado do hexágono da base.</figcaption>
+         <figcaption>Transportamos o afastamento do ponto <b>B</b>, sobre a perpendicular à LT a partir da nova LT. <b>A'<sub>1</sub>B'<sub>1</sub></b> é a verdadeira grandeza do lado do hexágono da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l005" name="sl">
@@ -6054,13 +6054,13 @@
            <input type="radio" id="l006" name="sl">
            <label for="l006"></label>
            <img src="planosTV/65_01_06.png"/>
-         <figcaption>Traçar as linhas de chamada em relação à 2a LT pelos pontos <b>C'1</b>, <b>D'1</b>, <b>E'1</b> e <b>F'1</b> até o traço do plano <b>&alpha;&pi;"</b>. Encontrando as segundas projeções desses pontos <b>C"</b>, <b>D"</b>, <b>E"</b> e <b>F"</b>.</figcaption>
+         <figcaption>Traçar as linhas de chamada em relação à 2&ordf; LT pelos pontos <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>E'<sub>1</sub></b> e <b>F'<sub>1</sub></b> até o traço do plano <b>&alpha;&pi;"</b>. Encontrando as segundas projeções desses pontos <b>C"</b>, <b>D"</b>, <b>E"</b> e <b>F"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l007" name="sl">
            <label for="l007"></label>
            <img src="planosTV/65_01_07.png"/>
-         <figcaption>Para encontrar as 1as projeções desses pontos, traçamos as linhas de chamada dos mesmos com relação à 1a LT.</figcaption>
+         <figcaption>Para encontrar as primeiras projeções desses pontos, traçamos as linhas de chamada dos mesmos com relação à 1&ordf; LT.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/65_01_00.png" class="fundo"/>
@@ -6078,19 +6078,19 @@
            <input type="radio" id="l009" name="sl">
            <label for="l009"></label>
            <img src="planosTV/65_01_09.png"/>
-        <figcaption>Transportamos o afastamento do ponto <b>C</b> para a 1a LT, obtendo o ponto <b>C'</b>. </figcaption>
+        <figcaption>Transportamos o afastamento do ponto <b>C</b> para a 1&ordf; LT, obtendo o ponto <b>C'</b>. </figcaption>
        </li>
        <li>
            <input type="radio" id="l010" name="sl">
            <label for="l010"></label>
            <img src="planosTV/65_01_10.png"/>
-         <figcaption>Procedendo da mesma maneira que no passo 9, obtemos <b>D'</b>, <b>E'</b> e <b>F'</b>. </figcaption>
+         <figcaption>Procedendo da mesma maneira que no passo anterior, obtemos <b>D'</b>, <b>E'</b> e <b>F'</b>. </figcaption>
        </li>
        <li>
            <input type="radio" id="l011" name="sl">
            <label for="l011"></label>
            <img src="planosTV/65_01_11.png"/>
-         <figcaption>Agora que já temos a 1a e 2a projeções das bases do prisma, vamos marcar a altura. Lembre-se que a altura do Prisma arquimediano é igual ao lado da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha;&pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo que contém a face: <b>GHIJKL</b></figcaption>
+         <figcaption>Agora que já temos a 1&ordf; e 2&ordf; projeções das bases do prisma, vamos marcar a altura. Lembre-se que a altura do prisma arquimediano é igual ao lado da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha;&pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo que contém a face: <b>GHIJKL</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l012" name="sl">
@@ -6102,7 +6102,7 @@
            <input type="radio" id="l013" name="sl">
            <label for="l013"></label>
            <img src="planosTV/65_01_13.png"/>
-         <figcaption>Para encontrar as 1as projeções desses pontos, fazemos suas linhas de chamada em relação à 1a LT.</figcaption>
+         <figcaption>Para encontrar as primeiras projeções desses pontos, fazemos suas linhas de chamada em relação à 1&ordf; LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l014" name="sl">
@@ -6114,25 +6114,25 @@
            <input type="radio" id="l015" name="sl">
            <label for="l015"></label>
            <img src="planosTV/65_01_15.png"/>
-         <figcaption>Vamos traçar a visibilidade do sólido. Lembrando que o contorno aparente é sempre visível. Assim na segunda projeção, o contorno aparente é um retângulo e na 1a projeção teremos um octógono.</figcaption>
+         <figcaption>Vamos traçar a visibilidade do sólido. Lembrando que o contorno aparente é sempre visível. Assim na segunda projeção, o contorno aparente é um retângulo e na 1&ordf; projeção teremos um octógono.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l016" name="sl">
            <label for="l016"></label>
            <img src="planosTV/65_01_16.png"/>
-         <figcaption>Agora faremos a visibilidade do sólido começando pelas arestas visíveis. Os pontos de maior cota serão visíveis na 1a projeção e os de maior afastamento serão visíveis na 2a projeção. Começamos com a primeira projeção. O ponto de maior cota é o ponto <b>I</b>, portanto na 1a projeção, tudo que for ligado a ele será visível. Logo <b>IC</b>, <b>IH</b> e <b>IJ</b> serão visíveis e as arestas unidas a esses pontos também serão visíveis.</figcaption>
+         <figcaption>Agora faremos a visibilidade do sólido começando pelas arestas visíveis. Os pontos de maior cota serão visíveis na 1&ordf; projeção e os de maior afastamento serão visíveis na 2&ordf; projeção. Começamos com a primeira projeção. O ponto de maior cota é o ponto <b>I</b>, portanto na 1&ordf; projeção, tudo que for ligado a ele será visível. Logo <b>IC</b>, <b>IH</b> e <b>IJ</b> serão visíveis e as arestas unidas a esses pontos também serão visíveis.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l017" name="sl">
            <label for="l017"></label>
            <img src="planosTV/65_01_17.png"/>
-         <figcaption>O ponto de menor cota é o ponto <b>F</b>, portanto ele é invisível na 1a projeção e tudo que é unido a ele, a menos que faça parte do contorno aparente, também será invisível.</figcaption>
+         <figcaption>O ponto de menor cota é o ponto <b>F</b>, portanto ele é invisível na 1&ordf; projeção e tudo que é unido a ele, a menos que faça parte do contorno aparente, também será invisível.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l018" name="sl">
            <label for="l018"></label>
            <img src="planosTV/65_01_18.png"/>
-         <figcaption>Os pontos de maior afastamento são os pontos <b>JD</b> e <b>KE</b>, portanto essas arestas são visíveis na 2a projeção. As aretas <b>GA</b> e <b>BH</b> serão invisíveis na 2a projeção.</figcaption>
+         <figcaption>Os pontos de maior afastamento são os pontos <b>JD</b> e <b>KE</b>, portanto essas arestas são visíveis na 2&ordf; projeção. As aretas <b>GA</b> e <b>BH</b> serão invisíveis na 2&ordf; projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l019" name="sl">
