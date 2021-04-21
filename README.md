@@ -2317,13 +2317,13 @@
            <input type="radio" id="194" name="sl">
            <label for="194"></label>
            <img src="pontos-retas/15_02_05.png"/>
-         <figcaption>Neste segmento teremos o eixo <b>z</b> com as coordenadas para cima do eixo <b>x</b> e o eixo <b>y</b> com as coordenadas positivas para baixo do eixo <b>x</b>. Agora com a ponta seca em <b>A'</b>, "pegue" a abscissa de <b>A</b> para marcarmos na representação em épura.</figcaption>
+         <figcaption>Neste segmento teremos o eixo <b>z</b> com as coordenadas positivas para cima do eixo <b>x</b> e o eixo <b>y</b> com as coordenadas positivas para baixo do eixo <b>x</b>. Agora com a ponta seca em <b>A'</b>, "pegue" a abscissa de <b>A</b> para marcarmos na representação em épura.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="195" name="sl">
            <label for="195"></label>
            <img src="pontos-retas/15_02_06.png"/>
-         <figcaption>Com a ponta seca na origem <b>O</b> da épura, marque a abscissa do ponto <b>A</b> sobre o eixo <b>x</b> (linha de terra). As abscissas positivas são marcadas à direita da origem e as abscissas negativas são marcadas à esquerda de <b>O</b> Neste ponto podemos desenhar uma reta paralela aos eixos <b>y</b> e <b>z</b> ou a perpendicular ao eixo <b>x</b> usando os esquadros.</figcaption>
+         <figcaption>Com a ponta seca na origem <b>O</b> da épura, marque a abscissa do ponto <b>A</b> sobre o eixo <b>x</b> (linha de terra). As abscissas positivas são marcadas à direita de <b>O</b> e as abscissas negativas são marcadas à esquerda da origem. Podemos desenhar uma reta paralela aos eixos <b>y</b> e <b>z</b>, passando por <b>O</b>, ou a perpendicular ao eixo <b>x</b> usando os esquadros.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="196" name="sl">
@@ -2440,7 +2440,7 @@
            <input type="radio" id="213" name="sl">
            <label for="213"></label>
            <img src="pontos-retas/16_01_13.png"/>
-         <figcaption>Fazendo a mesma construção com a ordenada de <b>A</b> (distância <b>xAA''</b>), encontramos a projeção <b>A'</b>: como a ordenada é positiva, marcamos esta distância para baixo da linha de terra.</figcaption>
+         <figcaption>Fazendo a mesma construção com a ordenada de <b>A</b> (distância <b>AA''</b>), encontramos a projeção <b>A'</b>: como a ordenada é positiva, marcamos esta distância para baixo da linha de terra.</figcaption>
        </li>
     </ul>
 	<img src="pontos-retas/16_01_00.png" class="fundo"/>
@@ -2467,7 +2467,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00028.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos planos de projeção por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
+  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos planos de projeção por meio de suas projeções em perspectiva, e depois em épura.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="226" name="sl">
@@ -2521,7 +2521,7 @@
            <input type="radio" id="234" name="sl">
            <label for="234"></label>
            <img src="pontos-retas/17_01_09.png"/>
-         <figcaption>Deixando fixo o esquadro de 45, deslize o esquadro de 60 até chegar em <b>A''</b>. Agora você pode construir a linha de chama da de <b>A</b>.</figcaption>
+         <figcaption>Deixando fixo o esquadro de 45, deslize o esquadro de 60 até chegar em <b>A''</b>. Agora você pode construir a linha de chamada de <b>A</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="235" name="sl">
@@ -2552,7 +2552,7 @@
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00028a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos eixos por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra (eixo <b>x</b>).</p>
+  <p>Vamos representar os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencentes aos eixos por meio de suas projeções em perspectiva, e depois em épura.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="214" name="sl">
@@ -2564,7 +2564,7 @@
            <input type="radio" id="215" name="sl">
            <label for="215"></label>
            <img src="pontos-retas/17_02_02.png"/>
-         <figcaption>Escolhendo um ponto <b>A</b>sobre o eixo <b>x</b>, as projeções <b>A'</b> e <b>A''</b> ficam coincidentes no próprio eixo <b>x</b> e <b>A'''</b> coincide com a origem. Com a ponta seca na origem, "pegue" a medida da abscissa de <b>A</b> para marcarmos na épura.</figcaption>
+         <figcaption>Escolhendo um ponto <b>A</b> sobre o eixo <b>x</b>, as projeções <b>A'</b> e <b>A''</b> ficam coincidentes no próprio eixo <b>x</b> e <b>A'''</b> coincide com a origem. Com a ponta seca na origem, "pegue" a medida da abscissa de <b>A</b> para marcarmos na épura.</figcaption>
        </li>
        <li>
            <input type="radio" id="216" name="sl">
@@ -2606,7 +2606,7 @@
            <input type="radio" id="222" name="sl">
            <label for="222"></label>
            <img src="pontos-retas/17_02_09.png"/>
-         <figcaption>Todos os pontos do eixo <b>y</b> têm abscissas e cotas nulas. Se o ponto <b>B &isin; y</b>, então a 1&ordf; projeção de <b>B</b> pertence a <b>y</b>. Além disso, <b>B' &equiv; O</b>.</figcaption>
+         <figcaption>Todos os pontos do eixo <b>y</b> têm abscissas e cotas nulas. Se o ponto <b>B &isin; y</b>, então a 1&ordf; projeção de <b>B</b> pertence a <b>y</b>. Além disso, <b>B'' &equiv; O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="223" name="sl">
