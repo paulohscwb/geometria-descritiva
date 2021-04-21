@@ -6554,7 +6554,7 @@
            <input type="radio" id="d004a" name="sl">
            <label for="d004a"></label>
            <img src="planosPQ/78_01_04.png"/>
-         <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros traços. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos y e z, respectivamente.</figcaption>
+         <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros traços. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos <b>y</b> e <b>z</b>, respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d005a" name="sl">
@@ -6566,7 +6566,7 @@
            <input type="radio" id="d006a" name="sl">
            <label for="d006a"></label>
            <img src="planosPQ/78_01_06.png"/>
-         <figcaption>O ângulo <b>&theta;<sub>2</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com o eixo y≡z. Temos que <b>&theta;<sub>1</sub>+&theta;<sub>2</sub>=90°</b>.</figcaption>
+         <figcaption>O ângulo <b>&theta;<sub>2</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com o eixo <b>y &equiv; z</b>. Temos que <b>&theta;<sub>1</sub> + &theta;<sub>2</sub> = 90°</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d007a" name="sl">
@@ -6584,7 +6584,7 @@
            <input type="radio" id="d009a" name="sl">
            <label for="d009a"></label>
            <img src="planosPQ/78_01_09.png"/>
-        <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano ou é oblíquo ou perpendicular aos Planos de Projeção. Para obtermos a VG de algum elemento do plano iremos utilizar o Método da Mudança de Planos.</figcaption>
+        <figcaption>Veja que o triângulo <b>ABC</b> não se projeta em VG em nenhuma projeção. Isso porque o plano ou é oblíquo ou perpendicular aos Planos de Projeção. Para obtermos a VG de algum elemento do plano utilizaremos o Método da Mudança de Planos.</figcaption>
        </li>
        <li>
            <input type="radio" id="d010a" name="sl">
