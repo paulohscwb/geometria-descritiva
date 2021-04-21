@@ -6645,7 +6645,7 @@
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Para determinar <b>&alpha;&pi;'</b>, encontramos o ponto <b>Q</b> de cota nula. Para determinar <b>&alpha;&pi;''</b>, encontramos o ponto <b>P</b> de afastamento nulo.</p>
-	<img src="planosTV/90_00_00.png"/>
+	<img src="planosPQ/90_00_00.png"/>
 	<figcaption>Os traços <b>&alpha;&pi;'</b> e <b>&alpha;&pi;''</b> são paralelos à linha de terra, pois são retas fronto-horizontais. O traço <b>&alpha;&pi;'''</b> é determinado pelos terceiras projeções dos pontos <b>P</b> e <b>Q</b>.</figcaption>
   </details>
 	<img src="planosPQ/Apost_GD_2021_00090a.png"/>
