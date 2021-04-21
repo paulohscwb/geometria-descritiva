@@ -5410,7 +5410,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A base da pirâmide está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
 	<img src="planosHFP/51_01_00a.png"/>
-	<figcaption>A altura é de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto O.</figcaption>
+	<figcaption>A altura é de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto <b>O</b>.</figcaption>
   </details>
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00061a.png"/>
@@ -5443,7 +5443,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Retas tangentes a circunferências são perpendiculares à reta que passa pelo centro e pelo ponto de tangência.</p>
 	<img src="planosHFP/53_02_00.png"/>
-	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro OV.</figcaption>
+	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro <b>OV</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
   <img src="planosHFP/Apost_GD_2021_00064.png"/>
@@ -5529,31 +5529,31 @@
            <input type="radio" id="s013" name="sl">
            <label for="s013"></label>
            <img src="planosHFP/55_01_01a.png"/>
-        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s014" name="sl">
            <label for="s014"></label>
            <img src="planosHFP/55_01_02a.png"/>
-        <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
+        <figcaption>Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="s015" name="sl">
            <label for="s015"></label>
            <img src="planosHFP/55_01_03a.png"/>
-         <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
+         <figcaption>Podemos, por exemplo, rebater o plano <b>&alpha;</b>, no sentido anti-horário, até ele coincidir com <b>&pi;'</b>. Encontramos a projeção do segmento em VG (<b>A'<sub>1</sub>B'<sub>1</sub></b>).</figcaption>
        </li>
        <li>
            <input type="radio" id="s016" name="sl">
            <label for="s016"></label>
            <img src="planosHFP/55_01_04a.png"/>
-         <figcaption>Construímos o triângulo em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>). </figcaption>
+         <figcaption>Construímos o triângulo em VG (<b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b>). </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s017" name="sl">
            <label for="s017"></label>
            <img src="planosHFP/55_01_05a.png"/>
-         <figcaption>Voltamos com o rebatimento e encontramos as projeções do ponto C.</figcaption>
+         <figcaption>Voltamos com o rebatimento e encontramos as projeções do ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s018" name="sl">
@@ -5608,7 +5608,7 @@
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details>
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção. </p>
+	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
 	<img src="planosHFP/55_02_00a.png"/>
 	<figcaption>A solução apresentada foi resolvida por mudança de plano de projeção.</figcaption>
   </details>
@@ -5629,37 +5629,37 @@
            <input type="radio" id="s019" name="sl">
            <label for="s019"></label>
            <img src="planosHFP/56_02_01a.png"/>
-        <figcaption>Encontrar as projeções dos pontos A e B.</figcaption>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s020" name="sl">
            <label for="s020"></label>
            <img src="planosHFP/56_02_02a.png"/>
-        <figcaption>Os traços horizontal (&alpha;&pi;') e vertical (&alpha;&pi;'') são coincidentes e perpendiculares à LT.</figcaption>
+        <figcaption>Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="s021" name="sl">
            <label for="s021"></label>
            <img src="planosHFP/56_02_03a.png"/>
-         <figcaption>Podemos, por exemplo, rebater o plano &alpha;, no sentido anti-horário, até ele coincidir com &pi;'. Encontramos a projeção do segmento em VG (A'<sub>1</sub>B'<sub>1</sub>).</figcaption>
+         <figcaption>Podemos, por exemplo, rebater o plano <b>&alpha;</b>, no sentido anti-horário, até ele coincidir com <b>&pi;'</b>. Encontramos a projeção do segmento em VG (<b>A'<sub>1</sub>B'<sub>1</sub></b>).</figcaption>
        </li>
        <li>
            <input type="radio" id="s022" name="sl">
            <label for="s022"></label>
            <img src="planosHFP/56_02_04a.png"/>
-         <figcaption>Construímos a base em VG (A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub>). </figcaption>
+         <figcaption>Construímos a base em VG (<b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub></b>). </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s023" name="sl">
            <label for="s023"></label>
            <img src="planosHFP/56_02_05a.png"/>
-         <figcaption>Encontramos A' B' C' D' E' F'.</figcaption>
+         <figcaption>Encontramos <b>A'B'C'D'E'F'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s024" name="sl">
            <label for="s024"></label>
            <img src="planosHFP/56_02_06a.png"/>
-         <figcaption>Encontramos A'' B'' C'' D'' E'' F''.</figcaption>
+         <figcaption>Encontramos <b>A''B''C''D''E''F''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s025" name="sl">
@@ -5671,7 +5671,7 @@
            <input type="radio" id="s026" name="sl">
            <label for="s026"></label>
            <img src="planosHFP/56_02_08a.png"/>
-         <figcaption>A altura OV é uma reta fronto-horizontal, logo aparece em VG nas duas projeções.</figcaption>
+         <figcaption>A altura <b>OV</b> é uma reta fronto-horizontal, logo aparece em VG nas duas projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s027" name="sl">
@@ -5701,13 +5701,13 @@
            <input type="radio" id="s034" name="sl">
            <label for="s034"></label>
            <img src="planosHFP/57_02_00a.png"/>
-        <figcaption>Encontrar as projeções do prisma. Neste exercício foi utilizado o rebatimento do plano &alpha; no sentido horário para encontrar as projeções da base do prisma.</figcaption>
+        <figcaption>Encontrar as projeções do prisma. Neste exercício foi utilizado o rebatimento do plano <b>&alpha;</b> no sentido horário para encontrar as projeções da base do prisma.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035" name="sl">
            <label for="s035"></label>
            <img src="planosHFP/57_02_01a.png"/>
-        <figcaption>Encontrar as projeções do polígono (12345) resultante da seção produzida pelo plano frontal (&delta;) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano &delta; e a segunda projeção apresenta VG.</figcaption>
+        <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/57_02_00a.png" class="fundo"/>
@@ -5728,7 +5728,7 @@
            <input type="radio" id="s034n" name="sl">
            <label for="s034n"></label>
            <img src="planosTV/59_00_01.png"/>
-        <figcaption>&alpha;&pi;'é perpendicular à LT e &alpha;&pi;" é oblíquo à LT.</figcaption>
+        <figcaption><b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035n" name="sl">
@@ -5740,7 +5740,7 @@
            <input type="radio" id="s036n" name="sl">
            <label for="s036n"></label>
            <img src="planosTV/59_00_03.png"/>
-        <figcaption>Qualquer figura contida no plano tem sua 2a projeção reduzida a um segmento de reta.</figcaption>
+        <figcaption>Qualquer figura contida no plano tem sua 2&ordf; projeção reduzida a um segmento de reta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s037n" name="sl">
@@ -5764,7 +5764,7 @@
            <input type="radio" id="s040n" name="sl">
            <label for="s040n"></label>
            <img src="planosTV/59_00_07.png"/>
-        <figcaption>Forma ângulo de 90&ordm; com &pi;'', e com &pi;' e &pi;"' forma ângulo entre 0&ordm; e 90&ordm;.</figcaption>
+        <figcaption>Forma ângulo de 90&ordm; com <b>&pi;''</b>, e com <b>&pi;'</b> e <b>&pi;"'</b> forma ângulo entre 0&ordm; e 90&ordm;.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/59_00_01.png" class="fundo"/>
