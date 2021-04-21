@@ -2904,7 +2904,7 @@
            <input type="radio" id="296" name="sl">
            <label for="296"></label>
            <img src="pontos-retas/31_01_02.png"/>
-        <figcaption>Construindo a reta paralela à linha de terra que passa por <b>A''</b>, marcamos o afastamento de 30mm a partir do eixo <b>z</b>, à esquerda, encontrando a terceira projeção do ponto. Como este ponto tem cota e afastamento positivos. Logo, este ponto pertence ao <b>1&ordm; diedro</b>.</figcaption>
+        <figcaption>Construindo a reta paralela à linha de terra que passa por <b>A''</b>, marcamos o afastamento de 30mm a partir do eixo <b>z</b>, à esquerda, encontrando a terceira projeção do ponto. O ponto tem cota e afastamento positivos. Logo, este ponto pertence ao <b>1&ordm; diedro</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="297" name="sl">
@@ -2922,7 +2922,7 @@
            <input type="radio" id="299" name="sl">
            <label for="299"></label>
            <img src="pontos-retas/31_01_05.png"/>
-         <figcaption>Construindo a reta paralela à linha de terra que passa por <b>B''</b>, marcamos o afastamento de -20mm a partir do eixo <b>z</b>, à direita, encontrando a terceira projeção do ponto. Como este ponto tem cota positiva e afastamento negativos. Logo, este ponto pertence ao <b>2&ordm; diedro</b>.</figcaption>
+         <figcaption>Construindo a reta paralela à linha de terra que passa por <b>B''</b>, marcamos o afastamento de -20mm a partir do eixo <b>z</b>, à direita, encontrando a terceira projeção do ponto. O ponto tem cota positiva e afastamento negativos. Logo, este ponto pertence ao <b>2&ordm; diedro</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="300" name="sl">
@@ -3477,7 +3477,7 @@
            <input type="radio" id="462" name="sl">
            <label for="462"></label>
            <img src="pontos-retas/38_02_02.png"/>
-        <figcaption>Deslize o esquadro de 60 até chegar no ponto <b>A'</b>: assim, construímos o ângulo <b>&theta;''</b> à direita de <b>A</b>. Alinhando o esquadro do 60 do outro lado, você pode construir a outra solução, com ângulo <b>&theta;''</b> à esquerda de <b>A</b>. Logo, temos a primeira projeção da reta horizontal.</figcaption>
+        <figcaption>Deslize o esquadro de 60 até chegar no ponto <b>A'</b>: assim, construímos o ângulo <b>&theta;''</b> à direita de <b>A</b>. Alinhando o esquadro de 60 do outro lado, você pode construir a outra solução, com ângulo <b>&theta;''</b> à esquerda de <b>A</b>. Logo, temos a primeira projeção da reta horizontal.</figcaption>
        </li>
        <li>
            <input type="radio" id="463" name="sl">
@@ -3595,13 +3595,13 @@
 	   <li>
            <input type="radio" id="478a" name="sl">
            <label for="478a"></label>
-           <img src="pontos-retas/40_01_02.png"/>
+           <img src="pontos-retas/40_01_03.png"/>
         <figcaption>E também sobre <b>&pi;''</b>, encontrando a segunda projeção <b>r''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="478b" name="sl">
            <label for="478b"></label>
-           <img src="pontos-retas/40_01_02.png"/>
+           <img src="pontos-retas/40_01_04.png"/>
         <figcaption>Podemos também projetar os pontos <b>A</b> e <b>B</b> sobre <b>&pi;'''</b>. </figcaption>
        </li>
 	</ul>
@@ -3639,7 +3639,7 @@
            <input type="radio" id="482a" name="sl">
            <label for="482a"></label>
            <img src="pontos-retas/40_02_05.png"/>
-         <figcaption>... e é oblíqua em relação a <b>&pi;'</b> e a <b>&pi;''</b> e paralela a <b>&pi;'''</b>.</figcaption>
+         <figcaption>... e é oblíqua em relação a <b>&pi;'</b> e a <b>&pi;''</b> e paralela a <b>&pi;'''</b>. Os ângulos <b>&theta;'</b> e <b>&theta;''</b> são complementares.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482b" name="sl">
