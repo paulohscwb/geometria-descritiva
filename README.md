@@ -1942,7 +1942,7 @@
   </details>
   <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
   <img src="prop/Apost_GD_2021_00020b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
