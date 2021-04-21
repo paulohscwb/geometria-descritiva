@@ -1693,7 +1693,7 @@
            <input type="radio" id="113a" name="sl">
            <label for="113a"></label>
            <img src="prop/19_02_00d.png"/>
-           <figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem no item d.</figcaption>
+           <figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que as projeções dos vértices <b>A</b> e <b>D</b> coincidem no item d.</figcaption>
        </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo"/>
