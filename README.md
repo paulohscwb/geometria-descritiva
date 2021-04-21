@@ -775,7 +775,7 @@
            <input type="radio" id="012" name="sl">
            <label for="012"></label>
            <img src="dg/04_01_10.png"/>
-           <figcaption>Pelo Teorema de Tales como os segmentos <b>A1</b>, <b>12</b>, <b>23</b>, <b>34</b>, <b>45</b> são proporcionais a <b>u</b> então <b>AC</b>, <b>CD</b>, <b>DE</b>, <b>EF</b> e <b>FB</b> são proporcionais a <b>u’</b>. E, portanto, o segmento <b>AB</b> foi dividido graficamente em 5 partes iguais.</figcaption>
+           <figcaption>Pelo Teorema de Tales como os segmentos <b>A1</b>, <b>12</b>, <b>23</b>, <b>34</b>, <b>45</b> são proporcionais a <b>u</b> então <b>AC</b>, <b>CD</b>, <b>DE</b>, <b>EF</b> e <b>FB</b> são proporcionais a <b>u'</b>. E, portanto, o segmento <b>AB</b> foi dividido graficamente em 5 partes iguais.</figcaption>
        </li>
     </ul>
     <img src="dg/04_01_00.png" class="fundo"/>
@@ -4213,13 +4213,13 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00048b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
-  <p>Os traços de um plano são as interseções dele com cada um dos Planos Fundamentais de Referência, ou seja, são três retas: <b>&alpha;&pi;’</b> – uma reta horizontal do plano de cota nula, <b>&alpha;&pi;’’</b> – uma reta frontal do plano de afastamento nulo e <b>&alpha;&pi;’’’</b> – uma reta de perfil do plano de abscissa nula. Vamos representar em épura os traços do plano <b>&alpha;</b>. </p>
+  <p>Os traços de um plano são as interseções dele com cada um dos Planos Fundamentais de Referência, ou seja, são três retas: <b>&alpha;&pi;'</b> – uma reta horizontal do plano de cota nula, <b>&alpha;&pi;''</b> – uma reta frontal do plano de afastamento nulo e <b>&alpha;&pi;'''</b> – uma reta de perfil do plano de abscissa nula. Vamos representar em épura os traços do plano <b>&alpha;</b>. </p>
   <ul class="slider">
       <li>
            <input type="radio" id="dn007" name="sl">
            <label for="dn007"></label>
            <img src="planosHFP/48_03_01.png"/>
-        <figcaption>Para representar o primeiro traço <b>&alpha;&pi;’</b> vamos utilizar os pontos <b>A</b> e <b>B</b>. O ponto <b>A</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>x</b>. Marque no compasso a abscissa do ponto <b>A</b>.</figcaption>
+        <figcaption>Para representar o primeiro traço <b>&alpha;&pi;'</b> vamos utilizar os pontos <b>A</b> e <b>B</b>. O ponto <b>A</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>x</b>. Marque no compasso a abscissa do ponto <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="dn008" name="sl">
@@ -4243,31 +4243,31 @@
            <input type="radio" id="dn011" name="sl">
            <label for="dn011"></label>
            <img src="planosHFP/48_03_05.png"/>
-        <figcaption>A reta definida por <b>A’</b> e <b>B’</b> é a primeira projeção do primeiro traço <b>&alpha;&pi;’</b>, que denotamos simplesmente por <b>&alpha;&pi;’</b>. Como a segunda projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
+        <figcaption>A reta definida por <b>A'</b> e <b>B'</b> é a primeira projeção do primeiro traço <b>&alpha;&pi;'</b>, que denotamos simplesmente por <b>&alpha;&pi;'</b>. Como a segunda projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn012" name="sl">
            <label for="dn012"></label>
            <img src="planosHFP/48_03_06.png"/>
-        <figcaption>Para representar o segundo traço <b>&alpha;&pi;’’</b> vamos utilizar os pontos <b>A</b> e <b>C</b>. O ponto <b>C</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>z</b>. Marque no compasso a cota do ponto <b>C</b>.</figcaption>
+        <figcaption>Para representar o segundo traço <b>&alpha;&pi;''</b> vamos utilizar os pontos <b>A</b> e <b>C</b>. O ponto <b>C</b> é a interseção do plano <b>&alpha;</b> com o eixo <b>z</b>. Marque no compasso a cota do ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn013" name="sl">
            <label for="dn013"></label>
            <img src="planosHFP/48_03_07.png"/>
-        <figcaption>Agora vamos representar o ponto <b>C</b> em épura. Transfira essa medida para a épura obtendo <b>C’’</b> sobre o eixo <b>z</b>. Como o afastamento do ponto <b>C</b> é nulo temos que <b>C’ &equiv; O</b>.</figcaption>
+        <figcaption>Agora vamos representar o ponto <b>C</b> em épura. Transfira essa medida para a épura obtendo <b>C''</b> sobre o eixo <b>z</b>. Como o afastamento do ponto <b>C</b> é nulo temos que <b>C' &equiv; O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn014" name="sl">
            <label for="dn014"></label>
            <img src="planosHFP/48_03_08.png"/>
-        <figcaption>A reta definida por <b>C’’</b> e <b>A’’</b> é a segunda projeção do segundo traço <b>&alpha;&pi;’’</b>, que denotamos simplesmente por <b>&alpha;&pi;’’</b>. Como a primeira projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
+        <figcaption>A reta definida por <b>C''</b> e <b>A''</b> é a segunda projeção do segundo traço <b>&alpha;&pi;''</b>, que denotamos simplesmente por <b>&alpha;&pi;''</b>. Como a primeira projeção desse traço sempre estará sobre a LT nós não a representamos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn015" name="sl">
            <label for="dn015"></label>
            <img src="planosHFP/48_03_09.png"/>
-        <figcaption>Para representar o terceiro traço <b>&alpha;&pi;’’’</b> vamos utilizar os pontos <b>B</b> e <b>C</b>. A primeira e segunda projeções desse traço coincidem com o eixo <b>y</b> e <b>z</b> respectivamente. O que representamos em épura é a sua terceira projeção, que denotamos simplesmente por <b>&alpha;&pi;’’’</b>. Para obtê-la basta encontrar a terceira projeção dos pontos <b>B</b> e <b>C</b>.</figcaption>
+        <figcaption>Para representar o terceiro traço <b>&alpha;&pi;'''</b> vamos utilizar os pontos <b>B</b> e <b>C</b>. A primeira e segunda projeções desse traço coincidem com o eixo <b>y</b> e <b>z</b> respectivamente. O que representamos em épura é a sua terceira projeção, que denotamos simplesmente por <b>&alpha;&pi;'''</b>. Para obtê-la basta encontrar a terceira projeção dos pontos <b>B</b> e <b>C</b>.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/48_03_00.png" class="fundo"/>
@@ -4284,19 +4284,19 @@
            <input type="radio" id="e033f" name="sl">
            <label for="e033f"></label>
            <img src="planosHFP/49_01_01.png"/>
-        <figcaption>No primeiro conjunto temos os planos que são paralelos a um dos PFR. O plano paralelo ao <b>&pi;’</b> é chamado de Plano Horizontal. O plano paralelo ao <b>&pi;’’</b> é chamado de Plano Frontal. O plano paralelo ao <b>&pi;’’’</b> é chamado de Plano de Perfil.</figcaption>
+        <figcaption>No primeiro conjunto temos os planos que são paralelos a um dos PFR. O plano paralelo ao <b>&pi;'</b> é chamado de Plano Horizontal. O plano paralelo ao <b>&pi;''</b> é chamado de Plano Frontal. O plano paralelo ao <b>&pi;'''</b> é chamado de Plano de Perfil.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034f" name="sl">
            <label for="e034f"></label>
            <img src="planosHFP/49_01_02.png"/>
-        <figcaption>No segundo conjunto temos os planos que são perpendiculares a um dos PFR e oblíquo em relação a outro. O plano que é perpendicular ao <b>&pi;’’</b> e oblíquo ao <b>&pi;’</b>, em consequência é oblíquo também ao <b>&pi;’’’</b>, é chamado de Plano de Topo.</figcaption>
+        <figcaption>No segundo conjunto temos os planos que são perpendiculares a um dos PFR e oblíquo em relação a outro. O plano que é perpendicular ao <b>&pi;''</b> e oblíquo ao <b>&pi;'</b>, em consequência é oblíquo também ao <b>&pi;'''</b>, é chamado de Plano de Topo.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="e034fa" name="sl">
        <label for="e034fa"></label>
            <img src="planosHFP/49_01_02.png"/>
-        <figcaption>O plano que é perpendicular ao <b>&pi;’</b> e oblíquo ao <b>&pi;’’</b>, em consequência é oblíquo também ao <b>&pi;’’’</b>, é chamado de Plano Vertical. O plano que é perpendicular ao <b>&pi;’’’</b> e oblíquo ao <b>&pi;’</b>, em consequência é oblíquo também ao <b>&pi;’’</b>, é chamado de Plano Paralelo à Linha de Terra ou de Plano Rampa.</figcaption>
+        <figcaption>O plano que é perpendicular ao <b>&pi;'</b> e oblíquo ao <b>&pi;''</b>, em consequência é oblíquo também ao <b>&pi;'''</b>, é chamado de Plano Vertical. O plano que é perpendicular ao <b>&pi;'''</b> e oblíquo ao <b>&pi;'</b>, em consequência é oblíquo também ao <b>&pi;''</b>, é chamado de Plano Paralelo à Linha de Terra ou de Plano Rampa.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035f" name="sl">
@@ -4318,49 +4318,49 @@
         <input type="radio" id="dn999" name="sl">
         <label for="dn999"></label>
         <img src="planosHFP/50_01_01.png"/>
-        <figcaption>A característica espacial do Plano Horizontal é ser paralelo a <b>&pi;’</b> e, portanto, será perpendicular a <b>&pi;’’</b> e a <b>&pi;’’’</b>.</figcaption>
+        <figcaption>A característica espacial do Plano Horizontal é ser paralelo a <b>&pi;'</b> e, portanto, será perpendicular a <b>&pi;''</b> e a <b>&pi;'''</b>.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="dn998" name="sl">
        <label for="dn998"></label>
            <img src="planosHFP/50_01_02.png"/>
-        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;’</b> não existe interseção do plano com o primeiro PFR. Dizemos então que o primeiro traço não existe ou que é uma reta imprópria do plano.</figcaption>
+        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;'</b> não existe interseção do plano com o primeiro PFR. Dizemos então que o primeiro traço não existe ou que é uma reta imprópria do plano.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn997" name="sl">
            <label for="dn997"></label>
            <img src="planosHFP/50_01_03.png"/>
-        <figcaption>O seu segundo traço <b>&alpha;&pi;’’</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+        <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn996" name="sl">
            <label for="dn996"></label>
            <img src="planosHFP/50_01_04.png"/>
-        <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de topo de abscissa nula, concorrente com o segundo traço sobre o eixo <b>z</b>. Em geral, não representamos esse traço em épura, somente quando for necessário.</figcaption>
+        <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta de topo de abscissa nula, concorrente com o segundo traço sobre o eixo <b>z</b>. Em geral, não representamos esse traço em épura, somente quando for necessário.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn995" name="sl">
            <label for="dn995"></label>
            <img src="planosHFP/50_01_05.png"/>
-        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;’</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;’</b> é 0°.</figcaption>
+        <figcaption>Como o Plano Horizontalé paralelo a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;'</b> é 0°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn994" name="sl">
            <label for="dn994"></label>
            <img src="planosHFP/50_01_06.png"/>
-        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;’’</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;’’</b> é 90°.</figcaption>
+        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn993" name="sl">
            <label for="dn993"></label>
            <img src="planosHFP/50_01_07.png"/>
-        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;’’’</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;’’’</b> é 90°.</figcaption>
+        <figcaption>Como o Plano Horizontal é perpendicular a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;'''</b> é 90°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn992" name="sl">
            <label for="dn992"></label>
            <img src="planosHFP/50_01_08.png"/>
-        <figcaption>O Plano Horizontal é perpendicular a <b>&pi;’’</b> então ele é projetante em segunda projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua segunda projeção contida em <b>&alpha;&pi;’’</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Horizontal &xhArr; <b>F’’ &isin; &alpha;&pi;’’</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
+        <figcaption>O Plano Horizontal é perpendicular a <b>&pi;''</b> então ele é projetante em segunda projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua segunda projeção contida em <b>&alpha;&pi;''</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Horizontal &xhArr; <b>F'' &isin; &alpha;&pi;''</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn991" name="sl">
@@ -4385,13 +4385,13 @@
         <input type="radio" id="dn989" name="sl">
         <label for="dn989"></label>
         <img src="planosHFP/50_02_01.png"/>
-        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r’’</b> com <b>&alpha;&pi;''</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r''</b> com <b>&alpha;&pi;''</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="dn988" name="sl">
        <label for="dn988"></label>
            <img src="planosHFP/50_02_02.png"/>
-        <figcaption>Por <b>(r&alpha;)''</b> traçamos uma linha de chamada até <b>r’</b>, obtendo a primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
+        <figcaption>Por <b>(r&alpha;)''</b> traçamos uma linha de chamada até <b>r'</b>, obtendo a primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn987" name="sl">
@@ -4435,13 +4435,13 @@
            <input type="radio" id="e035g" name="sl">
            <label for="e035g"></label>
            <img src="planosHFP/51_01_03.png"/>
-        <figcaption>O traço <b>&alpha;&pi;’’</b> é definido por <b>A’’</b> e <b>B’’</b>.</figcaption>
+        <figcaption>O traço <b>&alpha;&pi;''</b> é definido por <b>A''</b> e <b>B''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035ng" name="sl">
            <label for="e035ng"></label>
            <img src="planosHFP/51_01_04.png"/>
-        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção. Construa o quadrado <b>A’B’C’D’</b>. Veja que temos duas posições possíveis para desenhar o quadrado. </figcaption>
+        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção. Construa o quadrado <b>A'B'C'D'</b>. Veja que temos duas posições possíveis para desenhar o quadrado. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nh" name="sl">
@@ -4453,7 +4453,7 @@
            <input type="radio" id="e035ni" name="sl">
            <label for="e035ni"></label>
            <img src="planosHFP/51_01_06.png"/>
-        <figcaption>Como o quadrado está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>C</b> e <b>D</b> até <b>&alpha;&pi;’’</b> obtendo <b>C’’</b> e <b>D’’</b>.</figcaption>
+        <figcaption>Como o quadrado está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>C</b> e <b>D</b> até <b>&alpha;&pi;''</b> obtendo <b>C''</b> e <b>D''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nj" name="sl">
@@ -4478,13 +4478,13 @@
            <input type="radio" id="e034h" name="sl">
            <label for="e034h"></label>
            <img src="planosHFP/51_02_02.png"/>
-        <figcaption>Represente o traço <b>&alpha;&pi;’’</b> que contém <b>O’’</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
+        <figcaption>Represente o traço <b>&alpha;&pi;''</b> que contém <b>O''</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035h" name="sl">
            <label for="e035h"></label>
            <img src="planosHFP/51_02_03.png"/>
-        <figcaption>Construa a Circunferência de centro em <b>O’</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
+        <figcaption>Construa a Circunferência de centro em <b>O'</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nh" name="sl">
@@ -4496,19 +4496,19 @@
            <input type="radio" id="e035ni" name="sl">
            <label for="e035ni"></label>
            <img src="planosHFP/51_02_05.png"/>
-        <figcaption>A interseção da Circunferência com <b>r’</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
+        <figcaption>A interseção da Circunferência com <b>r'</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nj" name="sl">
            <label for="e035nj"></label>
            <img src="planosHFP/51_02_06.png"/>
-        <figcaption>Marque no compasso o raio 20 e a partir de <b>A’</b> obtenha <b>B’</b> e <b>F’</b> sobre essa Circunferência.</figcaption>
+        <figcaption>Marque no compasso o raio 20 e a partir de <b>A'</b> obtenha <b>B'</b> e <b>F'</b> sobre essa Circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nk" name="sl">
            <label for="e035nk"></label>
            <img src="planosHFP/51_02_07.png"/>
-        <figcaption>Faça o mesmo agora com centro em <b>D’</b> obtendo <b>C’</b> e <b>E’</b>.</figcaption>
+        <figcaption>Faça o mesmo agora com centro em <b>D'</b> obtendo <b>C'</b> e <b>E'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nl" name="sl">
@@ -4520,7 +4520,7 @@
            <input type="radio" id="e035nm" name="sl">
            <label for="e035nm"></label>
            <img src="planosHFP/51_02_09.png"/>
-        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;’’</b> obtendo suas segundas projeções.</figcaption>
+        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;''</b> obtendo suas segundas projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nn" name="sl">
@@ -4533,7 +4533,7 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados forma 15° com <b>&pi;’’</b>.</p>
+  <p>Vamos representar as projeções do hexágono regular contido num Plano Horizontal <b>&alpha;</b> sendo dados o centro <b>O</b> da circunferência circunscrita ao polígono e o seu raio, e sabendo-se que um dos seus lados forma 15° com <b>&pi;''</b>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="e033h1" name="sl">
@@ -4545,19 +4545,19 @@
            <input type="radio" id="e034h1" name="sl">
            <label for="e034h1"></label>
            <img src="planosHFP/51_03_02.png"/>
-        <figcaption>Represente o traço <b>&alpha;&pi;’’</b> que contém <b>O’’</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
+        <figcaption>Represente o traço <b>&alpha;&pi;''</b> que contém <b>O''</b> e é paralelo à Linha de Terra. Para representar uma figura plana devemos iniciar por onde temos a sua VG, ou seja, na sua primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035h1" name="sl">
            <label for="e035h1"></label>
            <img src="planosHFP/51_03_03.png"/>
-        <figcaption>Construa a Circunferência de centro em <b>O’</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
+        <figcaption>Construa a Circunferência de centro em <b>O'</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nh1" name="sl">
            <label for="e035nh1"></label>
            <img src="planosHFP/51_03_04.png"/>
-        <figcaption>Como um dos lados do hexágono regular deve formar ângulo de 15° com <b>&pi;’’</b>, então um dos seus diâmetros também deve formar o mesmo ângulo com <b>&pi;’’</b>. Ou seja, vamos construir uma reta <b>r</b> horizontal de <b>&alpha;’’</b> que forme ângulo de 15° com <b>&pi;’’</b> e que passe pelo ponto <b>O</b> dado. Encaixe o esquadro de 45 no prolongamento da Linha de Chamada (LC) de <b>O</b>.</figcaption>
+        <figcaption>Como um dos lados do hexágono regular deve formar ângulo de 15° com <b>&pi;''</b>, então um dos seus diâmetros também deve formar o mesmo ângulo com <b>&pi;''</b>. Ou seja, vamos construir uma reta <b>r</b> horizontal de <b>&alpha;''</b> que forme ângulo de 15° com <b>&pi;''</b> e que passe pelo ponto <b>O</b> dado. Encaixe o esquadro de 45 no prolongamento da Linha de Chamada (LC) de <b>O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035ni1" name="sl">
@@ -4569,19 +4569,19 @@
            <input type="radio" id="e035nj1" name="sl">
            <label for="e035nj1"></label>
            <img src="planosHFP/51_03_06.png"/>
-        <figcaption>Desloque o esquadro de 30/60 até que a sua hipotenusa contenha o ponto <b>O’</b>. Construa a reta <b>r’</b>. Note que o ângulo formado entre <b>r’</b> e a LC de O é 75° e, portanto, o ângulo que <b>r’</b> forma com a LT é 15°. A segunda projeção de <b>r</b> coincide com <b>&alpha;&pi;’’</b>. São duas posições possíveis para <b>r</b>.</figcaption>
+        <figcaption>Desloque o esquadro de 30/60 até que a sua hipotenusa contenha o ponto <b>O'</b>. Construa a reta <b>r'</b>. Note que o ângulo formado entre <b>r'</b> e a LC de O é 75° e, portanto, o ângulo que <b>r'</b> forma com a LT é 15°. A segunda projeção de <b>r</b> coincide com <b>&alpha;&pi;''</b>. São duas posições possíveis para <b>r</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nk1" name="sl">
            <label for="e035nk1"></label>
            <img src="planosHFP/51_03_07.png"/>
-        <figcaption>A interseção da Circunferência com <b>r’</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
+        <figcaption>A interseção da Circunferência com <b>r'</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nl1" name="sl">
            <label for="e035nl1"></label>
            <img src="planosHFP/51_03_08.png"/>
-        <figcaption>Marque no compasso o raio 20 e a partir de <b>A’</b> obtenha <b>B’</b> e <b>F’</b> sobre essa Circunferência. Faça o mesmo para <b>D’</b>, obtendo os pontos <b>C’</b> e <b>E’</b>.</figcaption>
+        <figcaption>Marque no compasso o raio 20 e a partir de <b>A'</b> obtenha <b>B'</b> e <b>F'</b> sobre essa Circunferência. Faça o mesmo para <b>D'</b>, obtendo os pontos <b>C'</b> e <b>E'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035nm1" name="sl">
@@ -4593,7 +4593,7 @@
            <input type="radio" id="e035nn1" name="sl">
            <label for="e035nn1"></label>
            <img src="planosHFP/51_03_10.png"/>
-        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;’’</b> obtendo suas segundas projeções.</figcaption>
+        <figcaption>Como o hexágono regular está contido num Plano Horizontal <b>&alpha;</b> então as segundas projeções dele devem estar contidas no segundo traço. Assim, trace as linhas de chamada dos pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> até <b>&alpha;&pi;''</b> obtendo suas segundas projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035no1" name="sl">
@@ -4627,19 +4627,19 @@
            <input type="radio" id="e041" name="sl">
            <label for="e041"></label>
            <img src="planosHFP/53_01_03.png"/>
-        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, neste caso, na primeira projeção. Vamos construir o hexágono regular <b>A’B’C’D’E’F’</b>. Construa o triângulo equilátero de lado <b>A’B’</b> obtendo <b>O’</b>. Há duas possibilidades de posição para o <b>O’</b>. Trace a Linha de Chamada (LC) do ponto <b>O</b> obtendo <b>O’’</b> sobre <b>&alpha;&pi;"</b>.</figcaption>
+        <figcaption>Para representar uma figura plana devemos iniciar por onde temos a sua VG, neste caso, na primeira projeção. Vamos construir o hexágono regular <b>A'B'C'D'E'F'</b>. Construa o triângulo equilátero de lado <b>A'B'</b> obtendo <b>O'</b>. Há duas possibilidades de posição para o <b>O'</b>. Trace a Linha de Chamada (LC) do ponto <b>O</b> obtendo <b>O''</b> sobre <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e042" name="sl">
            <label for="e042"></label>
            <img src="planosHFP/53_01_04.png"/>
-        <figcaption>Construa a circunferência de centro <b>O’</b> que passe pelos pontos <b>A’</b> e <b>B’</b>. </figcaption>
+        <figcaption>Construa a circunferência de centro <b>O'</b> que passe pelos pontos <b>A'</b> e <b>B'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e043" name="sl">
            <label for="e043"></label>
            <img src="planosHFP/53_01_05.png"/>
-        <figcaption>Marque no compasso a medida <b>A’B’</b> e divida a circunferência em 6 partes iguais, obtendo os pontos <b>C’</b>, <b>D’</b>, <b>E’</b> e <b>F’</b>. Não destaque ainda a primeira projeção do polígono! </figcaption>
+        <figcaption>Marque no compasso a medida <b>A'B'</b> e divida a circunferência em 6 partes iguais, obtendo os pontos <b>C'</b>, <b>D'</b>, <b>E'</b> e <b>F'</b>. Não destaque ainda a primeira projeção do polígono! </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e044" name="sl">
@@ -4651,13 +4651,13 @@
            <input type="radio" id="e045" name="sl">
            <label for="e045"></label>
            <img src="planosHFP/53_01_07.png"/>
-        <figcaption>Vamos obter agora o vértice <b>V</b> da pirâmide. Como a pirâmide é reta então a projeção ortogonal do vértice <b>V</b> sobre a base coincide com o centro da mesma. Logo, a reta que contém o vértice <b>V</b> e o centro <b>O</b> da base é perpendicular à base, ou seja, a reta <b>VO</b> é uma reta vertical. Marque <b>V’</b> coincidente com <b>O’</b>.</figcaption>
+        <figcaption>Vamos obter agora o vértice <b>V</b> da pirâmide. Como a pirâmide é reta então a projeção ortogonal do vértice <b>V</b> sobre a base coincide com o centro da mesma. Logo, a reta que contém o vértice <b>V</b> e o centro <b>O</b> da base é perpendicular à base, ou seja, a reta <b>VO</b> é uma reta vertical. Marque <b>V'</b> coincidente com <b>O'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e046" name="sl">
            <label for="e046"></label>
            <img src="planosHFP/53_01_08.png"/>
-        <figcaption>Como a reta <b>VO</b> é vertical então sua VG está na segunda projeção. Marque <b>V’’</b> sobre o prolongamento da LC de <b>O</b> de modo que <b>V’’O’’</b> = <b>h</b> = 50mm. Há duas possibilidades de posição para <b>V’’</b>.</figcaption>
+        <figcaption>Como a reta <b>VO</b> é vertical então sua VG está na segunda projeção. Marque <b>V''</b> sobre o prolongamento da LC de <b>O</b> de modo que <b>V''O''</b> = <b>h</b> = 50mm. Há duas possibilidades de posição para <b>V''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e047" name="sl">
@@ -4669,7 +4669,7 @@
            <input type="radio" id="e048" name="sl">
            <label for="e048"></label>
            <img src="planosHFP/53_01_10.png"/>
-        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em primeira projeção,ou seja, os segmentos <b>A’B’</b>, <b>B’C’</b>, <b>C’D’</b>, <b>D’E’</b>, <b>E’F’</b> e <b>F’A’</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
+        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em primeira projeção,ou seja, os segmentos <b>A'B'</b>, <b>B'C'</b>, <b>C'D'</b>, <b>D'E'</b>, <b>E'F'</b> e <b>F'A'</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e049" name="sl">
@@ -4687,7 +4687,7 @@
            <input type="radio" id="e050a" name="sl">
            <label for="e050a"></label>
            <img src="planosHFP/53_01_13.png"/>
-        <figcaption>Assim, em épura representamos os segmentos <b>A’O’</b>, <b>B’O’</b>, <b>C’O’</b>, <b>D’O’</b>, <b>E’O’</b> e <b>F’O’</b> por linhas contínuas largas. O ponto <b>V</b> é um ponto visível em primeira projeção e como está dentro do contorno aparente temos que todas as arestas que partem dele serão também visíveis.</figcaption>
+        <figcaption>Assim, em épura representamos os segmentos <b>A'O'</b>, <b>B'O'</b>, <b>C'O'</b>, <b>D'O'</b>, <b>E'O'</b> e <b>F'O'</b> por linhas contínuas largas. O ponto <b>V</b> é um ponto visível em primeira projeção e como está dentro do contorno aparente temos que todas as arestas que partem dele serão também visíveis.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/53_01_00.png" class="fundo"/>
@@ -4705,7 +4705,7 @@
            <input type="radio" id="e040a" name="sl">
            <label for="e040a"></label>
            <img src="planosHFP/53_01_15.png"/>
-        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em segunda projeção, ou seja, os segmentos <b>V’’C’’</b>, <b>C’’D’’</b>, <b>D’’E’’</b>, <b>E’’F’’</b> e <b>F’’V’’</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
+        <figcaption>Vamos destacar em épura o contorno aparente referente a visibilidade em segunda projeção, ou seja, os segmentos <b>V''C''</b>, <b>C''D''</b>, <b>D''E''</b>, <b>E''F''</b> e <b>F''V''</b>. Lembrando que o contorno aparente é sempre visível por isso é representado por linha larga contínua.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e041a" name="sl">
@@ -4723,7 +4723,7 @@
            <input type="radio" id="e043a" name="sl">
            <label for="e043a"></label>
            <img src="planosHFP/53_01_18.png"/>
-        <figcaption>Assim, em épura representamos os segmentos <b>V’’D’’</b> e <b>V’’E’’</b> por linhas contínuas largas e, os segmentos <b>V’’B’’</b> e <b>V’’A’’</b> por linhas tracejadas largas. </figcaption>
+        <figcaption>Assim, em épura representamos os segmentos <b>V''D''</b> e <b>V''E''</b> por linhas contínuas largas e, os segmentos <b>V''B''</b> e <b>V''A''</b> por linhas tracejadas largas. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e044a" name="sl">
@@ -6179,7 +6179,7 @@
            <input type="radio" id="l024" name="sl">
            <label for="l024"></label>
            <img src="planosTV/66_01_06.png"/>
-         <figcaption>Traçar as linhas de chamada em relação à 1&ordf; LT pelos pontos <b>C"</b> e <b>D"</b> e transportar seus afastamentos, determinando as 1as projeções desses pontos: <b>A'</b> e <b>B'</b>.</figcaption>
+         <figcaption>Traçar as linhas de chamada em relação à 1&ordf; LT pelos pontos <b>C"</b> e <b>D"</b> e transportar seus afastamentos, determinando as primeiras projeções desses pontos: <b>A'</b> e <b>B'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l025" name="sl">
@@ -6209,7 +6209,7 @@
            <input type="radio" id="l029" name="sl">
            <label for="l029"></label>
            <img src="planosTV/66_01_13.png"/>
-         <figcaption>Marcamos a altura do sólido a partir de <b>&alpha;&pi;"</b>, que será o lugar geométrico da base: <b>EFGH</b>. Observe que a altura pode ser marcada acima de  <b>&alpha;&pi;"</b> ou abaixo. </figcaption>
+         <figcaption>Marcamos a altura do sólido a partir de <b>&alpha;&pi;"</b>, que será o lugar geométrico da base: <b>EFGH</b>. Observe que a altura pode ser marcada acima de <b>&alpha;&pi;"</b> ou abaixo. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="l030" name="sl">
@@ -6236,7 +6236,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00079.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de 4 pontos para representá-la.</p>
+	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de pelo menos 4 pontos para representá-la.</p>
 	<img src="planosTV/67_01_00.png"/>
 	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro <b>AB</b> pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro <b>CD</b> que é de topo, está em verdadeira grandeza na 1&ordf; projeção.</figcaption>
   </details><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -6485,7 +6485,7 @@
            <input type="radio" id="l066s" name="sl">
            <label for="l066s"></label>
            <img src="planosTV/72_08_04.png"/>
-         <figcaption>Econtrar a vg da seção fazendo o rebatimento</figcaption>
+         <figcaption>Encontrar a vg da seção fazendo o rebatimento</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l067s" name="sl">
@@ -6608,49 +6608,49 @@
            <input type="radio" id="d001a" name="sl">
            <label for="d001a"></label>
            <img src="planosPQ/78_01_01.png"/>
-        <figcaption>A característica espacial do Plano Paralelo à Linha de Terra é ser oblíquo tanto a <b>&pi;’</b> quanto a <b>&pi;’’</b> e perpendicular a <b>&pi;’’’</b>.</figcaption>
+        <figcaption>A característica espacial do Plano Paralelo à Linha de Terra é ser oblíquo tanto a <b>&pi;'</b> quanto a <b>&pi;''</b> e perpendicular a <b>&pi;'''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d002a" name="sl">
            <label for="d002a"></label>
            <img src="planosPQ/78_01_02.png"/>
-        <figcaption>O Plano Paralelo à Linha de Terra pode ser representado em épura pelos seus traços. O primeiro traço <b>&alpha;&pi;’</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra (LT).</figcaption>
+        <figcaption>O Plano Paralelo à Linha de Terra pode ser representado em épura pelos seus traços. O primeiro traço <b>&alpha;&pi;'</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra (LT).</figcaption>
        </li>
        <li>
            <input type="radio" id="d003a" name="sl">
            <label for="d003a"></label>
            <img src="planosPQ/78_01_03.png"/>
-         <figcaption>O seu segundo traço <b>&alpha;&pi;’’</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+         <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta fronto-horizontal de afastamento nulo. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
        </li>
        <li>
            <input type="radio" id="d004a" name="sl">
            <label for="d004a"></label>
            <img src="planosPQ/78_01_04.png"/>
-         <figcaption>O seu terceiro traço <b>&alpha;&pi;’’’</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros traços. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos <b>y</b> e <b>z</b>, respectivamente.</figcaption>
+         <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta de perfil de abscissa nula concorrente com os dois primeiros traços. Não precisamos representar a primeira e segundas projeções desse traço pois estará sobre os eixos <b>y</b> e <b>z</b>, respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d005a" name="sl">
            <label for="d005a"></label>
            <img src="planosPQ/78_01_05.png"/>
-         <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com a LT.</figcaption>
+         <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;'</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;'''</b> forma com <b>&pi;'</b>. Em épura, é o ângulo que <b>&alpha;&pi;'''</b> forma com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d006a" name="sl">
            <label for="d006a"></label>
            <img src="planosPQ/78_01_06.png"/>
-         <figcaption>O ângulo <b>&theta;<sub>2</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;’’’</b> forma com <b>&pi;’’</b>. Em épura, é o ângulo que <b>&alpha;&pi;’’’</b> forma com o eixo <b>y &equiv; z</b>. Temos que <b>&theta;<sub>1</sub> + &theta;<sub>2</sub> = 90°</b>.</figcaption>
+         <figcaption>O ângulo <b>&theta;<sub>2</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;''</b> é o mesmo ângulo que o seu terceiro traço <b>&alpha;&pi;'''</b> forma com <b>&pi;''</b>. Em épura, é o ângulo que <b>&alpha;&pi;'''</b> forma com o eixo <b>y &equiv; z</b>. Temos que <b>&theta;<sub>1</sub> + &theta;<sub>2</sub> = 90°</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d007a" name="sl">
            <label for="d007a"></label>
            <img src="planosPQ/78_01_07.png"/>
-         <figcaption>O ângulo <b>&theta;<sub>3</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;’’’</b> é de 90°.</figcaption>
+         <figcaption>O ângulo <b>&theta;<sub>3</sub></b> que o Plano Paralelo à Linha de Terra forma com <b>&pi;'''</b> é de 90°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d008a" name="sl">
            <label for="d008a"></label>
            <img src="planosPQ/78_01_08.png"/>
-        <figcaption>Como o Plano Paralelo à Linha de Terra é perpendicular a <b>&pi;’’’</b> então ele é projetante em terceira projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua terceira projeção contida em <b>&alpha;&pi;’’’</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Paralelo à Linha de Terra ↔ <b>F’’’</b> pertence a <b>&alpha;&pi;’’’</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
+        <figcaption>Como o Plano Paralelo à Linha de Terra é perpendicular a <b>&pi;'''</b> então ele é projetante em terceira projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua terceira projeção contida em <b>&alpha;&pi;'''</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Paralelo à Linha de Terra ↔ <b>F'''</b> pertence a <b>&alpha;&pi;'''</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d009a" name="sl">
@@ -6675,37 +6675,37 @@
            <input type="radio" id="d001b" name="sl">
            <label for="d001b"></label>
            <img src="planosPQ/78_02_01.png"/>
-        <figcaption>Para encontrar o traço <b>&alpha;&pi;’</b> basta encontrar a reta fronto-horizontal do plano de cota nula. Vamos obter o ponto <b>P</b> da reta <b>AB</b> de cota zero. Obtenha <b>P’’</b> na interseção da 2ª projeção da reta <b>r=AB</b> com a Linha de Terra (LT).</figcaption>
+        <figcaption>Para encontrar o traço <b>&alpha;&pi;'</b> basta encontrar a reta fronto-horizontal do plano de cota nula. Vamos obter o ponto <b>P</b> da reta <b>AB</b> de cota zero. Obtenha <b>P''</b> na interseção da 2ª projeção da reta <b>r=AB</b> com a Linha de Terra (LT).</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d002b" name="sl">
            <label for="d002b"></label>
            <img src="planosPQ/78_02_02.png"/>
-        <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1ª projeção sobre <b>r’=A’B’</b>.</figcaption>
+        <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1ª projeção sobre <b>r'=A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d003b" name="sl">
            <label for="d003b"></label>
            <img src="planosPQ/78_02_03.png"/>
-         <figcaption>Desenhe por <b>P’</b> o traço <b>&alpha;&pi;’</b> paralelo à LT. Pronto, já temos o 1º traço.</figcaption>
+         <figcaption>Desenhe por <b>P'</b> o traço <b>&alpha;&pi;'</b> paralelo à LT. Pronto, já temos o 1º traço.</figcaption>
        </li>
        <li>
            <input type="radio" id="d004b" name="sl">
            <label for="d004b"></label>
            <img src="planosPQ/78_02_04.png"/>
-         <figcaption>Para encontrar o traço <b>&alpha;&pi;’’</b> basta encontrar a reta fronto-horizontal do plano de afastamento nulo. Vamos obter o ponto <b>Q</b> da reta <b>AB</b> de afastamento zero. Obtenha <b>Q’</b> na interseção da 1ª projeção da reta <b>r=AB</b> com a LT.</figcaption>
+         <figcaption>Para encontrar o traço <b>&alpha;&pi;''</b> basta encontrar a reta fronto-horizontal do plano de afastamento nulo. Vamos obter o ponto <b>Q</b> da reta <b>AB</b> de afastamento zero. Obtenha <b>Q'</b> na interseção da 1ª projeção da reta <b>r=AB</b> com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d005b" name="sl">
            <label for="d005b"></label>
            <img src="planosPQ/78_02_05.png"/>
-         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha a sua 2ª projeção sobre <b>r’’=A’’B’’</b>.</figcaption>
+         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha a sua 2ª projeção sobre <b>r''=A''B''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d006b" name="sl">
            <label for="d006b"></label>
            <img src="planosPQ/78_02_06.png"/>
-         <figcaption>Desenhe por <b>Q’’</b> o traço <b>&alpha;&pi;’’</b> paralelo à LT. Pronto, temos agora os dois traços do plano.</figcaption>
+         <figcaption>Desenhe por <b>Q''</b> o traço <b>&alpha;&pi;''</b> paralelo à LT. Pronto, temos agora os dois traços do plano.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/78_02_00.png" class="fundo"/>
@@ -6745,7 +6745,7 @@
            <input type="radio" id="l004y" name="sl">
            <label for="l004y"></label>
            <img src="planosPQ/79_01_04.png"/>
-         <figcaption>Para fazer a MPH e transformar o plano de topo em plano horizontal, Desenhe por <b>A’</b> o traço <b>&alpha;&pi;"<sub>1</sub></b> e fazer a 3&ordf; LT paralela a esse traço.</figcaption>
+         <figcaption>Para fazer a MPH e transformar o plano de topo em plano horizontal, Desenhe por <b>A'</b> o traço <b>&alpha;&pi;"<sub>1</sub></b> e fazer a 3&ordf; LT paralela a esse traço.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l005y" name="sl">
@@ -6784,7 +6784,7 @@
            <input type="radio" id="d058" name="sl">
            <label for="d058"></label>
            <img src="planosPQ/80_03.png"/>
-         <figcaption>Trace por <b>P’</b> a reta <b>&alpha;&pi;'</b> paralela à Linha de Terra (LT).</figcaption>
+         <figcaption>Trace por <b>P'</b> a reta <b>&alpha;&pi;'</b> paralela à Linha de Terra (LT).</figcaption>
        </li>
        <li>
            <input type="radio" id="d059" name="sl">
@@ -6796,7 +6796,7 @@
            <input type="radio" id="d060" name="sl">
            <label for="d060"></label>
            <img src="planosPQ/80_07.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d060a" name="sl">
@@ -6808,49 +6808,49 @@
            <input type="radio" id="d061" name="sl">
            <label for="d061"></label>
            <img src="planosPQ/80_08.png"/>
-         <figcaption>Construa as novas LC a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referentes à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas LC a partir de <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referentes à 2ª LT) obtendo os pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d062" name="sl">
            <label for="d062"></label>
            <img src="planosPQ/80_10.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o quadrado ABCD contido nesse plano. Construa o quadrado <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> em VG na primeira projeção. Destaque a projeção <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> do quadrado.</figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o quadrado ABCD contido nesse plano. Construa o quadrado <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> em VG na primeira projeção. Destaque a projeção <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d063" name="sl">
            <label for="d063"></label>
            <img src="planosPQ/80_11.png"/>
-        <figcaption>No 3º sistema obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
+        <figcaption>No 3º sistema obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C''<sub>1</sub></b> e <b>D''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d064" name="sl">
            <label for="d064"></label>
            <img src="planosPQ/80_12.png"/>
-        <figcaption>Destaque a projeção <b>A’’<sub>1</sub>B’’<sub>1</sub>C’’<sub>1</sub>D’’<sub>1</sub></b> do quadrado.</figcaption>
+        <figcaption>Destaque a projeção <b>A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub>D''<sub>1</sub></b> do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d065" name="sl">
            <label for="d065"></label>
            <img src="planosPQ/80_13.png"/>
-        <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos <b>C</b> e <b>D</b> para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos dos pontos <b>C</b> e <b>D</b> do 3º sistema obtendo os pontos <b>C’</b> e <b>D’</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
+        <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos <b>C</b> e <b>D</b> para o 2º sistema. Construa as LC dos pontos <b>C''<sub>1</sub></b> e <b>D''<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos dos pontos <b>C</b> e <b>D</b> do 3º sistema obtendo os pontos <b>C'</b> e <b>D'</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d066" name="sl">
            <label for="d066"></label>
            <img src="planosPQ/80_14.png"/>
-        <figcaption>Destaque a projeção <b>A’B’C’D’</b> do quadrado.</figcaption>
+        <figcaption>Destaque a projeção <b>A'B'C'D'</b> do quadrado.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d067" name="sl">
            <label for="d067"></label>
            <img src="planosPQ/80_15.png"/>
-        <figcaption>Para fazer o alçamento dos pontos <b>C</b> e <b>D</b> para o 1º sistema construa as LC dos pontos <b>C’</b> e <b>D’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema obtendo os pontos <b>C’’</b> e <b>D’’</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
+        <figcaption>Para fazer o alçamento dos pontos <b>C</b> e <b>D</b> para o 1º sistema construa as LC dos pontos <b>C'</b> e <b>D'</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema obtendo os pontos <b>C''</b> e <b>D''</b>. Veja o processo destacado para o ponto <b>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d068" name="sl">
            <label for="d068"></label>
            <img src="planosPQ/80_16.png"/>
-        <figcaption>Destaque a projeção <b>A’’B’’C’’D’’</b>. Pronto! O quadrado está representado!</figcaption>
+        <figcaption>Destaque a projeção <b>A''B''C''D''</b>. Pronto! O quadrado está representado!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/80_00.png" class="fundo"/>
@@ -6867,19 +6867,19 @@
            <input type="radio" id="d001" name="sl">
            <label for="d001"></label>
            <img src="planosPQ/82_01.png"/>
-        <figcaption>O plano paralelo à linha de terra está representado pelos pontos <b>A</b> e <b>B</b>. O primeiro traço do plano, a reta <b>&alpha;&pi;’</b>, já foi obtido. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;’</b>. Coloque a marcação das barrinhas da LT para a direita.</figcaption>
+        <figcaption>O plano paralelo à linha de terra está representado pelos pontos <b>A</b> e <b>B</b>. O primeiro traço do plano, a reta <b>&alpha;&pi;'</b>, já foi obtido. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d002" name="sl">
            <label for="d002"></label>
            <img src="planosPQ/82_02.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d003" name="sl">
            <label for="d003"></label>
            <img src="planosPQ/82_03.png"/>
-         <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
+         <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
        </li>
        <li>
            <input type="radio" id="d004" name="sl">
@@ -6891,37 +6891,37 @@
            <input type="radio" id="d005" name="sl">
            <label for="d005"></label>
            <img src="planosPQ/82_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d006" name="sl">
            <label for="d006"></label>
            <img src="planosPQ/82_06.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o hexaedro regular com a face ABCD contida nesse plano. Inicie construindo o quadrado <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o hexaedro regular com a face ABCD contida nesse plano. Inicie construindo o quadrado <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d007" name="sl">
            <label for="d007"></label>
            <img src="planosPQ/82_07.png"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C’’<sub>1</sub></b> e <b>D’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;’’<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b> e <b>D</b>, ou seja, os pontos <b>C''<sub>1</sub></b> e <b>D''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d008" name="sl">
            <label for="d008"></label>
            <img src="planosPQ/82_08.png"/>
-        <figcaption>Vamos agora representar os demais vértices do hexaedro regular nesse 3º sistema. Como a face <b>ABCD</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>EFGH</b> será coincidente com a 1ª projeção da face <b>ABCD</b>. Represente os pontos <b>E’<sub>1</sub></b>, <b>F’<sub>1</sub></b>, <b>G’<sub>1</sub></b> e <b>H’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b> e <b>D’<sub>1</sub></b>.</figcaption>
+        <figcaption>Vamos agora representar os demais vértices do hexaedro regular nesse 3º sistema. Como a face <b>ABCD</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>EFGH</b> será coincidente com a 1ª projeção da face <b>ABCD</b>. Represente os pontos <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>H'<sub>1</sub></b> coincidentes, respectivamente, com <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b>, <b>C'<sub>1</sub></b> e <b>D'<sub>1</sub></b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d009" name="sl">
            <label for="d009"></label>
            <img src="planosPQ/82_09.png"/>
-        <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>EFGH</b> marque a altura do sólido, que é a VG da aresta, a partir do traço <b>&alpha;&pi;’’<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>. </figcaption>
+        <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>EFGH</b> marque a altura do sólido, que é a VG da aresta, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>. </figcaption>
        </li>
        <li>
            <input type="radio" id="d010" name="sl">
            <label for="d010"></label>
            <img src="planosPQ/82_10.png"/>
-         <figcaption>Marque os pontos <b>E’’<sub>1</sub></b>, <b>F’’<sub>1</sub></b>, <b>G’’<sub>1</sub></b> e <b>H’’<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;’’<sub>1</sub></b> com as LC desses pontos.</figcaption>
+         <figcaption>Marque os pontos <b>E''<sub>1</sub></b>, <b>F''<sub>1</sub></b>, <b>G''<sub>1</sub></b> e <b>H''<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;''<sub>1</sub></b> com as LC desses pontos.</figcaption>
        </li>
        <li>
            <input type="radio" id="d011" name="sl">
@@ -6945,7 +6945,7 @@
            <input type="radio" id="d013" name="sl">
            <label for="d013"></label>
            <img src="planosPQ/82_13.png"/>
-         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>H’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C''<sub>1</sub></b>, <b>D''<sub>1</sub></b>, ..., <b>H''<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d014" name="sl">
@@ -6957,7 +6957,7 @@
            <input type="radio" id="d015" name="sl">
            <label for="d015"></label>
            <img src="planosPQ/82_15.png"/>
-         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>H’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C'</b>, <b>D'</b>, ..., <b>H'</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d016" name="sl">
@@ -6969,13 +6969,13 @@
            <input type="radio" id="d017" name="sl">
            <label for="d017"></label>
            <img src="planosPQ/82_17.png"/>
-         <figcaption>Vamos obter a seção plana agora. Represente o plano <b>&beta;</b> de topo que passa pela origem e forma 45° com <b>&pi;’</b>.</figcaption>
+         <figcaption>Vamos obter a seção plana agora. Represente o plano <b>&beta;</b> de topo que passa pela origem e forma 45° com <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d018" name="sl">
            <label for="d018"></label>
            <img src="planosPQ/82_18.png"/>
-         <figcaption>Como o plano <b>&beta;</b> é projetante em 2ª projeção basta encontrar a interseção do traço <b>&beta;&pi;’’</b> com cada aresta do sólido. Assim, <b>&beta;&pi;’’</b>’ corta as projeções das arestas <b>A’’B’’</b>, <b>E’’F’’</b>, <b>H’’G’’</b> e <b>D’’C’’</b> nos pontos <b>1’’</b>, <b>2’’</b>, <b>3’’</b> e <b>4’’</b> respectivamente. </figcaption>
+         <figcaption>Como o plano <b>&beta;</b> é projetante em 2ª projeção basta encontrar a interseção do traço <b>&beta;&pi;''</b> com cada aresta do sólido. Assim, <b>&beta;&pi;'''</b> corta as projeções das arestas <b>A''B''</b>, <b>E''F''</b>, <b>H''G''</b> e <b>D''C''</b> nos pontos <b>1''</b>, <b>2''</b>, <b>3''</b> e <b>4''</b> respectivamente. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d019" name="sl">
@@ -7014,49 +7014,49 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00097.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>O Plano Paralelo à Linha de Terra está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;’’</b>. Vamos aplicar uma MP Horizontal (MPH) e, em seguida, uma MP Vertical (MPV).</p>
+  <p>O Plano Paralelo à Linha de Terra está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;''</b>. Vamos aplicar uma MP Horizontal (MPH) e, em seguida, uma MP Vertical (MPV).</p>
   <ul class="slider">
        <li>
            <input type="radio" id="d013n" name="sl">
            <label for="d013n"></label>
            <img src="planosPQ/86_01.png"/>
-         <figcaption>Vamos efetuar uma MP Horizontal para tornar o Plano Vertical num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;’’</b>. Coloque a marcação das barrinhas da 2ª LT para a esquerda.</figcaption>
+         <figcaption>Vamos efetuar uma MP Horizontal para tornar o Plano Vertical num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;''</b>. Coloque a marcação das barrinhas da 2ª LT para a esquerda.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d014n" name="sl">
            <label for="d014n"></label>
            <img src="planosPQ/86_02.png"/>
-         <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A’’</b>.</figcaption>
+         <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d015n" name="sl">
            <label for="d015n"></label>
            <img src="planosPQ/86_03.png"/>
-         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, o afastamento positivo deve ser marcado para a esquerda da 2ª LT.</figcaption>
+         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A'<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, o afastamento positivo deve ser marcado para a esquerda da 2ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d016n" name="sl">
            <label for="d016n"></label>
            <img src="planosPQ/86_04.png"/>
-         <figcaption>Construa o <b>&alpha;&pi;’<sub>1</sub></b> ligando os pontos <b>A’<sub>1</sub></b> e <b>R</b>. Note que nesse 2º Sistema o Segundo Traço está perpendicular à 2ª LT e o Primeiro Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é Vertical.</figcaption>
+         <figcaption>Construa o <b>&alpha;&pi;'<sub>1</sub></b> ligando os pontos <b>A'<sub>1</sub></b> e <b>R</b>. Note que nesse 2º Sistema o Segundo Traço está perpendicular à 2ª LT e o Primeiro Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é Vertical.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d017n" name="sl">
            <label for="d017n"></label>
            <img src="planosPQ/86_05.png"/>
-         <figcaption>Agora vamos efetuar uma MP Vertical para tornar esse Plano Vertical em Frontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;’<sub>1</sub></b>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
+         <figcaption>Agora vamos efetuar uma MP Vertical para tornar esse Plano Vertical em Frontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;'<sub>1</sub></b>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d018n" name="sl">
            <label for="d018n"></label>
            <img src="planosPQ/86_06.png"/>
-         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A’<sub>1</sub></b>. </figcaption>
+         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A'<sub>1</sub></b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d019n" name="sl">
            <label for="d019n"></label>
            <img src="planosPQ/86_07.png"/>
-         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A’’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, a cota positiva deve ser marcada para cima da 3ª LT. Note que nesse 3º Sistema o Primeiro Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Frontal.</figcaption>
+         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A''<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, a cota positiva deve ser marcada para cima da 3ª LT. Note que nesse 3º Sistema o Primeiro Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Frontal.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/86_00.png" class="fundo"/>
@@ -7138,13 +7138,13 @@
            <input type="radio" id="d047n" name="sl">
            <label for="d047n"></label>
            <img src="planosPQ/87_02_01.png"/>
-        <figcaption>Construa <b>p’</b> passando por <b>P’</b> e perpendicular a <b>&alpha;&pi;’</b>. Como esse traço é uma horizontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;’</b> e <b>p</b> formam 90°.</figcaption>
+        <figcaption>Construa <b>p'</b> passando por <b>P'</b> e perpendicular a <b>&alpha;&pi;'</b>. Como esse traço é uma horizontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;'</b> e <b>p</b> formam 90°.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d048n" name="sl">
            <label for="d048n"></label>
            <img src="planosPQ/87_02_02.png"/>
-        <figcaption>Construa <b>p’’</b> passando por <b>P’’</b> e perpendicular a <b>&alpha;&pi;’’</b>. Como esse traço é uma frontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;’’</b> e <b>p</b> formam 90°. Temos então a reta <b>p</b> que passa pelo ponto dado <b>P</b> e é perpendicular ao plano dado <b>&alpha;</b>!</figcaption>
+        <figcaption>Construa <b>p''</b> passando por <b>P''</b> e perpendicular a <b>&alpha;&pi;''</b>. Como esse traço é uma frontal do Plano Qualquer <b>&alpha;</b> então pela Propriedade 7 temos que as retas <b>&alpha;&pi;''</b> e <b>p</b> formam 90°. Temos então a reta <b>p</b> que passa pelo ponto dado <b>P</b> e é perpendicular ao plano dado <b>&alpha;</b>!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/87_02_00.png" class="fundo"/>
@@ -7161,19 +7161,19 @@
            <input type="radio" id="d034n1" name="sl">
            <label for="d034n1"></label>
            <img src="planosPQ/99_01_01.png"/>
-        <figcaption>Para encontrar o traço <b>&alpha;&pi;’</b> basta encontrar a reta horizontal do plano de cota nula. Ou seja, devemos obter dois pontos de cota zero do plano. Represente a reta <b>BC</b> em épura. </figcaption>
+        <figcaption>Para encontrar o traço <b>&alpha;&pi;'</b> basta encontrar a reta horizontal do plano de cota nula. Ou seja, devemos obter dois pontos de cota zero do plano. Represente a reta <b>BC</b> em épura. </figcaption>
        </li>
 	  <li>
            <input type="radio" id="d035n1" name="sl">
            <label for="d035n1"></label>
            <img src="planosPQ/99_01_02.png"/>
-        <figcaption>Vamos obter o ponto <b>P</b> da reta <b>BC</b> de cota zero. Marque <b>P’’</b> na interseção da 2&ordf; projeção da reta <b>BC</b> com a Linha de Terra (LT).</figcaption>
+        <figcaption>Vamos obter o ponto <b>P</b> da reta <b>BC</b> de cota zero. Marque <b>P''</b> na interseção da 2&ordf; projeção da reta <b>BC</b> com a Linha de Terra (LT).</figcaption>
        </li>
        <li>
            <input type="radio" id="d036n1" name="sl">
            <label for="d036n1"></label>
            <img src="planosPQ/99_01_03.png"/>
-         <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1&ordf; projeção sobre <b>B’C’</b>.</figcaption>
+         <figcaption>Trace a Linha de Chamada (LC) do ponto <b>P</b> e obtenha sua 1&ordf; projeção sobre <b>B'C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d037n1" name="sl">
@@ -7185,92 +7185,92 @@
            <input type="radio" id="d038n1" name="sl">
            <label for="d038n1"></label>
            <img src="planosPQ/99_01_05.png"/>
-         <figcaption>Vamos obter o ponto <b>Q</b> da reta <b>AC</b> de cota zero. Marque <b>Q’’</b> na interseção da 2&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
+         <figcaption>Vamos obter o ponto <b>Q</b> da reta <b>AC</b> de cota zero. Marque <b>Q''</b> na interseção da 2&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d039n1" name="sl">
            <label for="d039n1"></label>
            <img src="planosPQ/99_01_06.png"/>
-         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha sua 1&ordf; projeção sobre <b>A’C’</b>.</figcaption>
+         <figcaption>Trace a LC do ponto <b>Q</b> e obtenha sua 1&ordf; projeção sobre <b>A'C'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d040n1" name="sl">
            <label for="d040n1"></label>
            <img src="planosPQ/99_01_07.png"/>
-         <figcaption>Os pontos <b>P</b> e <b>Q</b> possuem cota zero. Desenhe por <b>P’</b> e <b>Q’</b> o traço <b>&alpha;&pi;’</b>. Pronto, já temos o 1&ordm; traço representado. Lembrando que a segunda projeção do 1&ordm; traço está sobre a LT.</figcaption>
+         <figcaption>Os pontos <b>P</b> e <b>Q</b> possuem cota zero. Desenhe por <b>P'</b> e <b>Q'</b> o traço <b>&alpha;&pi;'</b>. Pronto, já temos o 1&ordm; traço representado. Lembrando que a segunda projeção do 1&ordm; traço está sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d041n1" name="sl">
            <label for="d041n1"></label>
            <img src="planosPQ/99_01_08.png"/>
-         <figcaption>Para obter o traço <b>&alpha;&pi;’’</b> basta encontrar a reta frontal do plano de afastamento nulo. Ou seja, devemos obter dois pontos de afastamento zero do plano. Vamos obter o ponto <b>R</b> da reta <b>AC</b> de afastamento zero. Marque <b>R’</b> na interseção da 1&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
+         <figcaption>Para obter o traço <b>&alpha;&pi;''</b> basta encontrar a reta frontal do plano de afastamento nulo. Ou seja, devemos obter dois pontos de afastamento zero do plano. Vamos obter o ponto <b>R</b> da reta <b>AC</b> de afastamento zero. Marque <b>R'</b> na interseção da 1&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d042n1" name="sl">
            <label for="d042n1"></label>
            <img src="planosPQ/99_01_09.png"/>
-         <figcaption>Trace a LC do ponto <b>R</b> e obtenha sua 2&ordf; projeção sobre <b>A’’C’’</b>.</figcaption>
+         <figcaption>Trace a LC do ponto <b>R</b> e obtenha sua 2&ordf; projeção sobre <b>A''C''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d043n1" name="sl">
            <label for="d043n1"></label>
            <img src="planosPQ/99_01_10.png"/>
-         <figcaption>O primeiro e segundo traços do Plano Qualquer são sempre concorrentes e o ponto de concorrência está sobre a LT. Marque o ponto <b>S’</b> de interseção de <b>&alpha;&pi;’</b> com a LT. A 2&ordf; projeção desse ponto coincide com a sua 1&ordf; projeção então marque <b>S’’ &equiv; S’</b>.</figcaption>
+         <figcaption>O primeiro e segundo traços do Plano Qualquer são sempre concorrentes e o ponto de concorrência está sobre a LT. Marque o ponto <b>S'</b> de interseção de <b>&alpha;&pi;'</b> com a LT. A 2&ordf; projeção desse ponto coincide com a sua 1&ordf; projeção então marque <b>S'' &equiv; S'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d044n1" name="sl">
            <label for="d044n1"></label>
            <img src="planosPQ/99_01_11.png"/>
-         <figcaption>Os pontos <b>R</b> e <b>S</b> possuem afastamento zero. Desenhe por <b>R’’</b> e <b>S’’</b> o traço <b>&alpha;&pi;’’</b>. Lembrando que a primeira projeção do 2&ordm; traço está sobre a LT. Pronto! Representamos o Plano Qualquer pelos seus dois traços!</figcaption>
+         <figcaption>Os pontos <b>R</b> e <b>S</b> possuem afastamento zero. Desenhe por <b>R''</b> e <b>S''</b> o traço <b>&alpha;&pi;''</b>. Lembrando que a primeira projeção do 2&ordm; traço está sobre a LT. Pronto! Representamos o Plano Qualquer pelos seus dois traços!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/99_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosPQ/Apost_GD_2021_00099a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>O Plano Qualquer está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;’</b>. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
+  <p>O Plano Qualquer está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;'</b>. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="d034n" name="sl">
            <label for="d034n"></label>
            <img src="planosPQ/88_01.png"/>
-        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;’</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d035n" name="sl">
            <label for="d035n"></label>
            <img src="planosPQ/88_02.png"/>
-        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A’</b>.</figcaption>
+        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d036n" name="sl">
            <label for="d036n"></label>
            <img src="planosPQ/88_03.png"/>
-         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A''<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d037n" name="sl">
            <label for="d037n"></label>
            <img src="planosPQ/88_04.png"/>
-         <figcaption>Construa o <b>&alpha;&pi;’’<sub>1</sub></b> ligando os pontos <b>A’’<sub>1</sub></b> e <b>S</b>. Note que nesse 2º Sistema o Primeiro Traço está perpendicular à 2ª LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
+         <figcaption>Construa o <b>&alpha;&pi;''<sub>1</sub></b> ligando os pontos <b>A''<sub>1</sub></b> e <b>S</b>. Note que nesse 2º Sistema o Primeiro Traço está perpendicular à 2ª LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d038n" name="sl">
            <label for="d038n"></label>
            <img src="planosPQ/88_05.png"/>
-         <figcaption>Agora vamos efetuar uma MP Horizontal para tornar esse Plano de Topo em Horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;’’<sub>1</sub></b>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
+         <figcaption>Agora vamos efetuar uma MP Horizontal para tornar esse Plano de Topo em Horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d039n" name="sl">
            <label for="d039n"></label>
            <img src="planosPQ/88_06.png"/>
-         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A’’<sub>1</sub></b>. </figcaption>
+         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A''<sub>1</sub></b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d040n" name="sl">
            <label for="d040n"></label>
            <img src="planosPQ/88_07.png"/>
-         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT. Note que nesse 3º Sistema o Segundo Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
+         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT. Note que nesse 3º Sistema o Segundo Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/88_00.png" class="fundo"/>
@@ -7290,13 +7290,13 @@
            <input type="radio" id="d035" name="sl">
            <label for="d035"></label>
            <img src="planosPQ/89_02.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d036" name="sl">
            <label for="d036"></label>
            <img src="planosPQ/89_03.png"/>
-         <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
+         <figcaption>Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo.</figcaption>
        </li>
        <li>
            <input type="radio" id="d037" name="sl">
@@ -7308,55 +7308,55 @@
            <input type="radio" id="d038" name="sl">
            <label for="d038"></label>
            <img src="planosPQ/89_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d039" name="sl">
            <label for="d039"></label>
            <img src="planosPQ/89_06.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> em VG na primeira projeção.</figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o triângulo equilátero <b>ABC</b> contido nesse plano. Construa o triângulo <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> em VG na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d040" name="sl">
            <label for="d040"></label>
            <img src="planosPQ/89_07.png"/>
-         <figcaption>Destaque a projeção <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+         <figcaption>Destaque a projeção <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d041" name="sl">
            <label for="d041"></label>
            <img src="planosPQ/89_08.png"/>
-        <figcaption>No 3º sistema obtenha a 2ª projeção do ponto <b>C</b>, ou seja, o ponto <b>C’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
+        <figcaption>No 3º sistema obtenha a 2ª projeção do ponto <b>C</b>, ou seja, o ponto <b>C''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar a LC perpendicular ao 3º traço.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d042" name="sl">
            <label for="d042"></label>
            <img src="planosPQ/89_09.png"/>
-        <figcaption>Destaque a projeção <b>A’’<sub>1</sub>B’’<sub>1</sub>C’’<sub>1</sub></b> do triângulo equilátero.</figcaption>
+        <figcaption>Destaque a projeção <b>A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub></b> do triângulo equilátero.</figcaption>
        </li>
        <li>
            <input type="radio" id="d043" name="sl">
            <label for="d043"></label>
            <img src="planosPQ/89_10.png"/>
-         <figcaption>Agora vamos fazer o alçamento (retorno) do ponto <b>C</b> para o 2º sistema. Construa a LC do ponto <b>C’’<sub>1</sub></b> perpendicular à 2ª LT. Marque sobre essa LC o afastamento do ponto <b>C</b> do 3º sistema obtendo o ponto <b>C’</b>.</figcaption>
+         <figcaption>Agora vamos fazer o alçamento (retorno) do ponto <b>C</b> para o 2º sistema. Construa a LC do ponto <b>C''<sub>1</sub></b> perpendicular à 2ª LT. Marque sobre essa LC o afastamento do ponto <b>C</b> do 3º sistema obtendo o ponto <b>C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d044" name="sl">
            <label for="d044"></label>
            <img src="planosPQ/89_11.png"/>
-         <figcaption>Destaque a projeção <b>A’B’C’</b> do triângulo equilátero.</figcaption>
+         <figcaption>Destaque a projeção <b>A'B'C'</b> do triângulo equilátero.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d045" name="sl">
            <label for="d045"></label>
            <img src="planosPQ/89_12.png"/>
-         <figcaption>Para fazer o alçamento do ponto <b>C</b> para o 1º sistema construa a LC do ponto <b>C’</b> perpendicular à 1ª LT. Marque sobre essa LC a cota do 2º sistema obtendo o ponto <b>C’’</b>.</figcaption>
+         <figcaption>Para fazer o alçamento do ponto <b>C</b> para o 1º sistema construa a LC do ponto <b>C'</b> perpendicular à 1ª LT. Marque sobre essa LC a cota do 2º sistema obtendo o ponto <b>C''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d046" name="sl">
            <label for="d046"></label>
            <img src="planosPQ/89_13.png"/>
-         <figcaption>Destaque a projeção <b>A’’B’’C’’</b>. Pronto! O triângulo equilátero está representado!</figcaption>
+         <figcaption>Destaque a projeção <b>A''B''C''</b>. Pronto! O triângulo equilátero está representado!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/89_00.png" class="fundo"/>
@@ -7376,7 +7376,7 @@
            <input type="radio" id="d022" name="sl">
            <label for="d022"></label>
            <img src="planosPQ/90_04.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d022a" name="sl">
@@ -7388,19 +7388,19 @@
            <input type="radio" id="d023" name="sl">
            <label for="d023"></label>
            <img src="planosPQ/90_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d024" name="sl">
            <label for="d024"></label>
            <img src="planosPQ/90_06.png"/>
-         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o prisma regular hexagonal com a face <b>ABCDEF</b> contida nesse plano. Inicie construindo o hexágono regular <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub>D’<sub>1</sub>E’<sub>1</sub>F’<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
+         <figcaption>Note que nesse 3º sistema o segundo traço do plano está paralelo à 3ª LT e, portanto, nesse sistema o plano é horizontal. Vamos construir agora o prisma regular hexagonal com a face <b>ABCDEF</b> contida nesse plano. Inicie construindo o hexágono regular <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub></b> que está em VG na primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d025" name="sl">
            <label for="d025"></label>
            <img src="planosPQ/90_08.png"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face <b>ABCDEF</b>. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C''<sub>1</sub></b>, <b>D''<sub>1</sub></b>, <b>E''<sub>1</sub></b> e <b>F''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face <b>ABCDEF</b>. Represente os pontos <b>G'<sub>1</sub></b>, <b>H'<sub>1</sub></b>, <b>I'<sub>1</sub></b>, <b>J'<sub>1</sub></b>, <b>K'<sub>1</sub></b> e <b>L'<sub>1</sub></b> coincidentes, respectivamente, com <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b>, <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>D'<sub>1</sub></b> e <b>F'<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d026" name="sl">
@@ -7412,7 +7412,7 @@
            <input type="radio" id="d027" name="sl">
            <label for="d027"></label>
            <img src="planosPQ/90_10.png"/>
-         <figcaption>Marque os pontos <b>G’’<sub>1</sub></b>, <b>H’’<sub>1</sub></b>, <b>I’’<sub>1</sub></b>, <b>J’’<sub>1</sub></b>, <b>K’’<sub>1</sub></b> e <b>L’’<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;''<sub>1</sub></b> com as LC desses pontos.</figcaption>
+         <figcaption>Marque os pontos <b>G''<sub>1</sub></b>, <b>H''<sub>1</sub></b>, <b>I''<sub>1</sub></b>, <b>J''<sub>1</sub></b>, <b>K''<sub>1</sub></b> e <b>L''<sub>1</sub></b> na interseção do traço <b>&gamma;&pi;''<sub>1</sub></b> com as LC desses pontos.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d028" name="sl">
@@ -7430,7 +7430,7 @@
            <input type="radio" id="d030" name="sl">
            <label for="d030"></label>
            <img src="planosPQ/90_13.png"/>
-         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>L’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema, obtendo os pontos <b>C’</b>, <b>D’</b>, ...., <b>L’</b>. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C''<sub>1</sub></b>, <b>D''<sub>1</sub></b>, ..., <b>L''<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema, obtendo os pontos <b>C'</b>, <b>D'</b>, ...., <b>L'</b>. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d031" name="sl">
@@ -7442,7 +7442,7 @@
            <input type="radio" id="d032" name="sl">
            <label for="d032"></label>
            <img src="planosPQ/90_15.png"/>
-         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>L’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema, obtendo os pontos <b>C’’</b>, <b>D’’</b>, ...., <b>L’’</b>. Veja o processo destacado para o ponto <b>D</b>. Como a 1ª projeção do ponto <b>D</b> está acima da LT lembre-se de marcar a cota dele a partir da LT e não a partir de <b>D’</b>!</figcaption>
+         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C'</b>, <b>D'</b>, ..., <b>L'</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema, obtendo os pontos <b>C''</b>, <b>D''</b>, ...., <b>L''</b>. Veja o processo destacado para o ponto <b>D</b>. Como a 1ª projeção do ponto <b>D</b> está acima da LT lembre-se de marcar a cota dele a partir da LT e não a partir de <b>D'</b>!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d033" name="sl">
@@ -7469,7 +7469,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
 	<img src="planosPQ/92_02_01.png"/>
-	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;’</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
+	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;'</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00104.png"/>
