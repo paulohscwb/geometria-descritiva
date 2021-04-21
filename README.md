@@ -7131,13 +7131,13 @@
            <input type="radio" id="d041n1" name="sl">
            <label for="d041n1"></label>
            <img src="planosPQ/99_01_08.png"/>
-         <figcaption>Para obter o traço <b>&alpha;&pi;’’</b> basta encontrar a reta frontal do plano de afastamento nulo. Ou seja, devemos obter dois pontos de afastamentozero do plano. Vamos obter o ponto <b>R</b> da reta <b>AC</b> de afastamento zero. Marque <b>R’</b> na interseção da 1&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
+         <figcaption>Para obter o traço <b>&alpha;&pi;’’</b> basta encontrar a reta frontal do plano de afastamento nulo. Ou seja, devemos obter dois pontos de afastamento zero do plano. Vamos obter o ponto <b>R</b> da reta <b>AC</b> de afastamento zero. Marque <b>R’</b> na interseção da 1&ordf; projeção da reta <b>AC</b> com a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d042n1" name="sl">
            <label for="d042n1"></label>
            <img src="planosPQ/99_01_09.png"/>
-         <figcaption>Trace a LC do ponto <b>R</b> e obtenha sua 2ordf; projeção sobre <b>A’’C’’</b>.</figcaption>
+         <figcaption>Trace a LC do ponto <b>R</b> e obtenha sua 2&ordf; projeção sobre <b>A’’C’’</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d043n1" name="sl">
@@ -7149,56 +7149,56 @@
            <input type="radio" id="d044n1" name="sl">
            <label for="d044n1"></label>
            <img src="planosPQ/99_01_11.png"/>
-         <figcaption>Os pontos <b>R</b> e <b>S</b> possuem cota zero. Desenhe por <b>R’’</b> e <b>S’’</b> o traço <b>&alpha;&pi;’’</b>.Lembrando que a primeira projeção do 2&ordm; traço está sobre a LT. Pronto! Representamos o Plano Qualquer pelos seus dois traços!</figcaption>
+         <figcaption>Os pontos <b>R</b> e <b>S</b> possuem afastamento zero. Desenhe por <b>R’’</b> e <b>S’’</b> o traço <b>&alpha;&pi;’’</b>. Lembrando que a primeira projeção do 2&ordm; traço está sobre a LT. Pronto! Representamos o Plano Qualquer pelos seus dois traços!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/99_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosPQ/Apost_GD_2021_00099a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>O Plano Qualquer está determinado pelo ponto A e pelo traço &alpha;&pi;’. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
+  <p>O Plano Qualquer está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;’</b>. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="d034n" name="sl">
            <label for="d034n"></label>
            <img src="planosPQ/88_01.png"/>
-        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço &alpha;&pi;’. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;’</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d035n" name="sl">
            <label for="d035n"></label>
            <img src="planosPQ/88_02.png"/>
-        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto A a partir de A’.</figcaption>
+        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A’</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d036n" name="sl">
            <label for="d036n"></label>
            <img src="planosPQ/88_03.png"/>
-         <figcaption>Marque sobre essa Nova LC a cota do ponto A do Sistema Anterior obtendo o ponto A’’<sub>1</sub>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
+         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A’’<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d037n" name="sl">
            <label for="d037n"></label>
            <img src="planosPQ/88_04.png"/>
-         <figcaption>Construa o &alpha;&pi;’’<sub>1</sub> ligando os pontos A’’<sub>1</sub> e S. Note que nesse 2º Sistema o Primeiro Traço está perpendicular à 2ª LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
+         <figcaption>Construa o <b>&alpha;&pi;’’<sub>1</sub></b> ligando os pontos <b>A’’<sub>1</sub></b> e <b>S</b>. Note que nesse 2º Sistema o Primeiro Traço está perpendicular à 2ª LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d038n" name="sl">
            <label for="d038n"></label>
            <img src="planosPQ/88_05.png"/>
-         <figcaption>Agora vamos efetuar uma MP Horizontal para tornar esse Plano de Topo em Horizontal. Desenhe a 3ª LT paralela ao traço &alpha;&pi;’’<sub>1</sub>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
+         <figcaption>Agora vamos efetuar uma MP Horizontal para tornar esse Plano de Topo em Horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;’’<sub>1</sub></b>. Coloque a marcação das barrinhas da 3ª LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d039n" name="sl">
            <label for="d039n"></label>
            <img src="planosPQ/88_06.png"/>
-         <figcaption>Construa a Nova LC para o ponto A a partir de A’’<sub>1</sub>. </figcaption>
+         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A’’<sub>1</sub></b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d040n" name="sl">
            <label for="d040n"></label>
            <img src="planosPQ/88_07.png"/>
-         <figcaption>Marque sobre essa Nova LC o afastamento do ponto A do Sistema Anterior (do Segundo Sistema) obtendo o ponto A’<sub>1</sub>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT. Note que nesse 3º Sistema o Segundo Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
+         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT. Note que nesse 3º Sistema o Segundo Traço do Plano é paralelo à 3ª LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/88_00.png" class="fundo"/>
