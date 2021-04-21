@@ -5777,13 +5777,13 @@
            <input type="radio" id="s041n" name="sl">
            <label for="s041n"></label>
            <img src="planosTV/59_00_08.png"/>
-        <figcaption>A segunda projeção do traço (r&alpha;) de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.</figcaption>
+        <figcaption>A segunda projeção do traço <b>r&alpha;</b> de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s042n" name="sl">
            <label for="s042n"></label>
            <img src="planosTV/59_00_09.png"/>
-        <figcaption>Qualquer reta perpendicular ao plano é uma reta frontal.</figcaption>
+        <figcaption>Qualquer reta perpendicular ao plano de topo é uma reta frontal com as projeções perpendiculares aos respectivos traços do plano.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/59_00_08.png" class="fundo"/>
