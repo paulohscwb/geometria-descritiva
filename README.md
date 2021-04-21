@@ -3908,13 +3908,13 @@
 	   <li>
            <input type="radio" id="514c" name="sl">
            <label for="514c"></label>
-           <img src="pontos-retas/43_03_03.png"/>
+           <img src="pontos-retas/43_03_04.png"/>
         <figcaption>Vamos agora representar a reta em épura.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="514b" name="sl">
            <label for="514b"></label>
-           <img src="pontos-retas/43_03_03.png"/>
+           <img src="pontos-retas/43_03_05.png"/>
         <figcaption>Encontrando as projeções dos pontos <b>A</b> e <b>B</b> temos as projeções da reta qualquer.</figcaption>
        </li>
 	</ul>
