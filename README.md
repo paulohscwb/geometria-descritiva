@@ -2632,7 +2632,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00029.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;'</b>, <b>&pi;''</b> e <b>&pi;'''</b> por meio de suas projeções em perspectiva, e depois em épura. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra.</p>
+  <p>Vamos representar as projeções de um ponto <b>A</b> em <b>&pi;'</b>, <b>&pi;''</b> e <b>&pi;'''</b> por meio de suas projeções em perspectiva, e depois em épura.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="239" name="sl">
@@ -2662,13 +2662,13 @@
            <input type="radio" id="244" name="sl">
            <label for="244"></label>
            <img src="pontos-retas/18_02_06.png"/>
-         <figcaption>Depois de fazer esta reta paralela, podemos "pegar" com o compasso a medida da ordenada de <b>A</b>, marcando esta medida a partir do ponto <b>A</b>. As outra construções em perspectiva são similares.</figcaption>
+         <figcaption>Depois de fazer esta reta paralela, podemos "pegar" com o compasso a medida da ordenada de <b>A</b>, marcando esta medida a partir do ponto <b>A</b>. As outras construções em perspectiva são similares.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="245" name="sl">
            <label for="245"></label>
            <img src="pontos-retas/18_02_07.png"/>
-         <figcaption>Com as três projeções de <b>A</b> em perspectiva, podemos construir as projeções deste ponto em épura, como fizemos nos exemplos anteriores. Agora vamos focar na representação da 3&ordf; projeção de <b>A</b>.</figcaption>
+         <figcaption>Com as três projeções de <b>A</b> em perspectiva, podemos construir as projeções deste ponto em épura, como fizemos nos exemplos anteriores. Marque a origem no desenho em épura e construa os segmentos paralelos à linha de terra que determinam a linha de terra. Agora vamos focar na representação da 3&ordf; projeção de <b>A</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="246" name="sl">
