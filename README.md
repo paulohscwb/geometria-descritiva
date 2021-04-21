@@ -4385,13 +4385,13 @@
         <input type="radio" id="dn989" name="sl">
         <label for="dn989"></label>
         <img src="planosHFP/50_02_01.png"/>
-        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r’’</b> com <b>&alpha;&pi;'</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r’’</b> com <b>&alpha;&pi;''</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="dn988" name="sl">
        <label for="dn988"></label>
            <img src="planosHFP/50_02_02.png"/>
-        <figcaption>Por <b>(r&alpha;'')</b> traçamos uma linha de chamada até <b>r’</b>, obtendo a primeira projeção do traço de <b>r’</b> sobre <b>&alpha;</b>. </figcaption>
+        <figcaption>Por <b>(r&alpha;)''</b> traçamos uma linha de chamada até <b>r’</b>, obtendo a primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn987" name="sl">
