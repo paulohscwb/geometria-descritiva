@@ -7304,13 +7304,19 @@
            <input type="radio" id="d022" name="sl">
            <label for="d022"></label>
            <img src="planosPQ/90_04.png"/>
-        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MPHorizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
+        <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’</b> e <b>B’</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="d022a" name="sl">
+           <label for="d022a"></label>
+           <img src="planosPQ/90_04.png"/>
+        <figcaption>Note que nesse 2º sistema o primeiro traço do plano está perpendicular à 2ª LT e o segundo traço está oblíquo e, portanto, nesse sistema o plano é de topo. Vamos efetuar agora uma MP Horizontal para tornar esse plano de topo em horizontal. Desenhe a 3ª LT paralela ao traço <b>&alpha;&pi;''<sub>1</sub></b>. Como vamos representar um sólido, deixe espaço entre essas retas. Coloque a marcação das barrinhas da LT para baixo.</figcaption>
        </li>
        <li>
            <input type="radio" id="d023" name="sl">
            <label for="d023"></label>
            <img src="planosPQ/90_05.png"/>
-         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque o afastamento dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
+         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A’’<sub>1</sub></b> e <b>B’’<sub>1</sub></b> e marque os afastamentos dos pontos do sistema anterior (referente à 2ª LT) obtendo os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3ª LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="d024" name="sl">
@@ -7322,13 +7328,13 @@
            <input type="radio" id="d025" name="sl">
            <label for="d025"></label>
            <img src="planosPQ/90_08.png"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano &alpha; horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face ABCDEF. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, <b>E’’<sub>1</sub></b> e <b>F’’<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face <b>ABCDEF</b>. Represente os pontos <b>G’<sub>1</sub></b>, <b>H’<sub>1</sub></b>, <b>I’<sub>1</sub></b>, <b>J’<sub>1</sub></b>, <b>K’<sub>1</sub></b> e <b>L’<sub>1</sub></b> coincidentes, respectivamente, com <b>A’<sub>1</sub></b>, <b>B’<sub>1</sub></b>, <b>C’<sub>1</sub></b>, <b>D’<sub>1</sub></b>, <b>D’<sub>1</sub></b> e <b>F’<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d026" name="sl">
            <label for="d026"></label>
            <img src="planosPQ/90_09.png"/>
-         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>GHIJKL</b> marque a altura do sólido, que é a medida <b>h</b> dada, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal gama paralelo a ele. No plano gama estarão os pontos <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
+         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>GHIJKL</b> marque a altura do sólido, que é a medida <b>h</b> dada, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d027" name="sl">
@@ -7352,7 +7358,7 @@
            <input type="radio" id="d030" name="sl">
            <label for="d030"></label>
            <img src="planosPQ/90_13.png"/>
-         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>L’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC o afastamento do 3º sistema, obtendo os pontos <b>C’</b>, <b>D’</b>, ...., <b>L’</b>. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
+         <figcaption>Agora vamos fazer o alçamento (retorno) dos pontos para o 2º sistema. Construa as LC dos pontos <b>C’’<sub>1</sub></b>, <b>D’’<sub>1</sub></b>, ..., <b>L’’<sub>1</sub></b> perpendiculares à 2ª LT. Marque sobre essas LC os afastamentos do 3º sistema, obtendo os pontos <b>C’</b>, <b>D’</b>, ...., <b>L’</b>. Veja o processo destacado para o ponto <b>D</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="d031" name="sl">
@@ -7364,13 +7370,13 @@
            <input type="radio" id="d032" name="sl">
            <label for="d032"></label>
            <img src="planosPQ/90_15.png"/>
-         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>L’</b> perpendiculares à 1ª LT. Marque sobre essas LC a cota do 2º sistema, obtendo os pontos <b>C’’</b>, <b>D’’</b>, ...., <b>L’’</b>. Veja o processo destacado para o ponto <b>D</b>. Como a 1ª projeção do ponto <b>D</b> está acima da LT lembre-se de marcar a cota dele a partir da LT e não a partir de <b>D’</b>!</figcaption>
+         <figcaption>Para fazer o alçamento dos pontos para o 1º sistema construa as LC dos pontos <b>C’</b>, <b>D’</b>, ..., <b>L’</b> perpendiculares à 1ª LT. Marque sobre essas LC as cotas do 2º sistema, obtendo os pontos <b>C’’</b>, <b>D’’</b>, ...., <b>L’’</b>. Veja o processo destacado para o ponto <b>D</b>. Como a 1ª projeção do ponto <b>D</b> está acima da LT lembre-se de marcar a cota dele a partir da LT e não a partir de <b>D’</b>!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d033" name="sl">
            <label for="d033"></label>
            <img src="planosPQ/90_16.png"/>
-         <figcaption>Represente a visibilidade na 2ª projeção. Repare que o ponto D possui o menor afastamento em relação aos demais sendo, portanto,invisível na 2ª projeção. Pronto! O prisma regular hexagonal está representado!</figcaption>
+         <figcaption>Represente a visibilidade na 2ª projeção. Repare que o ponto <b>D</b> possui o menor afastamento em relação aos demais sendo, portanto, invisível na 2ª projeção. Pronto! O prisma regular hexagonal está representado!</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/90_00.png" class="fundo"/>
