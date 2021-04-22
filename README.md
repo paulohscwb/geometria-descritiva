@@ -6024,7 +6024,7 @@
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_05_01.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
        </li>
 	</ul>
 	<img src="planosTV/75_05_00.png" class="fundo" style="visibility:hidden;"/>
