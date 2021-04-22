@@ -6014,80 +6014,80 @@
   <p>A pirâmide oblíqua da página 54 é seccionada pelo plano de topo <b>&gamma;</b>. Represente os traços do plano de topo.</p>
   <ul class="slider">
       	  <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s065z" name="sl">
+           <label for="s065z"></label>
            <img src="planosTV/75_04_01.png"/>
         <figcaption>Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>VA</b>, <b>VB</b>, <b>VC</b> e <b>VD</b> determinam os 4 pontos da seção da pirâmide. Construa as linhas de chamada dos pontos da seção e encontre a primeira projeção desta seção <b>1234</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s066z" name="sl">
+           <label for="s066z"></label>
            <img src="planosTV/75_04_02.png"/>
         <figcaption>Podemos construir o triângulo retângulo <b>V''V<sub>0</sub>'A<sub>0</sub>''</b> para encontrar a VG da aresta <b>VA</b>. Um dos catetos é a medida <b>V'A'</b> e o outro cateto é a altura <b>h = V''V<sub>0</sub>'</b>: a hipotenusa <b>V''A<sub>0</sub>''</b> tem a medida da aresta <b>VA</b> em verdadeira grandeza. Outra maneira de encontrar esta medida é usar a rotação, como foi mostrado no exercício anterior.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s067z" name="sl">
+           <label for="s067z"></label>
            <img src="planosTV/75_04_03.png"/>
         <figcaption>Usando o mesmo raciocínio para a aresta <b>VB</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'B<sub>0</sub>''</b> para encontrar a VG de <b>VB</b>. Um dos catetos é a medida <b>V'B'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''B<sub>0</sub>''</b> tem a medida da aresta <b>VB</b> em verdadeira grandeza.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s068z" name="sl">
+           <label for="s068z"></label>
            <img src="planosTV/75_04_04.png"/>
         <figcaption>Para a aresta <b>VC</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'C<sub>0</sub>''</b>. Um dos catetos é a medida <b>V'C'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''C<sub>0</sub>''</b> tem a medida da aresta <b>VC</b> em verdadeira grandeza.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s069z" name="sl">
+           <label for="s069z"></label>
            <img src="planosTV/75_04_05.png"/>
         <figcaption>Finalmente, para a aresta <b>VD</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'D<sub>0</sub>''</b>. Um dos catetos é a medida <b>V'D'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''D<sub>0</sub>''</b> tem a medida da aresta <b>VD</b> em verdadeira grandeza.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s070z" name="sl">
+           <label for="s070z"></label>
            <img src="planosTV/75_04_06.png"/>
         <figcaption>Construa as retas paralelas à linha de terra que passam pelos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</sub></b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s071z" name="sl">
+           <label for="s071z"></label>
            <img src="planosTV/75_04_07.png"/>
         <figcaption>Para encontrar a VG da seção, podemos fazer a mudança de planos horizontal do plano de topo, ou o rebatimento deste plano em <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s072z" name="sl">
+           <label for="s072z"></label>
            <img src="planosTV/75_04_08.png"/>
         <figcaption>A planificação fica parecida com a que fizemos no exercício anterior. Construa o quadrado com a media <b>AB</b> em VG, que está representada na primeira projeção: <b>A'B'</b>. Construa as circunferências com centros em <b>C</b> e <b>D</b>, e raios <b>VC</b> e <b>VD</b> para determinar o vértice <b>V</b> na planificação. Temos a face lateral <b>VCD</b> representada em VG.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s073z" name="sl">
+           <label for="s073z"></label>
            <img src="planosTV/75_04_09.png"/>
         <figcaption>A face adjacente <b>VDA</b> pode ser determinada com a construção das circunferências de centros <b>V</b> e <b>D</b> e raios <b>VA</b> e <b>AB = AD</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s074z" name="sl">
+           <label for="s074z"></label>
            <img src="planosTV/75_04_10.png"/>
         <figcaption>A face adjacente <b>VBA</b> pode ser determinada com a construção das circunferências de centros <b>V</b> e <b>A</b> e raios <b>VB</b> e <b>AB</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s075z" name="sl">
+           <label for="s075z"></label>
            <img src="planosTV/75_04_11.png"/>
         <figcaption>Podemos construir a face adjacente <b>VBC</b> ou então a face adjacente de <b>VDC</b>. Construa as circunferências de centros <b>V</b> e <b>C</b> e raios <b>VB</b> e <b>BC = AB</b>. Temos todas as faces laterais representadas em VG.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s076z" name="sl">
+           <label for="s076z"></label>
            <img src="planosTV/75_04_12.png"/>
         <figcaption>Nas arestas em VG, construa os segmentos <b>V2</b> em <b>VB</b>, <b>V1</b> em <b>VA</b>, <b>V4</b> em <b>VD</b> e <b>V3</b> em <b>VC</b>. Destaque o tronco de pirâmide que será planificado. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s065a" name="sl">
-           <label for="s065a"></label>
+           <input type="radio" id="s077z" name="sl">
+           <label for="s077z"></label>
            <img src="planosTV/75_04_13.png"/>
         <figcaption>A "tampa" da seção é feita com a construção do quadrilátero <b>1234</b>. Começando pelo lado <b>14</b>, podemos construir a diagonal <b>24</b> (que está representada na VG da seção). O encontro das circunferências de centros em <b>1</b> e <b>4</b> e raios <b>12</b> e <b>24</b> determina a posição do ponto <b>2</b>. Para encontrar o ponto <b>3</b>, basta construir as circunferências de centros em <b>2</b> e <b>4</b> e raios <b>23</b> e <b>34</b>.</figcaption>
        </li>
