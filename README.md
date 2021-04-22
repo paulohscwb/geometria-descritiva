@@ -6011,7 +6011,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00075a.png"/>
 	<img src="planosTV/Apost_GD_2021_00075b.png"/>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>O tetraedro da página 55 é seccionado pelo plano de topo <b>&gamma;</b>. Represente os traços do plano de topo.</p>
   <ul class="slider">
       <li>
@@ -6027,7 +6027,7 @@
         <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
        </li>
 	</ul>
-	<img src="planosTV/75_05_00.png" class="fundo"/>
+	<img src="planosTV/75_05_00.png" class="fundo" style="visibility:hidden;"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00075c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
