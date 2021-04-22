@@ -6145,6 +6145,11 @@
   </details>
 	<a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00077a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Construa os traços <b>&gamma;&pi;'</b> e <b>&gamma;&pi;''</b> do plano de topo. Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>VA</b>, <b>VB</b>, <b>BC</b> e <b>AF</b> determinam os 4 pontos da seção na pirâmide.</p>
+	<img src="planosTV/77_02_00.png"/>
+	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas arestas.</figcaption>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00077b.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00078.png"/>
