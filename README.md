@@ -6010,7 +6010,7 @@
 	<img src="planosTV/63_01_11.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00075a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>A pirâmide oblíqua da página 54 é seccionada pelo plano de topo <b>&gamma;</b>. Represente os traços do plano de topo.</p>
   <ul class="slider">
       	  <li>
@@ -6029,7 +6029,7 @@
            <input type="radio" id="s067z" name="sl">
            <label for="s067z"></label>
            <img src="planosTV/75_04_03.png"/>
-        <figcaption>Usando o mesmo raciocínio para a aresta <b>VB</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'B<sub>0</sub>''</b> para encontrar a VG de <b>VB</b>. Um dos catetos é a medida <b>V'B'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''B<sub>0</sub>''</b> tem a medida da aresta <b>VB</b> em verdadeira grandeza.</figcaption>
+        <figcaption>Usando o mesmo raciocínio para a aresta <b>VB</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'B<sub>0</sub>''</b>. Um dos catetos é a medida <b>V'B'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''B<sub>0</sub>''</b> tem a medida da aresta <b>VB</b> em verdadeira grandeza.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s068z" name="sl">
@@ -6047,7 +6047,7 @@
            <input type="radio" id="s070z" name="sl">
            <label for="s070z"></label>
            <img src="planosTV/75_04_06.png"/>
-        <figcaption>Construa as retas paralelas à linha de terra que passam pelos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</sub></b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
+        <figcaption>Construa as retas paralelas à linha de terra que passam pelas segundas projeções dos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</sub></b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s071z" name="sl">
@@ -6077,7 +6077,7 @@
            <input type="radio" id="s075z" name="sl">
            <label for="s075z"></label>
            <img src="planosTV/75_04_11.png"/>
-        <figcaption>Podemos construir a face adjacente <b>VBC</b> ou então a face adjacente de <b>VDC</b>. Construa as circunferências de centros <b>V</b> e <b>C</b> e raios <b>VB</b> e <b>BC = AB</b>. Temos todas as faces laterais representadas em VG.</figcaption>
+        <figcaption>Podemos construir a face adjacente <b>VBC</b> a partir de <b>VB</b> ou de <b>VC</b>. Neste caso, construímos <b>VDC</b> a partir da aresta <b>VC</b>. Construa as circunferências de centros <b>V</b> e <b>C</b> e raios <b>VB</b> e <b>BC = AB</b>. Temos todas as faces laterais representadas em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s076z" name="sl">
