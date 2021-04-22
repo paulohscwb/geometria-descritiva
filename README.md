@@ -6047,49 +6047,49 @@
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_06.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>Construa as retas paralelas à linha de terra que passam pelos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_07.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>Para encontrar a VG da seção, podemos fazer a mudança de planos horizontal do plano de topo, ou o rebatimento deste plano em <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_08.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>A planificação fica parecida com a que fizemos no exercício anterior. Construa o quadrado com a media <b>AB</b> em VG, que está representada na primeira projeção: <b>A'B'</b>. Construa as circunferências com centros em <b>C</b> e <b>D</b>, e raios <b>VC</b> e <b>VD</b> para determinar o vértice <b>V</b> na planificação. Temos a face lateral <b>VCD</b> representada em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_09.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>A face adjacente <b>VDA</b> pode ser determinada com a construção das circunferências de centros <b>V</b> e <b>D</b> e raios <b>VA</b> e <b>AB = AD</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_10.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>A face adjacente <b>VBA</b> pode ser determinada com a construção das circunferências de centros <b>V</b> e <b>A</b> e raios <b>VB</b> e <b>AB</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_11.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>Podemos construir a face adjacente <b>VBC</b> ou então a face adjacente de <b>VDC</b>. Construa as circunferências de centros <b>V</b> e <b>C</b> e raios <b>VB</b> e <b>BC = AB</b>. Temos todas as faces laterais representadas em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_12.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>Nas arestas em VG, construa os segmentos <b>V2</b> em <b>VB</b>, <b>V1</b> em <b>VA</b>, <b>V4</b> em <b>VD</b> e <b>V3</b> em <b>VC</b>. Destaque o tronco de pirâmide que será planificado. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_13.png"/>
-        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+        <figcaption>A "tampa" da seção é feita com a construção do quadrilátero <b>1234</b>. Começando pelo lado <b>14</b>, podemos construir a diagonal <b>24</b> (que está representada na VG da seção). O encontro das circunferências de centros em <b>1</b> e <b>4</b> e raios <b>12</b> e <b>24</b> determina a posição do ponto <b>2</b>. Para encontrar o ponto <b>3</b>, basta construir as circunferências de centros em <b>2</b> e <b>4</b> e raios <b>23</b> e <b>34</b>.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/75_04_00.png" class="fundo" style="visibility:hidden;"/>
