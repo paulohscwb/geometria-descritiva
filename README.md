@@ -6047,7 +6047,7 @@
            <input type="radio" id="s065a" name="sl">
            <label for="s065a"></label>
            <img src="planosTV/75_04_06.png"/>
-        <figcaption>Construa as retas paralelas à linha de terra que passam pelos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
+        <figcaption>Construa as retas paralelas à linha de terra que passam pelos pontos da seção. Cada ponto determina na respectiva aresta sua distância em VG. Por exemplo, a projeção <b>4''</b> determina <b>V''4''<sub>0</sub></b> e <b>4''<sub>0</sub>D''<sub>0</sub></b> em VG. Estas distâncias serão usadas na planificação da pirâmide seccionada. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s065a" name="sl">
