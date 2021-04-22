@@ -6012,6 +6012,11 @@
 	<img src="planosTV/Apost_GD_2021_00075a.png"/>
 	<img src="planosTV/Apost_GD_2021_00075b.png"/>
 	<img src="planosTV/Apost_GD_2021_00075c.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Construa os traços <b>&gamma;&pi;'</b> e <b>&gamma;&pi;''</b> do plano de topo. Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>AE</b>, <b>AB</b>, <b>BF</b>, <b>CF</b>, <b>DF</b> e <b>AD</b> determinam os 6 pontos da seção no octaedro.</p>
+	<img src="planosTV/75_06_00.png"/>
+	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 6 pontos da seção com as respectivas arestas. A visibilidade da seção acompanha a visibilidade de cada aresta do octaedro.</figcaption>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00076.png"/>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
@@ -6148,13 +6153,13 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Construa os traços <b>&gamma;&pi;'</b> e <b>&gamma;&pi;''</b> do plano de topo. Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>VA</b>, <b>VB</b>, <b>BC</b> e <b>AF</b> determinam os 4 pontos da seção na pirâmide.</p>
 	<img src="planosTV/77_02_00.png"/>
-	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas arestas. A visibilidade da seção acompanha a visibilidade das arestas da pirâmide.</figcaption>
+	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas arestas. A visibilidade da seção acompanha a visibilidade de cada aresta da pirâmide.</figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00077b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Construa os traços <b>&gamma;&pi;'</b> e <b>&gamma;&pi;''</b> do plano de topo. Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>AE</b>, <b>BF</b>, <b>CG</b> e <b>DH</b> determinam os 4 pontos da seção na prisma.</p>
 	<img src="planosTV/77_03_00.png"/>
-	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas arestas. A visibilidade da seção acompanha a visibilidade das arestas do prisma.</figcaption>
+	<figcaption>Para determinar a primeira projeção da seção, basta encontrar as interseções das linhas de chamada dos 4 pontos da seção com as respectivas arestas. A visibilidade da seção acompanha a visibilidade de cada aresta do prisma.</figcaption>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00078.png"/>
