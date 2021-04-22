@@ -6010,6 +6010,90 @@
 	<img src="planosTV/63_01_11.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00075a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>A pirâmide oblíqua da página 54 é seccionada pelo plano de topo <b>&gamma;</b>. Represente os traços do plano de topo.</p>
+  <ul class="slider">
+      	  <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_01.png"/>
+        <figcaption>Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>VA</b>, <b>VB</b>, <b>VC</b> e <b>VD</b> determinam os 4 pontos da seção da pirâmide. Construa as linhas de chamada dos pontos da seção e encontre a primeira projeção desta seção <b>1234</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_02.png"/>
+        <figcaption>Podemos construir o triângulo retângulo <b>V''V<sub>0</sub>'A<sub>0</sub>''</b> para encontrar a VG da aresta <b>VA</b>. Um dos catetos é a medida <b>V'A'</b> e o outro cateto é a altura <b>h = V''V<sub>0</sub>'</b>: a hipotenusa <b>V''A<sub>0</sub>''</b> tem a medida da aresta <b>VA</b> em verdadeira grandeza. Outra maneira de encontrar esta medida é usar a rotação, como foi mostrado no exercício anterior.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_03.png"/>
+        <figcaption>Usando o mesmo raciocínio para a aresta <b>VB</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'B<sub>0</sub>''</b> para encontrar a VG de <b>VB</b>. Um dos catetos é a medida <b>V'B'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''B<sub>0</sub>''</b> tem a medida da aresta <b>VB</b> em verdadeira grandeza.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_04.png"/>
+        <figcaption>Para a aresta <b>VC</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'C<sub>0</sub>''</b>. Um dos catetos é a medida <b>V'C'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''C<sub>0</sub>''</b> tem a medida da aresta <b>VC</b> em verdadeira grandeza.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_05.png"/>
+        <figcaption>Finalmente, para a aresta <b>VD</b>, construimos o triângulo retângulo <b>V''V<sub>0</sub>'D<sub>0</sub>''</b>. Um dos catetos é a medida <b>V'D'</b> e o outro cateto é a altura <b>h</b>: A hipotenusa <b>V''D<sub>0</sub>''</b> tem a medida da aresta <b>VD</b> em verdadeira grandeza.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_06.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_07.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_08.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_09.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_10.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_11.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_12.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s065a" name="sl">
+           <label for="s065a"></label>
+           <img src="planosTV/75_04_13.png"/>
+        <figcaption>A planificação fica parecida com a que fizemos nos exercícios anteriores. A representação do tronco do tetraedro está em destaque, e a "tampa" da seção é feita com a construção do triângulo de lados <b>12</b>, <b>23</b> e <b>13</b>. Estas medidas estão na VG da seção plana. </figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/75_04_00.png" class="fundo" style="visibility:hidden;"/>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00075b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>O tetraedro da página 55 é seccionado pelo plano de topo <b>&gamma;</b>. Represente os traços do plano de topo.</p>
