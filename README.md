@@ -1002,8 +1002,8 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Apost_GD_2021_00005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
-  <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span>
+  <p>Neste exercício, construa o incentro e a circunferência inscrita.</p></div>
   <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Apost_GD_2021_00006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1409,7 +1409,7 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Apost_GD_2021_00009a.png"/>
-  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
   <img id="atv12" src="dg/Apost_GD_2021_00009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
@@ -1455,7 +1455,7 @@
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Apost_GD_2021_00010.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
   <img src="dg/Apost_GD_2021_00010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
@@ -1476,7 +1476,7 @@
     <img src="dg/10_02_00.png" class="fundo" />
   </details></div>
   <img src="dg/Apost_GD_2021_00010b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
   <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1992,7 +1992,7 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Apost_GD_2021_00020a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade</span></div>
   <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00021.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
@@ -2158,7 +2158,7 @@
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/Apost_GD_2021_00023a.png"/>
-  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
+  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00024.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -5300,7 +5300,7 @@
 	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
-	<img src="planosHFP/48_2.png"/>
+	<img src="planosHFP/58_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
