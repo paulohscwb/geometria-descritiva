@@ -5728,25 +5728,25 @@
            <input type="radio" id="s035p" name="sl">
            <label for="s035p"></label>
            <img src="planosHFP/70_01_02.png"/>
-        <figcaption>Neste exercício, vamos usar a terceira projeção da base de centro <b>P</b>, definindo os pontos limites <b>A</b> e <b>B</b> (menor e maior cota), além de <b>C</b> e <b>D</b> (maior e menor afastamento).</figcaption>
+        <figcaption>Neste exercício, vamos usar a terceira projeção da base de centro <b>P</b>, definindo os pontos limites <b>A</b> e <b>B</b> (menor e maior cota), além de <b>C</b> e <b>D</b> (menor e maior afastamento).</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s036p" name="sl">
            <label for="s036p"></label>
            <img src="planosHFP/70_01_03.png"/>
-        <figcaption>Note que a 3&ordf; projeção é igual à mudança de planos, mas fazemos a construção como se o eixo <b>z</b> fosse a 2LT. Fazendo as linhas de chamada dos pontos limites, encontramos os diâmetros das bases.</figcaption>
+        <figcaption>Note que a 3&ordf; projeção é igual à mudança de planos, mas fazemos a construção como se o eixo <b>z</b> fosse a 2LT. Fazendo as linhas de chamada dos pontos limites, encontramos os diâmetros das bases na 1&ordf; e na 2&ordf; projeções.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s037p" name="sl">
            <label for="s037p"></label>
            <img src="planosHFP/70_01_04.png"/>
-        <figcaption>Podemos construir as geratrizes <b>B''F'' // A''E'' // P''Q''</b> e <b>C'G' // D'H' // P'Q'</b>. Logo, construimos o cilindro circular oblíquo.</figcaption>
+        <figcaption>Podemos construir as geratrizes <b>B''F'' // A''E'' // P''Q''</b> e <b>C'G' // D'H' // P'Q'</b>. Logo, construimos as projeções do cilindro circular oblíquo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s038p" name="sl">
            <label for="s038p"></label>
            <img src="planosHFP/70_01_05.png"/>
-        <figcaption>Construa o traço <b>&alpha;&pi;''</b> do plano horizontal de cota 20, e determine as interseções deste traço com as geratrizes <b>A''E''</b>, <b>B''F''</b>, <b>C''G''</b> e <b>D''H''</b>.</figcaption>
+        <figcaption>Construa o traço <b>&delta;&pi;''</b> do plano horizontal de cota 20, e determine as interseções deste traço com as geratrizes <b>A''E''</b>, <b>B''F''</b>, <b>C''G''</b> e <b>D''H''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s039p" name="sl">
@@ -5755,7 +5755,7 @@
         <figcaption>Faça as linhas de chamada pelos 4 pontos de seção, e determine as primeiras projeções destes pontos. A seção será uma elipse, que podemos construir à mão livre!</figcaption>
        </li>
     </ul>
-	<img src="planosHFP/70_01_01.png" class="fundo"/>
+	<img src="planosHFP/70_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00070a.png"/>
 	<div class="combo"><a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
