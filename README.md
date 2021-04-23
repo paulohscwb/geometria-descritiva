@@ -5221,13 +5221,13 @@
     <img src="planosHFP/58_01_01.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
+	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
-	<img src="planosHFP/58_02_00.png"/>
+	<img src="planosHFP/58_03_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
 	<img src="planosHFP/Apost_GD_2021_00058c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
@@ -5342,16 +5342,16 @@
 	<img src="planosHFP/51_02_00a.png"/>
 	<figcaption></figcaption>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>A base do prisma arquimediano está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
-	<img src="planosHFP/51_02_01a.png"/>
-	<figcaption>A altura é de um prisma arquimediano tem tamanho igual ao lado da base e aparece em VG na primeira projeção.</figcaption>
-  </details>
+  <span class="atv">Atividade 4.2</span>
   <a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00062.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span>
-	<br><a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Como uma das faces do tetraedro está contida num plano frontal sua segunda projeção está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
+	<img src="planosHFP/52_01_00.png"/>
+	<figcaption>Para determinar a altura do tetraedro regular construímos um triângulo retângulo auxiliar onde um dos catetos corresponde ao raio da circunferência circunscrita à face, o outro corresponde à altura e a hipotenusa à aresta do tetraedro.</figcaption>
+  </details>
+  <a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00062a.png"/>
 	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
