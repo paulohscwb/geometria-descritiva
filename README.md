@@ -5756,7 +5756,7 @@
        </li>
     </ul>
 	<img src="planosHFP/70_01_01.png" class="fundo"/>
-  </details>
+  </details></div>
 	<img src="planosHFP/Apost_GD_2021_00070a.png"/>
 	<div class="combo"><a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
