@@ -5759,9 +5759,9 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00070a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Podemos encontrar as projeções do centro <b>P</b> da esfera construindo circunferências com centros em <b>A''</b> e <b>B''</b> e raios iguais a 2, ou então as circunferências com centros em <b>C'</b> e <b>D'</b> e raios iguais a 2. As projeções da esfera serão as circunferências de centros em <b>P'</b> e <b>P''</b> com raios iguais a 2.</p>
+	<p>Determine os traços do plano de perfil <b>&alpha;</b>da seção da esfera. Podemos encontrar as projeções do centro <b>P</b> da esfera construindo circunferências com centros em <b>A''</b> e <b>B''</b> e raios iguais a 2, ou então as circunferências com centros em <b>C'</b> e <b>D'</b> e raios iguais a 2. As projeções da esfera serão as circunferências de centros em <b>P'</b> e <b>P''</b> com raios iguais a 2.</p>
 	<img src="planosHFP/70_02_00.png"/>
-	<figcaption>A seção plana pelo plano horizontal <b>&beta;</b> é determinada pelos pontos limites <b>1''</b> e <b>2''</b>. Esta reta <b>12 </b> é fronto-horizontal e determina o diâmetro da seção. Neste caso, a primeira projeção da seção plana é uma circunferência de centro <b>P'</b>, pois o plano <b>&beta;</b> tem a primeira projeção em VG.</figcaption>
+	<figcaption>A seção plana produzida pelo plano horizontal <b>&beta;</b> é determinada pelos pontos limites <b>1''</b> e <b>2''</b>. Esta reta <b>12 </b> é fronto-horizontal e determina o diâmetro da seção. Neste caso, a primeira projeção da seção é uma circunferência de centro <b>P'</b>, pois o plano <b>&beta;</b> tem a primeira projeção em VG.</figcaption>
   </details>
   <a href="vr/a22.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
