@@ -4034,7 +4034,11 @@
 	<figcaption></figcaption>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00046b.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+	<img src="pontos-retas/46_03_01.png"/>
+	<figcaption></figcaption>
+  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00047.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
