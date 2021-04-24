@@ -6496,8 +6496,61 @@
 	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;''</b> e <b>&lambda;&pi;''</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&lambda;&gamma;</b> vertical.</figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00082a.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
-	<br><a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Dados os pontos <b>A</b> e <b>B</b>, o plano vertical fica definido pelos seus traços horizontal <b>&alpha;&pi;'</b> e vertical <b>&alpha;&pi;"</b>.</p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l055" name="sl">
+           <label for="l055"></label>
+           <img src="planosTV/71_00_02.png"/>
+        <figcaption>Efetuar a MPV para o plano vertical sobre o plano <b>&alpha;</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l056" name="sl">
+           <label for="l056"></label>
+           <img src="planosTV/71_00_03.png"/>
+         <figcaption>Fazer a MPV para os pontos <b>A</b> e <b>B</b>, encontrando <b>A"<sub>1</sub></b> e <b>B"<sub>1</sub></b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l057" name="sl">
+           <label for="l057"></label>
+           <img src="planosTV/71_00_04.png"/>
+         <figcaption>Observe que tem duas posições possíveis para o pentágono</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l058" name="sl">
+           <label for="l058"></label>
+           <img src="planosTV/71_00_05.png"/>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre <b>&alpha;&pi;'</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l059" name="sl">
+           <label for="l059"></label>
+           <img src="planosTV/71_00_06.png"/>
+         <figcaption>Fazer o alçamento em relação à 1&ordf; LT, obtendo as segundas projeções dos pontos</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l060" name="sl">
+           <label for="l060"></label>
+           <img src="planosTV/71_00_07.png"/>
+         <figcaption>Marcar a altura do sólido que é igual ao lado da base e representar a outra face do sólido e representar a visibilidade da 1&ordf; projeção</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l061" name="sl">
+           <label for="l061"></label>
+           <img src="planosTV/71_00_08.png"/>
+         <figcaption>Fazer o alçamento da face <b>FGHIJ</b> em relação à 1&ordf; LT</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l062" name="sl">
+           <label for="l062"></label>
+           <img src="planosTV/71_00_09.png"/>
+         <figcaption>Desenhar a visibilidade do sólido</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/71_00_01.png" class="fundo"/>
+  </details>
+  <a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00083.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -6694,6 +6747,8 @@
 	<figcaption>Depois, basta fazer os alçamentos dos vértices <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> para determinar as projeções do octaedro.</figcaption>
   </details>
 	<a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+	<br><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -7109,11 +7164,9 @@
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>A resolução desse exercício é semelhante ao anterior, a base agora será um hexágono regular e altura é dada.</p>
-	<img src="planosPQ/83_01.png"/>
-  </details>
-	<a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
+		<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span>
+	<br><a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span>
+	<br><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -7123,8 +7176,12 @@
   </details><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00096.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
-	<br><a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores.</p>
+	<img src="planosPQ/85_01.png" />
+	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
+  </details>
+  <a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00097.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
