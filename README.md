@@ -5239,7 +5239,109 @@
 	<img src="planosHFP/Apost_GD_2021_00059.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00059a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos estudar o Plano Frontal.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn999" name="sl">
+        <label for="dn999"></label>
+        <img src="planosHFP/59_01_01.png"/>
+        <figcaption>A característica espacial do Plano Frontal é ser paralelo a <b>&pi;''</b> e, portanto, será perpendicular a <b>&pi;'</b> e a <b>&pi;'''</b>.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn998" name="sl">
+       <label for="dn998"></label>
+           <img src="planosHFP/59_01_02.png"/>
+        <figcaption>Como o Plano Frontal é paralelo a <b>&pi;''</b> não existe interseção do plano com o segundo PFR. Dizemos então que o segundo traço não existe ou que é uma reta imprópria do plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn997" name="sl">
+           <label for="dn997"></label>
+           <img src="planosHFP/59_01_03.png"/>
+        <figcaption>O seu segundo traço <b>&alpha;&pi;'</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn996" name="sl">
+           <label for="dn996"></label>
+           <img src="planosHFP/59_01_04.png"/>
+        <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta vertical de abscissa nula, concorrente com o primeiro traço sobre o eixo <b>y</b>. Em geral, não representamos esse traço em épura, somente quando for necessário.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn995" name="sl">
+           <label for="dn995"></label>
+           <img src="planosHFP/59_01_05.png"/>
+        <figcaption>Como o Plano Frontal paralelo a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn994" name="sl">
+           <label for="dn994"></label>
+           <img src="planosHFP/59_01_06.png"/>
+        <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn993" name="sl">
+           <label for="dn993"></label>
+           <img src="planosHFP/59_01_07.png"/>
+        <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;'''</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn992" name="sl">
+           <label for="dn992"></label>
+           <img src="planosHFP/59_01_08.png"/>
+        <figcaption>O Plano Frontal é perpendicular a <b>&pi;'</b> então ele é projetante em primeira projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua primeira projeção contida em <b>&alpha;&pi;'</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Frontal &xhArr; <b>F' &isin; &alpha;&pi;'</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn991" name="sl">
+           <label for="dn991"></label>
+           <img src="planosHFP/59_01_09.png"/>
+        <figcaption>O triângulo <b>ABC</b> se projeta em VG em segunda projeção. Isso porque o Plano Frontal é paralelo ao segundo PFR.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn990" name="sl">
+           <label for="dn990"></label>
+           <img src="planosHFP/59_01_10.png"/>
+        <figcaption>As retas contidas num Plano Frontal podem ser: frontais, fronto-horizontais ou verticais. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/59_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosHFP/Apost_GD_2021_00059b.png"/>
+		<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Horizontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn989" name="sl">
+        <label for="dn989"></label>
+        <img src="planosHFP/50_02_01.png"/>
+        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r''</b> com <b>&alpha;&pi;''</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn988" name="sl">
+       <label for="dn988"></label>
+           <img src="planosHFP/50_02_02.png"/>
+        <figcaption>Por <b>(r&alpha;)''</b> traçamos uma linha de chamada até <b>r'</b>, obtendo a primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn987" name="sl">
+           <label for="dn987"></label>
+           <img src="planosHFP/50_02_03.png"/>
+        <figcaption>Agora vamos construir pelo ponto <b>P</b> uma reta perpendicular ao Plano Horizontal <b>&alpha;</b>. Como o Plano Horizontal é paralelo a <b>&pi;'</b> então a reta perpendicular a esse Plano é uma reta vertical. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn986" name="sl">
+           <label for="dn986"></label>
+           <img src="planosHFP/50_02_04.png"/>
+        <figcaption>Construímos por <b>P</b> uma reta vertical, ou seja, sua segunda projeção coincide com a linha de chamada do ponto <b>P</b> e sua primeira projeção coincide com <b>P'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn985" name="sl">
+           <label for="dn985"></label>
+           <img src="planosHFP/50_02_05.png"/>
+        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano Horizontal, intercepta o Plano <b>&alpha;</b> no ponto <b>(r&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Horizontal <b>&alpha;</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/50_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00060.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
