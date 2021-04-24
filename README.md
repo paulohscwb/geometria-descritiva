@@ -5258,7 +5258,7 @@
            <input type="radio" id="dn997p" name="sl">
            <label for="dn997p"></label>
            <img src="planosHFP/59_01_03.png"/>
-        <figcaption>O seu segundo traço <b>&alpha;&pi;'</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+        <figcaption>O seu primeiro traço <b>&alpha;&pi;'</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn996p" name="sl">
@@ -5270,13 +5270,13 @@
            <input type="radio" id="dn995p" name="sl">
            <label for="dn995p"></label>
            <img src="planosHFP/59_01_05.png"/>
-        <figcaption>Como o Plano Frontal paralelo a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
+        <figcaption>Como o Plano Frontal é paralelo a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn994p" name="sl">
            <label for="dn994p"></label>
            <img src="planosHFP/59_01_06.png"/>
-        <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
+        <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;'</b> é 90°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn993p" name="sl">
@@ -5300,13 +5300,13 @@
            <input type="radio" id="dn990p" name="sl">
            <label for="dn990p"></label>
            <img src="planosHFP/59_01_10.png"/>
-        <figcaption>As retas contidas num Plano Frontal podem ser: frontais, fronto-horizontais ou verticais. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
+        <figcaption>As retas contidas num Plano Frontal podem ser: frontais, fronto-horizontais e verticais. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/59_01_00.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00059b.png"/>
-		<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Frontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
   <ul class="slider">
 	  <li>
@@ -5541,7 +5541,109 @@
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00066a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos estudar o Plano de Perfil.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn999q" name="sl">
+        <label for="dn999q"></label>
+        <img src="planosHFP/66_01_01.png"/>
+        <figcaption>A característica espacial do Plano de Perfil é ser paralelo a <b>&pi;'''</b> e, portanto, será perpendicular a <b>&pi;'</b> e a <b>&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn998q" name="sl">
+       <label for="dn998q"></label>
+           <img src="planosHFP/66_01_02.png"/>
+        <figcaption>Como o Plano de Perfil é paralelo a <b>&pi;'''</b> não existe interseção do plano com o terceiro PFR. Dizemos então que o terceiro traço não existe ou que é uma reta imprópria do plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn997q" name="sl">
+           <label for="dn997q"></label>
+           <img src="planosHFP/66_01_03.png"/>
+        <figcaption>O seu primeiro traço <b>&alpha;&pi;'</b> é uma reta de topo de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn996q" name="sl">
+           <label for="dn996q"></label>
+           <img src="planosHFP/66_01_04.png"/>
+        <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta vertical de afastamento nulo, concorrente com o primeiro traço sobre a linha de terra. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn995q" name="sl">
+           <label for="dn995q"></label>
+           <img src="planosHFP/66_01_05.png"/>
+        <figcaption>Como o Plano de Perfil é paralelo a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn994q" name="sl">
+           <label for="dn994q"></label>
+           <img src="planosHFP/66_01_06.png"/>
+        <figcaption>Como o Plano de Perfil é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn993q" name="sl">
+           <label for="dn993q"></label>
+           <img src="planosHFP/66_01_07.png"/>
+        <figcaption>Como o Plano de Perfil é perpendicular a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn992q" name="sl">
+           <label for="dn992q"></label>
+           <img src="planosHFP/66_01_08.png"/>
+        <figcaption>O Plano de Perfil é perpendicular a <b>&pi;'</b> e a <b>&pi;''</b> então ele é projetante em primeira e segunda projeções. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua primeira projeção contida em <b>&alpha;&pi;'</b> e sua segunda projeção contida em <b>&alpha;&pi;''</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano de Perfil &xhArr; <b>F' &isin; &alpha;&pi;'</b> e <b>F'' &isin; &alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn991q" name="sl">
+           <label for="dn991q"></label>
+           <img src="planosHFP/66_01_09.png"/>
+        <figcaption>O triângulo <b>ABC</b> se projeta em VG em terceira projeção. Isso porque o Plano de Perfil é paralelo ao terceiro PFR. Podemos construir a terceira projeção, usar Mudança de plano Horizontal ou Vertical ou rebater o plano para construir figuras em VG contidas em planos de perfil.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn990q" name="sl">
+           <label for="dn990q"></label>
+           <img src="planosHFP/66_01_10.png"/>
+        <figcaption>As retas contidas num Plano de Perfil podem ser: de perfil, de topo e verticais. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/66_01_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosHFP/Apost_GD_2021_00066b.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Frontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dn989p" name="sl">
+        <label for="dn989p"></label>
+        <img src="planosHFP/59_02_01.png"/>
+        <figcaption>A primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r'</b> com <b>&alpha;&pi;'</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dn988p" name="sl">
+       <label for="dn988p"></label>
+           <img src="planosHFP/59_02_02.png"/>
+        <figcaption>Por <b>(r&alpha;)'</b> traçamos uma linha de chamada até <b>r''</b>, obtendo a segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn987p" name="sl">
+           <label for="dn987p"></label>
+           <img src="planosHFP/59_02_03.png"/>
+        <figcaption>Agora vamos construir pelo ponto <b>P</b> uma reta perpendicular ao Plano Frontal <b>&alpha;</b>. Como o Plano Frontal é paralelo a <b>&pi;''</b> então a reta perpendicular a esse Plano é uma reta de topo. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn986p" name="sl">
+           <label for="dn986p"></label>
+           <img src="planosHFP/59_02_04.png"/>
+        <figcaption>Construímos por <b>P</b> uma reta de topo, ou seja, sua primeira projeção coincide com a linha de chamada do ponto <b>P</b> e sua segunda projeção coincide com <b>P''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dn985p" name="sl">
+           <label for="dn985p"></label>
+           <img src="planosHFP/59_02_05.png"/>
+        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano Frontal, intercepta o Plano <b>&alpha;</b> no ponto <b>(r&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Frontal <b>&alpha;</b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/59_02_00.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
