@@ -5530,11 +5530,8 @@
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details>
-	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
-	<img src="planosHFP/55_02_00a.png"/>
-	<figcaption>A solução apresentada foi resolvida por mudança de plano de projeção.</figcaption>
-  </details>
+	 &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
+    <br>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00068.png"/>
@@ -5614,8 +5611,43 @@
   <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00069.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
-	<br><a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s029" name="sl">
+           <label for="s029"></label>
+           <img src="57_01_01.png"/>
+        <figcaption>Encontrar as projeções da pirâmide. Neste exemplo foi usado o rebatimento do plano no sentido horário para encontrar a VG da aresta AB e construir a base em VG. </figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s030" name="sl">
+           <label for="s030"></label>
+           <img src="57_01_02.png"/>
+        <figcaption>Encontrar o traço vertical do plano &beta; que é paralelo à LT.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s031" name="sl">
+           <label for="s031"></label>
+           <img src="57_01_03.png"/>
+         <figcaption>Encontrar os pontos de interseção das arestas da pirâmide com o traço vertical do plano &beta;: 1''2''3''4''5''6''.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s032" name="sl">
+           <label for="s032"></label>
+           <img src="57_01_04.png"/>
+         <figcaption>Encontrar as primeiras projeções destes pontos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s033" name="sl">
+           <label for="s033"></label>
+           <img src="57_01_05.png"/>
+         <figcaption>A primeira projeção do polígono 123456 está em VG.</figcaption>
+       </li>
+    </ul>
+	<img src="57_01_00.png" class="fundo"/>
+  </details>
+	<a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00069a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -5837,24 +5869,8 @@
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 72.</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="s052" name="sl">
-           <label for="s052"></label>
-           <img src="planosTV/62_02_00.png"/>
-        <figcaption>As arestas de um prisma são paralelas entre si e de mesmo tamanho. Como conhecemos a aresta <b>CG</b>, logo podemos representar as demais arestas. A base <b>EFGH</b> está contida no plano <b>&beta;</b>, paralelo ao plano <b>&alpha;</b>.</figcaption>
-       </li>
-	  <li>
-           <input type="radio" id="s053" name="sl">
-           <label for="s053"></label>
-           <img src="planosTV/62_02_02.png"/>
-        <figcaption>Para encontrar a seção produzida pelo plano de topo <b>&delta;</b>, encontramos os pontos de interseção deste com as arestas do prisma (polígono <b>1234</b>). A segunda projeção do polígono fica reduzida a um segmento de reta.</figcaption>
-       </li>
-	</ul>
-	<img src="planosTV/62_02_00.png" class="fundo"/>
-  </details>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span>
+	<br>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
@@ -6091,7 +6107,24 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00076.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p></p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s029a" name="sl">
+           <label for="s029a"></label>
+           <img src="planosTV/64_01_01.png"/>
+        <figcaption></figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s030a" name="sl">
+           <label for="s030a"></label>
+           <img src="planosTV/64_01_02.png"/>
+        <figcaption></figcaption>
+       </li>
+    </ul>
+	<img src="64_01_01.png" class="fundo"/>
+  </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00077.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
