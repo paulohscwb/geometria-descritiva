@@ -5656,7 +5656,7 @@
            <input type="radio" id="s035" name="sl">
            <label for="s035"></label>
            <img src="planosHFP/57_02_01a.png"/>
-        <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG.</figcaption>
+        <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG. A visibilidade da seção acompanha a visibilidade das arestas do prisma.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/57_02_00a.png" class="fundo"/>
