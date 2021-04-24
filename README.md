@@ -7620,15 +7620,16 @@
 	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p>
-	<img src="planosPQ/91_01.png"/>
-	<figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption>
-  </details><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.1</span>
+	<br><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
-	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
-	<br><a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Esse exercício também é parecido com os anteriores.</p>
+	<img src="planosPQ/92_01_01.png" class="fundo" />
+	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
+	</details>
+	<a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/Apost_GD_2021_00103a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
