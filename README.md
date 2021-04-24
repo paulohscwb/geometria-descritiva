@@ -7158,8 +7158,7 @@
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
-		<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span>
-	<br><a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span>
+	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span>
 	<br><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
