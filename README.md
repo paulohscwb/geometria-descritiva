@@ -6123,7 +6123,7 @@
         <figcaption></figcaption>
        </li>
     </ul>
-	<img src="64_01_01.png" class="fundo"/>
+	<img src="planosTV/64_01_01.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00077.png"/>
