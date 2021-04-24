@@ -5243,62 +5243,62 @@
   <p>Vamos estudar o Plano Frontal.</p>
   <ul class="slider">
 	  <li>
-        <input type="radio" id="dn999" name="sl">
-        <label for="dn999"></label>
+        <input type="radio" id="dn999p" name="sl">
+        <label for="dn999p"></label>
         <img src="planosHFP/59_01_01.png"/>
         <figcaption>A característica espacial do Plano Frontal é ser paralelo a <b>&pi;''</b> e, portanto, será perpendicular a <b>&pi;'</b> e a <b>&pi;'''</b>.</figcaption>
        </li>
 	   <li>
-       <input type="radio" id="dn998" name="sl">
-       <label for="dn998"></label>
+       <input type="radio" id="dn998p" name="sl">
+       <label for="dn998p"></label>
            <img src="planosHFP/59_01_02.png"/>
         <figcaption>Como o Plano Frontal é paralelo a <b>&pi;''</b> não existe interseção do plano com o segundo PFR. Dizemos então que o segundo traço não existe ou que é uma reta imprópria do plano.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn997" name="sl">
-           <label for="dn997"></label>
+           <input type="radio" id="dn997p" name="sl">
+           <label for="dn997p"></label>
            <img src="planosHFP/59_01_03.png"/>
         <figcaption>O seu segundo traço <b>&alpha;&pi;'</b> é uma reta fronto-horizontal de cota nula. Não precisamos representar a segunda projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn996" name="sl">
-           <label for="dn996"></label>
+           <input type="radio" id="dn996p" name="sl">
+           <label for="dn996p"></label>
            <img src="planosHFP/59_01_04.png"/>
         <figcaption>O seu terceiro traço <b>&alpha;&pi;'''</b> é uma reta vertical de abscissa nula, concorrente com o primeiro traço sobre o eixo <b>y</b>. Em geral, não representamos esse traço em épura, somente quando for necessário.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn995" name="sl">
-           <label for="dn995"></label>
+           <input type="radio" id="dn995p" name="sl">
+           <label for="dn995p"></label>
            <img src="planosHFP/59_01_05.png"/>
         <figcaption>Como o Plano Frontal paralelo a <b>&pi;''</b> então o ângulo <b>&theta;2</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn994" name="sl">
-           <label for="dn994"></label>
+           <input type="radio" id="dn994p" name="sl">
+           <label for="dn994p"></label>
            <img src="planosHFP/59_01_06.png"/>
         <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn993" name="sl">
-           <label for="dn993"></label>
+           <input type="radio" id="dn993p" name="sl">
+           <label for="dn993p"></label>
            <img src="planosHFP/59_01_07.png"/>
         <figcaption>Como o Plano Frontal é perpendicular a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;'''</b> é 90°.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn992" name="sl">
-           <label for="dn992"></label>
+           <input type="radio" id="dn992p" name="sl">
+           <label for="dn992p"></label>
            <img src="planosHFP/59_01_08.png"/>
         <figcaption>O Plano Frontal é perpendicular a <b>&pi;'</b> então ele é projetante em primeira projeção. Assim, qualquer ponto, reta ou figura que estejam contidos nele terá a sua primeira projeção contida em <b>&alpha;&pi;'</b>. Dizemos que uma Figura <b>F</b> pertence ao Plano Frontal &xhArr; <b>F' &isin; &alpha;&pi;'</b>. Note que os pontos <b>A</b>, <b>B</b> e <b>C</b> pertencem ao plano.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn991" name="sl">
-           <label for="dn991"></label>
+           <input type="radio" id="dn991p" name="sl">
+           <label for="dn991p"></label>
            <img src="planosHFP/59_01_09.png"/>
         <figcaption>O triângulo <b>ABC</b> se projeta em VG em segunda projeção. Isso porque o Plano Frontal é paralelo ao segundo PFR.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn990" name="sl">
-           <label for="dn990"></label>
+           <input type="radio" id="dn990p" name="sl">
+           <label for="dn990p"></label>
            <img src="planosHFP/59_01_10.png"/>
         <figcaption>As retas contidas num Plano Frontal podem ser: frontais, fronto-horizontais ou verticais. E para se representar um plano desse tipo é necessário apenas 1 ponto.</figcaption>
        </li>
