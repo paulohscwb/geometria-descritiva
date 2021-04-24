@@ -5612,37 +5612,31 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00069.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Encontrar as projeções da pirâmide. Neste exemplo foi usado o rebatimento do plano no sentido horário para encontrar a VG da aresta <b>AB</b> e construir a base em VG. </p>
   <ul class="slider">
       <li>
            <input type="radio" id="s029" name="sl">
            <label for="s029"></label>
            <img src="planosHFP/57_01_01a.png"/>
-        <figcaption>Encontrar as projeções da pirâmide. Neste exemplo foi usado o rebatimento do plano no sentido horário para encontrar a VG da aresta AB e construir a base em VG. </figcaption>
+        <figcaption>Encontrar o traço vertical do plano <b>&beta;</b> que é paralelo à LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s030" name="sl">
            <label for="s030"></label>
            <img src="planosHFP/57_01_02a.png"/>
-        <figcaption>Encontrar o traço vertical do plano &beta; que é paralelo à LT.</figcaption>
+        <figcaption>Encontrar os pontos de interseção das arestas da pirâmide com o traço vertical do plano <b>&beta;</b>: <b>1''2''3''4''5''6''</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="s031" name="sl">
            <label for="s031"></label>
            <img src="planosHFP/57_01_03a.png"/>
-         <figcaption>Encontrar os pontos de interseção das arestas da pirâmide com o traço vertical do plano &beta;: 1''2''3''4''5''6''.</figcaption>
+         <figcaption>Encontrar as primeiras projeções destes pontos.</figcaption>
        </li>
        <li>
            <input type="radio" id="s032" name="sl">
            <label for="s032"></label>
            <img src="planosHFP/57_01_04a.png"/>
-         <figcaption>Encontrar as primeiras projeções destes pontos.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s033" name="sl">
-           <label for="s033"></label>
-           <img src="planosHFP/57_01_05a.png"/>
-         <figcaption>A primeira projeção do polígono 123456 está em VG.</figcaption>
+         <figcaption>A primeira projeção do polígono 123456 está em VG. A visibilidade da seção acompanha a visibilidade das arestas da pirâmide.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/57_01_00a.png" class="fundo"/>
