@@ -5566,19 +5566,19 @@
            <input type="radio" id="dn996q" name="sl">
            <label for="dn996q"></label>
            <img src="planosHFP/66_01_04.png"/>
-        <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta vertical de afastamento nulo, concorrente com o primeiro traço sobre a linha de terra. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra.</figcaption>
+        <figcaption>O seu segundo traço <b>&alpha;&pi;''</b> é uma reta vertical de afastamento nulo, concorrente com o primeiro traço sobre a linha de terra. Não precisamos representar a primeira projeção desse traço pois sempre estará sobre a Linha de Terra. Note que os traços de um plano de perfil são perpendiculares à linha de terra.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn995q" name="sl">
            <label for="dn995q"></label>
            <img src="planosHFP/66_01_05.png"/>
-        <figcaption>Como o Plano de Perfil é paralelo a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;''</b> é 0°.</figcaption>
+        <figcaption>Como o Plano de Perfil é paralelo a <b>&pi;'''</b> então o ângulo <b>&theta;3</b> que ele forma com <b>&pi;'''</b> é 0°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn994q" name="sl">
            <label for="dn994q"></label>
            <img src="planosHFP/66_01_06.png"/>
-        <figcaption>Como o Plano de Perfil é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;''</b> é 90°.</figcaption>
+        <figcaption>Como o Plano de Perfil é perpendicular a <b>&pi;'</b> então o ângulo <b>&theta;1</b> que ele forma com <b>&pi;'</b> é 90°.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dn993q" name="sl">
