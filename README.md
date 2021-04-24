@@ -6741,12 +6741,6 @@
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Utilizamos a mudança de planos para construir duas faces paralelas em VG do octaedro regular. Neste caso, o octaedro é considerado um anti-prisma de base triangular.</p>
-	<img src="planosTV/75_01_00.png"/>
-	<figcaption>Depois, basta fazer os alçamentos dos vértices <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> para determinar as projeções do octaedro.</figcaption>
-  </details>
-	<a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
 	<br><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
