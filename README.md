@@ -5455,7 +5455,12 @@
   </details>
   <a href="vr/a4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00062a.png"/>
-	<div class="combo"><a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para construir um cilindro, encontramos as geratrizes limite: <b>AE</b> e <b>BF</b>, que possuem a menor (-40) e a maior abscissa (20); <b>CG</b> e <b>DH</b>, que possuem a menor (0) e a maior cota (60). Estas geratrizes são retas de topo, pois o cilindro é reto e tem as bases apoiadas em planos frontais.</p>
+	<img src="planosHFP/62_02_00.png"/>
+	<figcaption>Para determinar a altura do cilindro, basta traçar a distância <b>h = 40</b> entre os traços dos planos frontas <b>&alpha;</b> e <b>&beta;</b>.</figcaption>
+  </details>
+  <a href="vr/a1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00063.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
