@@ -5307,40 +5307,40 @@
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00059b.png"/>
 		<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Horizontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
+  <p>Uma reta pode estar contida, ser paralela ou ser concorrente com um plano. A reta <b>r</b> é concorrente com o Plano Frontal <b>&alpha;</b>. Vamos determinar o traço de <b>r</b> sobre <b>&alpha;</b>, denotado por <b>(r&alpha;)</b>.</p>
   <ul class="slider">
 	  <li>
-        <input type="radio" id="dn989" name="sl">
-        <label for="dn989"></label>
-        <img src="planosHFP/50_02_01.png"/>
-        <figcaption>A segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r''</b> com <b>&alpha;&pi;''</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
+        <input type="radio" id="dn989p" name="sl">
+        <label for="dn989p"></label>
+        <img src="planosHFP/59_02_01.png"/>
+        <figcaption>A primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b> está na interseção de <b>r'</b> com <b>&alpha;&pi;'</b>, pois o traço deve pertencer tanto ao plano quanto à reta.</figcaption>
        </li>
 	   <li>
-       <input type="radio" id="dn988" name="sl">
-       <label for="dn988"></label>
-           <img src="planosHFP/50_02_02.png"/>
-        <figcaption>Por <b>(r&alpha;)''</b> traçamos uma linha de chamada até <b>r'</b>, obtendo a primeira projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
+       <input type="radio" id="dn988p" name="sl">
+       <label for="dn988p"></label>
+           <img src="planosHFP/59_02_02.png"/>
+        <figcaption>Por <b>(r&alpha;)'</b> traçamos uma linha de chamada até <b>r''</b>, obtendo a segunda projeção do traço de <b>r</b> sobre <b>&alpha;</b>. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn987" name="sl">
-           <label for="dn987"></label>
-           <img src="planosHFP/50_02_03.png"/>
-        <figcaption>Agora vamos construir pelo ponto <b>P</b> uma reta perpendicular ao Plano Horizontal <b>&alpha;</b>. Como o Plano Horizontal é paralelo a <b>&pi;'</b> então a reta perpendicular a esse Plano é uma reta vertical. </figcaption>
+           <input type="radio" id="dn987p" name="sl">
+           <label for="dn987p"></label>
+           <img src="planosHFP/59_02_03.png"/>
+        <figcaption>Agora vamos construir pelo ponto <b>P</b> uma reta perpendicular ao Plano Frontal <b>&alpha;</b>. Como o Plano Frontal é paralelo a <b>&pi;''</b> então a reta perpendicular a esse Plano é uma reta de topo. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn986" name="sl">
-           <label for="dn986"></label>
-           <img src="planosHFP/50_02_04.png"/>
-        <figcaption>Construímos por <b>P</b> uma reta vertical, ou seja, sua segunda projeção coincide com a linha de chamada do ponto <b>P</b> e sua primeira projeção coincide com <b>P'</b>.</figcaption>
+           <input type="radio" id="dn986p" name="sl">
+           <label for="dn986p"></label>
+           <img src="planosHFP/59_02_04.png"/>
+        <figcaption>Construímos por <b>P</b> uma reta de topo, ou seja, sua primeira projeção coincide com a linha de chamada do ponto <b>P</b> e sua segunda projeção coincide com <b>P''</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dn985" name="sl">
-           <label for="dn985"></label>
-           <img src="planosHFP/50_02_05.png"/>
-        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano Horizontal, intercepta o Plano <b>&alpha;</b> no ponto <b>(r&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Horizontal <b>&alpha;</b>.</figcaption>
+           <input type="radio" id="dn985p" name="sl">
+           <label for="dn985p"></label>
+           <img src="planosHFP/59_02_05.png"/>
+        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano Frontal, intercepta o Plano <b>&alpha;</b> no ponto <b>(r&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Frontal <b>&alpha;</b>.</figcaption>
        </li>
 	</ul>
-	<img src="planosHFP/50_02_00.png" class="fundo"/>
+	<img src="planosHFP/59_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00060.png"/>
