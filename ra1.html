@@ -1078,9 +1078,17 @@
   	  <a-marker type="barcode" value="23" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/a23.html"></a-link>
 	    	 <a-entity position="2.5 0 0" id="pg76_cilindro" scale="0.5 0.5 0.5">	
-			<a-text position="3.1 2.8 1.6" value="h" width="11" color="black" side="double"></a-text>
+			<a-text position="3.1 2.8 1.6" value="h" mixin="texto"></a-text>
 			<a-text position="1.6 2.2 0.2" value="B" mixin="texto"></a-text>
+			<a-text position="-0.4 2.2 0.5" value="F" mixin="texto"></a-text>
+			<a-text position="3.1 2.2 0.5" value="H" mixin="texto"></a-text>
+			<a-text position="1.6 3.8 -0.2" value="G" mixin="texto"></a-text>
+			<a-text position="1.6 0.8 1.4" value="E" mixin="texto"></a-text>
 			<a-text position="1.6 3.3 2.8" value="P" mixin="texto"></a-text>
+			<a-text position="-0.4 3.3 2.8" value="N" mixin="texto"></a-text>
+			<a-text position="3.1 3.3 2.8" value="M" mixin="texto"></a-text>
+			<a-text position="1.6 4.9 1.8" value="L" mixin="texto"></a-text>
+			<a-text position="1.6 1.9 3.4" value="K" mixin="texto"></a-text>
 			
 			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
@@ -1094,8 +1102,13 @@
 			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
 			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 			
-			<a-entity line="start: 1.5 2.2 0.5; end: 1.5 3.3 2.5; color: #262626"></a-entity>
-			<a-cylinder position="1.5 2.8 1.6" rotation="60 0 0" mixin="mtl0 mtl1" radius="1.6" height="2.2"></a-cylinder>
+			<a-entity position="1.5 2.8 1.6" rotation="60 0 0">
+				<a-cylinder  mixin="mtl0 mtl5" radius="1.6" height="2.2"></a-cylinder>
+				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 -1.1 0" segments-theta="64" mixin="linhas"></a-ring>
+				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 1.1 0" segments-theta="64" mixin="linhas"></a-ring>
+				<a-entity line="start: 0 -1.12 0; end: 0 1.12 0; color: #262626" line__1="start: -1.61 -1.12 0; end: -1.61 1.12 0; color: #262626" line__2="start: 1.61 -1.12 0; end: 1.61 1.12 0; color: #262626" line__3="start: 0 -1.12 -1.61; end: 0 1.12 -1.61; color: #262626" line__4="start: 0 -1.12 1.61; end: 0 1.12 1.61; color: #262626">
+				</a-entity>
+			</a-entity>
 		  </a-entity>
 	  </a-marker>
 	  
