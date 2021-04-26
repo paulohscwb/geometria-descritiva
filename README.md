@@ -5221,7 +5221,7 @@
     <img src="planosHFP/58_01_01.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
-  <div class="combo"id="atv41"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
+  <div class="combo" id="atv41"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
 	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
