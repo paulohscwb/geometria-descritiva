@@ -2216,7 +2216,7 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-	 <iframe width="100%" src="https://www.youtube.com/embed/0B0rcrhjtQc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 <iframe width="100%" src="https://www.youtube.com/embed/zbrTBFUzVTs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 	<img src="pontos-retas/Apost_GD_2021_00026.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
