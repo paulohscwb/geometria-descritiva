@@ -8097,7 +8097,7 @@
     </ul>
 	<img src="dt/26_01_00.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
   <p>O objeto possui uma segunda face frontal.</p>
   <ul class="slider">
 	   <li>
