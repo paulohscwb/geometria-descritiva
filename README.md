@@ -8000,7 +8000,6 @@
 	<img src="dt/25_01_01.png"/>
 	<figcaption></figcaption>
 	</details></div>
-	<div class="combo"><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00025b.png"/>
 	<div class="combo"><a href="vr/p129c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00025c.png"/>
@@ -8008,7 +8007,7 @@
 	<a href="vr/p129d.html" target="_blank" class="visu">Visualização em 3D</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
-	<img src="dt/25_01_01.png"/>
+	<img src="dt/25_01_02.png"/>
 	<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
