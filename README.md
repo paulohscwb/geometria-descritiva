@@ -8012,7 +8012,176 @@
 	</details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00026.png"/>
-	<div class="combo"><a href="vr/p130a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt997" name="sl">
+           <label for="dt997"></label>
+           <img src="dt/26_01_01.png"/>
+         <figcaption>Na Perspectiva Isométrica temos os três eixos isométricos perspectivados. O ângulo formado entre os eixos <b>x</b> e <b>z</b> e entre <b>y</b> e <b>z</b> são retos mas em perspectiva aparecem deformados.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt996" name="sl">
+           <label for="dt996"></label>
+           <img src="dt/26_01_02.png"/>
+         <figcaption>O mesmo acontece com o ângulo entre os eixos <b>x</b> e <b>y</b>. Como os ângulos entre os três eixos são projeções de ângulos retos então vamos utilizar essa informação para identificar no objeto as arestas que são perpendiculares ou ortogonais e as que são paralelas entre si. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt995" name="sl">
+           <label for="dt995"></label>
+           <img src="dt/26_01_03.png"/>
+         <figcaption>Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção. Vemos também que o mesmo é composto de prismas retos utilizados de maneira negativa, ou seja, subtraídos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt994" name="sl">
+           <label for="dt994"></label>
+           <img src="dt/26_01_04.png"/>
+         <figcaption>Vamos <b>delimitar o objeto</b> construindo um Paralelepípedo Envolvente que possua as maiores dimensões do mesmo. Obtemos então as maiores dimensões do objeto: 7 de largura, 4 de altura e 3 de profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt993" name="sl">
+           <label for="dt993"></label>
+           <img src="dt/26_01_05.png"/>
+         <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt992" name="sl">
+           <label for="dt992"></label>
+           <img src="dt/26_01_06.png"/>
+         <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores. Na VF, traçando pelos vértices do objeto paralelas aos eixos isométricos, temos as medidas menores de largura: 2, 3 e 2. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt991" name="sl">
+           <label for="dt991"></label>
+           <img src="dt/26_01_07.png"/>
+         <figcaption>Na mesma VF, traçando paralelas temos as medidas menores de altura: 2 e 2. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt990" name="sl">
+           <label for="dt990"></label>
+           <img src="dt/26_01_08.png"/>
+         <figcaption>Na VS traçando paralelas teremos as medidas menores de profundidade: 1 e 2. A menor medida é utilizada como módulo básico.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt989" name="sl">
+           <label for="dt989"></label>
+           <img src="dt/26_01_09.png"/>
+         <figcaption>As <b>posições das Vistas</b> já estão delimitadas pela malha quadriculada cuja unidade é definida pelo módulo básico. A VF é a Vista Principal. A VS fica abaixo da Principal e a VLE fica à direita da Principal. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt987" name="sl">
+           <label for="dt987"></label>
+           <img src="dt/26_01_10.png"/>
+         <figcaption>Lembrando que na VF temos a Largura e a Altura, na VS temos a Profundidade e Largura. E na VLE temos a Profundidade e a Altura do objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt986" name="sl">
+           <label for="dt986"></label>
+           <img src="dt/26_01_11.png"/>
+         <figcaption>Podemos já marcar nas Vistas as medidas menores que temos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt985" name="sl">
+           <label for="dt985"></label>
+           <img src="dt/26_01_12.png"/>
+         <figcaption>Vamos agora <b>detalhar as Vistas</b>. Podemos iniciar com a VF. Temos uma face do objeto em formato de “U” que está contida na face Frontal Anterior do Paralelepípedo Envolvente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt984" name="sl">
+           <label for="dt984"></label>
+           <img src="dt/26_01_13.png"/>
+         <figcaption>Esta face se projeta na VF em VG e todos os seus lados projetados são visíveis nesta Vista. Desenhe os lados da face projetada utilizando as próprias dimensões do objeto, use linha contínua larga.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/26_01_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>O objeto possui uma segunda face frontal.</p>
+  <ul class="slider">
+	   <li>
+           <input type="radio" id="dt982" name="sl">
+           <label for="dt982"></label>
+           <img src="dt/26_01_15.png"/>
+         <figcaption>Esta face se projeta na VF em VG e apenas um de seus lados projetados é visível nesta Vista. Desenhe o lado da face projetada com linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt981" name="sl">
+           <label for="dt981"></label>
+           <img src="dt/26_01_16.png"/>
+         <figcaption>O objeto possui uma terceira face frontal, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt980" name="sl">
+           <label for="dt980"></label>
+           <img src="dt/26_01_17.png"/>
+         <figcaption>Vamos agora para a VS. Temos uma face do objeto em formato de “U” invertido que está contida na face Horizontal Superior do Paralelepípedo Envolvente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt979" name="sl">
+           <label for="dt979"></label>
+           <img src="dt/26_01_18.png"/>
+         <figcaption>Esta face se projeta na VS em VG e todos os seus lados projetados são visíveis nesta Vista. Desenhe os lados da face projetada utilizando as próprias dimensões do objeto, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt978" name="sl">
+           <label for="dt978"></label>
+           <img src="dt/26_01_19.png"/>
+         <figcaption>O objeto possui uma segunda face horizontal.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt977" name="sl">
+           <label for="dt977"></label>
+           <img src="dt/26_01_20.png"/>
+         <figcaption>Esta face se projeta na VS em VG e apenas um de seus lados projetados é visível nesta Vista. Desenhe o lado da face projetada com linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt976" name="sl">
+           <label for="dt976"></label>
+           <img src="dt/26_01_21.png"/>
+         <figcaption>O objeto possui uma terceira face horizontal, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt975" name="sl">
+           <label for="dt975"></label>
+           <img src="dt/26_01_22.png"/>
+         <figcaption>Vamos agora para a VLE. Temos uma face do objeto que é um retângulo que está contido na face Lateral Esquerda do Paralelepípedo Envolvente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt974" name="sl">
+           <label for="dt974"></label>
+           <img src="dt/26_01_23.png"/>
+         <figcaption>Esta face se projeta na VLE em VG e todos os seus lados projetados são visíveis nesta Vista. Desenhe os lados da face projetada utilizando as próprias dimensões do objeto, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt973" name="sl">
+           <label for="dt973"></label>
+           <img src="dt/26_01_24.png"/>
+         <figcaption>O objeto possui uma segunda e terceira faces de perfil.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt972" name="sl">
+           <label for="dt972"></label>
+           <img src="dt/26_01_25.png"/>
+         <figcaption>Estas faces se projetam na VLE em VG e são coincidentes. Como ficam atrás da primeira face de perfil então seus lados não são visíveis. Desenhe os lados da face projetada com linha larga tracejada. Note que nesta vista há sobreposição entre projeções de segmentos visíveis e não visíveis. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt971" name="sl">
+           <label for="dt971"></label>
+           <img src="dt/26_01_26.png"/>
+         <figcaption>O objeto possui uma quarta face de perfil, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt970" name="sl">
+           <label for="dt970"></label>
+           <img src="dt/26_01_27.png"/>
+         <figcaption>Pronto! As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/26_01_14.png" class="fundo"/>
+  </details>
+	<a href="vr/p130a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00026a.png"/>
 	<div class="combo"><a href="vr/p130b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00026b.png"/>
