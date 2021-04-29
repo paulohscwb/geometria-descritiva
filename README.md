@@ -7,7 +7,7 @@
 <p> <a href="vr/APOST_GD_DT_EG2.pdf" target="_blank">CD028 - Expressão Gráfica II</a></p>
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details><summary id="desenho">1.1. Desenho Geométrico</summary>
+<details open><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -1482,8 +1482,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
+<details open><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<img src="prop/Apost_GD_2021_00011.png"/>
@@ -2171,7 +2170,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>	
 
-<details><summary id="pontos">2. Pontos e Retas</summary>
+<details open><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
