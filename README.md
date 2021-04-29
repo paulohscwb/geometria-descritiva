@@ -10,7 +10,7 @@
 <details><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
 	<div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
    <img src="dg/Apost_GD_2021_00001.png"/>  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
@@ -1550,7 +1550,7 @@
 	  </details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/E_9yowlSx3I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/E_9yowlSx3I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<img src="prop/Apost_GD_2021_00015.png"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
@@ -2218,7 +2218,7 @@
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-	 <iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/zbrTBFUzVTs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 <iframe width="100%" src="https://www.youtube.com/embed/zbrTBFUzVTs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 	<img src="pontos-retas/Apost_GD_2021_00026.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3092,7 +3092,7 @@
 	</figcaption>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-	   <iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/aIJxPdmxOBg" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	   <iframe width="100%" src="https://www.youtube.com/embed/aIJxPdmxOBg" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 	<img src="pontos-retas/Apost_GD_2021_00034.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
@@ -4198,7 +4198,7 @@
 	<img src="planosHFP/48_03_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/73Qg-RFB5dM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/73Qg-RFB5dM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00049.png"/>
@@ -5653,7 +5653,7 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-	 <iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 	<img src="planosHFP/Apost_GD_2021_00067.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -6622,7 +6622,7 @@
 	<img src="planosTV/68_01.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/MLDlCoV04aY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/MLDlCoV04aY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00081.png"/>
@@ -7085,7 +7085,7 @@
 	<img src="planosPQ/78_02_00.png" class="fundo"/>
   </details></div>
 	<div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/ccjGaH_dO_A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/ccjGaH_dO_A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
@@ -7525,7 +7525,7 @@
 	<img src="planosPQ/87_02_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/7XTfhpsDNiA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/7XTfhpsDNiA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00099.png"/>
