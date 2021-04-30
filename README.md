@@ -364,7 +364,7 @@
   <img src="dg/Apost_GD_2021_00003a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
-  <h4>Ângulos de 60&deg; e 30&deg;:</h4>
+    <h4>Ângulos de 60&deg;, 30&deg;, 90&deg; e 45&deg;:</h4>
   <ul class="slider">
       <li>
            <input type="radio" id="50" name="sl">
@@ -408,11 +408,6 @@
            <img src="dg/03_02_07.png"/>
            <figcaption>Essa construção fornece também o suplemento do ângulo de <b>30°</b>, ou seja, o ângulo de <b>150°</b>.</figcaption>
        </li>
-    </ul>
-    <img src="dg/03_02_00.png" class="fundo"/>
-	<hr>
-	<h4>Ângulos de 90&deg; e 45&deg;:</h4>
-    <ul class="slider">
       <li>
            <input type="radio" id="57" name="sl">
            <label for="57"></label>
@@ -446,17 +441,11 @@
 	   <li>
            <input type="radio" id="62" name="sl">
            <label for="62"></label>
-           <img src="dg/03_02_13.png"/>
-           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AF</b>. O ângulo <b>FAC</b> mede <b>45°</b>.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="63" name="sl">
-           <label for="63"></label>
            <img src="dg/03_02_14.png"/>
-           <figcaption>Lembra do ângulo suplementar? O suplemento do ângulo de <b>45°</b> mede <b>135°</b>.</figcaption>
+           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AF</b>. O ângulo <b>FAC</b> mede <b>45°</b>. Lembra do ângulo suplementar? O suplemento do ângulo de <b>45°</b> mede <b>135°</b>.</figcaption>
        </li>
     </ul>
-    <img src="dg/03_02_07.png" class="fundo"/>
+    <img src="dg/03_02_00.png" class="fundo"/>
   <hr>
   <h4>Ângulos de 75&deg; e 15&deg;:</h4>
     <ul class="slider">
