@@ -157,7 +157,7 @@
            <figcaption>Pronto! A reta paralela <b>s // r</b> está construída. Note que a figura <b>PQRS</b> é um losango e, portanto, seus lados opostos são paralelos.</figcaption>
        </li>
     </ul>
-    <img src="dg/02_01_05c.png" class="fundo"/>
+    <img src="dg/02_01_00c.png" class="fundo"/>
   </details></div>
   <img src="dg/Apost_GD_2021_00002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
