@@ -8273,7 +8273,7 @@
          <figcaption>Pronto! As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
        </li>
     </ul>
-	<img src="dt/26_02_11.png" class="fundo"/>
+	<img src="dt/26_02_12.png" class="fundo"/>
   </details><a href="vr/p130b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00026b.png"/>
 	<div class="combo"><a href="vr/p130c.html" target="_blank" class="visu">Visualização em 3D</a></div>
