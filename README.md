@@ -2269,7 +2269,7 @@
     </ul>
 	<img src="pontos-retas/15_01_00.png" class="fundo"/>
   </details></div>
-  <img src="pontos-retas/Apost_GD_2021_00026a.png"/>
+  <img src="pontos-retas/Apost_GD_2021_00026a.PNG"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Agora vamos representar um ponto <b>A</b> em épura, ou seja, as projeções deste ponto nos planos <b>&pi;'</b> e <b>&pi;''</b> ficarão em um só plano.</p>
   <ul class="slider">
