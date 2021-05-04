@@ -3074,7 +3074,7 @@
 	</figcaption>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-	   <iframe width="100%" src="https://www.youtube.com/embed/PuM4PkWrH2I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	   <iframe width="100%" src="https://www.youtube.com/embed/yp_RnkOfBLg" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 	<img src="pontos-retas/Apost_GD_2021_00034.png"/>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
