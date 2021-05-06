@@ -8565,7 +8565,7 @@
          <figcaption>O objeto possui uma quarta face horizontal, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta vista.</figcaption>
        </li>
     </ul>
-	<img src="dt/26_04_00.png" class="fundo"/>
+	<img src="dt/27_01_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
   <p>Vamos agora para a VLE. Temos duas faces retangulares, uma delas contida na face Esquerda do Paralelepípedo Envolvente e outra um pouco para trás da mesma.</p>
@@ -8616,9 +8616,115 @@
 	<img src="dt/27_01_12.png" class="fundo"/>
   </details><a href="vr/p131e.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027a.png"/>
-	<div class="combo"><a href="vr/p131a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt903" name="sl">
+           <label for="dt903"></label>
+           <img src="dt/27_02_01.png"/>
+         <figcaption>Vamos <b>delimitar o objeto</b> construindo um Paralelepípedo Envolvente que possua as maiores dimensões do mesmo. Obtemos então as maiores dimensões do objeto: 6 de largura, 4 de altura e 2 de profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt902" name="sl">
+           <label for="dt902"></label>
+           <img src="dt/27_02_02.png"/>
+         <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt919" name="sl">
+           <label for="dt919"></label>
+           <img src="dt/27_02_03.png"/>
+         <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt901" name="sl">
+           <label for="dt901"></label>
+           <img src="dt/27_02_04.png"/>
+         <figcaption>As <b>posições das Vistas</b> já estão delimitadas pela malha quadriculada cuja unidade é definida pelo módulo básico. Podemos já marcar nas Vistas as medidas que temos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt900" name="sl">
+           <label for="dt900"></label>
+           <img src="dt/27_02_05.png"/>
+         <figcaption>Vamos agora <b>detalhar as Vistas</b>. Podemos iniciar com a VF. As faces frontais estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt899" name="sl">
+           <label for="dt899"></label>
+           <img src="dt/27_02_06.png"/>
+         <figcaption>Vamos agora para a VS.As faces horizontais estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt898" name="sl">
+           <label for="dt898"></label>
+           <img src="dt/27_02_07.png"/>
+         <figcaption>Vamos agora para a VLE.As faces de perfil estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt897" name="sl">
+           <label for="dt897"></label>
+           <img src="dt/27_02_08.png"/>
+         <figcaption>Pronto! As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/27_02_00.png" class="fundo"/>
+  </details><a href="vr/p131a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027b.png"/>
-	<div class="combo"><a href="vr/p131b.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt896" name="sl">
+           <label for="dt896"></label>
+           <img src="dt/27_03_01.png"/>
+         <figcaption>Vamos <b>delimitar o objeto</b> construindo um Paralelepípedo Envolvente que possua as maiores dimensões do mesmo. Obtemos então as maiores dimensões do objeto: 6 de largura, 4 de altura e 2 de profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt895" name="sl">
+           <label for="dt895"></label>
+           <img src="dt/27_03_02.png"/>
+         <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt894" name="sl">
+           <label for="dt894"></label>
+           <img src="dt/27_03_03.png"/>
+         <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt893" name="sl">
+           <label for="dt893"></label>
+           <img src="dt/27_03_04.png"/>
+         <figcaption>As <b>posições das Vistas</b> já estão delimitadas pela malha quadriculada cuja unidade é definida pelo módulo básico. Podemos já marcar nas Vistas as medidas que temos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt892" name="sl">
+           <label for="dt892"></label>
+           <img src="dt/27_03_05.png"/>
+         <figcaption>Vamos agora <b>detalhar as Vistas</b>. Podemos iniciar com a VF. As faces frontais estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt891" name="sl">
+           <label for="dt891"></label>
+           <img src="dt/27_03_06.png"/>
+         <figcaption>Vamos agora para a VS. As faces horizontais estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt890" name="sl">
+           <label for="dt890"></label>
+           <img src="dt/27_03_07.png"/>
+         <figcaption>Vamos agora para a VLE. As faces de perfil estarão em VG nesta Vista. Desenhamos as arestas visíveis e não visíveis nesta Vista, utilizando linha larga contínua ou tracejada, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt889" name="sl">
+           <label for="dt889"></label>
+           <img src="dt/27_03_08.png"/>
+         <figcaption>Pronto! As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/27_03_00.png" class="fundo"/>
+  </details><a href="vr/p131b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00027c.png"/>
 	<div class="combo"><a href="vr/p131c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
