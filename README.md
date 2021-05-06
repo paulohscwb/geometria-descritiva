@@ -8632,8 +8632,8 @@
          <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dt919" name="sl">
-           <label for="dt919"></label>
+           <input type="radio" id="dt902a" name="sl">
+           <label for="dt902a"></label>
            <img src="dt/27_02_03.png"/>
          <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores.</figcaption>
        </li>
