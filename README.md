@@ -4065,7 +4065,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos1">3. Planos: horizontal e frontal</summary>
+<details open><summary id="planos1">3. Planos: horizontal e frontal</summary>
 	<p>Material da página 48 até a página 65</p>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
