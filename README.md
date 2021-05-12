@@ -9041,6 +9041,9 @@
 	<img src="dt/Apost_DT_2021_00061a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00062.png"/>
+	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br>Projeto de Leonardo M.: https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</div>
+	<img src="dt/Apost_DT_2021_00062a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00063.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
