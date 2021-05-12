@@ -13,19 +13,19 @@
 			<a-asset-item id="modelo1" src="objetos/casa2.glb"></a-asset-item>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 360; initialPosition: 200 100 450"></a-entity>
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 180; initialPosition: 200 100 450"></a-entity>
 		
-		<a-entity position="-0.5 0.2 0.5" scale="0.7 0.7 0.7">
+		<a-entity position="-0.5 0.2 0.5" scale="0.55 0.55 0.55">
 			<a-entity gltf-model="#modelo"></a-entity>
 		</a-entity>
 		
-		<a-entity position="-0.5 0.2 0.5" scale="0.7 0.7 0.7">
+		<a-entity position="-0.5 0.2 0.5" scale="0.55 0.55 0.55">
 			<a-entity gltf-model="#modelo1"></a-entity>
 			<a-animation attribute="position" dur="15000" fill="forwards" to="-1.5 2.5 0" repeat="indefinite" begin="2500" direction="alternate"></a-animation>
 			<a-animation attribute="position" dur="15000" fill="forwards" to="-1.5 2.5 0" repeat="indefinite" begin="2500" direction="alternate"></a-animation>
 		</a-entity>
 				
-        <a-light type="ambient" color="#eaeaea" intensity="0.8"></a-light>
+        <a-light type="ambient" color="#eaeaea" intensity="0.9"></a-light>
 		<a-light type="spot" intensity="0.5" position="-4 10 3" angle="180" color="#eaeaea"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 	</a-scene>
