@@ -9410,7 +9410,162 @@
   </details><a href="vr/p133d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00030.png"/>
-	<div class="combo"><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt785" name="sl">
+           <label for="dt785"></label>
+           <img src="dt/30_01_01.png"/>
+         <figcaption>Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas, algumas são paralelas a um dos Planos de Projeção e há uma face inclinada, o pentágono não regular ABCDE! Vemos também que o objeto foi obtido por meio de um corte.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt784" name="sl">
+           <label for="dt784"></label>
+           <img src="dt/30_01_02.png"/>
+         <figcaption>Vamos <b>delimitar o objeto</b> construindo um Paralelepípedo Envolvente que possua as maiores dimensões do mesmo. Obtemos então as maiores dimensões do objeto: 7 de largura, 3 de altura e 5 de profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt783" name="sl">
+           <label for="dt783"></label>
+           <img src="dt/30_01_03.png"/>
+         <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt782" name="sl">
+           <label for="dt782"></label>
+           <img src="dt/30_01_04.png"/>
+         <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores. Na VF temos as medidas menores de largura: 4 e 3. Na VS temos as medidas menores de profundidade: 3 e 2. Não temos medidas menores de altura.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt781" name="sl">
+           <label for="dt781"></label>
+           <img src="dt/30_01_05.png"/>
+         <figcaption>As <b>posições das Vistas</b> já estão delimitadas pela malha quadriculada. Podemos já marcar nas Vistas as medidas que temos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt780" name="sl">
+           <label for="dt780"></label>
+           <img src="dt/30_01_06.png"/>
+         <figcaption>Vamos agora <b>detalhar as Vistas</b>. Podemos iniciar com a VS. Vemos uma face horizontal, que é um triângulo retângulo, que está contida na face Superior do Paralelepípedo Envolvente. Esta face se projeta em VG na VS e todos os seus lados projetados são visíveis nesta Vista. Porém, o ponto E não está cotado e não podemos representá-lo ainda! Portanto, não podemos representar agora esta face!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt779" name="sl">
+           <label for="dt779"></label>
+           <img src="dt/30_01_07.png"/>
+         <figcaption>O objeto possui uma segunda face visível na VS, que é o pentágono não regular ABCDE. Podemos notar que ela está oblíqua às faces superior, anterior e lateral esquerda do Paralelepípedo Envolvente e, portanto, esta face está contida num Plano Qualquer. Dizemos que ela é uma face inclinada do objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt778" name="sl">
+           <label for="dt778"></label>
+           <img src="dt/30_01_08.png"/>
+         <figcaption>Essa face inclinada não se projeta em VG na VS: os lados frontais (em azul) e o de perfil (em verde) não estão em VG nesta Vista embora seus ladoshorizontais (em vermelho) estejam.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt777" name="sl">
+           <label for="dt777"></label>
+           <img src="dt/30_01_09.png"/>
+         <figcaption>Podemos localizar os pontos cotados A, B e D nesta Vista. Também podemos localizar o ponto C, que embora não esteja cotado, sabemos que ele pertence à aresta vertical (em laranja) do Paralelepípedo Envolvente. Já temos os lados AB, BC, CD representados. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt776" name="sl">
+           <label for="dt776"></label>
+           <img src="dt/30_01_10.png"/>
+         <figcaption>Lembra que o ponto E não está cotado!? Devemos então obter sua posição por meio de propriedades geométricas! A face ABCDE é um pentágono não regular onde os lados horizontais AB e ED são paralelos e os lados frontais AE e BC também são paralelos! Assim, basta construir por A’ uma paralela a B’C’ e por D’ uma paralela a A’B’, obtendo na interseção o E’. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt775" name="sl">
+           <label for="dt775"></label>
+           <img src="dt/30_01_11.png"/>
+         <figcaption>Agora sim podemos representar a face triangular horizontal que está contida na face Superior do Paralelepípedo Envolvente! Esta face se projeta em VG na VS e todos os seus lados projetados são visíveis nesta Vista. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt774" name="sl">
+           <label for="dt774"></label>
+           <img src="dt/30_01_12.png"/>
+         <figcaption>O objeto possui uma segunda face horizontal, que é um trapézio retângulo, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt773" name="sl">
+           <label for="dt773"></label>
+           <img src="dt/30_01_13.png"/>
+         <figcaption>Vamos agora para a VF. Vemos uma face frontal do objeto, que é um triângulo retângulo, que está contida na face Anterior do Paralelepípedo Envolvente. Esta face se projeta em VG na VF e todos os seus lados projetados são visíveis nesta Vista. Porém, o ponto C não está cotado e não podemos representá-lo ainda nesta Vista! Portanto, não podemos representar agora esta face!</figcaption>
+       </li>
+    </ul>
+	<img src="dt/29_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p>Na VF vemos novamente a face inclinada ABCDE do objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt772" name="sl">
+           <label for="dt772"></label>
+           <img src="dt/30_01_15.png"/>
+         <figcaption>Essa face inclinada não se projeta em VG na VF: os lados horizontais (em azul) e o de perfil (em verde) não estão em VG nesta Vista embora seus lados frontais (em vermelho) estejam.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt771" name="sl">
+           <label for="dt771"></label>
+           <img src="dt/30_01_16.png"/>
+         <figcaption>Podemos localizar os pontos cotados A, B e D nesta Vista. Também podemos localizar o ponto E nesta Vista, que embora não esteja cotado, sabemos que E’’ pertence à Linha de Chamada do ponto E e que ele pertence à reta que passa por D e é paralela à AB. Já temos os lados AB, AE e ED representados.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt770" name="sl">
+           <label for="dt770"></label>
+           <img src="dt/30_01_17.png"/>
+         <figcaption>Vamos representar agora o ponto C nesta Vista! Devemos então obter sua posição por meio de propriedades geométricas! Bastar traçar por B’’ uma paralela à A’’E’’ e obter C’’ sobre a aresta vertical (em laranja) do Paralelepípedo Envolvente. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt769" name="sl">
+           <label for="dt769"></label>
+           <img src="dt/30_01_18.png"/>
+         <figcaption>Agora sim podemos representar a face triangular frontal que está contida na face Anterior do Paralelepípedo Envolvente! Esta face se projeta em VG na VF e todos os seus lados projetados são visíveis nesta Vista.Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt768" name="sl">
+           <label for="dt768"></label>
+           <img src="dt/30_01_19.png"/>
+         <figcaption>O objeto possui uma outra face frontal, que é um trapézio retângulo, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt767" name="sl">
+           <label for="dt767"></label>
+           <img src="dt/30_01_20.png"/>
+         <figcaption>Vamos agora para a VLE. Vemos novamente a face ABCDE do objeto. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt766" name="sl">
+           <label for="dt766"></label>
+           <img src="dt/30_01_21.png"/>
+         <figcaption>Essa face inclinada não se projeta em VG na VLE: os lados horizontais (em azul) e frontais (em verde) não estão em VG nesta Vista embora seu lado de perfil (em vermelho) esteja.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt765" name="sl">
+           <label for="dt765"></label>
+           <img src="dt/30_01_22.png"/>
+         <figcaption>Para obter a projeção desta face nesta Vista basta obter as terceiras projeções dos vértices do pentágono não regular. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt764" name="sl">
+           <label for="dt764"></label>
+           <img src="dt/30_01_23.png"/>
+         <figcaption>O objeto possui uma face de perfil, um outro pentágono não regular contido na face Lateral Direita do Paralelepípedo Envolvente, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt763" name="sl">
+           <label for="dt763"></label>
+           <img src="dt/30_01_24.png"/>
+         <figcaption>As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt762" name="sl">
+           <label for="dt762"></label>
+           <img src="dt/30_01_25.png"/>
+         <figcaption>Para obter a VG da face inclinada ABCDE que está contida no Plano Qualquer foi utilizado o Método da Dupla Mudança de Planos.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/30_01_14.png" class="fundo"/>
+  </details><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00030a.png"/>
 	<img src="dt/Apost_DT_2021_00030b.png"/>
 	<div class="combo"><a href="vr/p134b.html" target="_blank" class="visu">Visualização em 3D</a></div>
