@@ -9201,7 +9201,7 @@
          <figcaption>Na VS vemos novamente a face inclinada ABC do objeto.</figcaption>
        </li>
     </ul>
-	<img src="dt/28_03_00.png" class="fundo"/>
+	<img src="dt/29_01_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
   <p>Essa face inclinada não se projeta em VG na VS: os lados frontal (em azul) e de perfil (em verde) não estão em VG nesta Vista embora seu lado horizontal(em vermelho), já representado, esteja. Desenhe os lados da face projetada, use linha contínua larga.</p>
