@@ -9492,7 +9492,7 @@
          <figcaption>Vamos agora para a VF. Vemos uma face frontal do objeto, que é um triângulo retângulo, que está contida na face Anterior do Paralelepípedo Envolvente. Esta face se projeta em VG na VF e todos os seus lados projetados são visíveis nesta Vista. Porém, o ponto C não está cotado e não podemos representá-lo ainda nesta Vista! Portanto, não podemos representar agora esta face!</figcaption>
        </li>
     </ul>
-	<img src="dt/29_02_00.png" class="fundo"/>
+	<img src="dt/30_01_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
   <p>Na VF vemos novamente a face inclinada ABCDE do objeto.</p>
