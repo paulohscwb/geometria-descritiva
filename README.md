@@ -9282,7 +9282,132 @@
 	<img src="dt/29_01_14.png" class="fundo"/>
   </details><a href="vr/p133c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00029a.png"/>
-	<div class="combo"><a href="vr/p133d.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt805" name="sl">
+           <label for="dt805"></label>
+           <img src="dt/29_02_01.png"/>
+         <figcaption>Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas, algumas são paralelas a um dos Planos de Projeção e há uma face inclinada, o paralelogramo ABCD!Vemos também que o objeto foi obtido por meio de um corte.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt804" name="sl">
+           <label for="dt804"></label>
+           <img src="dt/29_02_02.png"/>
+         <figcaption>Vamos <b>delimitar o objeto</b> construindo um Paralelepípedo Envolvente que possua as maiores dimensões do mesmo. Obtemos então as maiores dimensões do objeto: 7 de largura, 3 de altura e 5 de profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt803" name="sl">
+           <label for="dt803"></label>
+           <img src="dt/29_02_03.png"/>
+         <figcaption>Agora vamos <b>identificar as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt802" name="sl">
+           <label for="dt802"></label>
+           <img src="dt/29_02_04.png"/>
+         <figcaption>O próximo passo é <b>modular o objeto</b> para descobrirmos as suas dimensões menores. Na VF temos as medidas menores de largura: 2, 3 e 2. Não temos medidas menores de altura ou profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt801" name="sl">
+           <label for="dt801"></label>
+           <img src="dt/29_02_05.png"/>
+         <figcaption>As <b>posições das Vistas</b> já estão delimitadas pela malha quadriculada. Podemos já marcar nas Vistas as medidas que temos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt800" name="sl">
+           <label for="dt800"></label>
+           <img src="dt/29_02_06.png"/>
+         <figcaption>Vamos agora <b>detalhar as Vistas</b>. Podemos iniciar com a VF. Vemos uma face frontal, que é um trapézio retângulo, que está contida na face Anterior do Paralelepípedo Envolvente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt799" name="sl">
+           <label for="dt799"></label>
+           <img src="dt/29_02_07.png"/>
+         <figcaption>Esta face se projeta em VG na VF e todos os seus lados projetados são visíveis nesta Vista. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt798" name="sl">
+           <label for="dt798"></label>
+           <img src="dt/29_02_08.png"/>
+         <figcaption>O objeto possui uma segunda face visível na VF, que é o paralelogramo ABCD. Podemos notar que ela está oblíqua às faces superior, anterior e lateral esquerda do Paralelepípedo Envolvente e, portanto, esta face está contida num Plano Qualquer. Dizemos que ela é uma face inclinada do objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt797" name="sl">
+           <label for="dt797"></label>
+           <img src="dt/29_02_09.png"/>
+         <figcaption>Essa face inclinada não se projeta em VG na VF: os lados horizontais (em azul) não estão em VG nesta Vista embora seus lados frontais (em vermelho) estejam. O lado frontal BC já está representado na Vista. Podemos localizar também o ponto A nesta Vista, obtendo a segunda projeção do lado AB horizontal.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt796" name="sl">
+           <label for="dt796"></label>
+           <img src="dt/29_02_10.png"/>
+         <figcaption>O ponto D não está cotado! Devemos então obter sua posição por meio de propriedades geométricas! Como a face ABCD é um paralelogramo então seus lados opostos são paralelos. Assim, em projeção também serão, ou seja, basta construir por A’’ uma paralela a B’’C’’ e por C’’ uma paralela a A’’B’’, obtendo na interseção o D’’.Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt795" name="sl">
+           <label for="dt795"></label>
+           <img src="dt/29_02_12.png"/>
+         <figcaption>O objeto possui uma segunda face frontal, que é um trapézio retângulo, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista. Vamos agora para a VS. Vemos uma face do objeto, que é um trapézio retângulo, que está contida na face Superior do Paralelepípedo Envolvente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt794" name="sl">
+           <label for="dt794"></label>
+           <img src="dt/29_02_13.png"/>
+         <figcaption>Esta face se projeta em VG na VSe todos os seus lados projetados são visíveis nesta Vista. O ponto C está cotado assim é fácil obter a localização de C’ nesta Vista. Mas o ponto D não está cotado, então para obter a sua primeira projeção basta traçar sua de Linha de Chamada (LC) por D’’ obtendo D’ nesta Vista. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt793" name="sl">
+           <label for="dt793"></label>
+           <img src="dt/29_02_14.png"/>
+         <figcaption>Na VS vemos novamente a face inclinada ABCD do objeto. </figcaption>
+       </li>
+    </ul>
+	<img src="dt/29_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+  <p>Essa face inclinada não se projeta em VG na VS: os lados frontais (em azul) não estão em VG nesta Vista embora seus lados horizontais (em vermelho) estejam. O lado horizontal CD já está representado na Vista. Podemos localizar também as projeções dos pontos A e B nesta Vista, que estão cotados, obtendo os lados AB, AD e BC nesta Vista.Desenhe os lados da face projetada, use linha contínua larga.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt792" name="sl">
+           <label for="dt792"></label>
+           <img src="dt/29_02_16.png"/>
+         <figcaption>O objeto possui uma outra face horizontal, que é um trapézio retângulo, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt790" name="sl">
+           <label for="dt790"></label>
+           <img src="dt/29_02_17.png"/>
+         <figcaption>Vamos agora para a VLE. Vemos novamente a face ABCDdo objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt789" name="sl">
+           <label for="dt789"></label>
+           <img src="dt/29_02_18.png"/>
+         <figcaption>Essa face inclinada não se projeta em VG na VLE: os lados horizontal (em azul) e frontal (em verde) não estão em VG nesta Vista.Para obter a projeção desta face nesta Vista basta obter as terceiras projeções dos vértices do paralelogramo. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt788" name="sl">
+           <label for="dt788"></label>
+           <img src="dt/29_02_19.png"/>
+         <figcaption>O objeto possui uma face de perfil, um retângulo contido na face lateral direita do Paralelepípedo Envolvente, porém os lados dessa face são projetados coincidentes com os outros lados já representados e não precisamos desenhar mais nada nesta Vista.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt787" name="sl">
+           <label for="dt787"></label>
+           <img src="dt/29_02_20.png"/>
+         <figcaption>As vistas do objeto foram representadas! Você pode aplicar as <b>três regras Leitura das Vistas Ortográficas</b> para verificar se todos os vértices, arestas e faces foram representados.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt786" name="sl">
+           <label for="dt786"></label>
+           <img src="dt/29_02_21.png"/>
+         <figcaption>Para obter a VG da face inclinada ABCD que está contida no Plano Qualquer foi utilizado o Método da Dupla Mudança de Planos.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/29_02_15.png" class="fundo"/>
+  </details><a href="vr/p133d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00030.png"/>
 	<div class="combo"><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
