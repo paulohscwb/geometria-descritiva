@@ -9041,8 +9041,10 @@
 	<img src="dt/Apost_DT_2021_00061a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00062.png"/>
-	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><p>Projeto de Leonardo M.: https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</p></div>
+	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Projeto 1</a>
+	<br><p>Autor do projeto: Leonardo M. https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</p>
+	<br><a href="vr/casa1.html" target="_blank" class="visu">Projeto 2</a>
+	<br><p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
 	<img src="dt/Apost_DT_2021_00062a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00063.png"/>
