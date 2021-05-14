@@ -9567,13 +9567,56 @@
 	<img src="dt/30_01_14.png" class="fundo"/>
   </details><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00030a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Neste exercício vamos desenhar as Vistas de uma Casinha!Vamos iniciar representando suas paredes externas e a laje.</p>
+    <img src="dt/30_02_01.png"/>
+    <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. Não temos faces inclinadas para obtermos a VG. </figcaption>
+  </details></div>
 	<img src="dt/Apost_DT_2021_00030b.png"/>
-	<div class="combo"><a href="vr/p134b.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos incluir um telhado para a Casinha!</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt762" name="sl">
+           <label for="dt762"></label>
+           <img src="dt/30_03_01.png"/>
+         <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt761" name="sl">
+           <label for="dt761"></label>
+           <img src="dt/30_03_02.png"/>
+         <figcaption>A Casinha possui duas faces inclinadas congruentes, contidas em Planos Paralelos à Linha de Terra. A VG da face inclinada ABCD foi obtida por meio de Dupla Mudança de Planos.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/30_03_00.png" class="fundo"/>
+  </details><a href="vr/p134b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00031.png"/>
-	<div class="combo"><a href="vr/p135c.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos ampliar a Casinha adicionando mais um cômodo!</p>
+    <img src="dt/31_01_01.png"/>
+    <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. Não temos faces novas inclinadas para obtermos a VG.</figcaption>
+  </details><a href="vr/p135c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00031a.png"/>
-	<div class="combo"><a href="vr/p135d.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos incluir um telhado para esse cômodo adicionado à Casinha.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt760" name="sl">
+           <label for="dt760"></label>
+           <img src="dt/31_02_01.png"/>
+         <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt759" name="sl">
+           <label for="dt759"></label>
+           <img src="dt/31_02_02.png"/>
+         <figcaption>A Casinha possui duas novas faces inclinadas congruentes, contidas em Planos de Topo. A VG da face inclinada ABCD foi obtida por meio de Mudança de Planos Horizontal.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/31_02_00.png" class="fundo"/>
+  </details><a href="vr/p135d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00031b.png"/>
 	<div class="combo"><a href="vr/p135a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
