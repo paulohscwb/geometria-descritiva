@@ -9577,8 +9577,8 @@
   <p>Vamos incluir um telhado para a Casinha!</p>
   <ul class="slider">
        <li>
-           <input type="radio" id="dt762" name="sl">
-           <label for="dt762"></label>
+           <input type="radio" id="dt759" name="sl">
+           <label for="dt759"></label>
            <img src="dt/30_03_01.png"/>
          <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. </figcaption>
        </li>
@@ -9609,8 +9609,8 @@
          <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dt759" name="sl">
-           <label for="dt759"></label>
+           <input type="radio" id="dt758" name="sl">
+           <label for="dt758"></label>
            <img src="dt/31_02_02.png"/>
          <figcaption>A Casinha possui duas novas faces inclinadas congruentes, contidas em Planos de Topo. A VG da face inclinada ABCD foi obtida por meio de Mudança de Planos Horizontal.</figcaption>
        </li>
