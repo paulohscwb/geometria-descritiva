@@ -5528,7 +5528,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos2">4. Planos: de perfil e de topo</summary>
+<details open><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 66 até a página 79</p>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
