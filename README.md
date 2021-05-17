@@ -5837,8 +5837,8 @@
          <figcaption>Com os critérios de visibilidade, podemos notar que "olhando de cima", a aresta <b>C''G''</b> tem menor cota: logo, a projeção <b>C'G'</b> é invisível. As arestas <b>B'F'</b> e <b>D'H'</b> pertencem ao contorno e <b>A''E''</b> tem maior cota; logo, <b>A'E'</b> fica visível.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s020y" name="sl">
-           <label for="s020y"></label>
+           <input type="radio" id="s021y" name="sl">
+           <label for="s021y"></label>
            <img src="planosHFP/56_01_09b.png"/>
          <figcaption>Agora "olhando de frente", a aresta <b>B'F'</b> tem menor ordenada: logo, a projeção <b>B''F''</b> é invisível. As arestas <b>A''E''</b> e <b>C''G''</b> pertencem ao contorno e <b>D'H'</b> tem maior ordenada; logo, <b>D''H''</b> fica visível.</figcaption>
        </li>
@@ -5852,7 +5852,67 @@
   </details>
   <a href="vr/a8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00068a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
+  <p>Vamos utilizar a mudança de plano horizontal para construir esta pirâmide.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s019w" name="sl">
+           <label for="s019w"></label>
+           <img src="planosHFP/56_02_01b.png"/>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>. Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s020w" name="sl">
+           <label for="s020w"></label>
+           <img src="planosHFP/56_02_02b.png"/>
+        <figcaption>Determine da segunda linha de terra (LT2) paralela ao traço <b>&alpha;&pi;''</b>, com uma distância qualquer deste traço. Construa as linhas de chamada de <b>A</b> e de <b>B</b>, que passam por <b>A''</b> e <b>B''</b> e ficam perpendiculares à segunda linha de terra (LT2). A partir da LT2, marque as ordenadas dos pontos <b>y<sub>A</sub></b> e <b>y<sub>B</sub></b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s021w" name="sl">
+           <label for="s021w"></label>
+           <img src="planosHFP/56_02_03b.png"/>
+         <figcaption>Construa a base hexagonal em VG <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub>F'<sub>1</sub></b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s022w" name="sl">
+           <label for="s022w"></label>
+           <img src="planosHFP/56_02_04b.png"/>
+         <figcaption>Construa as linhas de chamada dos vértices <b>C</b>, <b>D</b>, <b>E</b>, <b>F</b> e do centro da base <b>O</b>, que passam por pelas projeções destes pontos na VG, e ficam perpendiculares à LT2. As segundas projeções destes pontos pertencem ao traço do plano <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s023w" name="sl">
+           <label for="s023w"></label>
+           <img src="planosHFP/56_02_05b.png"/>
+         <figcaption>Como a pirâmide é regular, a projeção do vértice sobre a base coincide com o centro da base. Construa a altura <b>h = 50</b> a partir dos traços de <b>&alpha;</b>, encontrando a projeção do vértice <b>V</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s024w" name="sl">
+           <label for="s024w"></label>
+           <img src="planosHFP/56_02_06b.png"/>
+         <figcaption>As ordenadas de <b>C</b>, <b>D</b>, <b>E</b>, <b>F</b> e <b>O</b> são iguais às distâncias da LT2 até as projeções <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b> e <b>O'<sub>1</sub></b>. "Pegue" estas distâncias <b>y<sub>C</sub></b>, <b>y<sub>D</sub></b>, <b>y<sub>E</sub></b>, <b>y<sub>F</sub></b> e <b>y<sub>O</sub></b> com o compasso, e marque-as a partir da linha de terra original: desta forma, encontramos as projeções <b>C'</b>, <b>D'</b>, <b>E'</b>, <b>F'</b> e <b>O'</b> pertencentes a <b>&alpha;&pi;'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s025w" name="sl">
+           <label for="s025w"></label>
+           <img src="planosHFP/56_02_07b.png"/>
+         <figcaption>Determine a projeção <b>V'</b>, sabendo-se que <b>O'V' = O''V'' = 50</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s026w" name="sl">
+           <label for="s026w"></label>
+           <img src="planosHFP/56_02_08b.png"/>
+         <figcaption>Com os critérios de visibilidade, podemos notar que "olhando de frente", as arestas <b>V'A'</b> e <b>V'F'</b> têm as menores ordenadas: logo, as projeções <b>V''A''</b> e <b>V''F''</b> são invisíveis. As arestas <b>V''E''</b> e <b>V''B''</b> pertencem ao contorno e <b>V'D'</b> e <b>V'C'</b> têm as maiores ordenadas; logo, <b>V''D''</b> e <b>V''C''</b> ficam visíveis.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s027w" name="sl">
+           <label for="s027w"></label>
+           <img src="planosHFP/56_02_09b.png"/>
+         <figcaption>Agora "olhando de cima", as arestas <b>V''B''</b> e <b>V''C''</b> têm as menores cotas: logo, as projeções <b>V'B'</b> e <b>V'C'</b> são invisíveis. As arestas <b>V'A'</b> e <b>V'D'</b> pertencem ao contorno e <b>V''E''</b> e <b>V''F''</b> têm as maiores cotas; logo, <b>V'E'</b> e <b>V'F'</b> ficam visíveis.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/56_02_00b.png" class="fundo"/>
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - rebatimento</summary>
   <p></p>
   <ul class="slider">
       <li>
