@@ -5641,7 +5641,61 @@
 	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>-->
 	<img src="planosHFP/Apost_GD_2021_00067.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - 3&ordf; projeção</summary>
+  <p>Vamos utilizar a 3&ordf; projeção para construir as projeções do triângulo equilátero <b>ABC</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s013w" name="sl">
+           <label for="s013w"></label>
+           <img src="planosHFP/55_01_01b.png"/>
+        <figcaption>Determine as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s014w" name="sl">
+           <label for="s014w"></label>
+           <img src="planosHFP/55_01_02b.png"/>
+        <figcaption>Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT. Determine o eixo <b>z</b>, que passa pela origem e fica paralelo aos traços do plano <b>&alpha;</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s015w" name="sl">
+           <label for="s015w"></label>
+           <img src="planosHFP/55_01_03b.png"/>
+         <figcaption>Construa a linha de chamada de <b>A</b>, que passa por <b>A''</b> e fica paralela à linha de terra. A partir do eixo <b>z</b>, marque a ordenada do ponto <b>y<sub>A</sub></b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s016w" name="sl">
+           <label for="s016w"></label>
+           <img src="planosHFP/55_01_04b.png"/>
+         <figcaption>Agora construa a linha de chamada de <b>B</b>, que passa por <b>B''</b> e fica paralela à linha de terra. A partir do eixo <b>z</b>, marque a ordenada do ponto <b>y<sub>B</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s017w" name="sl">
+           <label for="s017w"></label>
+           <img src="planosHFP/55_01_05b.png"/>
+         <figcaption>Construa o triângulo <b>A'''B'''C'''</b>, que fica em VG na terceira projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s018w" name="sl">
+           <label for="s018w"></label>
+           <img src="planosHFP/55_01_06b.png"/>
+         <figcaption>Construa a linha de chamada de <b>C</b>, que passa por <b>C'''</b> e fica paralela à linha de terra. A segunda projeção <b>C''</b> pertence ao traço do plano <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s019w" name="sl">
+           <label for="s019w"></label>
+           <img src="planosHFP/55_01_07b.png"/>
+         <figcaption>A ordenada de <b>C</b> é a distância do eixo <b>z</b> até a projeção <b>C'''</b>. "Pegue" esta distância com o compasso, e marque-a a partir da linha de terra: desta forma, encontramos a projeção <b>C'</b> pertencente a <b>&alpha;&pi;'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s020w" name="sl">
+           <label for="s020w"></label>
+           <img src="planosHFP/55_01_08b.png"/>
+         <figcaption>As duas projeções do triângulo foram encontradas. Ambas são segmentos de reta.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/55_01_00b.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - rebatimento</summary>
   <p></p>
   <ul class="slider">
       <li>
