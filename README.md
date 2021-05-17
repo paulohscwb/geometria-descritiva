@@ -5785,7 +5785,67 @@
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop" id="atv41"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00068.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
+  <p>Vamos utilizar a mudança de plano vertical para construir as projeções deste prisma.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s013y" name="sl">
+           <label for="s013y"></label>
+           <img src="planosHFP/56_01_01b.png"/>
+        <figcaption>Determine as projeções dos pontos <b>A</b> e <b>B</b>. Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s014y" name="sl">
+           <label for="s014y"></label>
+           <img src="planosHFP/56_01_02b.png"/>
+        <figcaption>Determine da segunda linha de terra (LT2) paralela ao traço <b>&alpha;&pi;'</b>, com uma distância qualquer deste traço.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s015y" name="sl">
+           <label for="s015y"></label>
+           <img src="planosHFP/56_01_03b.png"/>
+         <figcaption>Construa as linhas de chamada de <b>A</b> e de <b>B</b>, que passam por <b>A'</b> e <b>B'</b> e ficam perpendiculares à segunda linha de terra (LT2). A partir da LT2, marque as cotas dos pontos <b>z<sub>A</sub></b> e <b>z<sub>B</sub></b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s016y" name="sl">
+           <label for="s016y"></label>
+           <img src="planosHFP/56_01_04b.png"/>
+         <figcaption>Construa a base quadrada em VG <b>A''<sub>1</sub>B''<sub>1</sub>C''<sub>1</sub>D''<sub>1</sub></b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s017y" name="sl">
+           <label for="s017y"></label>
+           <img src="planosHFP/56_01_05b.png"/>
+         <figcaption>Construa as linhas de chamada de <b>C</b> e de <b>D</b>, que passam por <b>C''<sub>1</sub></b> e <b>D''<sub>1</sub></b> e ficam perpendiculares à LT2. As primeiras projeções <b>C'</b> e <b>D'</b> pertencem ao traço do plano <b>&alpha;&pi;'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s018y" name="sl">
+           <label for="s018y"></label>
+           <img src="planosHFP/56_01_06b.png"/>
+         <figcaption>As cotas de <b>C</b> e de <b>D</b> são iguais às distâncias da LT2 até as projeções <b>C''<sub>1</sub></b> e <b>D''<sub>1</sub></b>. "Pegue" estas distâncias <b>z<sub>C</sub></b> e <b>z<sub>D</sub></b> com o compasso, e marque-as a partir da linha de terra original: desta forma, encontramos as projeções <b>C''</b> e <b>D''</b> pertencentes a <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s019y" name="sl">
+           <label for="s019y"></label>
+           <img src="planosHFP/56_01_07b.png"/>
+         <figcaption>Como o prisma é regular, as faces laterais são perpendiculares às bases. Construa os traços do plano de perfil <b>&beta;</b>, com distância <b>h = 40</b> a partir dos traços de <b>&alpha;</b>. As projeções dos vértices correspondentes da base de <b>&beta;</b> são determinadas por meio de paralelas à linha de terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s020y" name="sl">
+           <label for="s020y"></label>
+           <img src="planosHFP/56_01_08b.png"/>
+         <figcaption>Com os critérios de visibilidade, podemos notar que "olhando de cima", a aresta <b>C''G''</b> tem menor cota: logo, a projeção <b>C'G'</b> é invisível. As arestas <b>B'F'</b> e <b>D'H'</b> pertencem ao contorno e <b>A''E''</b> tem maior cota; logo, <b>A'E'</b> fica visível.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s020y" name="sl">
+           <label for="s020y"></label>
+           <img src="planosHFP/56_01_09b.png"/>
+         <figcaption>Agora "olhando de frente", a aresta <b>B'F'</b> tem menor ordenada: logo, a projeção <b>B''F''</b> é invisível. As arestas <b>A''E''</b> e <b>C''G''</b> pertencem ao contorno e <b>D'H'</b> tem maior ordenada; logo, <b>D''H''</b> fica visível.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/56_01_00b.png" class="fundo"/>
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - rebatimento</summary>
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
 	<img src="planosHFP/56_01_00a.png"/>
 	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
