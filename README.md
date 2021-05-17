@@ -6043,7 +6043,31 @@
   </details>
 	<a href="vr/a9.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00069a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
+  <p>Neste exemplo, vamos utilizar a mudança de planos para construir o prisma.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s034s" name="sl">
+           <label for="s034s"></label>
+           <img src="planosHFP/57_02_00b.png"/>
+        <figcaption>Encontrar as projeções do prisma. Neste exercício foi utilizada a mudança de plano vertical para encontrar as projeções da base do prisma. Marcamos as cotas dos pontos a partir da LT2, que fica paralela aos traços do plano <b>&alpha;</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s035s" name="sl">
+           <label for="s035s"></label>
+           <img src="planosHFP/57_02_01b.png"/>
+        <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG. A visibilidade da seção acompanha a visibilidade das arestas do prisma.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s035s" name="sl">
+           <label for="s035s"></label>
+           <img src="planosHFP/57_02_01b.png"/>
+        <figcaption>As cotas dos pontos <b>3</b> e <b>4</b> são determinadas na vg da base.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/57_02_00b.png" class="fundo"/>
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - rebatimento</summary>
   <p></p>
   <ul class="slider">
       <li>
@@ -6057,6 +6081,12 @@
            <label for="s035"></label>
            <img src="planosHFP/57_02_01a.png"/>
         <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG. A visibilidade da seção acompanha a visibilidade das arestas do prisma.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s035av" name="sl">
+           <label for="s035av"></label>
+           <img src="planosHFP/57_02_01a.png"/>
+        <figcaption>As cotas dos pontos <b>3</b> e <b>4</b> são determinadas na vg da base.</figcaption>
        </li>
     </ul>
 	<img src="planosHFP/57_02_00a.png" class="fundo"/>
