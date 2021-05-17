@@ -5981,7 +5981,37 @@
   <a href="vr/a7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00069.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
+  <p>Encontrar as projeções da pirâmide. Neste exemplo foi usada a mudança do plano horizontal de projeção para encontrar a VG da aresta <b>AB</b> e construir a base em VG. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s029r" name="sl">
+           <label for="s029r"></label>
+           <img src="planosHFP/57_01_01b.png"/>
+        <figcaption>Encontrar o traço vertical do plano <b>&beta;</b> que é paralelo à LT.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s030r" name="sl">
+           <label for="s030r"></label>
+           <img src="planosHFP/57_01_02b.png"/>
+        <figcaption>Encontrar os pontos de interseção das arestas da pirâmide com o traço vertical do plano <b>&beta;</b>: <b>1''2''3''4''5''6''</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s031r" name="sl">
+           <label for="s031r"></label>
+           <img src="planosHFP/57_01_03b.png"/>
+         <figcaption>Encontrar as primeiras projeções destes pontos.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="s032r" name="sl">
+           <label for="s032r"></label>
+           <img src="planosHFP/57_01_04b.png"/>
+         <figcaption>A primeira projeção do polígono 123456 está em VG. A visibilidade da seção acompanha a visibilidade das arestas da pirâmide.</figcaption>
+       </li>
+    </ul>
+	<img src="planosHFP/57_01_00b.png" class="fundo"/>
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: rebatimento</summary>
   <p>Encontrar as projeções da pirâmide. Neste exemplo foi usado o rebatimento do plano no sentido horário para encontrar a VG da aresta <b>AB</b> e construir a base em VG. </p>
   <ul class="slider">
       <li>
