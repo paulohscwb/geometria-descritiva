@@ -5856,14 +5856,14 @@
   <p>Vamos utilizar a mudança de plano horizontal para construir esta pirâmide.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="s019w" name="sl">
-           <label for="s019w"></label>
+           <input type="radio" id="s019w1" name="sl">
+           <label for="s019w1"></label>
            <img src="planosHFP/56_02_01b.png"/>
         <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>. Os traços horizontal (<b>&alpha;&pi;'</b>) e vertical (<b>&alpha;&pi;''</b>) são coincidentes e perpendiculares à LT.</figcaption>
        </li>
 	  <li>
-           <input type="radio" id="s020w" name="sl">
-           <label for="s020w"></label>
+           <input type="radio" id="s020w1" name="sl">
+           <label for="s020w1"></label>
            <img src="planosHFP/56_02_02b.png"/>
         <figcaption>Determine da segunda linha de terra (LT2) paralela ao traço <b>&alpha;&pi;''</b>, com uma distância qualquer deste traço. Construa as linhas de chamada de <b>A</b> e de <b>B</b>, que passam por <b>A''</b> e <b>B''</b> e ficam perpendiculares à segunda linha de terra (LT2). A partir da LT2, marque as ordenadas dos pontos <b>y<sub>A</sub></b> e <b>y<sub>B</sub></b>.</figcaption>
        </li>
