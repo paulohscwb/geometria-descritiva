@@ -5637,9 +5637,9 @@
 	<img src="planosHFP/66_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<!--<div class="embed-container">
-	 <iframe width="100%" src="https://www.youtube.com/embed/pysFe6nmasg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>-->
+	<div class="embed-container">
+	 <iframe width="100%" src="https://www.youtube.com/embed/hISPMb-z9hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 	<img src="planosHFP/Apost_GD_2021_00067.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - 3&ordf; projeção</summary>
   <p>Vamos utilizar a 3&ordf; projeção para construir as projeções do triângulo equilátero <b>ABC</b>.</p>
