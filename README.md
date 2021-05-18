@@ -6309,13 +6309,13 @@
            <input type="radio" id="s054" name="sl">
            <label for="s054"></label>
            <img src="planosTV/63_01_02.png"/>
-        <figcaption>Representar o ponto <b>Z</b> e os traços do plano <b>&alpha;</b>. Sendo <b>&alpha;</b> um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma com a LT um ângulo igual ao ângulo que o plano forma no espaço com <b>&pi;'</b>.</figcaption>
+        <figcaption>Representar o ponto <b>Z</b> e os traços do plano <b>&gamma;</b>. Sendo <b>&gamma;</b> um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma com a LT um ângulo igual ao ângulo que o plano forma no espaço com <b>&pi;'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s055" name="sl">
            <label for="s055"></label>
            <img src="planosTV/63_01_03.png"/>
-        <figcaption>Como <b>&alpha;</b> é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical. A interseção das arestas da pirâmide com o <b>&alpha;&pi;''</b> nos fornece os vértices do polígono resultante da seção.</figcaption>
+        <figcaption>Como <b>&gamma;</b> é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical. A interseção das arestas da pirâmide com o <b>&gamma;&pi;''</b> nos fornece os vértices do polígono resultante da seção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s057" name="sl">
@@ -6333,7 +6333,7 @@
            <input type="radio" id="s059" name="sl">
            <label for="s059"></label>
            <img src="planosTV/63_01_06.png"/>
-        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método do rebatimento do plano <b>&alpha;</b> sobre o plano <b>&pi;'</b>. Utilizando o traço horizontal como eixo, rebatemos o plano <b>&alpha;</b> até ele se tornar horizontal. Os pontos, na segunda projeção, se deslocam segundo arcos de circunferência.</figcaption>
+        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método do rebatimento do plano <b>&gamma;</b> sobre o plano <b>&pi;'</b>. Utilizando o traço horizontal como eixo, rebatemos o plano <b>&gamma;</b> até ele se tornar horizontal. Os pontos, na segunda projeção, se deslocam segundo arcos de circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s060" name="sl">
@@ -6357,7 +6357,7 @@
            <input type="radio" id="s063" name="sl">
            <label for="s063"></label>
            <img src="planosTV/63_01_10.png"/>
-        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano <b>&alpha;</b>. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta <b>VD</b>. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
+        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano <b>&gamma;</b>. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta <b>VD</b>. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
        </li>
 	</ul>
 	<img src="planosTV/63_01_01.png" class="fundo"/>
