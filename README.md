@@ -6214,6 +6214,9 @@
     </ul>
 	<img src="planosTV/59_00_08.png" class="fundo"/>
   </details></div>
+	<div class="embed-container">
+	 <iframe width="100%" src="https://www.youtube.com/embed/DJtv1SexZAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00072.png"/>
 	<img src="planosTV/Apost_GD_2021_00072a.png"/>
