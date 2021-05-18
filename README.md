@@ -6059,8 +6059,8 @@
         <figcaption>Encontrar as projeções do polígono (<b>12345</b>) resultante da seção produzida pelo plano frontal (<b>&delta;</b>) no prisma. A primeira projeção fica reduzida a um segmento de reta sobre o traço horizontal do plano <b>&delta;</b> e a segunda projeção apresenta VG. A visibilidade da seção acompanha a visibilidade das arestas do prisma.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="s035s" name="sl">
-           <label for="s035s"></label>
+           <input type="radio" id="s035t" name="sl">
+           <label for="s035t"></label>
            <img src="planosHFP/57_02_01b.png"/>
         <figcaption>As cotas dos pontos <b>3</b> e <b>4</b> são determinadas na vg da base.</figcaption>
        </li>
