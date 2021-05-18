@@ -9855,7 +9855,42 @@
 	<img src="dt/31_02_00.png" class="fundo"/>
   </details><a href="vr/p135d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00031b.png"/>
-	<div class="combo"><a href="vr/p135a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em <b>Perspectiva Isométrica</b>. A representação será no <b>primeiro diedro</b>.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt757" name="sl">
+           <label for="dt757"></label>
+           <img src="dt/31_03_01.png"/>
+         <figcaption><b>Identificamos as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt756" name="sl">
+           <label for="dt756"></label>
+           <img src="dt/31_03_02.png"/>
+         <figcaption>Após <b>analisarmos a forma</b> do objeto e <b>delimitar o mesmo</b> obtemos as maiores dimensões do objeto: 15cm de largura, 9,5cm de altura e 9,5cm de profundidade. Desenhamos um <b>esboço</b> para as Vistas e marcamos essas dimensões maiores para termos uma ideia do espaço que será ocupado para o desenho.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt755" name="sl">
+           <label for="dt755"></label>
+           <img src="dt/31_03_03.png"/>
+         <figcaption>Desenhamos três retângulos conforme o esboço, lembrando que devemos utilizar a escala 1:2 para representar as medidas e que devemos deixar um mesmo espaçamento entre os retângulos. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt754" name="sl">
+           <label for="dt754"></label>
+           <img src="dt/31_03_04.png"/>
+         <figcaption>Marcamos nas Vistas as <b>medidas menores</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt753" name="sl">
+           <label for="dt753"></label>
+           <img src="dt/31_03_05.png"/>
+         <figcaption><b>Detalhamos as Vistas</b> do objeto. </figcaption>
+       </li>
+    </ul>
+	<img src="dt/31_03_00.png" class="fundo"/>
+  </details><a href="vr/p135a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00032.png"/>
 	<div class="combo" id="atv71"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.1</span>
