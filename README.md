@@ -10040,7 +10040,7 @@
 	<img src="dt/Apost_DT_2021_00051.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
-    <img src="dt/51_01_01.png"/>
+    <img src="dt/51_01.png"/>
     <figcaption>A Vista Frontal é desenhada integralmente. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
   </details><a href="vr/p155.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
