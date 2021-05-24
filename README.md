@@ -6843,9 +6843,9 @@
 	</ul>
 	<img src="planosTV/68_01.png" class="fundo"/>
   </details></div>
-  <!--<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/MLDlCoV04aY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>-->
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/-DP8FffmAGI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00081.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
