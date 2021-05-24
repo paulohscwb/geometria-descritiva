@@ -10045,13 +10045,25 @@
   </details><a href="vr/p155.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00052.png"/>
-	<div class="combo"><a href="vr/p156.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
+    <img src="dt/52_01.png"/>
+    <figcaption>A Vista Frontal é desenha integralmente. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
+  </details><a href="vr/p156.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00053.png"/>
-	<div class="combo"><a href="vr/p157.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
+    <img src="dt/53_01.png"/>
+    <figcaption>A Vista Frontal é desenha integralmente, porém a parte inclinada somente é possível representá-la após a construção da VA. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
+  </details><a href="vr/p157.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00054.png"/>
-	<div class="combo"><a href="vr/p158.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos desenhar a Vista Frontal (VF) e duas Vistas Auxiliares (VA1 e VA2). Usaremos a Unidade o mm e a Escala Natural.</p>
+    <img src="dt/54_01.png"/>
+    <figcaption>A Vista Frontal é desenha integralmente. As Vistas Auxiliares foram obtidas por meio de Mudança de Planos Horizontal, cada uma possui linhas de rupturas indicando que parte o Objeto não será representado pois não está em VG na Vista correspondente.</figcaption>
+  </details><a href="vr/p158.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00055.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
@@ -10062,12 +10074,24 @@
 	<img src="dt/Apost_DT_2021_00058.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00059.png"/>
-	<div class="combo"><a href="vr/p163a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos representar o corte indicado no objeto.</p>
+    <img src="dt/59_01.png"/>
+    <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
+  </details><a href="vr/p163a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00060.png"/>
-	<div class="combo"><a href="vr/p164b.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos representar o corte indicado no objeto.</p>
+    <img src="dt/60_01_01.png"/>
+    <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
+  </details><a href="vr/p164b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00060a.png"/>
-	<div class="combo"><a href="vr/p164c.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p>Vamos representar o corte indicado no objeto.</p>
+    <img src="dt/60_02_01.png"/>
+    <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
+  </details><a href="vr/p164c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00061.png"/>
 	<div class="combo" id="atv73"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.3</span>
