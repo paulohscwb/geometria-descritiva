@@ -47,7 +47,7 @@
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 7.3: exercício 1d da pág. 165</summary>
   <img src="../../dt/Apost_DT_2021_00061.png" /><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos representar o corte indicado no objeto.</p>
-    <img src="60_02_01.png"/>
+    <img src="61_01.png"/>
     <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
   </details>
   </details>
