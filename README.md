@@ -8093,7 +8093,7 @@
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
 	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
 	<br><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a28.html"></iframe>
+  <iframe class="box3d" src="vr/a29.html"></iframe>
   <a href="vr/a29.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
