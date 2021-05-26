@@ -10064,7 +10064,7 @@
     <img src="dt/54_01.png"/>
     <figcaption>A Vista Frontal é desenha integralmente. As Vistas Auxiliares foram obtidas por meio de Mudança de Planos Horizontal, cada uma possui linhas de rupturas indicando que parte o Objeto não será representado pois não está em VG na Vista correspondente.</figcaption>
   </details><a href="vr/p158.html" target="_blank" class="visu">Visualização em 3D</a>
-  <iframe height="50vh" src="vr/p158.html"></iframe></div>
+  <iframe style="height:50vh; width:100%;" src="vr/p158.html"></iframe></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00055.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
