@@ -5532,7 +5532,7 @@
 	<p>Material da página 66 até a página 79</p>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/plano_perfil.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/plano_perfil.html"></iframe>
   <a href="vr/plano_perfil.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00066a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5784,7 +5784,7 @@
 	  </details>
 	 &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
     <details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a6.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a6.html"></iframe>
   <a href="vr/a6.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop" id="atv41"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00068.png"/>
@@ -5853,7 +5853,7 @@
 	<img src="planosHFP/56_01_00a.png"/>
 	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a8.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a8.html"></iframe>
   <a href="vr/a8.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00068a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
@@ -5982,7 +5982,7 @@
     </ul>
 	<img src="planosHFP/56_02_00a.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a7.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a7.html"></iframe>
   <a href="vr/a7.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00069.png"/>
@@ -6046,7 +6046,7 @@
     </ul>
 	<img src="planosHFP/57_01_00a.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a9.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a9.html"></iframe>
   <a href="vr/a9.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00069a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
@@ -6097,7 +6097,7 @@
     </ul>
 	<img src="planosHFP/57_02_00a.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a10.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a10.html"></iframe>
   <a href="vr/a10.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00070.png"/>
@@ -6149,12 +6149,12 @@
 	<img src="planosHFP/70_02_00.png"/>
 	<figcaption>A seção plana produzida pelo plano horizontal <b>&beta;</b> é determinada pelos pontos limites <b>1''</b> e <b>2''</b>. Esta reta <b>12 </b> é fronto-horizontal e determina o diâmetro da seção. Neste caso, a primeira projeção da seção é uma circunferência de centro <b>P'</b>, pois o plano <b>&beta;</b> tem a primeira projeção em VG.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a22.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a22.html"></iframe>
   <a href="vr/a22.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00071.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/plano_topo.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/plano_topo.html"></iframe>
   <a href="vr/plano_topo.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00071a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -6303,13 +6303,13 @@
 	<img src="planosTV/62_01_00.png"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a11.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a11.html"></iframe>
   <a href="vr/a11.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
 	<div class="combo" id="atv42"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span>
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a12.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a12.html"></iframe>
   <a href="vr/a12.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
@@ -6692,7 +6692,7 @@
     </ul>
 	<img src="planosTV/65_01_07.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a13.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a13.html"></iframe>
   <a href="vr/a13.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00077a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -6792,7 +6792,7 @@
     </ul>
 	<img src="planosTV/66_01_00.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a14.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a14.html"></iframe>
   <a href="vr/a14.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00079.png"/>
@@ -6801,7 +6801,7 @@
 	<img src="planosTV/67_01_00.png"/>
 	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro <b>AB</b> pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro <b>CD</b> que é de topo, está em verdadeira grandeza na 1&ordf; projeção.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a15.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a15.html"></iframe>
   <a href="vr/a15.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
@@ -6810,7 +6810,7 @@
 	<p>Material da página 80 até a página 97</p>
 	<img src="planosTV/Apost_GD_2021_00080.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/plano_vertical.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/plano_vertical.html"></iframe>
   <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00080a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7001,7 +7001,7 @@
 	</ul>
 	<img src="planosTV/71_00_01.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a16.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a16.html"></iframe>
   <a href="vr/a16.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00083.png"/>
@@ -7077,7 +7077,7 @@
 	</ul>
 	<img src="planosTV/72_00_00.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a17.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a17.html"></iframe>
   <a href="vr/a17.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00084.png"/>
@@ -7197,7 +7197,7 @@
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
 	<div class="combo" id="atv51"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a18.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a18.html"></iframe>
   <a href="vr/a18.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
@@ -7206,7 +7206,7 @@
 	<img src="planosTV/76_00_01.png"/>
 	<figcaption>As projeções das bases em <b>&pi;''</b> são elipses, com os diâmetros <b>A''B''</b>, <b>C''D''</b>, <b>E''F''</b> e <b>G''H''</b>. Podemos construir as elipses à mão livre.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a19.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a19.html"></iframe>
   <a href="vr/a19.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00088.png"/>
@@ -7216,12 +7216,12 @@
 	<img src="planosTV/77_01_01.png"/>
 	<figcaption>As interseções das geratrizes com o traço do plano de seção <b>&beta;&pi;'</b> determinam a primeira projeção da seção plana. Fazendo as linhas de chamada de cada interseção, temos a segunda projeção nas respectivas projeções das geratrizes do cone.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a20.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a20.html"></iframe>
   <a href="vr/a20.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00089.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/plano_rampa.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/plano_rampa.html"></iframe>
   <a href="vr/plano_rampa.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00089a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7481,7 +7481,7 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00092.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a23.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a23.html"></iframe>
   <a href="vr/a23.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00093.png"/>
@@ -7617,13 +7617,13 @@
     </ul>
 	<img src="planosPQ/82_12.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a24.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a24.html"></iframe>
   <a href="vr/a24.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
 	<div class="combo" id="atv52"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a25.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a25.html"></iframe>
   <a href="vr/a25.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
@@ -7632,7 +7632,7 @@
 	<img src="planosPQ/84_01.png"/>
 	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a26.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a26.html"></iframe>
   <a href="vr/a26.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00096.png"/>
@@ -7641,7 +7641,7 @@
 	<img src="planosPQ/85_01.png" />
 	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a27.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a27.html"></iframe>
   <a href="vr/a27.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00097.png"/>
@@ -7701,7 +7701,7 @@
 	<p>Material da página 98 até a página 104</p>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
 	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/plano_qualquer.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/plano_qualquer.html"></iframe>
   <a href="vr/plano_qualquer.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00098a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -8087,13 +8087,13 @@
     </ul>
 	<img src="planosPQ/90_00.png" class="fundo"/>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a28.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a28.html"></iframe>
   <a href="vr/a28.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
 	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
 	<br><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a29.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a29.html"></iframe>
   <a href="vr/a29.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
@@ -8102,7 +8102,7 @@
 	<img src="planosPQ/92_01_01.png" class="fundo" />
 	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
 	</details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a30.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a30.html"></iframe>
   <a href="vr/a30.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00103a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -8117,7 +8117,7 @@
 	<img src="planosPQ/93_01.png"/>
 	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual à aresta da base.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/a31.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/a31.html"></iframe>
   <a href="vr/a31.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
@@ -10107,7 +10107,7 @@
     <img src="dt/54_01.png"/>
     <figcaption>A Vista Frontal é desenha integralmente. As Vistas Auxiliares foram obtidas por meio de Mudança de Planos Horizontal, cada uma possui linhas de rupturas indicando que parte o Objeto não será representado pois não está em VG na Vista correspondente.</figcaption>
   </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/p158.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/p158.html"></iframe>
   <a href="vr/p158.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00055.png"/>
@@ -10147,7 +10147,7 @@
 	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Projeto 1</a>
 	<br><p>Autor do projeto: Leonardo M. https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</p>
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe class="box3d" src="vr/casa1.html"></iframe>
+  <iframe class="box3d" loading="lazy" src="vr/casa1.html"></iframe>
   <a href="vr/casa1.html" target="_blank">Abrir em outra aba</a></details>
 	<p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
 	<img src="dt/Apost_DT_2021_00062a.png"/>
