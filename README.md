@@ -7464,7 +7464,9 @@
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00092.png"/>
-	<div class="combo"><a href="vr/a23.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a23.html"></iframe>
+  <a href="vr/a23.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00093.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
@@ -7598,27 +7600,33 @@
        </li>
     </ul>
 	<img src="planosPQ/82_12.png" class="fundo"/>
-  </details>
-  <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a24.html"></iframe>
+  <a href="vr/a24.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
 	<div class="combo" id="atv52"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
-	<br><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a25.html"></iframe>
+  <a href="vr/a25.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Note que agora será representada uma pirâmide e, portanto, a altura deverá ser marcada a partir do centro da base da mesma.</p>
 	<img src="planosPQ/84_01.png"/>
 	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
-  </details><a href="vr/a26.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a26.html"></iframe>
+  <a href="vr/a26.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00096.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/85_01.png" />
 	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
-  </details>
-  <a href="vr/a27.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a27.html"></iframe>
+  <a href="vr/a27.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00097.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
