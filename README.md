@@ -6986,7 +6986,7 @@
 	<img src="planosTV/71_00_01.png" class="fundo"/>
   </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a16.html"></iframe>
-  <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a16.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00083.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -7062,7 +7062,7 @@
 	<img src="planosTV/72_00_00.png" class="fundo"/>
   </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a17.html"></iframe>
-  <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a17.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00084.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
