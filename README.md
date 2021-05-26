@@ -1522,7 +1522,7 @@
 			   <input type="radio" id="a24" name="sl">
 			   <label for="a24"></label>
 			   <div class="embed-container">
-				 <!--<div class="embed-container"><iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
+				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
 				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				 
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
@@ -4675,7 +4675,7 @@
 			   <input type="radio" id="a34" name="sl">
 			   <label for="a34"></label>
 			   <div class="embed-container">
-				 <!--<div class="embed-container"><iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
+				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
 				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
@@ -5774,7 +5774,7 @@
 			   <input type="radio" id="a44" name="sl">
 			   <label for="a44"></label>
 			   <div class="embed-container">
-				 <!--<div class="embed-container"><iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
+				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
 				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
@@ -5784,7 +5784,7 @@
 	  </details>
 	 &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
     <details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <div class="embed-container"><div class="embed-container"><iframe src="vr/a6.html" class="box3d"></iframe></div>
+  <div class="embed-container"><iframe src="vr/a6.html" class="box3d"></iframe></div>
   <a href="vr/a6.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop" id="atv41"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00068.png"/>
