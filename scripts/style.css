@@ -255,9 +255,10 @@ hr {
      z-index: 10;
  }
 
-details[open] > .box3d{
- visibility: visible;
- z-index: 2;
+.embed-container1 iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .embed-container {
