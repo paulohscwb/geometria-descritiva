@@ -7700,7 +7700,9 @@
 <details><summary id="planos4">6. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
-	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/plano_qualquer.html"></iframe>
+  <a href="vr/plano_qualquer.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00098a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano Qualquer.</p>
@@ -8084,20 +8086,24 @@
        </li>
     </ul>
 	<img src="planosPQ/90_00.png" class="fundo"/>
-  </details>
-	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a28.html"></iframe>
+  <a href="vr/a28.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
 	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
-	<br><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<br><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a28.html"></iframe>
+  <a href="vr/a29.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/92_01_01.png" class="fundo" />
 	<figcaption>Agora será representada uma pirâmide regular hexagonal com a base contida no plano qualquer.</figcaption>
-	</details>
-	<a href="vr/a30.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	</details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a30.html"></iframe>
+  <a href="vr/a30.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00103a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
@@ -8110,7 +8116,9 @@
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/93_01.png"/>
 	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual à aresta da base.</figcaption>
-  </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a31.html"></iframe>
+  <a href="vr/a31.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
