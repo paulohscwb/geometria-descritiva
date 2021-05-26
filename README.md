@@ -10106,7 +10106,7 @@
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe style="height:50vh; width:100%;" src="vr/casa1.html"></iframe>
   <a href="vr/casa1.html" target="_blank">Abrir em outra aba</a></details>
-	<br><p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
+	<p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
 	<img src="dt/Apost_DT_2021_00062a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00063.png"/>
