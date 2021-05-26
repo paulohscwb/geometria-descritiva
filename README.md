@@ -10104,7 +10104,7 @@
 	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Projeto 1</a>
 	<br><p>Autor do projeto: Leonardo M. https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</p>
 	<details class="sub"><summary class="visu">Visualização em 3D</summary>
-  <iframe style="height:50vh; width:100%;" src="vr/casa1.html"></iframe>
+  <iframe class="box3d" src="vr/casa1.html"></iframe>
   <a href="vr/casa1.html" target="_blank">Abrir em outra aba</a></details>
 	<p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
 	<img src="dt/Apost_DT_2021_00062a.png"/>
