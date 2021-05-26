@@ -7011,43 +7011,43 @@
            <input type="radio" id="l064" name="sl">
            <label for="l064"></label>
            <img src="planosTV/72_00_02.png"/>
-         <figcaption>Efetuar a MPV para os pontos <b>A</b> e <b>B</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b></figcaption>
+         <figcaption>Efetuar a MPV para os pontos <b>A</b> e <b>B</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b>, encontrando <b>A"<sub>1</sub></b> e <b>B"<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l065" name="sl">
            <label for="l065"></label>
            <img src="planosTV/72_00_03.png"/>
-         <figcaption>Fazer a MPV para os pontos <b>A</b> e <b>B</b>, encontrando <b>A"<sub>1</sub></b> e <b>B"<sub>1</sub></b></figcaption>
+         <figcaption>Desenhar o quadrado em VG</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l066" name="sl">
            <label for="l066"></label>
            <img src="planosTV/72_00_04.png"/>
-         <figcaption>Desenhar o quadrado em VG</figcaption>
+         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre <b>&alpha;&pi;'</b> (<b>C'</b> e <b>D'</b>)</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l067" name="sl">
            <label for="l067"></label>
            <img src="planosTV/72_00_05.png"/>
-         <figcaption>Fazer o alçamento dos pontos, encontrando suas primeiras projeções sobre <b>&alpha;&pi;'</b> (<b>C'</b> e <b>D'</b>)</figcaption>
+         <figcaption>Fazer o alçamento em relação à 1&ordf; LT, obtendo as segundas projeções dos pontos <b>C''</b> e <b>D''</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l068" name="sl">
            <label for="l068"></label>
            <img src="planosTV/72_00_06.png"/>
-         <figcaption>Fazer o alçamento em relação à 1&ordf; LT, obtendo as segundas projeções dos pontos <b>C</b> e <b>D</b></figcaption>
+         <figcaption>Traçar as arestas <b>C'G'</b> e <b>C"G"</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l069" name="sl">
            <label for="l069"></label>
            <img src="planosTV/72_00_07.png"/>
-         <figcaption>Como as arestas laterais são paralelas, basta traçar por <b>C'</b>, <b>D'</b> e <b>E'</b>, retas paralelas a <b>A'G'</b>. Os pontos <b>E'</b>, <b>F'</b> e <b>G'</b> estarão sobre <b>&beta;&pi;'</b>.</figcaption>
+         <figcaption>Como as arestas laterais são paralelas, basta traçar por <b>A'</b>, <b>B'</b> e <b>D'</b>, retas paralelas a <b>C'G'</b>. Os pontos <b>E'</b>, <b>F'</b> e <b>H'</b> estarão sobre <b>&beta;&pi;'</b>. Na segunda projeção as arestas também são paralelas e iguais. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="l070" name="sl">
            <label for="l070"></label>
            <img src="planosTV/72_00_08.png"/>
-         <figcaption>Na segunda projeção as arestas também são paralelas e iguais. Traçar as paralelas a <b>A"G"</b> e fazer linhas de chamadas das primeiras projeções dos pontos <b>E'</b>, <b>F'</b> e <b>H'</b>, encontrando <b>E"</b>, <b>F"</b> e <b>H"</b></figcaption>
+         <figcaption>Fazer linhas de chamadas das primeiras projeções dos pontos <b>E'</b>, <b>F'</b> e <b>H'</b>, encontrando <b>E"</b>, <b>F"</b> e <b>H"</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l071" name="sl">
