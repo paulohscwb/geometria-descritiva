@@ -7306,9 +7306,9 @@
     </ul>
 	<img src="planosPQ/78_02_00.png" class="fundo"/>
   </details></div>
-	<!--<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/ccjGaH_dO_A" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>-->
+	<div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/V6BHh3F-EsE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00090.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
