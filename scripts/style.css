@@ -265,6 +265,7 @@ hr {
 
 .embed-container1 {
   position: relative;
+  padding-bottom: 60vh;
   height: 0;
   overflow: hidden;
   max-width: 100%;
