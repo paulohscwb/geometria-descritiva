@@ -7196,9 +7196,9 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
 	<div class="combo" id="atv51"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
-	<br><div class="combo"><summary class="visu">Visualização em 3D</summary>
+	<summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a18.html"></iframe>
-  <a href="vr/a18.html" target="_blank">Abrir em outra aba</a></div></div>
+  <a href="vr/a18.html" target="_blank">Abrir em outra aba</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
