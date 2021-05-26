@@ -6302,13 +6302,15 @@
 	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 72.</p>
 	<img src="planosTV/62_01_00.png"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
-  </details>
-	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a11.html"></iframe>
+  <a href="vr/a11.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
 	<div class="combo" id="atv42"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span>
-	<br>
-	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a12.html"></iframe>
+  <a href="vr/a12.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00075.png"/>
@@ -6689,8 +6691,9 @@
        </li>
     </ul>
 	<img src="planosTV/65_01_07.png" class="fundo"/>
-  </details>
-	<a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a13.html"></iframe>
+  <a href="vr/a13.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00077a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Construa os traços <b>&gamma;&pi;'</b> e <b>&gamma;&pi;''</b> do plano de topo. Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>VA</b>, <b>VB</b>, <b>BC</b> e <b>AF</b> determinam os 4 pontos da seção na pirâmide.</p>
@@ -6788,15 +6791,18 @@
        </li>
     </ul>
 	<img src="planosTV/66_01_00.png" class="fundo"/>
-  </details>
-	<a href="vr/a14.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a14.html"></iframe>
+  <a href="vr/a14.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00079.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A mudança de planos segue os mesmos passos do exercício anterior. Porém devemos lembrar que na 1&ordf; projeção teremos uma elipse, assim precisamos de pelo menos 4 pontos para representá-la.</p>
 	<img src="planosTV/67_01_00.png"/>
 	<figcaption>Vamos utilizar os dois diâmetros que aparecem em VG, o diâmetro <b>AB</b> pertence a uma reta frontal e, portanto, está em VG na segunda projeção, já o diâmetro <b>CD</b> que é de topo, está em verdadeira grandeza na 1&ordf; projeção.</figcaption>
-  </details><a href="vr/a15.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a15.html"></iframe>
+  <a href="vr/a15.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
