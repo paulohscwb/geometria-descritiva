@@ -255,6 +255,12 @@ hr {
      z-index: 10;
  }
 
+.sub:open ~ .embed-container iframe .box3d{
+	 opacity: 1;
+	 visibility: visible;
+     z-index: 10;
+}
+
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
