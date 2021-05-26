@@ -6994,9 +6994,9 @@
        </li>
 	</ul>
 	<img src="planosTV/71_00_01.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a16.html"></iframe>
-  <a href="vr/a16.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a16.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00083.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -7070,9 +7070,9 @@
        </li>
 	</ul>
 	<img src="planosTV/72_00_00.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a17.html"></iframe>
-  <a href="vr/a17.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a17.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00084.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7190,18 +7190,18 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
 	<div class="combo" id="atv51"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
-	<br><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<br><div class="combo"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a18.html"></iframe>
-  <a href="vr/a18.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a18.html" target="_blank">Abrir em outra aba</a></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizamos a mudança de planos para construir uma base em VG do cilindro. A outra base pode ser construída por meio das geratrizes paralelas <b>A'E'</b> e <b>B'F'</b> na primeira projeção e <b>T<sub>1</sub>''T<sub>2</sub>''</b> e <b>T<sub>3</sub>''T<sub>4</sub>''</b> na segunda projeção.</p>
 	<img src="planosTV/76_00_01.png"/>
 	<figcaption>As projeções das bases em <b>&pi;''</b> são elipses, com os diâmetros <b>A''B''</b>, <b>C''D''</b>, <b>E''F''</b> e <b>G''H''</b>. Podemos construir as elipses à mão livre.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a19.html"></iframe>
-  <a href="vr/a19.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a19.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00088.png"/>
 	<div class="combo">
@@ -7209,14 +7209,14 @@
 	<p>Neste exercício, podemos construir a seção plana elíptica determinando outras geratrizes do cone: basta escolher um ponto qualquer (por exemplo, <b>C''</b>) da circunferência e encontrar a primeira projeção deste ponto no traço <b>&alpha;&pi;'</b>.</p>
 	<img src="planosTV/77_01_01.png"/>
 	<figcaption>As interseções das geratrizes com o traço do plano de seção <b>&beta;&pi;'</b> determinam a primeira projeção da seção plana. Fazendo as linhas de chamada de cada interseção, temos a segunda projeção nas respectivas projeções das geratrizes do cone.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a20.html"></iframe>
-  <a href="vr/a20.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a20.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00089.png"/>
-	<div class="combo"><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/plano_rampa.html"></iframe>
-  <a href="vr/plano_rampa.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/plano_rampa.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosPQ/Apost_GD_2021_00089a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano Paralelo à Linha de Terra, também denominado de Plano Rampa.</p>
@@ -7474,9 +7474,9 @@
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00092.png"/>
-	<div class="combo"><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a23.html"></iframe>
-  <a href="vr/a23.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a23.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00093.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
@@ -7610,33 +7610,33 @@
        </li>
     </ul>
 	<img src="planosPQ/82_12.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a24.html"></iframe>
-  <a href="vr/a24.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a24.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
 	<div class="combo" id="atv52"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
-	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a25.html"></iframe>
-  <a href="vr/a25.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a25.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores. Note que agora será representada uma pirâmide e, portanto, a altura deverá ser marcada a partir do centro da base da mesma.</p>
 	<img src="planosPQ/84_01.png"/>
 	<figcaption>A seção plana nessa pirâmide agora será dada por um plano vertical e como esse plano é projetante em 1ª projeção temos que a 1ª projeção da seção será um segmento de reta.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a26.html"></iframe>
-  <a href="vr/a26.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a26.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00096.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Esse exercício também é parecido com os anteriores.</p>
 	<img src="planosPQ/85_01.png" />
 	<figcaption>Note que agora será representado um octaedro regular e, portanto, a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a27.html"></iframe>
-  <a href="vr/a27.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a27.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00097.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
