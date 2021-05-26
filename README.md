@@ -6793,7 +6793,9 @@
 <details open><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
 	<p>Material da página 80 até a página 97</p>
 	<img src="planosTV/Apost_GD_2021_00080.png"/>
-	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/plano_vertical.html"></iframe>
+  <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00080a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p><b>&alpha;&pi;'</b> é oblíquo à LT e <b>&alpha;&pi;"</b> é perpendicular à LT.</p>
@@ -6982,8 +6984,9 @@
        </li>
 	</ul>
 	<img src="planosTV/71_00_01.png" class="fundo"/>
-  </details>
-  <a href="vr/a16.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a16.html"></iframe>
+  <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00083.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -7057,7 +7060,9 @@
        </li>
 	</ul>
 	<img src="planosTV/72_00_00.png" class="fundo"/>
-  </details><a href="vr/a17.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  <iframe class="box3d" src="vr/a17.html"></iframe>
+  <a href="vr/plano_vertical.html" target="_blank">Abrir em outra aba</a></details></div></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00084.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
