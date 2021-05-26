@@ -5531,9 +5531,9 @@
 <details open><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 66 até a página 79</p>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
-	<div class="combo"><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/plano_perfil.html"></iframe>
-  <a href="vr/plano_perfil.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/plano_perfil.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00066a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos estudar o Plano de Perfil.</p>
@@ -5783,9 +5783,9 @@
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details>
 	 &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
-    <div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+    <details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a6.html"></iframe>
-  <a href="vr/a6.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a6.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop" id="atv41"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00068.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
@@ -5852,9 +5852,9 @@
 	<p>Podemos resolver esta questão por rebatimento ou por mudança de plano de projeção.</p>
 	<img src="planosHFP/56_01_00a.png"/>
 	<figcaption> A solução apresentada foi resolvida por rebatimento.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a8.html"></iframe>
-  <a href="vr/a8.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a8.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00068a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
   <p>Vamos utilizar a mudança de plano horizontal para construir esta pirâmide.</p>
@@ -5981,9 +5981,9 @@
        </li>
     </ul>
 	<img src="planosHFP/56_02_00a.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a7.html"></iframe>
-  <a href="vr/a7.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a7.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00069.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
@@ -6045,9 +6045,9 @@
        </li>
     </ul>
 	<img src="planosHFP/57_01_00a.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a9.html"></iframe>
-  <a href="vr/a9.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a9.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosHFP/Apost_GD_2021_00069a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
   <p>Neste exemplo, vamos utilizar a mudança de planos para construir o prisma.</p>
@@ -6096,9 +6096,9 @@
        </li>
     </ul>
 	<img src="planosHFP/57_02_00a.png" class="fundo"/>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a10.html"></iframe>
-  <a href="vr/a10.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a10.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00070.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -6148,14 +6148,14 @@
 	<p>Determine os traços do plano de perfil <b>&alpha;</b>da seção da esfera. Podemos encontrar as projeções do centro <b>P</b> da esfera construindo circunferências com centros em <b>A''</b> e <b>B''</b> e raios iguais a 2, ou então as circunferências com centros em <b>C'</b> e <b>D'</b> e raios iguais a 2. As projeções da esfera serão as circunferências de centros em <b>P'</b> e <b>P''</b> com raios iguais a 2.</p>
 	<img src="planosHFP/70_02_00.png"/>
 	<figcaption>A seção plana produzida pelo plano horizontal <b>&beta;</b> é determinada pelos pontos limites <b>1''</b> e <b>2''</b>. Esta reta <b>12 </b> é fronto-horizontal e determina o diâmetro da seção. Neste caso, a primeira projeção da seção é uma circunferência de centro <b>P'</b>, pois o plano <b>&beta;</b> tem a primeira projeção em VG.</figcaption>
-  </details><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+  </details><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/a22.html"></iframe>
-  <a href="vr/a22.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/a22.html" target="_blank">Abrir em outra aba</a></details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00071.png"/>
-	<div class="combo"><div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
+	<div class="combo"><details class="sub"><summary class="visu">Visualização em 3D</summary>
   <iframe class="box3d" src="vr/plano_topo.html"></iframe>
-  <a href="vr/plano_topo.html" target="_blank">Abrir em outra aba</a></details></div></div>
+  <a href="vr/plano_topo.html" target="_blank">Abrir em outra aba</a></details></div>
 	<img src="planosTV/Apost_GD_2021_00071a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
