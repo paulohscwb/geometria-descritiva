@@ -7391,7 +7391,7 @@
 	   <li>
            <input type="radio" id="d060" name="sl">
            <label for="d060"></label>
-           <img src="planosPQ/80_07.png"/>
+           <img src="planosPQ/80_06.png"/>
          <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque a cota dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
