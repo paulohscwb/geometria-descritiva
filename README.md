@@ -8054,6 +8054,7 @@
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
 	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+	<p>Coordenadas dos pontos: A(13,9,21) B(36,18,5) Q(13,42,0).</p>
 	<br><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
