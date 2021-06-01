@@ -7747,7 +7747,7 @@
 	<img src="planosPQ/87_02_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/5YSXuGTVjac" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="95%" src="https://www.youtube.com/embed/hVj6Ha2eYLE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00099.png"/>
