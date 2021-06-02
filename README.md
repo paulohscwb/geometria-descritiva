@@ -10000,32 +10000,394 @@
 	<img src="dt/Apost_DT_2021_00040.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00041.png"/>
-	<div class="combo"><a href="vr/p145_1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt708" name="sl">
+           <label for="dt708"></label>
+           <img src="dt/41_01_01.png"/>
+         <figcaption>Vamos construir os <b>Eixos Isométricos</b>. Posicione o esquadro de 45 com a hipotenusa na horizontal. Encaixe o cateto maior do esquadro de 30/60 sobre o primeiro esquadro e desenhe (com linha contínua estreita) um segmento de reta na posição vertical. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt707" name="sl">
+           <label for="dt707"></label>
+           <img src="dt/41_01_02.png"/>
+         <figcaption>Deslize o esquadro de 30/60 para a esquerda e utilizando a hipotenusa desenhe um segundo segmento de reta concorrente com o primeiro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt706" name="sl">
+           <label for="dt706"></label>
+           <img src="dt/41_01_03.png"/>
+         <figcaption>Inverta o esquadro de 30/60 e utilizando a hipotenusa desenhe um terceiro segmento de reta concorrente com os outros dois. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt705" name="sl">
+           <label for="dt705"></label>
+           <img src="dt/41_01_04.png"/>
+         <figcaption>Os eixos isométricos desenhados formam ângulos de 120° entre si.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt704" name="sl">
+           <label for="dt704"></label>
+           <img src="dt/41_01_05.png"/>
+         <figcaption>Marcamos sobre os eixos os valores correspondentes às maiores medidas de largura, altura e profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt703" name="sl">
+           <label for="dt703"></label>
+           <img src="dt/41_01_06.png"/>
+         <figcaption>Construímos o <b>Paralelepípedo Envolvente</b> do sólido (com linha contínua estreita).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt702" name="sl">
+           <label for="dt702"></label>
+           <img src="dt/41_01_07.png"/>
+         <figcaption>Vamos <b>representar as Faces</b> do sólido na Perspectiva. Representamos, por exemplo, a face frontal, que está em VG (plano frontal). As linhas isométricas estão em VG porém as não isométricas (inclinadas) não estão. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt701" name="sl">
+           <label for="dt701"></label>
+           <img src="dt/41_01_08.png"/>
+         <figcaption>Representamos as faces que aparecem em VG na vista superior (planos horizontais).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt700" name="sl">
+           <label for="dt700"></label>
+           <img src="dt/41_01_09.png"/>
+         <figcaption>Representamos a face que aparece em VG na lateral esquerda (plano de perfil).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt699" name="sl">
+           <label for="dt699"></label>
+           <img src="dt/41_01_10.png"/>
+         <figcaption>Representamos a face que aparece nas vistas superior e lateral esquerda (plano de topo). Observe que esta face não aparece em VG nas projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt698" name="sl">
+           <label for="dt698"></label>
+           <img src="dt/41_01_11.png"/>
+         <figcaption>Pronto! A Perspectiva Isométrica Simplificada está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/41_01_00.png" class="fundo"/>
+  </details><a href="vr/p145_1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00041a.png"/>
-	<div class="combo"><a href="vr/p145_2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt716" name="sl">
+           <label for="dt716"></label>
+           <img src="dt/41_02_01.png"/>
+         <figcaption>Note que o objeto a ser representado foi obtido a partir do anterior. Assim, reproduza a perspectiva isométrica que já fizemos. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt715" name="sl">
+           <label for="dt715"></label>
+           <img src="dt/41_02_02.png"/>
+         <figcaption>Vamos <b>representar as demais Faces do sólido</b> na Perspectiva. A face frontal permanece como está.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt714" name="sl">
+           <label for="dt714"></label>
+           <img src="dt/41_02_03.png"/>
+         <figcaption>O objeto possui duas faces horizontais superiores que são retangulares. Marque seus lados na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt713" name="sl">
+           <label for="dt713"></label>
+           <img src="dt/41_02_04.png"/>
+         <figcaption>Vamos representar as duas facesinclinadas do objeto que são retangulares e congruentes (plano de topo). Apenas os lados isométricos estão em VG. Marque os lados de topo na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt712" name="sl">
+           <label for="dt712"></label>
+           <img src="dt/41_02_05.png"/>
+         <figcaption>Complete a face frontal interna do Objeto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt711" name="sl">
+           <label for="dt711"></label>
+           <img src="dt/41_02_06.png"/>
+         <figcaption>O objeto possui uma terceira face inclinada também retangular (plano de topo). Apenas os lados isométricos que estão em VG. Marque os lados de topo, verticais e fronto-horizontaisdas faces frontais triangulares na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt710" name="sl">
+           <label for="dt710"></label>
+           <img src="dt/41_02_07.png"/>
+         <figcaption>Represente o lado frontal unindo os pontos correspondentes, esta lado não é isométrico e, portanto, não está em VG na perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt709" name="sl">
+           <label for="dt709"></label>
+           <img src="dt/41_02_08.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/41_02_00.png" class="fundo"/>
+  </details><a href="vr/p145_2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00042.png"/>
-	<div class="combo"><a href="vr/p146_3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt724" name="sl">
+           <label for="dt724"></label>
+           <img src="dt/42_01_01.png"/>
+         <figcaption>Construímos os <b>Eixos Isométricos</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt723" name="sl">
+           <label for="dt723"></label>
+           <img src="dt/42_01_02.png"/>
+         <figcaption>Marcamos sobre os eixos os valores correspondentes às maiores medidas delargura, altura e profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt722" name="sl">
+           <label for="dt722"></label>
+           <img src="dt/42_01_03.png"/>
+         <figcaption>Construímos o <b>Paralelepípedo Envolvente</b> do sólido (com linha contínua estreita).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt721" name="sl">
+           <label for="dt721"></label>
+           <img src="dt/42_01_04.png"/>
+         <figcaption>Vamos representar as <b>Faces do sólido</b> na Perspectiva. Representamos, por exemplo, a face lateral esquerda, que está em VG (plano de perfil).Lembre-se que apenas os lados isométricos estão em VG.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt720" name="sl">
+           <label for="dt720"></label>
+           <img src="dt/42_01_05.png"/>
+         <figcaption>Representamos a face que aparecem em VG na vista frontal (plano frontal).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt719" name="sl">
+           <label for="dt719"></label>
+           <img src="dt/42_01_06.png"/>
+         <figcaption>Representamos a face que aparece em VG na vista superior (plano horizontal).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt718" name="sl">
+           <label for="dt718"></label>
+           <img src="dt/42_01_07.png"/>
+         <figcaption>Representamos a face que aparece nas vistas superior e frontal (plano paralelo à linha de terra). Observe que esta face não aparece em VG nas projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt717" name="sl">
+           <label for="dt717"></label>
+           <img src="dt/42_01_08.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/42_01_00.png" class="fundo"/>
+  </details><a href="vr/p146_3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00042a.png"/>
-	<div class="combo"><a href="vr/p146_4.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt729" name="sl">
+           <label for="dt729"></label>
+           <img src="dt/42_02_01.png"/>
+         <figcaption>Note que o objeto a ser representado foi obtido a partir do anterior. Assim, reproduza a perspectiva isométrica que já fizemos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt728" name="sl">
+           <label for="dt728"></label>
+           <img src="dt/42_02_02.png"/>
+         <figcaption>Vamos representar as <b>demais Faces do sólido</b> na Perspectiva. As faceshorizontal e paralela à linha de terra permanecem como estão.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt727" name="sl">
+           <label for="dt727"></label>
+           <img src="dt/42_02_03.png"/>
+         <figcaption>A face frontal tem laterais verticais menores que o sólido original. Marque seus lados na Perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt726" name="sl">
+           <label for="dt726"></label>
+           <img src="dt/42_02_04.png"/>
+         <figcaption>A face lateral esquerda do objeto possui agora um lado de perfil, que não é isométrico, assim marque os lados dessa face que são de topo e vertical. Note que o objeto possui uma nova face paralela à linha de terra mas que não aparece na perspectiva.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt725" name="sl">
+           <label for="dt725"></label>
+           <img src="dt/42_02_05.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/42_02_00.png" class="fundo"/>
+  </details><a href="vr/p146_4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00043.png"/>
-	<div class="combo"><a href="vr/p147_5.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt734" name="sl">
+           <label for="dt734"></label>
+           <img src="dt/43_01_01.png"/>
+         <figcaption>Construímos o <b>Paralelepípedo Envolvente</b> do sólido (com linha contínua estreita).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt733" name="sl">
+           <label for="dt733"></label>
+           <img src="dt/43_01_02.png"/>
+         <figcaption>Para construir a <b>circunferência em perspectiva</b>, marcamos o centro desta na face frontal e construímos a perspectiva do quadrado ABCD circunscrito à circunferência. Marcamos também os pontos médios dos lados do quadrado.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt732" name="sl">
+           <label for="dt732"></label>
+           <img src="dt/43_01_03.png"/>
+         <figcaption>Unimos o vértice <b>A</b> com os pontos <b>F</b> e <b>G</b> e o vértice <b>C</b> com os pontos <b>E</b> e <b>H</b>. Obtemos assim os pontos <b>I</b> e <b>J</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt731" name="sl">
+           <label for="dt731"></label>
+           <img src="dt/43_01_04.png"/>
+         <figcaption>A circunferência em perspectiva será construída por quatro arcos: um arco com centro em <b>A</b> e raio <b>AF = AG</b>; um arco com centro em <b>C</b> e raio <b>CE = CH</b>; um arco com centro em <b>I</b> e raio <b>IF = IE</b>; e um arco de centro em <b>J</b> e raio <b>JG = JH</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt730" name="sl">
+           <label for="dt730"></label>
+           <img src="dt/43_01_05.png"/>
+         <figcaption>Pronto! A circunferência está representada em perspectiva na face frontal do objeto.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/43_01_00.png" class="fundo"/>
+  </details><a href="vr/p147_5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00043a.png"/>
-	<div class="combo"><a href="vr/p147_6.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt736" name="sl">
+           <label for="dt736"></label>
+           <img src="dt/43_02_01.png"/>
+         <figcaption>Construa os eixos isométricos e depois o Paralelepípedo envolvente. O objeto possui somente linhas isométricas. Represente as faces do sólido que aparecem em VG marcando seus lados na perspectiva. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt735" name="sl">
+           <label for="dt735"></label>
+           <img src="dt/43_02_02.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/43_02_00.png" class="fundo"/>
+  </details><a href="vr/p147_6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00044.png"/>
-	<div class="combo"><a href="vr/p148_7.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt738" name="sl">
+           <label for="dt738"></label>
+           <img src="dt/44_01_01.png"/>
+         <figcaption>Construa os eixos isométricos e depois o Paralelepípedo envolvente. O objeto possui linhas isométricas e não isométricas. Represente as faces do sólido que aparecem em VG marcando seus lados na perspectiva. Atenção, pois, a face de topo possui três lados não isométricos!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt737" name="sl">
+           <label for="dt737"></label>
+           <img src="dt/44_01_02.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/44_01_00.png" class="fundo"/>
+  </details><a href="vr/p148_7.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00044a.png"/>
-	<div class="combo"><a href="vr/p148_8.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt740" name="sl">
+           <label for="dt740"></label>
+           <img src="dt/44_02_01.png"/>
+         <figcaption>Construa os eixos isométricos e depois o Paralelepípedo envolvente. O objeto possui linhas isométricas e não isométricas. Represente as faces do sólido que aparecem em VG marcando seus lados na perspectiva. Atenção, pois, as faces de topo possuem lados não isométricos!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt739" name="sl">
+           <label for="dt739"></label>
+           <img src="dt/44_02_02.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/44_02_00.png" class="fundo"/>
+  </details><a href="vr/p148_8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00045.png"/>
 	<div class="combo" id="atv72"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.2</span>
 	<br><a href="vr/p149_9.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00045a.png"/>
-	<div class="combo"><a href="vr/p149_10.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt750" name="sl">
+           <label for="dt750"></label>
+           <img src="dt/45_02_01.png"/>
+         <figcaption>Construímos o <b>Paralelepípedo Envolvente</b>, com os maiores valores de largura, altura e profundidade.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt749" name="sl">
+           <label for="dt749"></label>
+           <img src="dt/45_02_02.png"/>
+         <figcaption>Na face frontal temos uma semicircunferência. Construímos um quadrado em perspectiva de lados iguais ao diâmetro da semicircunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt748" name="sl">
+           <label for="dt748"></label>
+           <img src="dt/45_02_03.png"/>
+         <figcaption>Construímos a perspectiva da circunferência inscrita no quadrado.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt747" name="sl">
+           <label for="dt747"></label>
+           <img src="dt/45_02_04.png"/>
+         <figcaption>Reforçamos apenas os arcos correspondentes à semicircunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt746" name="sl">
+           <label for="dt746"></label>
+           <img src="dt/45_02_05.png"/>
+         <figcaption>Fazemos o mesmo com a semicircunferência contida na face posterior. Iniciamos com a perspectiva do quadrado circunscrito à circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt745" name="sl">
+           <label for="dt745"></label>
+           <img src="dt/45_02_06.png"/>
+         <figcaption>Construímos a perspectiva da circunferência inscrita no quadrado.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt744" name="sl">
+           <label for="dt744"></label>
+           <img src="dt/45_02_07.png"/>
+         <figcaption>Reforçamos apenas os arcos correspondente à semicircunferência e que não está escondido atrás de alguma face visível. Completamos as arestas de topo das faces horizontais. Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/45_02_00.png" class="fundo"/>
+  </details><a href="vr/p149_10.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00045b.png"/>
-	<div class="combo"><a href="vr/p149_11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt752" name="sl">
+           <label for="dt752"></label>
+           <img src="dt/45_03_01.png"/>
+         <figcaption>Construa os eixos isométricos e depois o Paralelepípedo envolvente. O objeto possui linhas isométricas e não isométricas. Represente as faces do sólido que aparecem em VG marcando seus lados na perspectiva. Atenção, pois, as faces de topo possuem lados não isométricos! Represente a perspectiva da semicircunferência. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt751" name="sl">
+           <label for="dt751"></label>
+           <img src="dt/45_03_02.png"/>
+         <figcaption>Pronto! A perspectiva está representada.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/45_03_00.png" class="fundo"/>
+  </details><a href="vr/p149_11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00046.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
