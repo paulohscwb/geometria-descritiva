@@ -8079,7 +8079,7 @@
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="dtecnico">7. Desenho Técnico</summary>
+<details style="border-bottom: 1px solid #a2dec0;" open><summary id="dtecnico">7. Desenho Técnico</summary>
 	<p>Material da página 105 até a página 177</p>
 	<img src="dt/Apost_DT_2021_00001.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
