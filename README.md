@@ -9904,13 +9904,13 @@
   <p>Vamos representar uma escada pelas suas vistas ortográficas.</p>
   <ul class="slider">
        <li>
-           <input type="radio" id="dt708" name="sl">
+           <input type="radio" id="dt696" name="sl">
            <label for="dt696"></label>
            <img src="dt/34_01.png"/>
          <figcaption>Construa as projeções da Vista Frontal a partir das outras Vistas. Lembre-se de aplicar as regras de Leitura das Vistas Ortográficas.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="dt707" name="sl">
+           <input type="radio" id="dt697" name="sl">
            <label for="dt697"></label>
            <img src="dt/34_02.png"/>
          <figcaption>Indique o sentido da circulação na Vista Superior.</figcaption>
