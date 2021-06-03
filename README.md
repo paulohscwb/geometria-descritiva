@@ -9900,7 +9900,24 @@
 	<img src="dt/Apost_DT_2021_00033.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00034.png"/>
-	<div class="combo"><a href="vr/p138_escada.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar uma escada pelas suas vistas ortográficas.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="dt708" name="sl">
+           <label for="dt696"></label>
+           <img src="dt/34_01.png"/>
+         <figcaption>Construa as projeções da Vista Frontal a partir das outras Vistas. Lembre-se de aplicar as regras de Leitura das Vistas Ortográficas.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dt707" name="sl">
+           <label for="dt697"></label>
+           <img src="dt/34_02.png"/>
+         <figcaption>Indique o sentido da circulação na Vista Superior.</figcaption>
+       </li>
+    </ul>
+	<img src="dt/34_00.png" class="fundo"/>
+  </details><a href="vr/p138_escada.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00034a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00035.png"/>
