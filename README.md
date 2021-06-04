@@ -8083,6 +8083,9 @@
 	<p>Material da página 105 até a página 177</p>
 	<img src="dt/Apost_DT_2021_00001.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/kTKogyHhJfg" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="dt/Apost_DT_2021_00002.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00003.png"/>
