@@ -10489,6 +10489,9 @@
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00046.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/5h2IT7hlz9g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="dt/Apost_DT_2021_00047.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00048.png"/>
