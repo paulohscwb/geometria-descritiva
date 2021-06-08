@@ -7167,7 +7167,7 @@
          <figcaption>Agora podemos destacar o tronco de tetraedro planificado.</figcaption>
        </li>
 	</ul>
-	<img src="planosTV/84_02_00.png" class="fundo"/>
+	<img src="planosTV/84_02_00.png" class="fundo" style="visibility:hidden;"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00084b.png"/>
 	<figcaption>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</figcaption>
