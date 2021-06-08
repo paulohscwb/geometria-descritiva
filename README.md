@@ -7097,6 +7097,78 @@
 	<img src="planosTV/72_08_00.png" class="fundo"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00084a.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos representar a seção plana feita pelo plano vertical que passar por <b>Z</b> e forma 30&ordm; com <b>&pi;"</b></p>
+  <ul class="slider">
+	  <li>
+           <input type="radio" id="l063p" name="sl">
+           <label for="l063p"></label>
+           <img src="planosTV/84_02_01.png"/>
+        <figcaption>Represente o plano vertical que passa pelo ponto <b>Z</b> e forma 30&ordm; com <b>&pi;"</b>. Determine os pontos de seçao na 1&ordf; e 2&ordf; projeções: <b>1</b>, <b>2</b>, <b>3</b> e <b>4</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="l064p" name="sl">
+           <label for="l064p"></label>
+           <img src="planosTV/84_02_02.png"/>
+         <figcaption>Encontre a VG da seção fazendo o rebatimento do plano vertical ou a mudança de plano vertical. Neste exemplo foi feita a mudança de plano.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l065p" name="sl">
+           <label for="l065p"></label>
+           <img src="planosTV/84_02_03.png"/>
+         <figcaption>Para planificar, precisamos encontrar as VGs das interseções com as arestas laterais. Construa o triângulo usado para determinar a altura com o cateto <b>O''A''</b> no traço do plano frontal.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l066p" name="sl">
+           <label for="l066p"></label>
+           <img src="planosTV/84_02_04.png"/>
+         <figcaption>Construa as retas parelalas à linha de terra que passam por <b>1'</b> e <b>2'</b>. Nas VGs  das arestas laterais, encontramos os pontos <b>1<sub>1</sub></b> e <b>2<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l067p" name="sl">
+           <label for="l067p"></label>
+           <img src="planosTV/84_02_05.png"/>
+         <figcaption>Agora podemos construir os quatro triângulos equiláteros que formam o tetraedro.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l068p" name="sl">
+           <label for="l068p"></label>
+           <img src="planosTV/84_02_06.png"/>
+         <figcaption>Com a distância da VG da aresta lateral, construa as circunferências com centros em <b>V</b> e raios <b>V<sub>1</sub>1<sub>1</sub></b>, determinando os pontos <b>1</b> nas representações da aresta <b>VA</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l069p" name="sl">
+           <label for="l069p"></label>
+           <img src="planosTV/84_02_07.png"/>
+         <figcaption>Com a distância da VG da aresta lateral, construa as circunferências com centros em <b>V</b> e raios <b>V<sub>1</sub>2<sub>1</sub></b>, determinando os pontos <b>2</b> nas representações da aresta <b>VB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l070p" name="sl">
+           <label for="l070p"></label>
+           <img src="planosTV/84_02_08.png"/>
+         <figcaption>Como os pontos <b>3</b> e <b>4</b> estão na base <b>ABC</b> que está em VG na segunda projeção, podemos construir as circunferências com centros em <b>A</b> e <b>B</b> e raios <b>A''4''</b> e <b>B''3''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l071p" name="sl">
+           <label for="l071p"></label>
+           <img src="planosTV/84_02_09.png"/>
+         <figcaption>Para inserir a VG da seção, podemos construir o quadrilátero para cima de <b>14</b> para obter o tronco do tetraedro ou para baixo de <b>14</b> para obter a pirâmide truncada. Vamos construir o tronco de tetraedro, usando a diagonal <b>13</b> na VG da seção: construa as circunferências com centros em <b>1</b> e <b>4</b> e raios <b>1'<sub>1</sub>3'<sub>1</sub></b> e <b>3'<sub>1</sub>4'<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l072p" name="sl">
+           <label for="l072p"></label>
+           <img src="planosTV/84_02_10.png"/>
+         <figcaption>Construa as circunferências com centros em <b>1</b> e <b>3</b> e raios <b>12</b> e <b>23</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l073p" name="sl">
+           <label for="l073p"></label>
+           <img src="planosTV/84_02_11.png"/>
+         <figcaption>Agora podemos destacar o tronco de tetraedro planificado.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/84_02_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00084b.png"/>
 	<figcaption>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</figcaption>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
