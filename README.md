@@ -7134,7 +7134,7 @@
            <input type="radio" id="l068p" name="sl">
            <label for="l068p"></label>
            <img src="planosTV/84_02_06.png"/>
-         <figcaption>Com a distância da VG da aresta lateral, construa as circunferências com centros em <b>V</b> e raios <b>V<sub>1</sub>1<sub>1</sub></b>, determinando os pontos <b>1</b> nas representações da aresta <b>VA</b>.</figcaption>
+         <figcaption>Com a distância da VG da aresta lateral, construa a circunferência com centro em <b>V</b> e raio <b>V<sub>1</sub>1<sub>1</sub></b>, determinando o pontos <b>1</b> na representação da aresta <b>VA</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l069p" name="sl">
