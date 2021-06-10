@@ -6790,7 +6790,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
+<details><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
 	<p>Material da página 80 até a página 97</p>
 	<img src="planosTV/Apost_GD_2021_00080.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
