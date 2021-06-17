@@ -7734,7 +7734,7 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos4">6. Plano qualquer</summary>
+<details><summary id="planos4">6. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -8151,7 +8151,7 @@
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;" open><summary id="dtecnico">7. Desenho Técnico</summary>
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="dtecnico">7. Desenho Técnico</summary>
 	<p>Material da página 105 até a página 177</p>
 	<img src="dt/Apost_DT_2021_00001.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
