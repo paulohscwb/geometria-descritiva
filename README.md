@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="scripts/style.css">
-
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Geometria Descritiva I</p>
 <p>A apostilas estão disponíveis nos links:</p>
