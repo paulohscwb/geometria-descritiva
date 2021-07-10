@@ -5225,7 +5225,7 @@
   </details>
 	<a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
-	<p>As construções geométricas dos exercícios da pág. 59 até a pág. 74 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
+	<p>As construções geométricas dos exercícios da pág. 59 até a pág. 65 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
 	<img src="planosHFP/Apost_GD_2021_00059.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00059a.png"/>
@@ -5536,6 +5536,7 @@
 
 <details><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 66 até a página 79</p>
+	<p>As construções geométricas dos exercícios da pág. 66 até a pág. 74 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
 	<div class="combo"><a href="vr/plano_perfil.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00066a.png"/>
@@ -6307,7 +6308,7 @@
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
-	<p>As construções geométricas dos exercícios da pág. 75 até a pág. 90 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></p>
+	<p>As construções geométricas dos exercícios da pág. 75 até a pág. 79 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></p>
 	<img src="planosTV/Apost_GD_2021_00075.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
   <p>Vamos começar recuperando a solução do exercício 2 da página 54.</p>
@@ -6799,6 +6800,7 @@
 
 <details><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
 	<p>Material da página 80 até a página 97</p>
+	<p>As construções geométricas dos exercícios da pág. 80 até a pág. 88 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></p>
 	<img src="planosTV/Apost_GD_2021_00080.png"/>
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00080a.png"/>
@@ -7273,6 +7275,7 @@
   </details>
 	<a href="vr/a20.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 89 até a pág. 97 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="planosPQ/Apost_GD_2021_00089.png"/>
 	<div class="combo"><a href="vr/plano_rampa.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/Apost_GD_2021_00089a.png"/>
@@ -7439,7 +7442,6 @@
   </details></div>
 	<img src="planosPQ/Apost_GD_2021_00090b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
-	<p>As construções geométricas dos exercícios da pág. 91 até a pág. 104 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="planosPQ/Apost_GD_2021_00091.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o quadrado contido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
@@ -7744,6 +7746,7 @@
 
 <details><summary id="planos4">6. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
+	<p>As construções geométricas dos exercícios da pág. 98 até a pág. 104 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
 	<div class="combo"><a href="vr/plano_qualquer.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosPQ/Apost_GD_2021_00098a.png"/>
