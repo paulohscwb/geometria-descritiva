@@ -1467,7 +1467,7 @@
 
 <details><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
-	<p>As construções geométricas dos exercícios da pág. 11 até a pág. 24 foram feitas pela <b>prof. Paulo Henrique Siqueira.</b></p>
+	<p>As construções geométricas dos exercícios da pág. 11 até a pág. 24 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<img src="prop/Apost_GD_2021_00011.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -2156,7 +2156,7 @@
 
 <details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
-	<p>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pela <b>prof. Paulo Henrique Siqueira.</b></p>
+	<p>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></p>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
