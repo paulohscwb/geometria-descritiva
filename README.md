@@ -8,6 +8,7 @@
 
 <details><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
+	<p>As construções geométricas dos exercícios da pág. 1 até a pág. 10 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -1466,6 +1467,7 @@
 
 <details><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
+	<p>As construções geométricas dos exercícios da pág. 11 até a pág. 24 foram feitas pela <b>prof. Paulo Henrique Siqueira.</b></p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
 	<img src="prop/Apost_GD_2021_00011.png"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -2154,6 +2156,7 @@
 
 <details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
+	<p>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pela <b>prof. Paulo Henrique Siqueira.</b></p>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Com as posições dos pontos relativas aos dois planos de projeções, vamos estudar os sinais das coordenadas destes pontos em cada diedro.</p>
@@ -3482,6 +3485,7 @@
 	<img src="pontos-retas/39_02_00.png" class="fundo"/>
   </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 40 até a pág. 47 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
 	<img src="pontos-retas/Apost_GD_2021_00040.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -4066,6 +4070,7 @@
 
 <details><summary id="planos1">3. Planos: horizontal e frontal</summary>
 	<p>Material da página 48 até a página 65</p>
+	<p>As construções geométricas dos exercícios da pág. 48 até a pág. 53 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Os três pontos <b>A</b>, <b>B</b> e <b>C</b> distintos e não colineares definem um único plano <b>&alpha;</b>. A notação utilizada é <b>&alpha;(A,B,C)</b>.</p>
@@ -4683,6 +4688,7 @@
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 54 até a pág. 58 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></p>
 	<img src="planosHFP/Apost_GD_2021_00054.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -5219,6 +5225,7 @@
   </details>
 	<a href="vr/a53.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 59 até a pág. 74 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
 	<img src="planosHFP/Apost_GD_2021_00059.png"/>
 	<div class="combo"><a href="vr/plano_frontal.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00059a.png"/>
@@ -6300,6 +6307,7 @@
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 75 até a pág. 90 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></p>
 	<img src="planosTV/Apost_GD_2021_00075.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
   <p>Vamos começar recuperando a solução do exercício 2 da página 54.</p>
@@ -7431,6 +7439,7 @@
   </details></div>
 	<img src="planosPQ/Apost_GD_2021_00090b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 91 até a pág. 104 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="planosPQ/Apost_GD_2021_00091.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para representar o quadrado contido no Plano Paralelo à Linha de Terra vamos utilizar o Método de Mudança de Planos (MP).</p>
@@ -8152,6 +8161,7 @@
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="dtecnico">7. Desenho Técnico</summary>
 	<p>Material da página 105 até a página 177</p>
+	<p>As construções geométricas dos exercícios da pág. 105 até a pág. 143 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></p>
 	<img src="dt/Apost_DT_2021_00001.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
@@ -10096,6 +10106,7 @@
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00040.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<p>As construções geométricas dos exercícios da pág. 145 até a pág. 150 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></p>
 	<img src="dt/Apost_DT_2021_00041.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
