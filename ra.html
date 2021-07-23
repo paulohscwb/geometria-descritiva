@@ -1,0 +1,1376 @@
+<!doctype HTML>
+<html>
+<head>
+	<script src="https://aframe.io/releases/0.9.2/aframe.js"></script>
+	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
+	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
+	<script src="scripts/faceset.js"></script>
+	<script src="scripts/aframe-plot-component.min.js"></script>
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+</head>
+<body style='margin: 0; overflow: hidden;'>
+	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
+		<font face="verdana" size="5" color="DarkSlateBlue">Carregando...</font>
+	</div>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
+	   embedded arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	<a-assets>
+		<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
+		<a-mixin id="mtl0" material="opacity: 0.75; side: double; metFalness:0.3; roughness:0.9;"></a-mixin>
+		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+		<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
+		<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
+		<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
+		<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
+		<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
+		<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
+		<a-mixin id="mtl7" material="color: orange;"></a-mixin>
+		<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
+		<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
+		<a-mixin id="cone" geometry="radius-bottom:0.11; radius-top:0; height:0.3;"></a-mixin>
+		<a-mixin id="conex" material="color: red;" rotation="90 90 0"></a-mixin>
+		<a-mixin id="coney" material="color: green;" rotation="90 0 0"></a-mixin>
+		<a-mixin id="conez" material="color: blue;"></a-mixin>
+		<a-mixin id="linhas" material="color: #313131; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+		<a-mixin id="texto" text="width: 11; side:double; color: black" rotation="-25 0 0"></a-mixin>
+	  	<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
+	</a-assets>
+        
+	<a-entity camera ></a-entity>
+
+	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1;">
+	    <a-link mixin="lnk" href="vr/p1.html"></a-link>
+	    <a-entity position="3 0.5 -0.7" id="prop1" scale="0.5 0.5 0.5">
+     	<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+			
+		<a-sphere mixin="ponto" position="-3 0 2"></a-sphere>
+		<a-text position="-3.5 0.15 2" value="A'" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="3 0 -3"></a-sphere>
+		<a-text position="3.1 0.15 -3" value="B'" mixin="texto"></a-text>
+		<a-text position="0 0.2 -1" value="r'" mixin="texto"></a-text>
+
+		<a-sphere mixin="ponto" position="-4 4 1"></a-sphere>
+		<a-text position="-4.5 4 1" value="A" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="2.5 2 -3.5"></a-sphere>
+		<a-text position="2.6 2 -3.5" value="B" mixin="texto"></a-text>
+		<a-text position="0 3 -2" value="r" mixin="texto"></a-text>
+
+		<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
+
+		<a-entity line="start: -3 0 2; end: 3 0 -3; color: #6E6E6E" 
+		line__2="start: -3 0 2; end: -4 4 1; color: #6E6E6E"
+		line__3="start: 3 0 -3; end: 2.5 2 -3.5; color: #6E6E6E"
+		line__4="start: -4 4 1; end: 2.5 2 -3.5; color: #6E6E6E"
+		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
+
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+	   </a-entity>
+  	</a-marker>
+		
+	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p1a.html"></a-link>
+	   <a-entity position="-3 0.5 0.7" id="prop1a" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-sphere mixin="ponto" position="-0.5 0 2"></a-sphere>
+		<a-text position="-0.4 0.25 2" value="A'=B'=r'" mixin="texto"></a-text>
+
+		<a-sphere mixin="ponto" position="-1.5 4 1"></a-sphere>
+		<a-text position="-2 4 1" value="A" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="-1 2 1.5"></a-sphere>
+		<a-text position="-1.6 2 1.5" value="B" mixin="texto"></a-text>
+		<a-text position="-1 3 1.2" value="r" mixin="texto"></a-text>
+
+		<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
+
+		<a-entity line__2="start: -0.5 0 2; end: -1.5 4 1; color: #6E6E6E"
+		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
+	   </a-entity>
+  	</a-marker>
+		
+	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p2.html"></a-link>
+	   <a-entity position="-3 0.5 -0.7" id="prop2" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-sphere mixin="ponto" position="-3 0 2"></a-sphere>
+		<a-text position="-3.6 0.25 2" value="A'" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="0 0 -3"></a-sphere>
+		<a-text position="0.1 0.25 -3" value="B'" mixin="texto"></a-text>
+		<a-text position="-1.5 0.25 -1" value="r'" mixin="texto"></a-text>
+
+		<a-sphere mixin="ponto" position="0 0 3"></a-sphere>
+		<a-text position="0.1 0.25 3" value="C'" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="2 0 -0.36"></a-sphere>
+		<a-text position="2.1 0.25 -0.36" value="D'" mixin="texto"></a-text>
+		<a-text position="1.1 0.25 1.3" value="s'" mixin="texto"></a-text>
+
+		<a-sphere mixin="ponto" position="-4 4 1"></a-sphere>
+		<a-text position="-4.5 4 1" value="A" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="-0.5 2 -3.5"></a-sphere>
+		<a-text position="-0.4 2 -3.5" value="B" mixin="texto"></a-text>
+		<a-text position="-1.5 3 -2" value="r" mixin="texto"></a-text>
+
+		<a-sphere mixin="ponto" position="-0.75 3 2.25"></a-sphere>
+		<a-text position="-0.6 3.2 2.25" value="C" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="1.6 1.66 -0.77"></a-sphere>
+		<a-text position="1.7 1.66 -0.77" value="D" mixin="texto"></a-text>
+		<a-text position="0.6 2.3 0.7" value="s" mixin="texto"></a-text>
+
+		<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
+
+		<a-entity line="start: -3 0 2; end: 0 0 -3; color: #6E6E6E" 
+		line__2="start: -3 0 2; end: -4 4 1; color: #6E6E6E"
+		line__3="start: 0 0 -3; end: -0.5 2 -3.5; color: #6E6E6E"
+		line__4="start: -4 4 1; end: -0.5 2 -3.5; color: #6E6E6E"
+		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"
+		line__6="start: 0 0 3; end: 2 0 -0.36; color: #6E6E6E"
+		line__7="start: 0 0 3; end: -0.75 3 2.25; color: #6E6E6E"
+		line__8="start: 2 0 -0.36; end: 1.6 1.66 -0.77; color: #6E6E6E"
+		line__9="start: -0.75 3 2.25; end: 1.6 1.66 -0.77; color: #6E6E6E"></a-entity>
+	   </a-entity>
+  	</a-marker>
+		
+	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p2a.html"></a-link>
+	   <a-entity position="3 0.5 0.7" id="prop2a" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-text position="-5.16 5.11 2.67" value="s" mixin="texto"></a-text>
+		<a-text position="-4.54 3.11 3.42" value="r" mixin="texto"></a-text>
+		<a-text position="-3.52 0.25 3.98" value="r'=s'" mixin="texto"></a-text>
+
+		<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
+
+		<a-entity line="start: -5.47 4.97 3.76; end: 0.22 3.13 -5.78; color: red" 
+		line__2="start: 0.71 1.15 -5.29; end: -4.97 2.99 4.25; color: blue"
+		line__3="start: -4.22 0 5; end: 1 0 -5; color: #6E6E6E"
+		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>   
+	   </a-entity>
+  	</a-marker>
+	
+	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p_ex5c_hexagono.html"></a-link>
+	   <a-entity position="-3 0.5 0" id="p_ex5c_hexagono" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-entity position="-2 0 1">
+			<a-entity id="hexagono" faceset="vertices: -4.63 2.43 -0.44  -1.79 1.26 -0.21  0.36 2.02 -2.29  -0.34 3.94 -4.59  -3.18 5.11 -4.82  -5.33 4.35 -2.75" mixin="mtl0 mtl3"></a-entity>
+			<a-sphere mixin="ponto" position="-4.63 2.43 -0.4"></a-sphere>
+			<a-text position="-5.2 2.43 -0.4" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-1.79 1.26 -0.2"></a-sphere>
+			<a-text position="-2.3 1.26 -0.2" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.36 2.02 -2.292"></a-sphere>
+			<a-text position="0.4 2.02 -2.29" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-0.34 3.94 -4.59"></a-sphere>
+			<a-text position="-0.3 3.94 -4.59" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-3.18 5.11 -4.82"></a-sphere>
+			<a-text position="-3 5.11 -4.82" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-5.33 4.35 -2.75"></a-sphere>
+			<a-text position="-5.9 4.35 -2.75" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-2.49 3.18 -2.52"></a-sphere>
+			<a-text position="-2.29 3.18 -2.22" value="O" mixin="texto"></a-text>
+
+			<a-sphere mixin="ponto" position="-1.19 0 1.23"></a-sphere>
+			<a-text position="-1.19 0.21 1.23" value="A'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0.66"></a-sphere>
+			<a-text position="0 0.21 0.66" value="B'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.22 0 -0.9"></a-sphere>
+			<a-text position="3.22 0.21 -0.9" value="C'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.25 0 -1.88"></a-sphere>
+			<a-text position="5.25 0.21 -1.88" value="D'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4.06 0 -1.3"></a-sphere>
+			<a-text position="4.06 0.21 -1.3" value="E'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.84 0 0.25"></a-sphere>
+			<a-text position="0.84 0.21 0.25" value="F'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2.03 0 -0.32"></a-sphere>
+			<a-text position="2.03 0.21 -0.32" value="O'" mixin="texto"></a-text>
+
+			<a-text position="4.5 1.7 -4.3" value="d" mixin="texto"></a-text>
+
+			<a-entity line="start: 6.72 0 -3.14; end: 1.52 3.66 -5.67; color: #6E6E6E" 
+			line__2="start: -4.63 2.43 -0.4; end: -1.19 0 1.23; color: #6E6E6E"
+			line__3="start: -1.79 1.26 -0.2; end: 0 0 0.66; color: #6E6E6E"
+			line__5="start: 0.36 2.02 -2.292; end: 3.22 0 -0.9; color: #6E6E6E"
+			line__6="start: -0.34 3.94 -4.59; end: 5.25 0 -1.88; color: #6E6E6E"
+			line__7="start: -3.18 5.11 -4.82; end: 4.06 0 -1.3; color: #6E6E6E"
+			line__8="start: -5.33 4.35 -2.75; end: 0.84 0 0.25; color: #6E6E6E"
+			line__9="start: -2.49 3.18 -2.52; end: 2.03 0 -0.32; color: #6E6E6E"
+			line__10="start: -1.19 0 1.23; end: 5.25 0 -1.88; color: #6E6E6E"></a-entity>
+		</a-entity>
+	   </a-entity>
+	   <a-entity position="-8.5 0.12 0" id="p_ex5a_hexagono" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-entity position="-1 0 -3">
+			<a-entity id="hexagono" faceset="vertices: -1.68 2.63 2.6  1.14 1.89 1.93  3.4 3.15 3.4  2.86 5.15 5.55  0.05 5.89 6.22  -2.22 4.63 4.74" mixin="mtl0 mtl5"></a-entity>
+			<a-sphere mixin="ponto" position="-1.68 2.63 2.6"></a-sphere>
+			<a-text position="-2.28 2.63 2.6" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.14 1.89 1.93"></a-sphere>
+			<a-text position="0.64 1.69 1.93" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.4 3.15 3.4"></a-sphere>
+			<a-text position="3.4 3.15 3.4" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2.86 5.15 5.55"></a-sphere>
+			<a-text position="2.86 5.15 5.55" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.05 5.89 6.22"></a-sphere>
+			<a-text position="0.05 5.89 6.22" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-2.22 4.63 4.74"></a-sphere>
+			<a-text position="-2.72 4.63 4.74" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.59 3.89 4.07"></a-sphere>
+			<a-text position="0.59 3.59 4.07" value="O" mixin="texto"></a-text>
+
+			<a-entity id="hexagono" faceset="vertices: -1.66 0.02 2.38  1.15 0.02 1.77  3.42 0.02 3.14  2.89 0.02 5.12  0.08 0.02 5.73  -2.19 0.02 4.36" mixin="mtl0 mtl6"></a-entity>
+			<a-sphere mixin="ponto" position="-1.66 0 2.38"></a-sphere>
+			<a-text position="-1.66 0.31 2.38" value="A'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.15 0 1.77"></a-sphere>
+			<a-text position="1.15 0.31 1.77" value="B'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.42 0 3.14"></a-sphere>
+			<a-text position="3.42 0.31 3.14" value="C'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2.89 0 5.12"></a-sphere>
+			<a-text position="2.89 0.31 5.12" value="D'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.08 0 5.73"></a-sphere>
+			<a-text position="0.08 0.31 5.73" value="E'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-2.19 0 4.36"></a-sphere>
+			<a-text position="-2.19 0.31 4.36" value="F'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.61 0 3.75"></a-sphere>
+			<a-text position="0.61 0.31 3.75" value="O'" mixin="texto"></a-text>
+
+			<a-text position="5.45 6 -0.58" value="d" mixin="texto"></a-text>
+
+			<a-entity line="start: 5.41 0 -1.07; end: 5.37 6 -0.58; color: #6E6E6E" 
+			line__2="start: -1.66 0 2.38; end: -1.68 2.63 2.6; color: #6E6E6E"
+			line__3="start: 1.15 0 1.77; end: 1.14 1.89 1.93; color: #6E6E6E"
+			line__5="start: 3.42 0 3.14; end: 3.4 3.15 3.4; color: #6E6E6E"
+			line__6="start: 2.89 0 5.12; end: 2.86 5.15 5.55; color: #6E6E6E"
+			line__7="start: 0.08 0 5.73; end: 0.05 5.89 6.22; color: #6E6E6E"
+			line__8="start: -2.19 0 4.36; end: -2.22 4.63 4.74; color: #6E6E6E"
+			line__9="start: 0.61 0 3.75; end: 0.59 3.89 4.07; color: #6E6E6E"></a-entity>
+		</a-entity>
+	   </a-entity>
+  	</a-marker>
+	
+	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p_ex4c_triangulo.html"></a-link>
+	   <a-entity position="-3 0.5 0" id="p_ex4c_triangulo" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>  
+
+		<a-entity position="1 0 1">
+			<a-entity id="triangulo" faceset="vertices: -2.79 3.28 -0.77  -0.4 0.74 -1.62  -2.29 6.04 -9.1" mixin="mtl0 mtl3"></a-entity>
+			<a-sphere mixin="ponto" position="-2.79 3.28 -0.77"></a-sphere>
+			<a-text position="-2.79 3.28 -0.77" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-0.4 0.74 -1.62"></a-sphere>
+			<a-text position="-0.4 0.74 -1.62" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-2.29 6.04 -9.1"></a-sphere>
+			<a-text position="-2.29 6.04 -9.1" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-1.83 3.35 -3.83"></a-sphere>
+			<a-text position="-1.83 3.35 -3.83" value="G" mixin="texto"></a-text>
+
+			<a-sphere mixin="ponto" position="-1 0 2"></a-sphere>
+			<a-text position="-1 0.21 2" value="B'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 -1"></a-sphere>
+			<a-text position="0 0.21 -1" value="A'=G'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 0 -4"></a-sphere>
+			<a-text position="1 0.21 -4" value="C'" mixin="texto"></a-text>
+
+			<a-text position="2.5 2.4 -6" value="d" mixin="texto"></a-text>
+
+			<a-entity line="start: 3.64 0 -3.84; end: 1.02 4.81 -7.9; color: #6E6E6E" 
+			line__2="start: -1.83 3.35 -3.83; end: 0 0 -1; color: #6E6E6E"
+			line__3="start: -2.79 3.28 -0.77; end: -1 0 2; color: #6E6E6E"
+			line__5="start: -2.29 6.04 -9.1; end: 1 0 -4; color: #6E6E6E"
+			line__6="start: 1 0 -4; end: -1 0 2; color: #6E6E6E"></a-entity>
+		</a-entity>
+	   </a-entity>
+  	</a-marker>
+	
+	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/p7.html"></a-link>
+	   <a-entity position="-4 0.5 0" id="p7" scale="0.5 0.5 0.5">		
+		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+
+		<a-text position="-4.3 0.21 2" value="r'" mixin="texto"></a-text>
+		<a-text position="-4.3 3.15 2" value="r" mixin="texto"></a-text>
+		<a-text position="3 0.21 2.56" value="s'" mixin="texto"></a-text>
+		<a-text position="3 1 2.56" value="s" mixin="texto"></a-text>
+
+		<a-text position="4.6 3 1" value="d" mixin="texto"></a-text>
+
+		<a-entity line="start: -4 0 2; end: 1.62 0 -4.02; color: blue" line__6="start: -1.16 3.15 -1.04; end: -0.75 2.94 -0.65; color: green"
+		line__2="start: -4 3.15 2; end: 1.62 3.15 -4.02; color: blue" line__7="start: -0.75 2.94 -0.65; end: -0.35 2.94 -1.09; color: green"
+		line__3="start: 3.56 0 2.56; end: -3.42 0 -3.96; color: red" line__8="start: -1.16 0 -1.04; end: -0.75 0 -0.65; color: green"
+		line__5="start: 3.56 1 2.56; end: -3.42 4.47 -3.96; color: red" line__9="start: -0.75 0 -0.65; end: -0.35 0 -1.09; color: green"
+		line__4="start: 4.5 0 1; end: 4.5 5 1; color: #6E6E6E"
+		line__1="start: -0.76 3.15 -1.47; end: -0.76 0 -1.47; color: #6E6E6E"></a-entity>
+	   </a-entity>
+  	</a-marker>
+	
+	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a_mpp1.html"></a-link>
+		  <a-entity position="-4 1 -2" id="pg30mpp" scale="0.5 0.5 0.5">  
+			<a-sphere mixin="ponto" position="2 0 2"></a-sphere>
+			<a-text position="2 0.1 2" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
+			
+			<a-entity line="start: 2 0 2; end: 2 0 0; color: #6E6E6E"
+			line__6="start: 2 0 2; end: 0.75 0 3.2; color: #6E6E6E"
+			line__1="start: 2 2 2; end: 2 0 2; color: #6E6E6E"
+			line__2="start: 2 2 2; end: 2 2 0; color: #6E6E6E"></a-entity>
+
+			<a-entity position="-2.4 0 0" rotation="0 45 0" animation="property: rotation; to: 0 45 90; loop: true; dur: 10000; delay:4500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0.01 0 0; loop: true; dur: 10000; delay:3500;">
+				<a-sphere mixin="ponto" position="0 2 4.5"></a-sphere>
+				<a-text position="0.1 2 4.5" value="A''1" rotation="0 90 0" mixin="texto"></a-text>
+				<a-entity line="start: 0 2 4.5; end: 0 0 4.5; color: #6E6E6E"></a-entity>
+				<a-image src="vr/pi2.png" height="0.6" width="0.7" position="0.1 4.5 6.3"  rotation="0 90 0" mixin="imagem"></a-image>
+				<a-text position="0.05 4.3 6" value="1" rotation="0 90 0" mixin="texto"></a-text>
+				<a-entity id="planoPI3" faceset="vertices: 0 0 7  0 5 7  0 5 0  0 0 0" mixin="mtl0p mtl5"></a-entity>
+				</a-entity>
+			</a-entity>
+				
+			<a-sphere mixin="ponto" position="2 2 2"></a-sphere>
+			<a-text position="2 2 2" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 2 0"></a-sphere>
+			<a-text position="2 2 0" value="A''" mixin="texto"></a-text>
+			
+			<a-entity line__2="start: 2 2 0; end: 2 0 0; color: #6E6E6E"></a-entity>
+			<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 0  -5 0 0" mixin="mtl0p mtl2"></a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 0 0  -5 0 0" mixin="mtl0p mtl3"></a-entity>
+			<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.05 4.5" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="vr/pi2.png" height="0.6" width="0.7" position="4.4 4.5 0.1" mixin="imagem" rotation="-25 0 0"></a-image>
+		</a-entity>
+	  </a-marker>
+	 
+	  <a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a_epura2.html"></a-link>
+		    <a-entity position="-4 1 0" id="pg19epura" scale="0.5 0.5 0.5">  
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+			<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">	
+				<a-text position="4.4 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-cone position="0 0 5.15" mixin="cone coney"></a-cone>
+
+				<a-sphere mixin="ponto" position="2 0 2"></a-sphere>
+				<a-text position="2 0.1 2" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1 0 1.5"></a-sphere>
+				<a-text position="1 0.1 1.5" value="B'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4 0 -2"></a-sphere>
+				<a-text position="4 0.1 -2" value="C'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="3 0 -2.5"></a-sphere>
+				<a-text position="3 0.1 -2.5" value="D'" rotation="-90 0 0" mixin="texto"></a-text>
+				
+				<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.05 4.5" mixin="imagem" rotation="-90 0 0"></a-image>
+				<a-entity line="start: 2 0 2; end: 2 0 0; color: #6E6E6E"
+				line__6="start: 2 0 2; end: 0 0 2; color: #6E6E6E"
+				line__2="start: 1 0 1.5; end: 1 0 0; color: #6E6E6E"
+				line__7="start: 1 0 1.5; end: 0 0 1.5; color: #6E6E6E"
+				line__3="start: 4 0 -2; end: 4 0 0; color: #6E6E6E"
+				line__8="start: 4 0 -2; end: 0 0 -2; color: #6E6E6E"
+				line__5="start: 3 0 -2.5; end: 3 0 0; color: #6E6E6E"
+				line__9="start: 3 0 -2.5; end: 0 0 -2.5; color: #6E6E6E"
+				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
+			</a-entity>
+			</a-entity>
+
+			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:8500;">
+			<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: true; dur: 10000; delay:8500;">
+				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-cone position="0 0 5.15" mixin="cone coney"></a-cone>
+			
+				<a-sphere mixin="ponto" position="0 3 2"></a-sphere>
+				<a-text position="0.1 3 2" value="A'''" rotation="0 90 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 -2 1.5"></a-sphere>
+				<a-text position="0.1 -2 1.5" value="B'''" rotation="0 90 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 -1 -2"></a-sphere>
+				<a-text position="0.1 -1 -2" value="C'''" rotation="0 90 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 3.5 -2.5"></a-sphere>
+				<a-text position="0.1 3.5 -2.5" value="D'''" rotation="0 90 0" mixin="texto"></a-text>
+				
+				<a-image src="vr/pi3.png" height="0.6" width="0.8" position="0.05 4.5 4.4" mixin="imagem" rotation="0 90 0"></a-image>
+				<a-entity line="start: 0 3 2; end: 0 0 2; color: #6E6E6E"
+				line__1="start: 0 3 2; end: 0 3 0; color: #6E6E6E"
+				line__2="start: 0 -2 1.5; end: 0 0 1.5; color: #6E6E6E"
+				line__6="start: 0 -2 1.5; end: 0 -2 0; color: #6E6E6E"
+				line__3="start: 0 -1 -2; end: 0 0 -2; color: #6E6E6E"
+				line__7="start: 0 -1 -2; end: 0 -1 0; color: #6E6E6E"
+				line__5="start: 0 3.5 -2.5; end: 0 0 -2.5; color: #6E6E6E"
+				line__8="start: 0 3.5 -2.5; end: 0 3.5 0; color: #6E6E6E"
+				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
+			</a-entity>
+			</a-entity>
+				
+			<a-text position="0 4.8 0" value="z" mixin="texto"></a-text>
+			<a-cone position="0 5.15 0" mixin="cone conez"></a-cone>
+			<a-cone position="5.15 0 0" mixin="cone conex"></a-cone>
+			
+			<a-sphere mixin="ponto" position="2 3 2"></a-sphere>
+			<a-text position="2 3 2" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 3 0"></a-sphere>
+			<a-text position="2 3 0.2" value="A''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="1 -2 1.5"></a-sphere>
+			<a-text position="1 -2 1.5" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 -2 0"></a-sphere>
+			<a-text position="1 -2 0.2" value="B''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="4 -1 -2"></a-sphere>
+			<a-text position="4 -1 -2" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4 -1 0"></a-sphere>
+			<a-text position="4 -1 0.2" value="C''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="3 3.5 -2.5"></a-sphere>
+			<a-text position="3 3.5 -2.5" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3 3.5 0"></a-sphere>
+			<a-text position="3 3.5 0.2" value="D''" mixin="texto"></a-text>
+			
+			<a-image src="vr/pi2.png" height="0.6" width="0.7" position="4.4 4.5 0.1" mixin="imagem" rotation="0 0 0"></a-image>
+			<a-entity line__2="start: 2 3 0; end: 2 0 0; color: #6E6E6E"
+			line__7="start: 2 3 0; end: 0 3 0; color: #6E6E6E"
+			line__3="start: 1 -2 0; end: 1 0 0; color: #6E6E6E"
+			line__8="start: 1 -2 0; end: 0 -2 0; color: #6E6E6E"
+			line__4="start: 4 -1 0; end: 4 0 0; color: #6E6E6E"
+			line__9="start: 4 -1 0; end: 0 -1 0; color: #6E6E6E"
+			line__6="start: 3 3.5 0; end: 3 0 0; color: #6E6E6E"
+			line__10="start: 3 3.5 0; end: 0 3.5 0; color: #6E6E6E"
+			line__5="start: -5 0 0; end: 5 0 0; color: red"
+			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: false; dur: 10000; delay:8500;">	
+					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: false; dur: 10000; delay:8500;">
+					<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0p mtl5"></a-entity>
+				</a-entity>
+			</a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a_epura1.html"></a-link>
+		    <a-entity position="-4 1 -2" id="pg16epura" scale="0.5 0.5 0.5">  
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+			<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">
+				<a-text position="4.4 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-text position="0 0.1 4.5" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-cone position="0 0 5.15" mixin="cone coney"></a-cone>
+
+				<a-sphere mixin="ponto" position="2 0 1.5"></a-sphere>
+				<a-text position="2 0.1 1.5" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1 0 -1.7"></a-sphere>
+				<a-text position="1 0.1 -1.5" value="B'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="3 0 -1.5"></a-sphere>
+				<a-text position="3 0.1 -1.5" value="C'" rotation="-90 0 0" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4 0 2.2"></a-sphere>
+				<a-text position="4 0.1 2.2" value="D'" rotation="-90 0 0" mixin="texto"></a-text>
+				
+				<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.05 4.5" mixin="imagem" rotation="-25 0 0"></a-image>
+				
+				<a-entity line="start: 2 0 1.5; end: 2 0 0; color: #6E6E6E"
+				line__2="start: 1 0 -1.7; end: 1 0 0; color: #6E6E6E"
+				line__3="start: 3 0 -1.5; end: 3 0 0; color: #6E6E6E"
+				line__5="start: 4 0 2.2; end: 4 0 0; color: #6E6E6E"
+				line__4="start: 0 0 5; end: 0 0 -5; color: green"></a-entity>
+			</a-entity>
+			</a-entity>
+			
+			<a-text position="0 4.8 0" value="z" mixin="texto"></a-text>
+			<a-cone position="0 5.15 0" mixin="cone conez"></a-cone>
+			<a-cone position="5.15 0 0" mixin="cone conex"></a-cone>
+			<a-text position="-2 2.5 2.5"  rotation="-30 0 0" value="1o diedro" mixin="texto"></a-text>
+			<a-text position="-2 2.5 -2.5" rotation="-30 0 0" value="2o diedro" mixin="texto"></a-text>
+			<a-text position="-2 -2.5 -2.5" rotation="-30 0 0" value="3o diedro" mixin="texto"></a-text>
+			<a-text position="-2 -2.5 2.5" rotation="-30 0 0" value="4o diedro" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="2 3.5 1.5"></a-sphere>
+			<a-text position="2 3.5 1.5" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 3.5 0"></a-sphere>
+			<a-text position="2 3.5 0.2" value="A''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="1 2 -1.7"></a-sphere>
+			<a-text position="1 2 -1.7" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 2 0"></a-sphere>
+			<a-text position="1 2 0.2" value="B''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="3 -2.5 -1.5"></a-sphere>
+			<a-text position="3 -2.5 -1.5" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3 -2.5 0"></a-sphere>
+			<a-text position="3 -2.5 0.2" value="C''" mixin="texto"></a-text>
+			
+			<a-sphere mixin="ponto" position="4 -2.5 2.2"></a-sphere>
+			<a-text position="4 -2.7 2.2" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4 -2.5 0"></a-sphere>
+			<a-text position="4 -2.7 0.2" value="D''" mixin="texto"></a-text>
+			
+			<a-image src="vr/pi2.png" height="0.6" width="0.7" position="4.4 4.5 0.1" mixin="imagem" rotation="0 0 0"></a-image>	
+			
+			<a-entity line__2="start: 2 3.5 0; end: 2 0 0; color: #6E6E6E"
+			line__3="start: 1 2 0; end: 1 0 0; color: #6E6E6E"
+			line__4="start: 3 -2.5 0; end: 3 0 0; color: #6E6E6E"
+			line__6="start: 4 -2.5 0; end: 4 0 0; color: #6E6E6E"
+			line__5="start: -5 0 0; end: 5 0 0; color: red"
+			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
+			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">
+					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+				</a-entity>
+			</a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a44.html"></a-link>
+		    <a-entity position="-4.5 0 0" id="pg43_piramidehexagonal" scale="0.5 0.5 0.5">  
+			<a-text position="1 0 1" value="A" mixin="texto"></a-text>
+			<a-text position="-3.4 0 0" value="B" mixin="texto"></a-text>
+			<a-text position="-6.3 0 3" value="C" mixin="texto"></a-text>
+			<a-text position="-5.1 0 6.9" value="D" mixin="texto"></a-text>
+			<a-text position="-0.7 0 7.9" value="E" mixin="texto"></a-text>
+			<a-text position="2.1 0 4.9" value="F" mixin="texto"></a-text>
+			<a-text position="-1.9 5.1 4" value="V" mixin="texto"></a-text>
+			
+			<a-text position="6.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="7.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -8 0 0; end: 7 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			
+			<a-entity faceset="vertices: 1 0 1  -3 0 0  -5.9 0 3  -4.7 0 6.9  -0.7 0 7.9  2.1 0 4.9  -1.9 5 4;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity faceset="vertices: 1 0 1  -3 0 0  -5.9 0 3  -4.7 0 6.9  -0.7 0 7.9  2.1 0 4.9  -1.9 5 4;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>	
+	
+	  <a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a45.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg44_piramidequadrada" scale="0.5 0.5 0.5">	  	
+			<a-text position="0.6 0 2" value="A" mixin="texto"></a-text>
+			<a-text position="4.1 0 1" value="B" mixin="texto"></a-text>
+			<a-text position="5 0 4" value="C" mixin="texto"></a-text>
+			<a-text position="1.6 0 5" value="D" mixin="texto"></a-text>
+			<a-text position="3 5.2 3" value="V" mixin="texto"></a-text>
+			
+			<a-text position="6.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="7.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 7 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			
+			<a-entity faceset="vertices: 1 0 2  4 0 1  5 0 4  2 0 5  3 5 3; projectdir:y" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="arestas" line="start: 3 5 3; end: 1 0 2; color: #6E6E6E" line__2="start: 3 5 3; end: 4 0 1; color: #6E6E6E"
+				line__3="start: 3 5 3; end: 5 0 4; color: #6E6E6E" line__4="start: 3 5 3; end: 2 0 5; color: #6E6E6E;"
+				line__5="start: 1 0 2; end: 4 0 1; color: #6E6E6E" line__8="start: 4 0 1; end: 5 0 4; color: #6E6E6E"
+				line__6="start: 5 0 4; end: 2 0 5; color: #6E6E6E" line__7="start: 2 0 5; end: 1 0 2; color: #6E6E6E;">
+			</a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a46.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg44_piramidequadradaobliqua" scale="0.5 0.5 0.5">
+			<a-text position="2.1 1 0" value="A" mixin="texto"></a-text>
+			<a-text position="4 1 2" value="B" mixin="texto"></a-text>
+			<a-text position="2.1 1 4" value="C" mixin="texto"></a-text>
+			<a-text position="-0.4 1 2" value="D" mixin="texto"></a-text>
+			<a-text position="6 6 1" value="V" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity faceset="vertices: 2 1 0  4 1 2  2 1 4  0 1 2  6 6 1;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity faceset="vertices: 0 1 2  2 1 4  4 1 2  6 6 1;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="arestas" line="start: 6 6 1; end: 2 1 0; color: #6E6E6E" line__2="start: 6 6 1; end: 4 1 2; color: #6E6E6E"
+				line__3="start: 6 6 1; end: 2 1 4; color: #6E6E6E" line__4="start: 6 6 1; end: 0 1 2; color: #6E6E6E;"
+				line__5="start: 2 1 0; end: 4 1 2; color: #6E6E6E" line__8="start: 4 1 2; end: 2 1 4; color: #6E6E6E"
+				line__6="start: 2 1 4; end: 0 1 2; color: #6E6E6E" line__7="start: 0 1 2; end: 2 1 0; color: #6E6E6E;">
+			</a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a47.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg45_tetraedro" scale="0.5 0.5 0.5">	  
+			<a-text position="0.6 0 2" value="A" mixin="texto"></a-text>
+			<a-text position="5 0 6" value="B" mixin="texto"></a-text>
+			<a-text position="6.4 0 0.5" value="C" mixin="texto"></a-text>
+			<a-text position="4 4.7 2.8" value="D" mixin="texto"></a-text>
+			<a-text position="3.6 2 2.8" value="h" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="altura" line="start: 4 0 2.8; end: 4 4.5 2.8; color: red" line__2="start: 4 0 2.8; end: 1 0 2; color: grey"></a-entity>
+			<a-entity faceset="vertices: 1 0 2  5 0 6  6.4 0 0.5  4 4.5 2.8;" 
+				mixin="mtl0 mtl5"></a-entity>
+			<a-entity faceset="vertices: 1 0 2  5 0 6  6.4 0 0.5  4 4.5 2.8;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a48.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg45_prismaTriangular" scale="0.5 0.5 0.5">	  
+			<a-text position="0.6 1 1" value="A" mixin="texto"></a-text>
+			<a-text position="5.8 1 2.3" value="B" mixin="texto"></a-text>
+			<a-text position="2 1 5.7" value="C" mixin="texto"></a-text>
+			<a-text position="0.6 5 1" value="D" mixin="texto"></a-text>
+			<a-text position="5.8 5 2.3" value="E" mixin="texto"></a-text>
+			<a-text position="2 5 5.7" value="F" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="ABC" faceset="vertices: 1 1 1  5.8 1 2.3  2.4 1 5.7;" 
+				mixin="mtl0 mtl4"></a-entity>
+			<a-entity id="DEF" faceset="vertices: 1 5 1  5.8 5 2.3  2.4 5 5.7;" 
+				mixin="mtl0 mtl4"></a-entity>
+			<a-entity id="ABED" faceset="vertices: 1 1 1  5.8 1 2.3  5.8 5 2.3  1 5 1;" 
+				mixin="mtl0 mtl4"></a-entity>
+			<a-entity id="BCFE" faceset="vertices: 5.8 1 2.3  2.4 1 5.7  2.4 5 5.7  5.8 5 2.3;" 
+				mixin="mtl0 mtl4"></a-entity>
+			<a-entity id="ACFD" faceset="vertices: 1 1 1  2.4 1 5.7  2.4 5 5.7  1 5 1;" 
+				mixin="mtl0 mtl4"></a-entity>
+			<a-entity id="arestas" line="start: 1 1 1; end: 5.8 1 2.3; color: #6E6E6E" line__2="start: 5.8 1 2.3; end: 2.4 1 5.7; color: #6E6E6E"
+				line__3="start: 2.4 1 5.7; end: 1 1 1; color: #6E6E6E" line__4="start: 1 5 1; end: 5.8 5 2.3; color: #6E6E6E;"
+				line__5="start: 5.8 5 2.3; end: 2.4 5 5.7; color: #6E6E6E" line__8="start: 2.4 5 5.7; end: 1 5 1; color: #6E6E6E"
+				line__6="start: 1 1 1; end: 1 5 1; color: #6E6E6E" line__7="start: 5.8 1 2.3; end: 5.8 5 2.3; color: #6E6E6E;"
+				line__10="start: 2.4 1 5.7; end: 2.4 5 5.7; color: #6E6E6E">
+			</a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a49.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg46_prismaObliquo" scale="0.5 0.5 0.5">	  
+			<a-text position="0.6 0 3" value="A" mixin="texto"></a-text>
+			<a-text position="4.2 0 1" value="B" mixin="texto"></a-text>
+			<a-text position="6 0 4" value="C" mixin="texto"></a-text>
+			<a-text position="2.5 0 6" value="D" mixin="texto"></a-text>
+			<a-text position="6.5 3 2" value="E" mixin="texto"></a-text>
+			<a-text position="10.1 3 0" value="F" mixin="texto"></a-text>
+			<a-text position="11.8 3 3" value="G" mixin="texto"></a-text>
+			<a-text position="8.3 3 5" value="H" mixin="texto"></a-text>
+			
+			<a-text position="11.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="12.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -3 0 0; end: 12 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="ABCD" faceset="vertices: 1 0 3  4 0 1  5.8 0 4  2.9 0 6  1 0 3;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="EFGH" faceset="vertices: 7 3 2  10 3 0  11.8 3 3  8.9 3 5  7 3 2;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="ABFE" faceset="vertices: 1 0 3  4 0 1  10 3 0  7 3 2;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="BCGF" faceset="vertices: 4 0 1  5.8 0 4  11.8 3 3  10 3 0;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="CDHG" faceset="vertices: 5.8 0 4  2.9 0 6  8.9 3 5  11.8 3 3;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="DAEH" faceset="vertices: 2.9 0 6  1 0 3  7 3 2  8.9 3 5;" 
+				mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="arestas" line="start: 1 0 3; end: 4 0 1; color: #6E6E6E" line__2="start: 4 0 1; end: 5.8 0 4; color: #6E6E6E"
+				line__3="start: 5.8 0 4; end: 2.9 0 6; color: #6E6E6E" line__4="start: 2.9 0 6; end: 1 0 3; color: #6E6E6E;"
+				line__5="start: 7 3 2; end: 10 3 0; color: #6E6E6E" line__8="start: 10 3 0; end: 11.8 3 3; color: #6E6E6E"
+				line__6="start: 11.8 3 3; end: 8.9 3 5; color: #6E6E6E" line__7="start: 8.9 3 5; end: 7 3 2; color: #6E6E6E;"
+				line__10="start: 1 0 3; end: 7 3 2; color: #6E6E6E" line__12="start: 4 0 1; end: 10 3 0; color: #6E6E6E"
+				line__9="start: 5.8 0 4; end: 11.8 3 3; color: #6E6E6E" line__11="start: 2.9 0 6; end: 8.9 3 5; color: #6E6E6E;">
+			</a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a50.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg46_antiprisma" scale="0.5 0.5 0.5">	  
+			<a-text position="1.6 4 5" value="A" mixin="texto"></a-text>
+			<a-text position="5 4 6" value="B" mixin="texto"></a-text>
+			<a-text position="7.4 4 3.9" value="C" mixin="texto"></a-text>
+			<a-text position="6.7 4 0.8" value="D" mixin="texto"></a-text>
+			<a-text position="3.3 4 -0.2" value="E" mixin="texto"></a-text>
+			<a-text position="1 4 1.9" value="F" mixin="texto"></a-text>
+			<a-text position="3 1.3 5.9" value="G" mixin="texto"></a-text>
+			<a-text position="6.5 1.3 5.3" value="H" mixin="texto"></a-text>
+			<a-text position="7.5 1.3 2.3" value="I" mixin="texto"></a-text>
+			<a-text position="5.4 1.3 -0.1" value="J" mixin="texto"></a-text>
+			<a-text position="1.9 1.3 0.5" value="K" mixin="texto"></a-text>
+			<a-text position="0.9 1.3 3.5" value="L" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-text position="1.7 2.5 5" value="h" mixin="texto"></a-text>
+			<a-entity id="altura" line="start: 2 4 5; end: 2 1.3 5; color: red" line__2="start: 1.3 1.3 3.5; end: 2 1.3 5; color: grey"></a-entity>
+			 <a-entity faceset="vertices:2 4 5  5 4 6  7.4 4 3.9  6.7 4 0.8  3.7 4 -0.2  1.4 4 1.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity faceset="vertices:3.4 1.3 5.9  6.5 1.3 5.3  7.5 1.3 2.3  5.4 1.3 -0.1  2.3 1.3 0.5  1.3 1.3 3.5;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity faceset="vertices:3.4 1.3 5.9  6.5 1.3 5.3  5 4 6  7.4 4 3.9  6.5 1.3 5.3;" 
+				mixin="mtl0 mtl8"></a-entity>
+			<a-entity faceset="vertices:6.5 1.3 5.3  7.5 1.3 2.3  7.4 4 3.9  6.7 4 0.8  7.5 1.3 2.3;" 
+				mixin="mtl0 mtl7"></a-entity>
+			<a-entity faceset="vertices:7.5 1.3 2.3  5.4 1.3 -0.1  6.7 4 0.8  3.7 4 -0.2  5.4 1.3 -0.1;" 
+				mixin="mtl0 mtl8"></a-entity>
+			<a-entity faceset="vertices:5.4 1.3 -0.1  2.3 1.3 0.5  3.7 4 -0.2  1.4 4 1.9  2.3 1.3 0.5;" 
+				mixin="mtl0 mtl7"></a-entity>
+			<a-entity faceset="vertices:2.3 1.3 0.5  1.3 1.3 3.5  1.4 4 1.9  2 4 5  1.3 1.3 3.5;" 
+				mixin="mtl0 mtl8"></a-entity>
+			<a-entity faceset="vertices:1.3 1.3 3.5  3.4 1.3 5.9  2 4 5  5 4 6;" 
+				mixin="mtl0 mtl7"></a-entity>
+			<a-entity faceset="vertices: 3.4 1.3 5.9  6.5 1.3 5.3  5 4 6  7.4 4 3.9  6.5 1.3 5.3;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 6.5 1.3 5.3  7.5 1.3 2.3  7.4 4 3.9  6.7 4 0.8  7.5 1.3 2.3;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 7.5 1.3 2.3  5.4 1.3 -0.1  6.7 4 0.8  3.7 4 -0.2  5.4 1.3 -0.1;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 5.4 1.3 -0.1  2.3 1.3 0.5  3.7 4 -0.2  1.4 4 1.9  2.3 1.3 0.5;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 2.3 1.3 0.5  1.3 1.3 3.5  1.4 4 1.9  2 4 5  1.3 1.3 3.5;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 1.3 1.3 3.5  3.4 1.3 5.9  2 4 5  5 4 6;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a51.html"></a-link>
+		    <a-entity position="-7.5 0 0" id="pg47_octaedro2" scale="0.5 0.5 0.5">
+			<a-text position="0.6 1 4" value="A" mixin="texto"></a-text>
+			<a-text position="6 1 5" value="B" mixin="texto"></a-text>
+			<a-text position="4.5 1 0.2" value="C" mixin="texto"></a-text>
+			<a-text position="2.8 5.2 5.9" value="D" mixin="texto"></a-text>
+			<a-text position="6.6 5.2 2.1" value="E" mixin="texto"></a-text>
+			<a-text position="1.2 5.2 1.1" value="F" mixin="texto"></a-text>
+			<a-text position="2.9 3 5.9" value="h" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="altura" line="start: 1 1 4; end: 3.2 1 5.9; color: grey" line__2="start: 3.2 5.2 5.9; end: 3.2 1 5.9; color: yellow"></a-entity>
+			 <a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  4.4 1 0.2; projectdir: z"
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  3.2 5.2 5.9; projectdir: z"
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity faceset="vertices: 1 1 4  6 1 5  4.4 1 0.2;"
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity faceset="vertices: 3.2 5.2 5.9  6.6 5.2 2.1  1.6 5.2 1.1;"
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  4.4 1 0.2;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  3.2 5.2 5.9" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a52.html"></a-link>
+		    <a-entity position="-6 0 0" id="pg47_octaedro1" scale="0.5 0.5 0.5">
+			<a-text position="0.6 3 1" value="A" mixin="texto"></a-text>
+			<a-text position="5 3 0" value="B" mixin="texto"></a-text>
+			<a-text position="6 3 4" value="C" mixin="texto"></a-text>
+			<a-text position="1.6 3 5" value="D" mixin="texto"></a-text>
+			<a-text position="3.5 6.1 2.5" value="E" mixin="texto"></a-text>
+			<a-text position="3.5 -0.1 2.5" value="F" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity faceset="vertices: 1 3 1  5 3 0  6 3 4  2 3 5  3.5 5.9 2.5;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity faceset="vertices: 1 3 1  5 3 0  6 3 4  2 3 5  3.5 0.1 2.5;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity faceset="vertices: 1 3 1  5 3 0  6 3 4  2 3 5  3.5 5.9 2.5;" 
+				mixin="linhas"></a-entity>
+			<a-entity faceset="vertices: 1 3 1  5 3 0  6 3 4  2 3 5  3.5 0.1 2.5;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1;">
+		  <a-link mixin="lnk" href="vr/a53.html"></a-link>
+		    <a-entity position="-5 0 0" id="pg48_icosaedro_alturas" scale="0.5 0.5 0.5">
+	    		<a-text position="1.6 3 4" value="A" mixin="texto"></a-text>
+			<a-text position="5.1 3 2" value="B" mixin="texto"></a-text>
+			<a-text position="2.5 3 7.5" value="C" mixin="texto"></a-text>
+			<a-text position="6.5 3 7.5" value="D" mixin="texto"></a-text>
+			<a-text position="7.9 3 4.3" value="E" mixin="texto"></a-text>
+			<a-text position="6.8 6 2.6" value="F" mixin="texto"></a-text>
+			<a-text position="2.8 6 2.5" value="G" mixin="texto"></a-text>
+			<a-text position="1.4 6 5.9" value="H" mixin="texto"></a-text>
+			<a-text position="4.8 6 8.1" value="I" mixin="texto"></a-text>
+			<a-text position="7.7 6 6.3" value="J" mixin="texto"></a-text>
+			<a-text position="4.9 1.3 5" value="K" mixin="texto"></a-text>
+			<a-text position="4.9 7.8 5" value="L" mixin="texto"></a-text>
+			<a-text position="1.3 4.5 5.9" value="h1" mixin="texto"></a-text>
+			<a-text position="4.9 6.5 5" value="h2" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="h1_JE" line="start: 1.8 6 5.9; end: 1.8 3 5.9; color: red" line__2="start: 1.8 3 5.9; end: 2.9 3 7.5; color: grey"></a-entity>
+			<a-entity id="h2_LH" line="start: 4.9 7.6 5; end: 4.9 6 5; color: red" line__2="start: 4.9 6 5; end: 7.7 6 6.3; color: grey"></a-entity>
+			<a-entity id="ABCDE-K" faceset="vertices: 2 3 4  5 3 2  2.9 3 7.5  6.5 3 7.5  7.9 3 4.3  4.9 1.5 5;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="ABCDE-K" faceset="vertices: 2 3 4  5 3 2  2.9 3 7.5  6.5 3 7.5  7.9 3 4.3  4.9 1.5 5;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="ABF-AJF" faceset="vertices: 2 3 4  5 3 2  3.2 6 2.5  2 3 4  1.8 6 5.9  3.2 6 2.5; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="ABF-AJF" faceset="vertices: 2 3 4  5 3 2  3.2 6 2.5  2 3 4  1.8 6 5.9  3.2 6 2.5; projectdir:z" 
+				mixin="linhas"></a-entity>
+			<a-entity id="EAJ-EIJ" faceset="vertices: 2.9 3 7.5  2 3 4  1.8 6 5.9  2.9 3 7.5  4.7 6 8.1  1.8 6 5.9;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="EAJ-EIJ" faceset="vertices: 2.9 3 7.5  2 3 4  1.8 6 5.9  2.9 3 7.5  4.7 6 8.1  1.8 6 5.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="DEI-DHI" faceset="vertices: 6.5 3 7.5  2.9 3 7.5  4.7 6 8.1  6.5 3 7.5  7.7 6 6.3  4.7 6 8.1;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="DEI-DHI" faceset="vertices: 6.5 3 7.5  2.9 3 7.5  4.7 6 8.1  6.5 3 7.5  7.7 6 6.3  4.7 6 8.1;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="CDH-CGH" faceset="vertices: 7.9 3 4.3  6.5 3 7.5  7.7 6 6.3  7.9 3 4.3  6.8 6 2.6  7.7 6 6.3;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="CDH-CGH" faceset="vertices: 7.9 3 4.3  6.5 3 7.5  7.7 6 6.3  7.9 3 4.3  6.8 6 2.6  7.7 6 6.3;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="BCG-BFG" faceset="vertices: 5 3 2  7.9 3 4.3  6.8 6 2.6  5 3 2  3.2 6 2.5  6.8 6 2.6;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="BCG-BFG" faceset="vertices: 5 3 2  7.9 3 4.3  6.8 6 2.6  5 3 2  3.2 6 2.5  6.8 6 2.6;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ-L" faceset="vertices: 6.8 6 2.6  3.2 6 2.5  1.8 6 5.9  4.7 6 8.1  7.7 6 6.3  4.9 7.6 5;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ-L" faceset="vertices: 6.8 6 2.6  3.2 6 2.5  1.8 6 5.9  4.7 6 8.1  7.7 6 6.3  4.9 7.6 5;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	  </a-marker>
+	  
+	  <a-marker type="barcode" value="54" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a54.html"></a-link>
+		<a-entity position="1 0 0" id="exercicio_tetraedro" scale="0.5 0.5 0.5">
+			<a-text position="6.7 0.9 3.8" value="A" mixin="texto"></a-text>
+			<a-text position="1.8 0.9 5" value="B" mixin="texto"></a-text>
+			<a-text position="3.1 0.9 0.4" value="C" mixin="texto"></a-text>
+			<a-text position="4.3 3.8 3.1" value="D" mixin="texto"></a-text>
+			<a-text position="4.3 2.5 3.1" value="h" mixin="texto"></a-text>
+			
+			<a-text position="8 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-entity line__4="start: 0 0 10; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 10 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="h" line="start: 4.2 0.9 3.1; end: 6.7 0.9 3.8; color: red" 
+				line__2="start: 4.2 0.9 3.1; end: 4.2 3.8 3.1; color: red"></a-entity>
+			<a-entity id="ABC" faceset="vertices: 2.1 0.9 5  6.7 0.9 3.8  3.5 0.9 0.4  4.2 3.8 3.1;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="ABC" faceset="vertices: 2.1 0.9 5  6.7 0.9 3.8  3.5 0.9 0.4  4.2 3.8 3.1;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="55" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a55.html"></a-link>
+		<a-entity position="1 0 0" id="exercicio_prisma" scale="0.5 0.5 0.5">
+			<a-text position="7.2 0.9 0.4" value="A" mixin="texto"></a-text>
+			<a-text position="10.5 0.9 0.7" value="B" mixin="texto"></a-text>
+			<a-text position="11 0.9 3.5" value="C" mixin="texto"></a-text>
+			<a-text position="8.6 0.9 4.8" value="D" mixin="texto"></a-text>
+			<a-text position="6.1 0.9 2.9" value="E" mixin="texto"></a-text>
+			<a-text position="2.5 4.3 0.9" value="F" mixin="texto"></a-text>
+			<a-text position="5.8 4.3 1.3" value="G" mixin="texto"></a-text>
+			<a-text position="6.3 4.3 3.9" value="H" mixin="texto"></a-text>
+			<a-text position="3.6 4.3 5.3" value="I" mixin="texto"></a-text>
+			<a-text position="1.6 4.3 3.4" value="J" mixin="texto"></a-text>
+			
+			<a-text position="13 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 9" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-entity line__4="start: 0 0 10; end: 0 0 -2; color: green" 
+			line__5="start: -2 0 0; end: 14 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="ABCDE" faceset="vertices: 7.7 0.9 0.4  10.5 0.9 0.7  11 0.9 3.5  8.5 0.9 4.8  6.6 0.9 2.9;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 3 4.3 0.9  5.7 4.3 1.3  6.2 4.3 3.9  3.8 4.3 5.3  1.9 4.3 3.4;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="face1" faceset="vertices: 7.7 0.9 0.4  10.5 0.9 0.7  5.7 4.3 1.3  3 4.3 0.9; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="face2" faceset="vertices: 10.5 0.9 0.7  11 0.9 3.5  6.2 4.3 3.9  5.7 4.3 1.3; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="face3" faceset="vertices: 11 0.9 3.5  8.5 0.9 4.8  3.8 4.3 5.3  6.2 4.3 3.9; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="face3" faceset="vertices: 8.5 0.9 4.8  6.6 0.9 2.9  1.9 4.3 3.4  3.8 4.3 5.3; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="face3" faceset="vertices: 6.6 0.9 2.9  7.7 0.9 0.4  1.9 4.3 3.4  3 4.3 0.9; projectdir:z" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="h" line="start: 7.7 0.9 0.4; end: 10.5 0.9 0.7; color: black" 
+				line__2="start: 10.5 0.9 0.7; end: 11 0.9 3.5; color: black"
+				line__3="start: 11 0.9 3.5; end: 8.5 0.9 4.8; color: black"
+				line__4="start: 8.5 0.9 4.8; end: 6.6 0.9 2.9; color: black"
+				line__5="start: 6.6 0.9 2.9; end: 7.7 0.9 0.4; color: black"
+				line__6="start: 3 4.3 0.9; end: 5.7 4.3 1.3; color: black"
+				line__7="start: 5.7 4.3 1.3; end: 6.2 4.3 3.9; color: black"
+				line__8="start: 6.2 4.3 3.9; end: 3.8 4.3 5.3; color: black"
+				line__9="start: 3.8 4.3 5.3; end: 1.9 4.3 3.4; color: black"
+				line__10="start: 1.9 4.3 3.4; end: 3 4.3 0.9; color: black"
+				line__11="start: 7.7 0.9 0.4; end: 3 4.3 0.9; color: black"
+				line__12="start: 10.5 0.9 0.7; end: 5.7 4.3 1.3; color: black"
+				line__13="start: 11 0.9 3.5; end: 6.2 4.3 3.9; color: black"
+				line__14="start: 8.5 0.9 4.8; end: 3.8 4.3 5.3; color: black"
+				line__15="start: 6.6 0.9 2.9; end: 1.9 4.3 3.4; color: black"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a56.html"></a-link>
+		<a-entity position="1.5 0 0" id="exercicio_tetraedro" scale="0.5 0.5 0.5">
+			<a-text position="7 4.1 0.8" value="A" mixin="texto"></a-text>
+			<a-text position="8.6 4.1 2.8" value="B" mixin="texto"></a-text>
+			<a-text position="7.6 4.1 5.1" value="C" mixin="texto"></a-text>
+			<a-text position="5 4.1 5.5" value="D" mixin="texto"></a-text>
+			<a-text position="3 4.1 3.2" value="E" mixin="texto"></a-text>
+			<a-text position="3.9 4.1 1.1" value="F" mixin="texto"></a-text>
+			<a-text position="-1.5 0.2 0.9" value="V" mixin="texto"></a-text>
+			
+			<a-text position="9 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 9" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-entity line__4="start: 0 0 10; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 10 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="ABCDE" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  7.5 4.1 5.1  4.9 4.1 5.5  3.4 4.1 3.2  4.3 4.1 1.1 ;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 8.5 4.1 2.8  7.5 4.1 5.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 8.5 4.1 2.8  7.5 4.1 5.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 7.5 4.1 5.1  4.9 4.1 5.5  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 7.5 4.1 5.1  4.9 4.1 5.5  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 4.9 4.1 5.5  3.4 4.1 3.2  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 4.9 4.1 5.5  3.4 4.1 3.2  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 3.4 4.1 3.2  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 3.4 4.1 3.2  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	</a-marker>
+	  
+	 <a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/a2.html"></a-link>
+	   <a-entity position="3.5 0 0" id="pg50_piramide_dupla" scale="0.5 0.5 0.5">
+		<a-text position="1 3 3" value="A" mixin="texto"></a-text>
+		<a-text position="-1 0.8 3" value="B" mixin="texto"></a-text>
+		<a-text position="-4.1 1.7 3" value="C" mixin="texto"></a-text>
+		<a-text position="-4.9 4.5 3" value="D" mixin="texto"></a-text>
+		<a-text position="-2.3 6.6 3" value="E" mixin="texto"></a-text>
+		<a-text position="0.4 5.8 3" value="F" mixin="texto"></a-text>
+		<a-text position="-1.9 3.7 0.8" value="G" mixin="texto"></a-text>
+		<a-text position="-1.7 3.7 5" value="H" mixin="texto"></a-text>
+		
+		<a-text position="6.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+		<a-cone position="7.15 0 0" mixin="cone conex"></a-cone>
+		<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+		<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+		<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+		line__5="start: -5 0 0; end: 7 0 0; color: red"
+		line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+		<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+		
+		<a-entity faceset="vertices: -1.7 3.7 5  1 3 3  -1 1 3  -1.7 3.7 5  1 3 3  -3.7 1.7 3  -1.7 3.7 5  -3.7 1.7 3  -4.5 4.5 3  -1.7 3.7 5  -4.5 4.5 3  -2.3 6.4 3  -1.7 3.7 5  -2.3 6.4 3  0.4 5.8 3;" 
+			mixin="mtl0 mtl5"></a-entity>
+		<a-entity faceset="vertices: -1.7 3.7 1  1 3 3  -1 1 3  -1.7 3.7 1  1 3 3  -3.7 1.7 3  -1.7 3.7 1  -3.7 1.7 3  -4.5 4.5 3  -1.7 3.7 1  -4.5 4.5 3  -2.3 6.4 3  -1.7 3.7 1  -2.3 6.4 3  0.4 5.8 3;" 
+			mixin="mtl0 mtl5"></a-entity>
+		<a-entity faceset="vertices: -1.7 3.7 5  1 3 3  -1 1 3  -1.7 3.7 5  1 3 3  -3.7 1.7 3  -1.7 3.7 5  -3.7 1.7 3  -4.5 4.5 3  -1.7 3.7 5  -4.5 4.5 3  -2.3 6.4 3  -1.7 3.7 5  -2.3 6.4 3  0.4 5.8 3;" 
+			mixin="linhas"></a-entity>
+		<a-entity faceset="vertices: -1.7 3.7 1  1 3 3  -1 1 3  -1.7 3.7 1  1 3 3  -3.7 1.7 3  -1.7 3.7 1  -3.7 1.7 3  -4.5 4.5 3  -1.7 3.7 1  -4.5 4.5 3  -2.3 6.4 3  -1.7 3.7 1  -2.3 6.4 3  0.4 5.8 3;" 
+			mixin="linhas"></a-entity>
+	  </a-entity>
+	</a-marker>
+      	
+	<a-marker type="barcode" value="3" smooth="smooth:true; smoothCount:1;">
+	  <a-link mixin="lnk" href="vr/a3.html"></a-link>
+	  <a-entity position="1.5 0 0" id="pg51_piramide_reta" scale="0.5 0.5 0.5">
+		<a-text position="0.6 3 0" value="A" mixin="texto"></a-text>
+		<a-text position="3 0.8 0" value="B" mixin="texto"></a-text>
+		<a-text position="5.7 1.8 0" value="C" mixin="texto"></a-text>
+		<a-text position="6.5 4.5 0" value="D" mixin="texto"></a-text>
+		<a-text position="4.7 6.5 0" value="E" mixin="texto"></a-text>
+		<a-text position="1.3 5.8 0" value="F" mixin="texto"></a-text>
+		<a-text position="4 3.8 5" value="V" mixin="texto"></a-text>
+		
+		<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+		<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+		<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+		<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+		<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+		line__5="start: -1.5 0 0; end: 9 0 0; color: red"
+		line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+		<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+		
+		<a-entity faceset="vertices: 1 3 0  3 1 0  3.8 3.8 5  3 1 0  5.7 1.8 0  3.8 3.8 5  5.7 1.8 0  6.5 4.5 0  3.8 3.8 5  6.5 4.5 0  4.5 6.5 0  3.8 3.8 5  4.5 6.5 0  1.7 5.8 0  3.8 3.8 5  1 3 0;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 1 3 0  3 1 0  3.8 3.8 5  3 1 0  5.7 1.8 0  3.8 3.8 5  5.7 1.8 0  6.5 4.5 0  3.8 3.8 5  6.5 4.5 0  4.5 6.5 0  3.8 3.8 5  4.5 6.5 0  1.7 5.8 0  3.8 3.8 5  1 3 0;" 
+			mixin="linhas"></a-entity>
+	  </a-entity>
+	</a-marker>
+
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1;">
+	   <a-link mixin="lnk" href="vr/a5.html"></a-link>
+	   <a-entity position="1.5 0 0" id="pg51_prisma_pentagonal" scale="0.5 0.5 0.5">
+		<a-text position="2.2 0 1" value="A" mixin="texto"></a-text>
+		<a-text position="5 2 1" value="B" mixin="texto"></a-text>
+		<a-text position="4 5.4 1" value="C" mixin="texto"></a-text>
+		<a-text position="0.1 5.5 1" value="D" mixin="texto"></a-text>
+		<a-text position="-1.2 2 1" value="E" mixin="texto"></a-text>
+		<a-text position="2.3 0 4.5" value="F" mixin="texto"></a-text>
+		<a-text position="5 2 4.5" value="G" mixin="texto"></a-text>
+		<a-text position="4 5.4 4.5" value="H" mixin="texto"></a-text>
+		<a-text position="0.2 5.5 4.5" value="I" mixin="texto"></a-text>
+		<a-text position="-1.2 2 4.5" value="J" mixin="texto"></a-text>
+		
+		<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+		<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+		<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+		<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+		<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+		<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+		line__5="start: -1.5 0 0; end: 9 0 0; color: red"
+		line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>				
+		<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+		
+		<a-entity faceset="vertices: 2 0 1  5 2 1  4 5.5 1  0.4 5.6 1  -0.8 2.2 1;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 2 0 4.5  5 2 4.5  4 5.5 4.5  0.4 5.6 4.5  -0.8 2.2 4.5;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 2 0 4.5  5 2 4.5  5 2 1  2 0 1;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 5 2 1  4 5.5 1  4 5.5 4.5  5 2 4.5;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 4 5.5 4.5  4 5.5 1  0.4 5.6 1  0.4 5.6 4.5;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 0.4 5.6 1  0.4 5.6 4.5  -0.8 2.2 4.5  -0.8 2.2 1;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: -0.8 2.2 4.5  -0.8 2.2 1  2 0 1  2 0 4.5;" 
+			mixin="mtl0 mtl3"></a-entity>
+		<a-entity line="start: 2 0 1; end: 2 0 4.5; color: #404040" line__2="start: 2 0 1; end: 5 2 1; color: #404040;"
+			line__3="start: 2 0 1; end: 5 2 1; color: #404040" line__4="start: 5 2 1; end: 5 2 4.5; color: #404040;"
+			line__5="start: 5 2 1; end: 4 5.5 1; color: #404040" line__6="start: 4 5.5 1; end: 4 5.5 4.5; color: #404040;"
+			line__10="start: 4 5.5 1; end: 0.4 5.6 1; color: #404040" line__7="start: 0.4 5.6 1; end: 0.4 5.6 4.5; color: #404040;"
+			line__8="start: 0.4 5.6 1; end: -0.8 2.2 1; color: #404040" line__9="start: -0.8 2.2 1; end: 2 0 1; color: #404040;"
+			line__11="start: -0.8 2.2 1; end: -0.8 2.2 4.5; color: #404040" line__12="start: 2 0 4.5; end: 5 2 4.5; color: #404040;"
+			line__13="start: 5 2 4.5; end: 4 5.5 4.5; color: #404040" line__15="start: 4 5.5 4.5; end: 0.4 5.6 4.5; color: #404040;"
+			line__14="start: -0.8 2.2 4.5; end: 0.4 5.6 4.5; color: #404040" line__16="start: -0.8 2.2 4.5; end: 2 0 4.5; color: #404040;">
+		</a-entity>
+	   </a-entity>
+	</a-marker>	  
+
+	<a-marker type="barcode" value="4" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a4.html"></a-link>
+		<a-entity position="1.5 0 0" id="pg52_tetraedro" scale="0.5 0.5 0.5">
+			<a-text position="0.5 2 1" value="A" mixin="texto"></a-text>
+			<a-text position="5 6 1" value="B" mixin="texto"></a-text>
+			<a-text position="6.5 0.5 1" value="C" mixin="texto"></a-text>
+			<a-text position="4.2 2.8 5.5" value="D" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -1.5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity faceset="vertices: 1 2 1  5 6 1  6.5 0.5 1  4.2 2.8 5.5;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity faceset="vertices: 1 2 1  5 6 1  6.5 0.5 1  4.2 2.8 5.5;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+	</a-marker>
+
+	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a1.html"></a-link>
+		<a-entity position="3.5 0 0" id="pg52_cilindro" scale="0.5 0.5 0.5">
+			<a-text position="-1 3 0.8" value="O" mixin="texto"></a-text>
+			<a-text position="-1 3 5.2" value="P" mixin="texto"></a-text>
+			<a-text position="-4.4 3 1.1" value="A" mixin="texto"></a-text>
+			<a-text position="2 3 1.1" value="B" mixin="texto"></a-text>
+			<a-text position="-1 6.2 1.1" value="C" mixin="texto"></a-text>
+			<a-text position="-1 -0.2 1.1" value="D" mixin="texto"></a-text>
+			<a-text position="-4.4 3 4.9" value="E" mixin="texto"></a-text>
+			<a-text position="2 3 4.9" value="F" mixin="texto"></a-text>
+			<a-text position="-1 6.2 4.9" value="G" mixin="texto"></a-text>
+			<a-text position="-1 -0.2 4.9" value="H" mixin="texto"></a-text>
+			<a-text position="-2.5 2.8 5.2" value="r" mixin="texto"></a-text>
+			
+			<a-text position="6.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="7.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 7 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-cylinder position="-1 3 3" rotation="90 0 0" mixin="mtl0 mtl5" radius="3" height="4" segments-radial="64"></a-cylinder>
+			<a-ring radius-inner="3" radius-outer="3.001" position="-1 3 1" segments-theta="64" mixin="linhas"></a-ring>
+			<a-ring radius-inner="3" radius-outer="3.001" position="-1 3 5" segments-theta="64" mixin="linhas"></a-ring>
+			<a-entity id="arestas" line="start: -4.02 3 1; end: -4.02 3 5; color: #262626" line__2="start: 2.01 3 1; end: 2.01 3 5; color: #262626" line__3="start: -1 6.01 1; end: -1 6.01 5; color: #262626" line__4="start: -1 -0.01 1; end: -1 -0.01 5; color: #262626;"></a-entity>
+		</a-entity>
+	</a-marker>
+
+	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a0.html"></a-link>
+		<a-entity position="-6 0 0" id="pg53_cilindro_obliquo" scale="0.5 0.5 0.5">
+			<a-text position="-2 2 1" value="O" mixin="texto"></a-text>
+			<a-text position="5 4 4" value="P" mixin="texto"></a-text>
+			<a-text position="-4.5 2 1" value="A" mixin="texto"></a-text>
+			<a-text position="2.5 4 4" value="B" mixin="texto"></a-text>
+			<a-text position="0 2 1" value="C" mixin="texto"></a-text>
+			<a-text position="7 4 4" value="D" mixin="texto"></a-text>
+			<a-text position="-2 4.2 1" value="E" mixin="texto"></a-text>
+			<a-text position="5 6.2 4" value="F" mixin="texto"></a-text>
+			<a-text position="-2 -0.2 1" value="G" mixin="texto"></a-text>
+			<a-text position="5 1.8 4" value="H" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 8.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity plot="function: 2+(y-1)*2/3+sqrt(4-(x+2-(y-1)*7/3)^2); order: 200; show_zero_planes: false; show_bounding_box: false; 
+				bounds: -4 7 0 0 1 4; color: #58ACFA;">
+			</a-entity>
+			<a-entity plot="function: 2+(y-1)*2/3-sqrt(4-(x+2-(y-1)*7/3)^2); order: 200; show_zero_planes: false; show_bounding_box: false; 
+				bounds: -4 7 0 0 1 4; color: #58ACFA;">
+			</a-entity>
+			<a-circle position="-2 2 1" segments="64" mixin="mtl0 mtl6" radius="2"></a-circle>
+			<a-circle position="5 4 4" segments="64" mixin="mtl0 mtl6" radius="2"></a-circle>
+			<a-ring radius-inner="2" radius-outer="2.001" position="-2 2 1" segments-theta="64" mixin="linhas"></a-ring>
+			<a-ring radius-inner="2" radius-outer="2.001" position="5 4 4" segments-theta="64" mixin="linhas"></a-ring>
+			<a-entity line="start: -2 2 1; end: 5 4 4; color: #6E6E6E" line__2="start: -4 2 1; end: 3 4 4; color: #6E6E6E"
+				line__3="start: 0 2 1; end: 7 4 4; color: #6E6E6E" line__4="start: -2 4 1; end: 5 6 4; color: #6E6E6E;"
+				line__5="start: -2 0 1; end: 5 2 4; color: #6E6E6E;">
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="21" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/a21.html"></a-link>
+	    	 <a-entity position="-8 0 0" id="pg91_dodecaedro_alturas" scale="0.5 0.5 0.5">		  
+		  	<a-text position="6 2.5 2.5" value="A" mixin="texto"></a-text>
+			<a-text position="7.5 2.5 5.7" value="B" mixin="texto"></a-text>
+			<a-text position="4.9 2.5 8.2" value="C" mixin="texto"></a-text>
+			<a-text position="1.3 2.5 6.5" value="D" mixin="texto"></a-text>
+			<a-text position="1.9 2.5 2.9" value="E" mixin="texto"></a-text>
+			<a-text position="6.9 5.7 0.8" value="F" mixin="texto"></a-text>
+			<a-text position="9 7.6 3" value="G" mixin="texto""></a-text>
+			<a-text position="9.3 5.7 6.1" value="H" mixin="texto"></a-text>
+			<a-text position="7.8 7.6 8.8" value="I" mixin="texto"></a-text>
+			<a-text position="5.2 5.7 10.1" value="J" mixin="texto"></a-text>
+			<a-text position="1.6 7.6 9.4" value="K" mixin="texto"></a-text>
+			<a-text position="-0.4 5.7 7.2" value="L" mixin="texto"></a-text>
+			<a-text position="-0.9 7.6 4.2" value="M" mixin="texto""></a-text>
+			<a-text position="0.7 5.7 1.5" value="N" mixin="texto"></a-text>
+			<a-text position="3.5 7.6 0.3" value="P" mixin="texto"></a-text>
+			<a-text position="7.3 10.7 3.8" value="Q" mixin="texto"></a-text>
+			<a-text position="6.6 10.7 7.4" value="R" mixin="texto"></a-text>
+			<a-text position="2.5 10.7 7.8" value="S" mixin="texto"></a-text>
+			<a-text position="1 10.7 4.6" value="T" mixin="texto"></a-text>
+			<a-text position="3.5 10.7 2.1" value="U" mixin="texto"></a-text>
+			<a-text position="9.3 3.7 6.1" value="h1" mixin="texto"></a-text>
+			<a-text position="1.4 6.5 9.4" value="h2" mixin="texto"></a-text>
+			
+			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 11.5 0" value="z" mixin="texto"></a-text>
+			<a-cone position="9.15 0 0" mixin="cone conex"></a-cone>
+			<a-cone position="0 0 9.15" mixin="cone coney"></a-cone>
+			<a-cone position="0 12.15 0" mixin="cone conez"></a-cone>
+			<a-entity line__4="start: 0 0 9; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 9 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 12 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="h1_HB" line="start: 9.3 5.7 6.1; end: 9.3 2.7 6.1; color: magenta" line__2="start: 9.3 2.7 6.1; end: 7.5 2.5 5.7; color: white"></a-entity>
+			<a-entity id="h2_LM" line="start: 2 7.6 9.4; end: 2 5.7 9.4; color: magenta" line__2="start: 2 5.7 9.4; end: 0 5.7 7.2; color: white"></a-entity>
+			<a-entity id="ABCDE" faceset="vertices: 6 2.5 2.5  7.5 2.5 5.7  4.9 2.5 8.2  1.7 2.5 6.5  2.3 2.5 2.9;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="QRSTU" faceset="vertices: 7.3 10.7 3.8  6.6 10.7 7.4  2.9 10.7 7.8  1.4 10.7 4.6  4.1 10.7 2.1;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="ABHGF" faceset="vertices: 6 2.5 2.5  7.5 2.5 5.7  9.3 5.7 6.1  9 7.6 3  6.9 5.7 0.8;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="BCJIH" faceset="vertices: 7.5 2.5 5.7  4.9 2.5 8.2  5.1 5.7 10.1  7.8 7.6 8.8  9.3 5.7 6.1;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="CDLKJ" faceset="vertices: 4.9 2.5 8.2  1.7 2.5 6.5  0 5.7 7.2  2 7.6 9.4  5.1 5.7 10.1;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="DENML" faceset="vertices: 1.7 2.5 6.5  2.3 2.5 2.9  1.1 5.7 1.5  -0.4 7.6 4.2  0 5.7 7.2;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="EAFPN" faceset="vertices: 2.3 2.5 2.9  6 2.5 2.5  6.9 5.7 0.8  3.9 7.6 0.3  1.1 5.7 1.5;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="QRIHG" faceset="vertices: 7.3 10.7 3.8  6.6 10.7 7.4  7.8 7.6 8.8  9.3 5.7 6.1  9 7.6 3;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="RSKJI" faceset="vertices: 6.6 10.7 7.4  2.9 10.7 7.8  2 7.6 9.4  5.1 5.7 10.1  7.8 7.6 8.8;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="STMLK" faceset="vertices: 2.9 10.7 7.8  1.4 10.7 4.6  -0.4 7.6 4.2  0 5.7 7.2  2 7.6 9.4;" 
+				mixin="mtl0 mtl1"></a-entity>
+			<a-entity id="TUPNM" faceset="vertices: 1.4 10.7 4.6  4.1 10.7 2.1  3.9 7.6 0.3  1.1 5.7 1.5  -0.4 7.6 4.2;" 
+				mixin="mtl0 mtl2"></a-entity>
+			<a-entity id="UQGFP" faceset="vertices: 4.1 10.7 2.1  7.3 10.7 3.8  9 7.6 3  6.9 5.7 0.8  3.9 7.6 0.3;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="arestas" line="start: 6 2.5 2.5; end: 7.5 2.5 5.7; color: #6E6E6E" line__2="start: 7.5 2.5 5.7; end: 4.9 2.5 8.2; color: #6E6E6E"
+				line__3="start: 4.9 2.5 8.2; end: 1.7 2.5 6.5; color: #6E6E6E" line__4="start: 1.7 2.5 6.5; end: 2.3 2.5 2.9; color: #6E6E6E;"
+				line__5="start: 2.3 2.5 2.9; end: 6 2.5 2.5; color: #6E6E6E" line__8="start: 7.3 10.7 3.8; end: 6.6 10.7 7.4; color: #6E6E6E"
+				line__6="start: 6.6 10.7 7.4; end: 2.9 10.7 7.8; color: #6E6E6E" line__7="start: 2.9 10.7 7.8; end: 1.4 10.7 4.6; color: #6E6E6E;"
+				line__10="start: 1.4 10.7 4.6; end: 4.1 10.7 2.1; color: #6E6E6E" line__12="start: 4.1 10.7 2.1; end: 7.3 10.7 3.8; color: #6E6E6E"
+				line__13="start: 6 2.5 2.5; end: 6.9 5.7 0.8; color: #6E6E6E" line__18="start: 7.5 2.5 5.7; end: 9.3 5.7 6.1; color: #6E6E6E;"
+				line__14="start: 4.9 2.5 8.2; end: 5.1 5.7 10.1; color: #6E6E6E" line__17="start: 1.7 2.5 6.5; end: 0 5.7 7.2; color: #6E6E6E"
+				line__15="start: 2.3 2.5 2.9; end: 1.1 5.7 1.5; color: #6E6E6E" line__9="start: 7.3 10.7 3.8; end: 9 7.6 3; color: #6E6E6E"
+				line__11="start: 6.6 10.7 7.4; end: 7.8 7.6 8.8; color: #6E6E6E" line__16="start: 2.9 10.7 7.8; end: 2 7.6 9.4; color: #6E6E6E"
+				line__19="start: 1.4 10.7 4.6; end: -0.4 7.6 4.2; color: #6E6E6E" line__20="start: 4.1 10.7 2.1; end: 3.9 7.6 0.3; color: #6E6E6E"
+				line__21="start: 6.9 5.7 0.8; end: 9 7.6 3; color: #6E6E6E" line__26="start: 9 7.6 3; end: 9.3 5.7 6.1; color: #6E6E6E;"
+				line__22="start: 9.3 5.7 6.1; end: 7.8 7.6 8.8; color: #6E6E6E" line__27="start: 7.8 7.6 8.8; end: 5.1 5.7 10.1; color: #6E6E6E"
+				line__23="start: 5.1 5.7 10.1; end: 2 7.6 9.4; color: #6E6E6E" line__28="start: 2 7.6 9.4; end: 0 5.7 7.2; color: #6E6E6E"
+				line__24="start: 0 5.7 7.2; end: -0.4 7.6 4.2; color: #6E6E6E" line__29="start: -0.4 7.6 4.2; end: 1.1 5.7 1.5; color: #6E6E6E"
+				line__25="start: 1.1 5.7 1.5; end: 3.9 7.6 0.3; color: #6E6E6E" line__30="start: 3.9 7.6 0.3; end: 6.9 5.7 0.8; color: #6E6E6E">
+			</a-entity>
+			
+		</a-entity>
+	 </a-marker>
+	  
+    </a-scene>
+</body>
+</html>

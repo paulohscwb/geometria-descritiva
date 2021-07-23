@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>360° Image Browser</title>
+	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+</head>  
+<body>
+	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
+	<a-scene renderer="colorManagement: true;">
+		<a-assets>
+			<a-asset-item id="modelo1" src="objetos/casa2.glb"></a-asset-item>
+			<a-asset-item id="modelo" src="objetos/casa1.glb"></a-asset-item>
+		</a-assets>
+
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 90; initialPosition: 200 100 450"></a-entity>
+		
+		<a-entity position="-0.5 0.2 0.5" scale="0.45 0.45 0.45">
+			<a-entity gltf-model="#modelo"></a-entity>
+		</a-entity>
+		
+		<a-entity position="-0.5 0.2 0.5" scale="0.45 0.45 0.45">
+			<a-entity gltf-model="#modelo1"></a-entity>
+			<a-animation attribute="position" dur="15000" fill="forwards" to="-3 2.5 0.5" repeat="indefinite" begin="2500" direction="alternate"></a-animation>
+			<a-animation attribute="rotation" dur="14500" fill="forwards" to="0 0 35" repeat="indefinite" begin="3000" direction="alternate"></a-animation>
+		</a-entity>
+				
+        <a-light type="ambient" color="#eaeaea" intensity="0.85"></a-light>
+		<a-light type="spot" intensity="0.6" position="-4 10 3" angle="180" color="#eaeaea"></a-light>
+		<a-sky color="rgba(150,200,255)"></a-sky>
+	</a-scene>
+</body>
+</html>

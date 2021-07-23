@@ -1,0 +1,91 @@
+<html>
+  <head>
+	<title>360 Image Browser</title>
+	<meta charset="ISO-8859-1">
+	<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<script src=".././scripts/faceset.js"></script>
+</head>  
+<body>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2019 Paulo Henrique Siqueira</div>
+	<a-scene>
+		<a-assets>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
+			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
+			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
+			<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
+			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
+			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
+			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
+			<a-mixin id="linhas" material="color: #262626; wireframe: true; wireframe-linewidth:4;"></a-mixin>
+			<a-mixin id="mtl1p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
+			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+		</a-assets>
+
+		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
+		<a-entity gearvr-controls></a-entity>
+		
+		<a-entity id="pg48_icosaedro_alturas" scale="1 1 1" position="-5.5 -2 -2.5" >
+			<a-text position="7 4.1 0.8" value="A" mixin="texto"></a-text>
+			<a-text position="8.6 4.1 2.8" value="B" mixin="texto"></a-text>
+			<a-text position="7.6 4.1 5.1" value="C" mixin="texto"></a-text>
+			<a-text position="5 4.1 5.5" value="D" mixin="texto"></a-text>
+			<a-text position="3 4.1 3.2" value="E" mixin="texto"></a-text>
+			<a-text position="3.9 4.1 1.1" value="F" mixin="texto"></a-text>
+			<a-text position="-1.5 0.2 0.9" value="V" mixin="texto"></a-text>
+			
+			<a-text position="9 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 0.1 9" value="y" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
+			<a-entity line__4="start: 0 0 10; end: 0 0 -2; color: green" 
+			line__5="start: -5 0 0; end: 10 0 0; color: red"
+			line__1="start: 0 -2 0; end: 0 8 0; color: blue"></a-entity>
+			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
+			<a-text position="9 0.1 9.2" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-text position="9 7.2 0.1" value="pi''" mixin="texto"></a-text>
+			<a-entity id="planoPI" faceset="vertices: -5 0 9.8  9.8 0 9.8  9.8 0 -2  -5 0 -2" mixin="mtl0p mtl9"></a-entity>
+			<a-entity id="planoPI2" faceset="vertices: -5 7.8 0  9.8 7.8 0  9.8 -2 0  -5 -2 0" mixin="mtl0p mtl9"></a-entity>
+			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+			
+			<a-entity id="ABCDE" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  7.5 4.1 5.1  4.9 4.1 5.5  3.4 4.1 3.2  4.3 4.1 1.1 ;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 8.5 4.1 2.8  7.5 4.1 5.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 8.5 4.1 2.8  7.5 4.1 5.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 7.5 4.1 5.1  4.9 4.1 5.5  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 7.5 4.1 5.1  4.9 4.1 5.5  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 4.9 4.1 5.5  3.4 4.1 3.2  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 4.9 4.1 5.5  3.4 4.1 3.2  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 3.4 4.1 3.2  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 3.4 4.1 3.2  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="mtl0 mtl3"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
+				mixin="linhas"></a-entity>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 250 700"></a-entity>
+	  
+		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
+		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
+		<a-sky color="rgba(150,200,255)"></a-sky>
+
+	</a-scene>
+</body>
+</html>
