@@ -987,7 +987,7 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Apost_GD_2021_00005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto</span>
   <p>Neste exercício, construa o incentro e a circunferência inscrita.</p></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Apost_GD_2021_00006.png"/>
@@ -1394,7 +1394,7 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Apost_GD_2021_00009a.png"/>
-  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
+  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto</span></div>
   <img src="dg/Apost_GD_2021_00009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
@@ -1440,7 +1440,7 @@
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Apost_GD_2021_00010.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto</span></div>
   <img src="dg/Apost_GD_2021_00010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
@@ -1461,7 +1461,7 @@
     <img src="dg/10_02_00.png" class="fundo" />
   </details></div>
   <img src="dg/Apost_GD_2021_00010b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Exercício Proposto</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto</span></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
