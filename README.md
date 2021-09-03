@@ -1977,7 +1977,7 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Apost_GD_2021_00020a.png"/>
-  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
+  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00021.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
@@ -2143,7 +2143,7 @@
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/Apost_GD_2021_00023a.png"/>
-  <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00024.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -3067,7 +3067,7 @@
 	<img src="pontos-retas/32_02_00.png" class="fundo"/>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00032b.png"/>
-  <div class="combo" id="atv21"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <div class="combo" id="atv21"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.1</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00033.png"/>
 	<figcaption>No primeiro exemplo, temos que <b>P' &isin; r'</b>, mas <b>P" &notin; r"</b>. Logo, podemos concluir que <b>P &notin; r</b>.
@@ -3945,7 +3945,7 @@
 	<figcaption></figcaption>
   </details></div>
 	<img src="pontos-retas/Apost_GD_2021_00045b.png"/>
-	<div class="combo" id="atv22"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
+	<div class="combo" id="atv22"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.2</span></div>
 	<img src="pontos-retas/Apost_GD_2021_00045c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
@@ -5210,7 +5210,7 @@
     <img src="planosHFP/58_01_01.png" class="fundo"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00058a.png"/>
-  <div class="combo" id="atv31"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
+  <div class="combo" id="atv31"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
 	<img src="planosHFP/Apost_GD_2021_00058b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
@@ -5437,7 +5437,7 @@
 	<img src="planosHFP/51_02_00a.png"/>
 	<figcaption></figcaption>
   </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span>
+  &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span>
   <br><a href="vr/a5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop" id="atv32"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00062.png"/>
@@ -5787,7 +5787,7 @@
 		</ul>
 		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details>
-	 &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span>
+	 &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.1</span>
     <br>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop" id="atv41"><a href="#planos2" class="topo">voltar ao topo</a></p>
@@ -6303,7 +6303,7 @@
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png"/>
-	<div class="combo" id="atv42"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span>
+	<div class="combo" id="atv42"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.2</span>
 	<br>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png"/>
@@ -7255,7 +7255,7 @@
 	<img src="planosTV/74_00_00.png" class="fundo"/></details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00086.png"/>
-	<div class="combo" id="atv51"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span>
+	<div class="combo" id="atv51"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.1</span>
 	<br><a href="vr/a18.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00087.png"/>
@@ -7673,7 +7673,7 @@
   <a href="vr/a24.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00094.png"/>
-	<div class="combo" id="atv52"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
+	<div class="combo" id="atv52"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.2</span>
 	<br><a href="vr/a25.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00095.png"/>
@@ -8136,7 +8136,7 @@
 	<a href="vr/a28.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00102.png"/>
-	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+	<div class="combo" id="atv61"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span>
 	<br><a href="vr/a29.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00103.png"/>
@@ -9983,7 +9983,7 @@
   </details><a href="vr/p135a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00032.png"/>
-	<div class="combo" id="atv71"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.1</span>
+	<div class="combo" id="atv71"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.1</span>
 	<br><a href="vr/p135b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00032a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
@@ -10429,7 +10429,7 @@
   </details><a href="vr/p148_8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00045.png"/>
-	<div class="combo" id="atv72"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.2</span>
+	<div class="combo" id="atv72"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.2</span>
 	<br><a href="vr/p149_9.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00045a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -10573,7 +10573,7 @@
   </details><a href="vr/p164c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00061.png"/>
-	<div class="combo" id="atv73"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 7.3</span>
+	<div class="combo" id="atv73"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.3</span>
 	<br><a href="vr/p165d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="dt/Apost_DT_2021_00061a.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
