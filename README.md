@@ -1465,7 +1465,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
+<details open><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 11 até a pág. 24 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></figcaption>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
@@ -2154,7 +2154,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>	
 
-<details open><summary id="pontos">2. Pontos e Retas</summary>
+<details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
