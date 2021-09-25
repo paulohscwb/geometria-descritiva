@@ -6,7 +6,7 @@
 <!--<p> <a href="vr/APOST_GD_DT_EG2.pdf" target="_blank">CD028 - Expressão Gráfica II</a></p>-->
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details><summary id="desenho">1.1. Desenho Geométrico</summary>
+<details open><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 1 até a pág. 10 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<div class="embed-container">
@@ -2154,7 +2154,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>	
 
-<details><summary id="pontos">2. Pontos e Retas</summary>
+<details open><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
