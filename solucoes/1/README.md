@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
-<h2 id="inicio">Respostas do Módulo 1</h2> 
+<h2 id="inicio">Respostas das Atividades do Módulo 1</h2> 
   <details open><summary>Atividade 1.1</summary>
   <img src="atv11a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
