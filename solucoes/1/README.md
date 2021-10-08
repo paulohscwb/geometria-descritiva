@@ -1,21 +1,19 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1</h2> 
-  <details open><summary>Atividade 1.1 item a</summary>
+  <details open><summary>Atividade 1.1</summary>
   <img src="atv11a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
     <img style="width:80%" src="atividade1.1a_solucao.png"/>
 	<figcaption>Encontre a projeção do centro da circunferência M em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
-  </details></div></details>
-  <details open><summary>Atividade 1.1 item b</summary>
+  </details></div>
   <img src="atv11b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Você pode usar as mesmas propriedades que usamos no exercício 5 e do item anterior.</p>
     <img style="width:80%" src="atividade1.1b_solucao.png"/>
 	<figcaption>Encontre a projeção do centro da circunferência M em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
-  </details></div></details>
-  <details open><summary>Atividade 1.1 item c</summary>
+  </details></div>
   <img src="atv11c.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Você pode usar as mesmas propriedades que usamos no exercício 5 e dos itens anteriores.</p>
