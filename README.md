@@ -6,7 +6,7 @@
 <!--<p> <a href="vr/APOST_GD_DT_EG2.pdf" target="_blank">CD028 - Expressão Gráfica II</a></p>-->
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details open><summary id="desenho">1.1. Desenho Geométrico</summary>
+<details><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 1 até a pág. 10 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<div class="embed-container">
@@ -1465,7 +1465,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
+<details><summary id="propriedades">1.2. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 24.</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 11 até a pág. 24 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></figcaption>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Vamos trabalhar com as projeções de objetos e figuras em um plano chamado de <b>&pi;'</b>.</p>
