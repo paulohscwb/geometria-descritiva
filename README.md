@@ -4398,20 +4398,20 @@
         <figcaption>Construa a Circunferência de centro em <b>O'</b> e raio 20. Sobre ela estarão as primeiras projeções dos vértices do hexágono regular. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="e035nh" name="sl">
-           <label for="e035nh"></label>
+           <input type="radio" id="e035nhk" name="sl">
+           <label for="e035nhk"></label>
            <img src="planosHFP/51_02_04.png"/>
         <figcaption>Como um dos lados do hexágono regular deve ser fronto-horizontal então um dos seus diâmetros também deve ser fronto-horizontal. Assim, construa a reta <b>r</b> que contém o ponto <b>O</b> e seja fronto-horizontal. </figcaption>
        </li>
 	   <li>
-           <input type="radio" id="e035ni" name="sl">
-           <label for="e035ni"></label>
+           <input type="radio" id="e035nik" name="sl">
+           <label for="e035nik"></label>
            <img src="planosHFP/51_02_05.png"/>
         <figcaption>A interseção da Circunferência com <b>r'</b> nos dá as primeiras projeções dos vértices <b>A</b> e <b>D</b>.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="e035nj" name="sl">
-           <label for="e035nj"></label>
+           <input type="radio" id="e035njk" name="sl">
+           <label for="e035njk"></label>
            <img src="planosHFP/51_02_06.png"/>
         <figcaption>Marque no compasso o raio 20 e a partir de <b>A'</b> obtenha <b>B'</b> e <b>F'</b> sobre essa Circunferência.</figcaption>
        </li>
