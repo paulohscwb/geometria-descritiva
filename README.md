@@ -2154,7 +2154,7 @@
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>	
 
-<details open><summary id="pontos">2. Pontos e Retas</summary>
+<details><summary id="pontos">2. Pontos e Retas</summary>
 	<p>Material da página 25 até a página 47</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 25 até a pág. 39 foram feitas pelo <b>prof. Paulo Henrique Siqueira.</b></figcaption>
 	<img src="pontos-retas/Apost_GD_2021_00025.png"/>
@@ -5534,7 +5534,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos2">4. Planos: de perfil e de topo</summary>
+<details open><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 66 até a página 79</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 66 até a pág. 74 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
