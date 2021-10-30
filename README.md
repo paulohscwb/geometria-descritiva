@@ -4068,7 +4068,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos1">3. Planos: horizontal e frontal</summary>
+<details><summary id="planos1">3. Planos: horizontal e frontal</summary>
 	<p>Material da página 48 até a página 65</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 48 até a pág. 53 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00048.png"/>
