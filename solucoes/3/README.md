@@ -8,7 +8,7 @@
     <img style="width:80%" src="atv31_solucao.png"/>
 	<figcaption>Podemos construir o pentágono a partir do lado <b>A'B'</b>. O centro do pentágono <b>O'</b> pode ser encontrado com as mediatrizes dos lados <b>A'B'</b> e <b>B'C'</b>. A partir da segunda projeção <b>O''</b> podemos construir a altura <b>h</b> para cima e para baixo do plano horizontal.</figcaption>
   </details></div></details>
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2.2</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 3.2</summary>
   <img src="atividade32.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>A face <b>ABC</b> fica projetada em VG na segunda projeção, pois está contida em um plano frontal.</p>
