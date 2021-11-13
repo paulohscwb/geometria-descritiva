@@ -5534,7 +5534,7 @@
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos2">4. Planos: de perfil e de topo</summary>
+<details><summary id="planos2">4. Planos: de perfil e de topo</summary>
 	<p>Material da página 66 até a página 79</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 66 até a pág. 74 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00066.png"/>
@@ -7744,7 +7744,7 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="planos4">6. Plano qualquer</summary>
+<details open><summary id="planos4">6. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 98 até a pág. 104 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
