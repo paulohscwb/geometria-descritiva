@@ -6798,7 +6798,7 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
+<details><summary id="planos3">5. Planos: vertical e paralelo à linha de terra</summary>
 	<p>Material da página 80 até a página 97</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 80 até a pág. 88 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></figcaption>
 	<img src="planosTV/Apost_GD_2021_00080.png"/>
