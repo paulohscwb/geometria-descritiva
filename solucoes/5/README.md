@@ -37,7 +37,7 @@
            <figcaption>Construa o plano de seção <b>&gamma;&pi;'</b> e determine as interseções nas arestas do tetraedro.</figcaption>
        </li>
     </ul>
-    <img src="atv51_0.png" class="fundo" />
+    <img style="width:80%" src="atv51_0.png" class="fundo" />
   </details></div></details>
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 5.2</summary>
   <img src="atividade52.png" />
