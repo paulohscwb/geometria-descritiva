@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../scripts/style.css">
+<link rel="stylesheet" href="../../scripts/styleA.css">
 
 <h2 id="inicio">Respostas das Atividades do Módulo 5</h2> 
   <details open><summary>Atividade 5.1</summary>
