@@ -7744,7 +7744,7 @@
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos4">6. Plano qualquer</summary>
+<details><summary id="planos4">6. Plano qualquer</summary>
 	<p>Material da página 98 até a página 104</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 98 até a pág. 104 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<img src="planosPQ/Apost_GD_2021_00098.png"/>
