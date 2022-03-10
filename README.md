@@ -5647,6 +5647,62 @@
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/hISPMb-z9hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Visualização do Rebatimento de um Plano de Perfil</summary>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dnpf1" name="sl">
+        <label for="dnpf1"></label>
+        <img src="planosHFP/01.png"/>
+        <figcaption>Vamos considerar um plano αde Perfil.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dnpf2" name="sl">
+       <label for="dnpf2"></label>
+           <img src="planosHFP/02.png"/>
+        <figcaption>Consideramos agora um ponto A desse Plano de Perfil.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf3" name="sl">
+           <label for="dnpf3"></label>
+           <img src="planosHFP/03.png"/>
+        <figcaption>Podemos rebater o plano de Perfil em torno do seu primeiro traço ou em torno do seu segundo traço, considerando ainda o sentido horário ou anti-horário. Vamos rebatê-lo em torno do seu primeiro traço, no sentido horário, até que ele coincida com o Primeiro Plano de Projeção, ou seja, teremos <b>&alpha;<sub>1</sub> &equiv; &pi;'</b>. Assim, o ponto <b>A</b> no espaço descreve um arco de circunferência com centro em <b>A'</b> e raio igual a sua cota. Obtemos desta forma a nova posição do ponto <b>A</b>, denotada por <b>A<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf4" name="sl">
+           <label for="dnpf4"></label>
+           <img src="planosHFP/04.png"/>
+        <figcaption>O ponto <b>A<sub>1</sub></b> terá a sua primeira projeção <b>A'<sub>1</sub></b> coincidente com ele.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf5" name="sl">
+           <label for="dnpf5"></label>
+           <img src="planosHFP/05.png"/>
+        <figcaption>E o ponto <b>A<sub>1</sub></b> terá a sua segunda projeção <b>A''<sub>1</sub></b> sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf6" name="sl">
+           <label for="dnpf6"></label>
+           <img src="planosHFP/06.png"/>
+        <figcaption>Note que o arco está em VG na segunda projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf7" name="sl">
+           <label for="dnpf7"></label>
+           <img src="planosHFP/07.png"/>
+        <figcaption>O procedimento em Épura será o seguinte:
+		<br>1. Desenhamos um arco com centro em <b>A<sub>0</sub></b> (centro do rebatimento) e obtemos <b>A''<sub>1</sub></b> sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf8" name="sl">
+           <label for="dnpf8"></label>
+           <img src="planosHFP/08.png"/>
+        <figcaption>2. Por <b>A''<sub>1</sub></b> desenhamos uma perpendicular à Linha de Terra.
+		<br>3. Por <b>A'</b> desenhamos uma paralela à Linha de Terra.
+		<br>4. No encontro dessas duas linhas teremos <b>A'<sub>1</sub></b>.</figcaption>
+       </li>
+	</ul>
+	<img src="planosHFP/01.png" class="fundo"/>
+  </details></div>
 	<img src="planosHFP/Apost_GD_2021_00067.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - 3&ordf; projeção</summary>
   <p>Vamos utilizar a 3&ordf; projeção para construir as projeções do triângulo equilátero <b>ABC</b>.</p>
