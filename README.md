@@ -5660,7 +5660,7 @@
        <input type="radio" id="dnpf2" name="sl">
        <label for="dnpf2"></label>
            <img src="planosHFP/02.png"/>
-        <figcaption>Consideramos agora um ponto A desse Plano de Perfil.</figcaption>
+        <figcaption>Consideramos agora um ponto <b>A</b> desse Plano de Perfil.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dnpf3" name="sl">
