@@ -6283,6 +6283,42 @@
     </div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00072.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Para fazer o rebatimento do Plano de Topo sobre <b>&pi;'</b> basta considerar o eixo do rebatimento como sendo o seu primeiro traço. Assim, um ponto <b>A</b> desse plano descreve um arco de circunferência de centro no ponto <b>A<sub>0</sub></b> e raio <b>AA<sub>0</sub></b>.</p>
+  <ul class="slider">
+	  <li>
+        <input type="radio" id="dnpf9" name="sl">
+        <label for="dnpf9"></label>
+        <img src="planosTV/72_01.png"/>
+        <figcaption>Seja o plano de Topo <b>&alpha;</b> definido pelos seus traços e um ponto <b>A</b> desse plano. Vamos fazer o rebatimento do ponto <b>A</b> sobre o plano <b>&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+       <input type="radio" id="dnpf10" name="sl">
+       <label for="dnpf10"></label>
+           <img src="planosTV/72_02.png"/>
+        <figcaption>Por <b>A'</b> construa uma paralela à Linha de Terra, obtendo sobre o eixo do rebatimento a primeira projeção do ponto <b>A<sub>0</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf11" name="sl">
+           <label for="dnpf11"></label>
+           <img src="planosTV/72_03.png"/>
+        <figcaption>A segunda projeção do ponto <b>A<sub>0</sub></b> está sobre a Linha de Terra.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf12" name="sl">
+           <label for="dnpf12"></label>
+           <img src="planosTV/72_04.png"/>
+        <figcaption>Com centro em <b>A''<sub>0</sub></b> construa um arco de circunferência, no sentido horário, até encontrar a Linha de Terra em <b>A''<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="dnpf13" name="sl">
+           <label for="dnpf13"></label>
+           <img src="planosTV/72_05.png"/>
+        <figcaption>Por <b>A''<sub>1</sub></b> construa uma perpendicular à Linha de Terra, encontrando <b>A'<sub>1</sub></b> sobre a reta paralela à Linha de Terra. </figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/72_00.png" class="fundo"/>
+  </details></div>
 	<img src="planosTV/Apost_GD_2021_00072a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p></p>
