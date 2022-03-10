@@ -5647,13 +5647,14 @@
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/hISPMb-z9hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Visualização do Rebatimento de um Plano de Perfil</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Rebatimento de um Plano de Perfil</summary>
+	<p>Visualização do Rebatimento de um Plano de Perfil <b>&alpha;</b>.</p>
   <ul class="slider">
 	  <li>
         <input type="radio" id="dnpf1" name="sl">
         <label for="dnpf1"></label>
         <img src="planosHFP/01.png"/>
-        <figcaption>Vamos considerar um plano αde Perfil.</figcaption>
+        <figcaption>Vamos considerar um plano <b>&alpha;</b> de Perfil.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="dnpf2" name="sl">
