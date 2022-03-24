@@ -7492,46 +7492,52 @@
 	<figcaption>Os traços <b>&alpha;&pi;'</b> e <b>&alpha;&pi;''</b> são paralelos à linha de terra, pois são retas fronto-horizontais. O traço <b>&alpha;&pi;'''</b> é determinado pelos terceiras projeções dos pontos <b>P</b> e <b>Q</b>.</figcaption></details></div>
 	<img src="planosPQ/Apost_GD_2021_00090a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos obter o 1º e 2º traços do Plano Paralelo à Linha de Terra. O plano está determinado pelo ponto <b>A</b> e pelo seu traço em <b>&pi;'</b>.</p>
+  <p>O Plano Paralelo à Linha de Terra está determinado pelo ponto <b>A</b> e pelo traço <b>&alpha;&pi;'</b>. Vamos aplicar uma MP Vertical (MPV) e, em seguida, uma MP Horizontal (MPH).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="l001y" name="sl">
            <label for="l001y"></label>
-           <img src="planosPQ/79_01_01.png"/>
-        <figcaption>Para fazer a MPV, transformar o plano paralelo a Linha de terra em plano de topo, fazemos a 2&ordf; LT perpendicular a <b>&alpha;&pi;'</b>.</figcaption>
+           <img src="planosPQ/79_01.png"/>
+        <figcaption>Vamos efetuar uma MPV para tornar o Plano Paralelo à Linha de Terra num Plano de Toponum novo sistema. Para isso, construa a 2&ordf; Linha de Terra (2&ordf; LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2&ordf; LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="l002y" name="sl">
            <label for="l002y"></label>
-           <img src="planosPQ/79_01_02.png"/>
-        <figcaption>Traçar a perpendicular à nova LT por <b>A'</b>.</figcaption>
+           <img src="planosPQ/79_02.png"/>
+        <figcaption>Construa a Nova Linha de Chamada (LC) para o ponto <b>A</b> a partir de <b>A'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l003y" name="sl">
            <label for="l003y"></label>
-           <img src="planosPQ/79_01_03.png"/>
-         <figcaption>Fazer a MPV para o ponto <b>A</b>, transportando a cota do ponto e encontrando <b>A"<sub>1</sub></b>.</figcaption>
+           <img src="planosPQ/79_03.png"/>
+         <figcaption>Marque sobre essa Nova LC a cota do ponto <b>A</b> do Sistema Anterior obtendo o ponto <b>A"<sub>1</sub></b>. Como a marcação das barrinhas está para a direita, a cota positiva deve ser marcada para a esquerda da 2&ordf; LT.</figcaption>
        </li>
        <li>
            <input type="radio" id="l004y" name="sl">
            <label for="l004y"></label>
-           <img src="planosPQ/79_01_04.png"/>
-         <figcaption>Para fazer a MPH e transformar o plano de topo em plano horizontal, Desenhe por <b>A'</b> o traço <b>&alpha;&pi;"<sub>1</sub></b> e fazer a 3&ordf; LT paralela a esse traço.</figcaption>
+           <img src="planosPQ/79_04.png"/>
+         <figcaption>Construa o <b>&alpha;&pi;"<sub>1</sub></b> ligando os pontos <b>A"<sub>1</sub></b> e <b>S</b>. Note que nesse 2&ordm; Sistema o Primeiro Traço está perpendicular à 2&ordf; LT e o Segundo Traço está oblíquo e, portanto, nesse Segundo Sistema o Plano é de Topo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l005y" name="sl">
            <label for="l005y"></label>
-           <img src="planosPQ/79_01_05.png"/>
-         <figcaption>Fazer a Linha de chamada de <b>A"<sub>1</sub></b> em relação à 3&ordf; LT.</figcaption>
+           <img src="planosPQ/79_05.png"/>
+         <figcaption>Agora vamos efetuar uma MPH para tornar esse Plano de Topo em Horizontal. Desenhe a 3&ordf; LT paralela ao traço <b>&alpha;&pi;"<sub>1</sub></b>. Coloque a marcação das barrinhas da 3&ordf; LT para baixo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l006y" name="sl">
            <label for="l006y"></label>
-           <img src="planosPQ/79_01_06.png"/>
-         <figcaption>Transportar o afastamento do ponto <b>A</b>, relativo ao sistema anterior.</figcaption>
+           <img src="planosPQ/79_06.png"/>
+         <figcaption>Construa a Nova LC para o ponto <b>A</b> a partir de <b>A"<sub>1</sub></b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l006ya" name="sl">
+           <label for="l006ya"></label>
+           <img src="planosPQ/79_07.png"/>
+         <figcaption>Marque sobre essa Nova LC o afastamento do ponto <b>A</b> do Sistema Anterior (do Segundo Sistema) obtendo o ponto <b>A'<sub>1</sub></b>. Como a marcação das barrinhas está para baixo, o afastamento positivo deve ser marcado para baixo da 3&ordf; LT. Note que nesse 3&ordm; Sistema o Segundo Traço do Plano é paralelo à 3&ordf; LT e, portanto, nesse sistema o Plano é Horizontal.</figcaption>
        </li>
     </ul>
-	<img src="planosPQ/79_01_00.png" class="fundo"/>
+	<img src="planosPQ/79_00.png" class="fundo"/>
   </details></div>
 	<img src="planosPQ/Apost_GD_2021_00090b.png"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
