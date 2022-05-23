@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
 </head>  
@@ -19,7 +19,7 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: #262626; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
@@ -27,17 +27,20 @@
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
-		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
-		<a-entity gearvr-controls></a-entity>
-
 		<a-entity scale="1 1 1" position="-4 -3 -3">
 			<a-entity id="altura" line="start: 1 1 4; end: 3.2 1 5.9; color: grey" line__2="start: 3.2 5.2 5.9; end: 3.2 1 5.9; color: yellow"></a-entity>
 			<a-text position="0.6 1 4" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 1 4"></a-sphere>
 			<a-text position="6 1 5" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6 1 5"></a-sphere>
 			<a-text position="4.5 1 0.2" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4.4 1 0.2"></a-sphere>
 			<a-text position="2.8 5.2 5.9" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.2 5.2 5.9"></a-sphere>
 			<a-text position="6.6 5.2 2.1" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.6 5.2 2.1"></a-sphere>
 			<a-text position="1.2 5.2 1.1" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.6 5.2 1.1"></a-sphere>
 			<a-text position="2.9 3 5.9" value="h" mixin="texto"></a-text>
 			
 			<a-text position="9.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
@@ -73,8 +76,9 @@
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
 	  
-		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
-		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
