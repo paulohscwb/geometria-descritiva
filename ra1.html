@@ -18,8 +18,8 @@
 	   embedded arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	<a-assets>
 		<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
-		<a-mixin id="mtl0" material="opacity: 0.75; side: double; metFalness:0.3; roughness:0.9;"></a-mixin>
-		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+		<a-mixin id="mtl0" material="opacity: 0.75; side: double; metFalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 		<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 		<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
@@ -30,9 +30,9 @@
 		<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
 		<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 		<a-mixin id="cone" geometry="radius-bottom:0.11; radius-top:0; height:0.3;"></a-mixin>
-		<a-mixin id="conex" material="color: red;" rotation="90 90 0"></a-mixin>
-		<a-mixin id="coney" material="color: green;" rotation="90 0 0"></a-mixin>
-		<a-mixin id="conez" material="color: blue;"></a-mixin>
+		<a-mixin id="conex" material="color: red; metalness:0.4; roughness:0.5;" rotation="90 90 0"></a-mixin>
+		<a-mixin id="coney" material="color: green; metalness:0.4; roughness:0.5;" rotation="90 0 0"></a-mixin>
+		<a-mixin id="conez" material="color: blue; metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="linhas" material="color: #313131; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 		<a-mixin id="texto" text="width: 11; side:double; color: black" rotation="-25 0 0"></a-mixin>
 	  	<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
@@ -40,6 +40,10 @@
 	</a-assets>
         
 	<a-entity camera></a-entity>
+	
+	<a-light type="ambient" color="white" intensity="0.8"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1" light="castShadow:true"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1" light="castShadow:true"></a-light>
 
 	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/a6.html"></a-link>
