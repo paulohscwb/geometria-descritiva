@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
 </head>  
@@ -11,7 +11,7 @@
 	<a-scene>
 		<a-assets>
 			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;"></a-mixin>
-			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
@@ -19,39 +19,56 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
 		</a-assets>
-
-		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
-		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="1 1 1" position="-4.5 -6.5 -5.2">
 	  		<a-entity>
 				<a-text position="6 2.5 2.5" value="A" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="6 2.5 2.5"></a-sphere>
 				<a-text position="7.5 2.5 5.7" value="B" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="7.5 2.5 5.7"></a-sphere>
 				<a-text position="4.9 2.5 8.2" value="C" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4.9 2.5 8.2"></a-sphere>
 				<a-text position="1.3 2.5 6.5" value="D" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.7 2.5 6.5"></a-sphere>
 				<a-text position="1.9 2.5 2.9" value="E" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="2.3 2.5 2.9"></a-sphere>
 				<a-text position="6.9 5.7 0.8" value="F" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="6.9 5.7 0.8"></a-sphere>
 				<a-text position="9 7.6 3" value="G" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="9 7.6 3"></a-sphere>
 				<a-text position="9.3 5.7 6.1" value="H" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="9.3 5.7 6.1"></a-sphere>
 				<a-text position="7.8 7.6 8.8" value="I" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="7.8 7.6 8.8"></a-sphere>
 				<a-text position="5.2 5.7 10.1" value="J" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="5.1 5.7 10.1"></a-sphere>
 				<a-text position="1.6 7.6 9.4" value="K" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="2 7.6 9.4"></a-sphere>
 				<a-text position="-0.4 5.7 7.2" value="L" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 5.7 7.2"></a-sphere>
 				<a-text position="-0.9 7.6 4.2" value="M" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="-0.4 7.6 4.2"></a-sphere>
 				<a-text position="0.7 5.7 1.5" value="N" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.1 5.7 1.5"></a-sphere>
 				<a-text position="3.5 7.6 0.3" value="P" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="3.9 7.6 0.3"></a-sphere>
 				<a-text position="7.3 10.7 3.8" value="Q" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="7.3 10.7 3.8"></a-sphere>
 				<a-text position="6.6 10.7 7.4" value="R" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="6.6 10.7 7.4"></a-sphere>
 				<a-text position="2.5 10.7 7.8" value="S" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="2.9 10.7 7.8"></a-sphere>
 				<a-text position="1 10.7 4.6" value="T" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.4 10.7 4.6"></a-sphere>
 				<a-text position="3.5 10.7 2.1" value="U" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4.1 10.7 2.1"></a-sphere>
 				<a-text position="9.3 3.7 6.1" value="h1" mixin="texto"></a-text>
 				<a-text position="1.4 6.5 9.4" value="h2" mixin="texto"></a-text>
 				<a-entity id="h1_HB" line="start: 9.3 5.7 6.1; end: 9.3 2.5 6.1; color: magenta" line__2="start: 9.3 2.5 6.1; end: 7.5 2.5 5.7; color: #6E6E6E"></a-entity>
@@ -72,7 +89,7 @@
 				<a-entity id="planoPI" faceset="vertices: -5 0 9.8  9.8 0 9.8  9.8 0 -2  -5 0 -2" mixin="mtl0p mtl9"></a-entity>
 				<a-entity id="planoPI2" faceset="vertices: -5 11.8 0  9.8 11.8 0  9.8 -2 0  -5 -2 0" mixin="mtl0p mtl9"></a-entity>
 				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
-				
+
 				<a-entity id="ABCDE" faceset="vertices: 6 2.5 2.5  7.5 2.5 5.7  4.9 2.5 8.2  1.7 2.5 6.5  2.3 2.5 2.9;" 
 					mixin="mtl0 mtl1"></a-entity>
 				<a-entity id="QRSTU" faceset="vertices: 7.3 10.7 3.8  6.6 10.7 7.4  2.9 10.7 7.8  1.4 10.7 4.6  4.1 10.7 2.1;" 
@@ -119,8 +136,9 @@
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
 	  
-		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
-		<a-light type="spot" intensity="1.2" position="0 10 3" angle="180" color="#eaeaea"></a-light>
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1" light="castShadow:true"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1" light="castShadow:true"></a-light>
 		<a-sky color="rgb(150,200,255)"></a-sky>
 
 	</a-scene>
