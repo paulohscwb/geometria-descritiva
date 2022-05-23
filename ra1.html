@@ -18,8 +18,8 @@
 	   embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	<a-assets>
 		<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
-		<a-mixin id="mtl0" material="opacity: 0.75; side: double; metFalness:0.4; roughness:0.5;"></a-mixin>
-		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="mtl0" material="opacity: 0.75; side: double; metFalness:0.5; roughness:0.6;"></a-mixin>
+		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
 		<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 		<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 		<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
@@ -824,16 +824,26 @@
 	  <a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1;">
 		  <a-link mixin="lnk" href="vr/a31.html"></a-link>
 		  <a-entity position="2 0 0" id="pg88_prismapentagonal" scale="0.5 0.5 0.5">		
-	  		<a-text position="3.3 4.7 1.6" value="A" mixin="texto"></a-text>
-			<a-text position="3.7 2.3 3" value="B" mixin="texto"></a-text>
+	  		<a-text position="3.4 4.7 1.6" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.3 4.7 1.6"></a-sphere>
+			<a-text position="3.8 2.3 3" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.7 2.3 3"></a-sphere>
 			<a-text position="1.4 2.2 5.15" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.9 2.2 5.15"></a-sphere>
 			<a-text position="-0.1 4.6 5.05" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="0.4 4.6 5.05"></a-sphere>
 			<a-text position="0.75 6.1 2.9" value="E" mixin="texto"></a-text>
-			<a-text position="5.2 6 3.2" value="F" mixin="texto"></a-text>
-			<a-text position="5.6 3.6 4.6" value="G" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.25 6.1 2.9"></a-sphere>
+			<a-text position="5.3 6 3.2" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.2 6 3.2"></a-sphere>
+			<a-text position="5.7 3.6 4.6" value="G" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.6 3.6 4.6"></a-sphere>
 			<a-text position="3.3 3.5 6.8" value="H" mixin="texto"></a-text>
-			<a-text position="1.8 5.9 6.7" value="I" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.8 3.5 6.8"></a-sphere>
+			<a-text position="1.9 5.9 6.7" value="I" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2.3 5.9 6.7"></a-sphere>
 			<a-text position="2.65 7.4 4.5" value="J" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.15 7.4 4.5"></a-sphere>
 			
 			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
