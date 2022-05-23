@@ -21,7 +21,7 @@
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
-			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="linhas" material="color: #6f7075; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
@@ -60,7 +60,17 @@
 				<a-cylinder  mixin="mtl0 mtl5" radius="1.6" height="2.2"></a-cylinder>
 				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 -1.1 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 1.1 0" segments-theta="64" mixin="linhas"></a-ring>
-				<a-entity line="start: 0 -1.12 0; end: 0 1.12 0; color: #262626" line__1="start: -1.61 -1.12 0; end: -1.61 1.12 0; color: #262626" line__2="start: 1.61 -1.12 0; end: 1.61 1.12 0; color: #262626" line__3="start: 0 -1.12 -1.61; end: 0 1.12 -1.61; color: #262626" line__4="start: 0 -1.12 1.61; end: 0 1.12 1.61; color: #262626">
+				<a-entity line="start: 0 -1.12 0; end: 0 1.12 0; color: #6f7075" line__1="start: -1.61 -1.12 0; end: -1.61 1.12 0; color: #6f7075" line__2="start: 1.61 -1.12 0; end: 1.61 1.12 0; color: #6f7075" line__3="start: 0 -1.12 -1.61; end: 0 1.12 -1.61; color: #6f7075" line__4="start: 0 -1.12 1.61; end: 0 1.12 1.61; color: #6f7075">
+				<a-sphere mixin="ponto" position="0 -1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="0 1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="-1.61 -1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="-1.61 1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="1.61 -1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="1.61 1.12 0"></a-sphere>
+				<a-sphere mixin="ponto" position="0 1.12 -1.61"></a-sphere>
+				<a-sphere mixin="ponto" position="0 -1.12 1.61"></a-sphere>
+				<a-sphere mixin="ponto" position="0 1.12 1.61"></a-sphere>
+				<a-sphere mixin="ponto" position="0 -1.12 -1.61"></a-sphere>
 			</a-entity>
 			</a-entity>
 			
