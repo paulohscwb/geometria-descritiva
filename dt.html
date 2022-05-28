@@ -13,7 +13,10 @@
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
 	   embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
 	<a-assets>
-		<a-asset-item id="modelo1" src="./vr/objetos/escada.glb"></a-asset-item>
+		<a-asset-item id="modelo1" src="vr/objetos/escada.glb"></a-asset-item>
+		<a-asset-item id="modelo2" src="vr/objetos/ponte.glb"></a-asset-item>
+		<a-asset-item id="modelo3" src="vr/objetos/p121a.obj"></a-asset-item>
+		<a-asset-item id="modelo3m" src="vr/objetos/p121a.mtl"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
         
@@ -24,8 +27,23 @@
 
 	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p138_escada.html"></a-link>
-		<a-entity position="0 0 0" scale="0.5 0.5 0.5">
+		<a-entity position="1 1 1" scale="1 1 1">
 			<a-entity gltf-model="#modelo1"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p138_ponte.html"></a-link>
+		<a-entity position="1 1 1" scale="1 1 1">
+			<a-entity gltf-model="#modelo2"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker preset="kanji" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p121a.html"></a-link>
+		<a-entity position="1 1 1" scale="1 1 1">
+			<a-entity obj-model="#modelo2"></a-entity>
+			<a-obj-model src="#modelo2" mtl="#modelo2m"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	  
