@@ -1,4 +1,4 @@
-mtllib C:/Users/paulo/Downloads/p121a.mtl
+mtllib p121a.mtl
 s 1
 o Pipe1
 g 
@@ -756,7 +756,7 @@ f 208//154 202//156 204//154
 f 202//156 208//154 205//156 
 o Pipe33
 g 
-usemtl Color_H02
+usemtl Color_A06
 v 22.44 21.49 -1.8
 v -23.1 11.24 -1.8
 v -23.1 21.49 -1.8
