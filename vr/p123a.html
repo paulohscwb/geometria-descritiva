@@ -20,7 +20,7 @@
 
 		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 360; initialPosition: 70 175 450"></a-entity>
 		
-		<a-entity position="-0.5 0.5 0.5" scale="0.05 0.05 0.05" rotation="-90 -90 0">
+		<a-entity position="-0.5 0.5 0.5" rotation="-90 0 0">
 			  <a-obj-model src="#modelo" mtl="#modelom"></a-obj-model>
 		</a-entity>
 		
@@ -31,13 +31,9 @@
 		<a-text value="Lateral Direita" rotation="0 270 0" position="-2.5 2 -1.25" mixin="texto"></a-text>
 		<a-text value="Posterior" rotation="0 180 0" position="-1 2 -1.5" mixin="texto"></a-text>
 		<a-text value="Inferior" rotation="90 0 0" position="-2.25 -1.5 2" mixin="texto"></a-text>
-		
-		<a-entity position="-0.5 0.5 0.5">
-			<a-entity  collada-model="#modelo"></a-entity>
-		</a-entity>
-				
-        <a-light type="ambient" color="#eaeaea" intensity="1.1"></a-light>
-		<a-light type="spot" intensity="1.1" position="0 10 0" angle="180" color="#eaeaea"></a-light>
+						
+        <a-light type="ambient" color="#eaeaea" intensity="1.2"></a-light>
+		<a-light type="spot" intensity="1.2" position="0 10 0" angle="180" color="#eaeaea"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 	</a-scene>
 </body>
