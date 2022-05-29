@@ -19,12 +19,12 @@
 			<a-entity gltf-model="#modelo"></a-entity>
 		</a-entity>
 		
-		<a-entity position="-0.5 0.2 0.5" scale="0.45 0.45 0.45" animation="property: position; to: -3 2.5 0.5; loop: true; dur: 15000; dir: alternate; delay: 2500;" animation__2="property: rotation; to: 0 0 35; loop: true; dur: 15000; dir: alternate; delay: 2500;">
+		<a-entity position="-0.5 0.2 0.5" scale="0.45 0.45 0.45" animation="property: position; to: -3 2.5 0.5; loop: true; dur: 15000; dir: alternate; delay: 2500; easing: linear;" animation__2="property: rotation; to: 0 0 35; loop: true; dur: 15000; dir: alternate; delay: 2500; easing: linear;">
 			<a-entity gltf-model="#modelo1"></a-entity>
 		</a-entity>
 				
-        <a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
-		<a-light type="spot" intensity="1" position="2 3 2" angle="180" color="#eaeaea"></a-light>
+        <a-light type="ambient" color="#eaeaea" intensity="0.6"></a-light>
+		<a-light type="spot" intensity="0.7" position="2 3 2" angle="180" color="#eaeaea"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 	</a-scene>
 </body>
