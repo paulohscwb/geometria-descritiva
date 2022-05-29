@@ -34,7 +34,7 @@
 		<a-asset-item id="modelo11" src="vr/objetos/p129b.obj"></a-asset-item>
 		<a-asset-item id="modelo11m" src="vr/objetos/p129b.mtl"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
-		<a-mixin id="texto" text="width: 6; color: black">
+		<a-mixin id="texto" text="width: 6; color: black; side: double;">
 	</a-assets>
         
 	<a-entity camera></a-entity>
@@ -58,7 +58,7 @@
 	
 	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p121a.html"></a-link>
-		<a-entity position="3 2 2" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+		<a-entity position="-3 3 -3" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
 			<a-text value="Lateral Direita" rotation="0 90 0" position="1.5 2 0.75" mixin="texto"></a-text>
 			<a-text value="Frontal" rotation="0 0 0" position="-2 2 2.5" mixin="texto"></a-text>
 			<a-text value="Superior" rotation="270 0 0" position="-2 2.5 -1" mixin="texto"></a-text>
