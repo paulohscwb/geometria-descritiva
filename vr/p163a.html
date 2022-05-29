@@ -13,24 +13,24 @@
 			<a-mixin id="mtl1" material="color: grey;"></a-mixin>
 			<a-mixin id="texto" text="width: 6; color: black">
 			<a-mixin id="linhas" material="color: #6E6E6E; wireframe: true;"></a-mixin>
-			<a-asset-item id="modelo" src="objetos/p163a1.dae"></a-asset-item>
-			<a-asset-item id="modelo1" src="objetos/p163a2.dae"></a-asset-item>
+			<a-asset-item id="modelo" src="objetos/p163a1.obj"></a-asset-item>
+			<a-asset-item id="modelom" src="objetos/p163a1.mtl"></a-asset-item>
+			<a-asset-item id="modelo1" src="objetos/p163a2.obj"></a-asset-item>
+			<a-asset-item id="modelo1m" src="objetos/p163a2.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 360; initialPosition: 200 100 450"></a-entity>
 		
-		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="0 60 0">
-			<a-entity collada-model="#modelo"></a-entity>
-			<a-animation attribute="position" dur="10000" fill="forwards" to="3.5 0.5 0.5" repeat="indefinite" begin="1000" direction="alternate"></a-animation>
+		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="0 60 0" animation="property: position; to: 3.5 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+			<a-obj-model src="#modelo" mtl="#modelom"></a-obj-model>
 		</a-entity>
 		
 		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="0 60 0">
-			<a-entity collada-model="#modelo1">
-			</a-entity>
+			<a-obj-model src="#modelo1" mtl="#modelo1m"></a-obj-model>
 		</a-entity>
 				
 		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
-		<a-light type="spot" intensity="0.6" position="-4 10 3" angle="180" color="#eaeaea"></a-light>
+		<a-light type="spot" intensity="1" position="2 3 2" angle="180" color="#eaeaea"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 	</a-scene>
 </body>
