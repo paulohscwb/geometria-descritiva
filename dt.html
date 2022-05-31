@@ -80,12 +80,6 @@
 		<a-asset-item id="modelo34m" src="vr/objetos/p156.mtl"></a-asset-item>
 		<a-asset-item id="modelo35" src="vr/objetos/p157.obj"></a-asset-item>
 		<a-asset-item id="modelo35m" src="vr/objetos/p157.mtl"></a-asset-item>
-		<a-asset-item id="modelo36" src="vr/objetos/p158.obj"></a-asset-item>
-		<a-asset-item id="modelo36m" src="vr/objetos/p158.mtl"></a-asset-item>
-		<a-asset-item id="modelo37" src="vr/objetos/p163a1.obj"></a-asset-item>
-		<a-asset-item id="modelo37m" src="vr/objetos/p163a1.mtl"></a-asset-item>
-		<a-asset-item id="modelo37a" src="vr/objetos/p163a2.obj"></a-asset-item>
-		<a-asset-item id="modelo37am" src="vr/objetos/p163a2.mtl"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-mixin id="texto" rotation="-90 0 0" text="width: 6; color: black;"></a-mixin>
 	</a-assets>
@@ -343,20 +337,19 @@
 	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p158.html"></a-link>
 		<a-entity position="-3 2 -2.5" scale="0.034 0.034 0.034" rotation="-90 -15 0">
-			<a-obj-model src="#modelo36" mtl="#modelo36m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p158.obj" mtl="vr/objetos/p158.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
 	<!--<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p163a.html"></a-link>
 		<a-entity position="-3 2 -2.5" animation="property: position; to: 1 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
-			<a-obj-model scale="0.06 0.06 0.06" rotation="-90 60 0" src="#modelo37" mtl="#modelo37m"></a-obj-model>
+			<a-obj-model scale="0.06 0.06 0.06" rotation="-90 60 0" src="vr/objetos/p163a1.obj" mtl="vr/objetos/p163a1.mtl"></a-obj-model>
 		</a-entity>
 		<a-entity position="-3 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
-			<a-obj-model src="#modelo37a" mtl="#modelo37am"></a-obj-model>
+			<a-obj-model src="vr/objetos/p163a2.obj" mtl="vr/objetos/p163a2.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>-->
-	
 	
     </a-scene>
 </body>
