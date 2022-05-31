@@ -21,11 +21,8 @@
 
 		<a-entity camera="fov:1; near:5;" orbit-controls="target: -0.5 0.5 0.5; maxPolarAngle: 360; initialPosition: 200 100 450"></a-entity>
 		
-		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="-90 60 0" animation="property: position; to: 3.5 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
-			<a-obj-model src="#modelo" mtl="#modelom"></a-obj-model>
-		</a-entity>
-		
 		<a-entity position="-0.5 0.5 0.5" scale="0.08 0.08 0.08" rotation="-90 60 0">
+			<a-obj-model src="#modelo" mtl="#modelom" animation="property: position; to: 3.5 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;"></a-obj-model>
 			<a-obj-model src="#modelo1" mtl="#modelo1m"></a-obj-model>
 		</a-entity>
 				
