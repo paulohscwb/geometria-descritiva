@@ -14,16 +14,6 @@
 	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
 	<a-assets>
 		<a-asset-item id="modelo1" src="vr/objetos/escada.glb"></a-asset-item>
-		<a-asset-item id="modelo14" src="vr/objetos/p130d.obj"></a-asset-item>
-		<a-asset-item id="modelo14m" src="vr/objetos/p130d.mtl"></a-asset-item>
-		<a-asset-item id="modelo15" src="vr/objetos/p131e.obj"></a-asset-item>
-		<a-asset-item id="modelo15m" src="vr/objetos/p131e.mtl"></a-asset-item>
-		<a-asset-item id="modelo16" src="vr/objetos/p131b.obj"></a-asset-item>
-		<a-asset-item id="modelo16m" src="vr/objetos/p131b.mtl"></a-asset-item>
-		<a-asset-item id="modelo17" src="vr/objetos/p131c.obj"></a-asset-item>
-		<a-asset-item id="modelo17m" src="vr/objetos/p131c.mtl"></a-asset-item>
-		<a-asset-item id="modelo18" src="vr/objetos/p132d.obj"></a-asset-item>
-		<a-asset-item id="modelo18m" src="vr/objetos/p132d.mtl"></a-asset-item>
 		<a-asset-item id="modelo19" src="vr/objetos/p135d.obj"></a-asset-item>
 		<a-asset-item id="modelo19m" src="vr/objetos/p135d.mtl"></a-asset-item>
 		<a-asset-item id="modelo20" src="vr/objetos/p135a.obj"></a-asset-item>
@@ -161,35 +151,35 @@
 	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p130d.html"></a-link>
 		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
-			<a-obj-model src="#modelo14" mtl="#modelo14m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p130d.obj" mtl="vr/objetos/p130d.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
 	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p131e.html"></a-link>
 		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
-			<a-obj-model src="#modelo15" mtl="#modelo15m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p131e.obj" mtl="vr/objetos/p131e.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
 	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p131b.html"></a-link>
 		<a-entity position="-2.5 2 -1.5" scale="0.4 0.4 0.4" rotation="-90 0 0">
-			<a-obj-model src="#modelo16" mtl="#modelo16m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p131b.obj" mtl="vr/objetos/p131b.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
 	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p131c.html"></a-link>
 		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
-			<a-obj-model src="#modelo17" mtl="#modelo17m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p131c.obj" mtl="vr/objetos/p131c.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
 	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p132d.html"></a-link>
 		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
-			<a-obj-model src="#modelo18" mtl="#modelo18m"></a-obj-model>
+			<a-obj-model src="vr/objetos/p132d.obj" mtl="vr/objetos/p132d.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
@@ -321,11 +311,21 @@
 	
 	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p163a.html"></a-link>
-		<a-entity position="-3 2 -2.5" animation="property: position; to: -1 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+		<a-entity position="-3 2 -2.5" animation="property: position; to: -1 1 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
 			<a-obj-model scale="0.06 0.06 0.06" rotation="-90 60 0" src="vr/objetos/p163a1.obj" mtl="vr/objetos/p163a1.mtl"></a-obj-model>
 		</a-entity>
 		<a-entity position="-3 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
 			<a-obj-model src="vr/objetos/p163a2.obj" mtl="vr/objetos/p163a2.mtl"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p164b.html"></a-link>
+		<a-entity position="-3 2 -2.5" animation="property: position; to: -1 1 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+			<a-obj-model scale="0.053 0.053 0.053" rotation="-90 60 0" src="vr/objetos/p164b1.obj" mtl="vr/objetos/p164b1.mtl"></a-obj-model>
+		</a-entity>
+		<a-entity position="-3 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
+			<a-obj-model src="vr/objetos/p164b2.obj" mtl="vr/objetos/p164b2.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
