@@ -82,6 +82,10 @@
 		<a-asset-item id="modelo35m" src="vr/objetos/p157.mtl"></a-asset-item>
 		<a-asset-item id="modelo36" src="vr/objetos/p158.obj"></a-asset-item>
 		<a-asset-item id="modelo36m" src="vr/objetos/p158.mtl"></a-asset-item>
+		<a-asset-item id="modelo37" src="vr/objetos/p163a1.obj"></a-asset-item>
+		<a-asset-item id="modelo37m" src="vr/objetos/p163a1.mtl"></a-asset-item>
+		<a-asset-item id="modelo37a" src="vr/objetos/p163a2.obj"></a-asset-item>
+		<a-asset-item id="modelo37am" src="vr/objetos/p163a2.mtl"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-mixin id="texto" rotation="-90 0 0" text="width: 6; color: black;"></a-mixin>
 	</a-assets>
@@ -345,13 +349,13 @@
 	
 	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" href="vr/p163a.html"></a-link>
-		<a-entity position="-2.5 2 -2" scale="0.06 0.06 0.06" rotation="-90 60 0">
-			<a-obj-model src="#modelo37" mtl="#modelo37m" animation="property: position; to: 3.5 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;"></a-obj-model>
+		<a-entity position="-2.5 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0" animation="property: position; to: 1.5 0.5 0.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+			<a-obj-model src="#modelo37" mtl="#modelo37m"></a-obj-model>
+		</a-entity>
+		<a-entity position="-2.5 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
 			<a-obj-model src="#modelo37a" mtl="#modelo37am"></a-obj-model>
 		</a-entity>
 	</a-marker>
-	
-	
 	
 	
     </a-scene>
