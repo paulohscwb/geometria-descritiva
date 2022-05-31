@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="scripts/style.css">
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Geometria Descritiva I</p>
-<p>A apostila está disponível no link:</p>
-<p> <a href="vr/Apost_GD_2021.pdf" target="_blank">CD020, CD014, CEG005 - Geometria Descritiva e Expressão Gráfica II</a></p>
-<!--<p> <a href="vr/APOST_GD_DT_EG2.pdf" target="_blank">CD028 - Expressão Gráfica II</a></p>-->
+<p>As apostilas estão disponíveis nos links:</p>
+<p> <a href="vr/Apost_GD_2021.pdf" target="_blank">CD020, CEG005 - Geometria Descritiva e Expressão Gráfica II</a></p>
+<p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>-->
 <p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1.1. Desenho Geométrico</summary>
@@ -8300,7 +8300,8 @@
 	<img src="dt/Apost_DT_2021_00016.png"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00017.png"/>
-	<div class="combo"><a href="vr/p121a.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><a href="vr/p121a.html" target="_blank" class="visu">Visualização em 3D</a>
+	<p align="center">Realidade Aumentada: <a href="https://paulohscwb.github.io/geometria-descritiva/dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/5Wc-2B0BpYc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -8402,7 +8403,8 @@
        </li>
     </ul>
 	<img src="dt/24_01_01.png" class="fundo"/>
-  </details></div>
+  </details>
+  <p align="center">Realidade Aumentada: <a href="https://paulohscwb.github.io/geometria-descritiva/dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00025.png"/>
 	<div class="combo"><a href="vr/p129a.html" target="_blank" class="visu">Visualização em 3D</a></div>
