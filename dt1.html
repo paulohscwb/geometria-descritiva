@@ -1,0 +1,662 @@
+<!doctype HTML>
+<html>
+<head>
+	<script src="https://aframe.io/releases/0.9.2/aframe.js"></script>
+	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+</head>
+<body style='margin: 0; overflow: hidden;'>
+	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
+		<font face="verdana" size="5" color="DarkSlateBlue">Carregando...</font>
+	</div>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
+	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+	<a-assets>
+		<a-asset-item id="modelo1" src="vr/objetos/escada.glb"></a-asset-item>
+		<a-asset-item id="modelo3" src="vr/objetos/p121a.obj"></a-asset-item>
+		<a-asset-item id="modelo3m" src="vr/objetos/p121a.mtl"></a-asset-item>
+		<a-asset-item id="modelo4" src="vr/objetos/p128a.obj"></a-asset-item>
+		<a-asset-item id="modelo4m" src="vr/objetos/p128a.mtl"></a-asset-item>
+		<a-asset-item id="modelo5" src="vr/objetos/p128b.obj"></a-asset-item>
+		<a-asset-item id="modelo5m" src="vr/objetos/p128b.mtl"></a-asset-item>
+		<a-asset-item id="modelo6" src="vr/objetos/p128c.obj"></a-asset-item>
+		<a-asset-item id="modelo6m" src="vr/objetos/p128c.mtl"></a-asset-item>
+		<a-asset-item id="modelo7" src="vr/objetos/p128d.obj"></a-asset-item>
+		<a-asset-item id="modelo7m" src="vr/objetos/p128d.mtl"></a-asset-item>
+		<a-asset-item id="modelo8" src="vr/objetos/p128e.obj"></a-asset-item>
+		<a-asset-item id="modelo8m" src="vr/objetos/p128e.mtl"></a-asset-item>
+		<a-asset-item id="modelo9" src="vr/objetos/p128f.obj"></a-asset-item>
+		<a-asset-item id="modelo9m" src="vr/objetos/p128f.mtl"></a-asset-item>
+		<a-asset-item id="modelo10" src="vr/objetos/p129a.obj"></a-asset-item>
+		<a-asset-item id="modelo10m" src="vr/objetos/p129a.mtl"></a-asset-item>
+		<a-asset-item id="modelo11" src="vr/objetos/p129b.obj"></a-asset-item>
+		<a-asset-item id="modelo11m" src="vr/objetos/p129b.mtl"></a-asset-item>
+		<a-asset-item id="modelo12" src="vr/objetos/p129c.obj"></a-asset-item>
+		<a-asset-item id="modelo12m" src="vr/objetos/p129c.mtl"></a-asset-item>
+		<a-asset-item id="modelo13" src="vr/objetos/p129d.obj"></a-asset-item>
+		<a-asset-item id="modelo13m" src="vr/objetos/p129d.mtl"></a-asset-item>
+		<a-asset-item id="modelo14" src="vr/objetos/p130d.obj"></a-asset-item>
+		<a-asset-item id="modelo14m" src="vr/objetos/p130d.mtl"></a-asset-item>
+		<a-asset-item id="modelo15" src="vr/objetos/p131e.obj"></a-asset-item>
+		<a-asset-item id="modelo15m" src="vr/objetos/p131e.mtl"></a-asset-item>
+		<a-asset-item id="modelo16" src="vr/objetos/p131b.obj"></a-asset-item>
+		<a-asset-item id="modelo16m" src="vr/objetos/p131b.mtl"></a-asset-item>
+		<a-asset-item id="modelo17" src="vr/objetos/p131c.obj"></a-asset-item>
+		<a-asset-item id="modelo17m" src="vr/objetos/p131c.mtl"></a-asset-item>
+		<a-asset-item id="modelo18" src="vr/objetos/p132d.obj"></a-asset-item>
+		<a-asset-item id="modelo18m" src="vr/objetos/p132d.mtl"></a-asset-item>
+		<a-asset-item id="modelo19" src="vr/objetos/p135d.obj"></a-asset-item>
+		<a-asset-item id="modelo19m" src="vr/objetos/p135d.mtl"></a-asset-item>
+		<a-asset-item id="modelo20" src="vr/objetos/p135a.obj"></a-asset-item>
+		<a-asset-item id="modelo20m" src="vr/objetos/p135a.mtl"></a-asset-item>
+		<a-asset-item id="modelo21" src="vr/objetos/p135b.obj"></a-asset-item>
+		<a-asset-item id="modelo21m" src="vr/objetos/p135b.mtl"></a-asset-item>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
+		<a-mixin id="texto" rotation="-90 0 0" text="width: 6; color: black;"></a-mixin>
+	</a-assets>
+        
+	<a-entity camera></a-entity>
+	
+	<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
+	<a-light type="spot" intensity="1" position="2 3 2" angle="180" color="#eaeaea"></a-light>
+
+	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p138_escada.html"></a-link>
+		<a-entity position="3 2 -2" scale="0.7 0.7 0.7" rotation="0 -90 0">
+			<a-entity gltf-model="#modelo1"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p121a.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="0.05 0.05 0.05" rotation="-90 -90 0">
+				<a-obj-model src="#modelo3" mtl="#modelo3m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
+		<a-link position="-0.5 0.1 -0.5" link="title: item a;" mixin="lnk" href="vr/p128a.html"></a-link>
+		<a-link position="0.5 0.1 0.5" link="title: item b;" mixin="lnk" href="vr/p128b.html"></a-link>
+		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1 1 1" rotation="-90 0 0">
+				<a-obj-model src="#modelo4" mtl="#modelo4m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">		
+			<a-entity scale="1 1 1" rotation="-90 0 0">
+				<a-obj-model src="#modelo5" mtl="#modelo5m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1;">
+		<a-link position="-0.5 0.1 -0.5" mixin="lnk" link="title: item c;" href="vr/p128c.html"></a-link>
+		<a-link position="0.5 0.1 0.5" mixin="lnk" link="title: item d;" href="vr/p128d.html"></a-link>
+		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1 1 1" rotation="-90 0 0">
+				<a-obj-model src="#modelo6" mtl="#modelo6m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1 1 1" rotation="-90 0 0">
+				<a-obj-model src="#modelo7" mtl="#modelo7m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="3" smooth="smooth:true; smoothCount:1;">
+		<a-link position="-0.5 0.1 -0.5" mixin="lnk" link="title: item e;" href="vr/p128e.html"></a-link>
+		<a-link position="0.5 0.1 0.5" mixin="lnk" link="title: item f;" href="vr/p128f.html"></a-link>
+		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1 1 1" rotation="-90 90 0">
+				<a-obj-model src="#modelo8" mtl="#modelo8m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1 1 1" rotation="-90 0 0">
+				<a-obj-model src="#modelo9" mtl="#modelo9m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="4" smooth="smooth:true; smoothCount:1;">
+		<a-link position="-0.5 0.1 -0.5" mixin="lnk" link="title: item a;" href="vr/p129a.html"></a-link>
+		<a-link position="0.5 0.1 0.5" mixin="lnk" link="title: item b;" href="vr/p129b.html"></a-link>
+		<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="0.07 0.07 0.07" rotation="-90 90 0">
+				<a-obj-model src="#modelo10" mtl="#modelo10m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+		<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
+				<a-obj-model src="#modelo11" mtl="#modelo11m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1;">
+		<a-link position="-0.5 0.1 -0.5" mixin="lnk" link="title: item c;" href="vr/p129c.html"></a-link>
+		<a-link position="0.5 0.1 0.5" mixin="lnk" link="title: item d;" href="vr/p129d.html"></a-link>
+		<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="0.09 0.09 0.09" rotation="-90 0 0">
+				<a-obj-model src="#modelo12" mtl="#modelo12m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+		<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+			<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
+				<a-obj-model src="#modelo13" mtl="#modelo13m"></a-obj-model>
+			</a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p130d.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
+			<a-obj-model src="#modelo14" mtl="#modelo14m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p131e.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
+			<a-obj-model src="#modelo15" mtl="#modelo15m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p131b.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.4 0.4 0.4" rotation="-90 0 0">
+			<a-obj-model src="#modelo16" mtl="#modelo16m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p131c.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
+			<a-obj-model src="#modelo17" mtl="#modelo17m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p132d.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
+			<a-obj-model src="#modelo18" mtl="#modelo18m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="11" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p135d.html"></a-link>
+		<a-entity position="-2.5 2 -1.5" scale="0.31 0.31 0.31" rotation="-90 0 0">
+			<a-obj-model src="#modelo19" mtl="#modelo19m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="12" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p135a.html"></a-link>
+		<a-entity position="2.5 2 -1.5" scale="0.17 0.17 0.17" rotation="-90 0 0">
+			<a-obj-model src="#modelo20" mtl="#modelo20m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="13" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p135b.html"></a-link>
+		<a-entity position="2.5 2 -1.5" scale="0.6 0.6 0.6" rotation="-90 0 0">
+			<a-obj-model src="#modelo21" mtl="#modelo21m"></a-obj-model>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="133" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="133" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="132" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="132" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="131" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="131" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="130" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="130" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="129" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="129" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="128" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="128" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="127" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="127" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="126" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="126" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="125" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="125" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="124" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="124" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="123" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="123" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="122" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="122" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="121" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="121" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="120" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="120" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="119" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="119" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="118" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="118" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="117" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="117" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="116" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="116" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="115" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="115" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="114" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="114" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="113" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="113" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="112" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="112" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="111" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="111" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="110" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="103" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="110" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="103" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="109" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="109" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="108" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="108" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="107" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="107" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="106" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="106" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="105" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="105" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="104" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="104" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="103" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="103" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="102" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="102" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="101" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="101" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="100" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="100" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="99" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="99" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="98" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="98" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="97" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="97" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="96" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="96" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="95" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="95" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="94" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="94" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="93" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="93" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="92" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="92" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="91" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="91" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="90" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="90" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="89" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="89" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="88" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="88" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="87" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="87" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="86" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="86" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="85" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="85" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="84" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="84" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="83" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="83" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="82" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="82" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="81" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="81" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="80" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="80" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="79" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="79" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="78" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="78" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="77" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="77" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="76" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="76" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="75" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="75" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="74" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="74" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="73" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="73" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="72" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="72" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="71" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="71" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="70" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="70" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="69" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="69" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="68" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="68" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="67" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="67" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="66" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="66" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="65" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="65" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="64" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="64" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="63" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="62" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="61" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="60" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="60" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="59" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="58" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="57" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="56" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="55" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="55" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="54" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="54" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="53" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="52" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="51" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="50" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="49" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="48" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="47" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="46" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="45" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="44" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="43" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="42" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="41" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="40" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="39" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="38" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="37" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="36" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="35" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="35" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="34" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="33" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="33" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="32" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="31" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="30" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="30" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="29" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="29" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="28" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="28" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="27" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="27" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="26" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="26" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="25" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="25" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="24" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="24" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="23" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="23" mixin="texto"></a-text>
+	</a-marker><a-marker type="barcode" value="22" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="22" mixin="texto"></a-text>
+	</a-marker>
+	<a-marker type="barcode" value="21" smooth="smooth:true; smoothCount:1;">
+		<a-link mixin="lnk" href="vr/p129b.html"></a-link>
+		<a-text position="0 1 0" value="21" mixin="texto"></a-text>
+	</a-marker>
+	
+    </a-scene>
+</body>
+</html>
