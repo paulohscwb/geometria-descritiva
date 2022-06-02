@@ -13,7 +13,6 @@
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
 	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
 	<a-assets>
-		<a-asset-item id="modelo1" src="vr/objetos/escada.glb"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-mixin id="texto" rotation="-90 0 0" text="width: 6; color: black;"></a-mixin>
 	</a-assets>
@@ -26,7 +25,7 @@
 	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1;">
 		<a-link mixin="lnk" class="lnk" href="vr/p138_escada.html"></a-link>
 		<a-entity position="3 2 -2" scale="0.7 0.7 0.7" rotation="0 -90 0">
-			<a-entity gltf-model="#modelo1"></a-entity>
+			<a-entity gltf-model="vr/objetos/escada.glb"></a-entity>
 		</a-entity>
 	</a-marker>
 	
