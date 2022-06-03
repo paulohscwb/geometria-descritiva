@@ -4,7 +4,6 @@
 	<meta charset="ISO-8859-1">
 	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
   </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -120,16 +119,16 @@
 			line__10="start: 3 3.5 0; end: 0 3.5 0; color: #6E6E6E"
 			line__5="start: -5 0 0; end: 5.2 0 0; color: red"
 			line__1="start: 0 -5 0; end: 0 5.2 0; color: blue"></a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0 mtl3"></a-entity>
+			<a-plane id="planoPI2" scale="10 10 1" mixin="mtl0p mtl3"></a-plane>
 			<a-image src="pi2.png" height="0.6" width="0.7" position="4.4 4.5 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 			<a-entity animation="property: rotation; to: 90 0 0; loop: false; dur: 10000; delay:8500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0 0.02 0; loop: false; dur: 10000; delay:8500;">	
-					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0 mtl2"></a-entity>
+					<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 				</a-entity>
 			</a-entity>
 			<a-entity animation="property: rotation; to: 0 -90 0; loop: false; dur: 10000; delay:8500;">
 				<a-entity animation="property: position; from: 0 0 0; to: -0.02 0 0; loop: false; dur: 10000; delay:8500;">
-					<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0 mtl5"></a-entity>
+					<a-plane id="planoPI3" scale="10 10 1" rotation="0 -90 0" mixin="mtl0p mtl5"></a-plane>
 				</a-entity>
 			</a-entity>
 		</a-entity>

@@ -7,7 +7,7 @@
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
 	<script src="scripts/faceset.js"></script>
 	<script src="scripts/aframe-plot-component.min.js"></script>
-	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
@@ -73,7 +73,7 @@
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
 
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -94,7 +94,7 @@
 		<a-entity line__2="start: -0.5 0 2; end: -1.5 4 1; color: #6E6E6E"
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -137,7 +137,7 @@
 		line__8="start: 2 0 -0.36; end: 1.6 1.66 -0.77; color: #6E6E6E"
 		line__9="start: -0.75 3 2.25; end: 1.6 1.66 -0.77; color: #6E6E6E"></a-entity>
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -155,7 +155,7 @@
 		line__3="start: -4.22 0 5; end: 1 0 -5; color: #6E6E6E"
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>   
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 	
@@ -208,7 +208,7 @@
 		</a-entity>
 		
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>		
 		
@@ -260,7 +260,7 @@
 			<a-entity id="hexagono" faceset="vertices: -4.63 2.43 -0.44  -1.79 1.26 -0.21  0.36 2.02 -2.29  -0.34 3.94 -4.59  -3.18 5.11 -4.82  -5.33 4.35 -2.75" mixin="mtl0 mtl3"></a-entity>
 		</a-entity>
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 	
@@ -294,7 +294,7 @@
 			<a-entity id="triangulo" faceset="vertices: -2.79 3.28 -0.77  -0.4 0.74 -1.62  -2.29 6.04 -9.1" mixin="mtl0 mtl3"></a-entity>
 		</a-entity>
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image> 
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 	
@@ -315,7 +315,7 @@
 		line__4="start: 4.5 0 1; end: 4.5 5 1; color: #6E6E6E"
 		line__1="start: -0.76 3.15 -1.47; end: -0.76 0 -1.47; color: #6E6E6E"></a-entity>
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 	
@@ -447,15 +447,15 @@
 			line__10="start: 3 3.5 0; end: 0 3.5 0; color: #6E6E6E"
 			line__5="start: -5 0 0; end: 5 0 0; color: red"
 			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
+			<a-plane id="planoPI2" scale="10 10 1" mixin="mtl0p mtl3"></a-plane>
 			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: false; dur: 10000; delay:8500;">	
-					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+					<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 				</a-entity>
 			</a-entity>
 			<a-entity animation="property: rotation; to: 0 -90 0; loop: true; dur: 10000; delay:8500;">
 				<a-entity animation="property: position; from: 0 0 0; to: -0.01 0 0; loop: false; dur: 10000; delay:8500;">
-					<a-entity id="planoPI3" faceset="vertices: 0 -5 5  0 5 5  0 5 -5  0 -5 -5" mixin="mtl0p mtl5"></a-entity>
+					<a-plane id="planoPI" scale="10 10 1" rotation="0 -90 0" mixin="mtl0p mtl5"></a-plane>
 				</a-entity>
 			</a-entity>
 		</a-entity>
@@ -527,10 +527,10 @@
 			line__1="start: 0 -5 0; end: 0 5 0; color: blue"></a-entity>
 			<a-entity animation="property: rotation; to: 90 0 0; loop: true; dur: 10000; delay:8500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0 0.01 0; loop: true; dur: 10000; delay:8500;">
-					<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0p mtl2"></a-entity>
+					<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 				</a-entity>
 			</a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -5 5 0  5 5 0  5 -5 0  -5 -5 0" mixin="mtl0p mtl3"></a-entity>
+			<a-plane id="planoPI2" scale="10 10 1" mixin="mtl0p mtl3"></a-plane>
 		</a-entity>
 	  </a-marker>
 	  
