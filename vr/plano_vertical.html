@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
 </head>  
@@ -64,8 +64,7 @@
 				<a-text position="0 4.55 3.04" value="B'''" rotation="-25 90 0" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 2.48 1.06"></a-sphere>
 				<a-text position="0 2.48 1" value="C'''" rotation="-25 90 0" mixin="texto"></a-text>
-				<a-entity faceset="vertices: 6 6 -1  -1.14 6 6  -1.14 -1 6  6 -1 -1;" 
-					mixin="mtl0 mtl5"></a-entity>
+				<a-entity faceset="vertices: 6 6 -1  -1.14 6 6  -1.14 -1 6  6 -1 -1;" mixin="mtl0p mtl5"></a-entity>
 				<a-entity id="arestas" 
 					line="start: 0.92 1.29 3.98; end: 1.77 4.55 3.14; color: red;" 		
 					line__2="start: 1.77 4.55 3.14; end: 3.9 2.48 1.06; color: red;"
@@ -117,9 +116,9 @@
 			<a-image src="alfa.png" height="0.35" width="0.35" position="4.5 0.2 0.7" mixin="imagem" rotation="-25 45 0"></a-image>
 			<a-image src="pi1.png" height="0.4" width="0.4" position="4.8 0.2 0.4" mixin="imagem" rotation="-25 45 0"></a-image>
 			
-			<a-entity id="planoPI3" faceset="vertices: 0 6 -1  0 6 6  0 -1 6  0 -1 -1" mixin="mtl0p mtl9"></a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -1 6 0  6 6 0  6 -1 0  -1 -1 0" mixin="mtl0p mtl9"></a-entity>
-			<a-entity id="planoPI" faceset="vertices: -1 0 6  6 0 6  6 0 -1  -1 0 -1" mixin="mtl0p mtl9"></a-entity>
+			<a-plane id="planoPI2" scale="7 7 1" position="2.5 2.5 0" mixin="mtl0p mtl9"></a-plane>
+			<a-plane id="planoPI1" scale="7 7 1" rotation="-90 0 0" position="2.5 0 2.5" mixin="mtl0p mtl9"></a-plane>
+			<a-plane id="planoPI3" scale="7 7 1" rotation="0 -90 0" position="0 2.5 2.5" mixin="mtl0p mtl9"></a-plane>
 
 		</a-entity>
 		

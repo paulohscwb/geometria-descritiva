@@ -2,9 +2,8 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
 </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -86,8 +85,7 @@
 				<a-text position="0.1 0.2 1" value="B'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 0 4"></a-sphere>
 				<a-text position="0.1 0.2 4" value="C'" mixin="texto"></a-text>
-				<a-entity faceset="vertices: 0 -1 6  0 6 6  0 6 -1  0 -1 -1;" 
-					mixin="mtl0 mtl8"></a-entity>
+				<a-plane id="alfa" scale="7 7 1" rotation="0 -90 0" position="0 2.5 2.5" mixin="mtl0p mtl5"></a-plane>
 				<a-entity id="arestas" line="start: 0 1 2; end: 0 4.5 1; color: deeppink;" 			
 					line__2="start: 0 4.5 1; end: 0 3.5 4; color: deeppink;"
 					line__3="start: 0 3.5 4; end: 0 1 2; color: deeppink;" 
@@ -107,9 +105,9 @@
 			<a-image src="alfa.png" height="0.35" width="0.35" position="3.3 0.2 5.7" mixin="imagem" rotation="-25 0 0"></a-image>
 			<a-image src="pi1.png" height="0.4" width="0.4" position="3.7 0.2 5.7" mixin="imagem" rotation="-25 0 0"></a-image>
 			
-			<a-entity id="planoPI3" faceset="vertices: 0 6 -1  0 6 6  0 -1 6  0 -1 -1" mixin="mtl0p mtl9"></a-entity>
-			<a-entity id="planoPI2" faceset="vertices: -1 6 0  6 6 0  6 -1 0  -1 -1 0" mixin="mtl0p mtl9"></a-entity>
-			<a-entity id="planoPI" faceset="vertices: -1 0 6  6 0 6  6 0 -1  -1 0 -1" mixin="mtl0p mtl9"></a-entity>
+			<a-plane id="planoPI2" scale="7 7 1" position="2.5 2.5 0" mixin="mtl0p mtl9"></a-plane>
+			<a-plane id="planoPI1" scale="7 7 1" rotation="-90 0 0" position="2.5 0 2.5" mixin="mtl0p mtl9"></a-plane>
+			<a-plane id="planoPI3" scale="7 7 1" rotation="0 -90 0" position="0 2.5 2.5" mixin="mtl0p mtl9"></a-plane>
 
 		</a-entity>
 		
