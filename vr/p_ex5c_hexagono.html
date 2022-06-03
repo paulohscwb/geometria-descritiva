@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
   </head>  
@@ -71,7 +71,7 @@
 				line__19="start: -1.79 1.26 -0.2; end: -4.63 2.43 -0.4; color: forestgreen"></a-entity>
 			</a-entity>
 	
-			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
