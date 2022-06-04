@@ -2,9 +2,9 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
+	<!--<script src=".././scripts/faceset.js"></script>-->
 </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2019 Paulo Henrique Siqueira</div>
@@ -56,7 +56,7 @@
 			<a-plane id="planoPI2" scale="14.6 9.6 1" position="2.5 3 0" mixin="mtl0p mtl9"></a-plane>
 			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 			
-			<a-entity id="ABCDE" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  7.5 4.1 5.1  4.9 4.1 5.5  3.4 4.1 3.2  4.3 4.1 1.1;" 
+			<!--<a-entity><a-entity id="ABCDE" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  7.5 4.1 5.1  4.9 4.1 5.5  3.4 4.1 3.2  4.3 4.1 1.1;" 
 				mixin="mtl0 mtl3"></a-entity>
 			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  8.5 4.1 2.8  -1.1 0.2 0.9;" 
 				mixin="mtl0 mtl3"></a-entity>
@@ -81,7 +81,8 @@
 			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
 				mixin="mtl0 mtl3"></a-entity>
 			<a-entity id="FGHIJ" faceset="vertices: 6.9 4.1 0.8  4.3 4.1 1.1  -1.1 0.2 0.9;" 
-				mixin="linhas"></a-entity>
+				mixin="linhas"></a-entity></a-entity>-->
+			<a-gltf-model src="objetos/a56.glb"></a-gltf-model>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 250 700"></a-entity>
