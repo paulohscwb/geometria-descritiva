@@ -1,12 +1,12 @@
 <!doctype HTML>
 <html>
 <head>
-	<script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
-	<script src="scripts/faceset.js"></script>
-	<script src="scripts/aframe-plot-component.min.js"></script>
+	<!--<script src="scripts/faceset.js"></script>
+	<script src="scripts/aframe-plot-component.min.js"></script>-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -376,7 +376,7 @@
 				line__9="start: 3 1 2; end: -1.3 2.6 3.3; color: #404040" line__11="start: 5 2 0; end: 0.7 3.6 1.3; color: #404040"
 				line__10="start: 6.8 2.9 2.2; end: 2.5 4.5 3.5; color: #404040" line__12="start: 4.8 1.9 4.2; end: 0.5 3.5 5.5; color: #404040">
 			</a-entity>-->
-			<a-plane position="2 2 2.5" mixin="mtl0 mtl8" rotation="45 90 0" width="7" height="7" animation="property: opacity; from: 0; to: 0.5; dir: alternate; loop: true; dur: 7000;"></a-plane>
+			<a-plane position="2 2 2.5" mixin="mtl0 mtl8" rotation="45 90 0" width="7" height="7" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<a-gltf-model src="vr/objetos/a12.glb"></a-gltf-model>
 		</a-entity>
 	  </a-marker>
@@ -759,7 +759,7 @@
 			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 			
 			<a-cone position="1 3 3.5" rotation="90 0 0" mixin="mtl0 mtl3" height="5" radius-bottom="2.5"></a-cone>
-			<a-plane position="0 2.5 1.75" mixin="mtl0 mtl8" rotation="0 340 0" width="8" height="6" animation="property: opacity; from: 0; to: 0.5; dir: alternate; loop: true; dur: 7000;"></a-plane>
+			<a-plane position="0 2.5 1.75" mixin="mtl0 mtl8" rotation="0 340 0" width="8" height="6" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<a-entity line="start: 3.52 3 1; end: 1 3 6; color: #404040" line__2="start: -1.52 3 1; end: 1 3 6; color: #404040"
 					line__3="start: 1 5.52 1; end: 1 3.02 6; color: #404040" line__4="start: 1 0.48 1; end: 1 3.02 6; color: #404040"
 					line__5="start: 1 3 6; end: 1 3 1; color: #404040" >
@@ -804,20 +804,13 @@
 			<a-text position="0.1 0.2 0" value="O" mixin="texto"></a-text>
 			<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 			
-			<a-entity id="ABCDE" faceset="vertices: 3.3 4.7 1.6  3.7 2.3 3  1.9 2.2 5.15  0.4 4.6 5.05  1.25 6.1 2.9;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="FGHIJ" faceset="vertices: 5.2 6 3.2  5.6 3.6 4.6  3.8 3.5 6.8  2.3 5.9 6.7  3.15 7.4 4.5;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="ABGF" faceset="vertices: 3.3 4.7 1.6  3.7 2.3 3  5.6 3.6 4.6  5.2 6 3.2;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="BCHG" faceset="vertices: 3.7 2.3 3  1.9 2.2 5.15  3.8 3.5 6.8  5.6 3.6 4.6;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="CDIH" faceset="vertices: 1.9 2.2 5.15  0.4 4.6 5.05  2.3 5.9 6.7  3.8 3.5 6.8;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="DEJI" faceset="vertices: 0.4 4.6 5.05   1.25 6.1 2.9  3.15 7.4 4.5  2.3 5.9 6.7;" 
-				mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="EAFJ" faceset="vertices:  1.25 6.1 2.9  3.3 4.7 1.6  5.2 6 3.2  3.15 7.4 4.5;" 
-				mixin="mtl0 mtl5"></a-entity>
+			<!--<a-entity id="ABCDE" faceset="vertices: 3.3 4.7 1.6  3.7 2.3 3  1.9 2.2 5.15  0.4 4.6 5.05  1.25 6.1 2.9;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="FGHIJ" faceset="vertices: 5.2 6 3.2  5.6 3.6 4.6  3.8 3.5 6.8  2.3 5.9 6.7  3.15 7.4 4.5;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="ABGF" faceset="vertices: 3.3 4.7 1.6  3.7 2.3 3  5.6 3.6 4.6  5.2 6 3.2;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="BCHG" faceset="vertices: 3.7 2.3 3  1.9 2.2 5.15  3.8 3.5 6.8  5.6 3.6 4.6;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="CDIH" faceset="vertices: 1.9 2.2 5.15  0.4 4.6 5.05  2.3 5.9 6.7  3.8 3.5 6.8;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="DEJI" faceset="vertices: 0.4 4.6 5.05   1.25 6.1 2.9  3.15 7.4 4.5  2.3 5.9 6.7;" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="EAFJ" faceset="vertices:  1.25 6.1 2.9  3.3 4.7 1.6  5.2 6 3.2  3.15 7.4 4.5;" mixin="mtl0 mtl5"></a-entity>
 			<a-entity id="arestas" line="start: 3.3 4.7 1.6; end: 3.7 2.3 3; color: #404040" line__2="start: 3.7 2.3 3; end: 1.9 2.2 5.15; color: #404040"
 				line__3="start: 1.9 2.2 5.15; end: 0.4 4.6 5.05; color: #404040" line__4="start: 0.4 4.6 5.05; end:  1.25 6.1 2.9; color: #404040;"
 				line__5="start:  1.25 6.1 2.9; end: 3.3 4.7 1.6; color: #404040" line__8="start: 5.2 6 3.2; end: 5.6 3.6 4.6; color: #404040"
@@ -826,7 +819,8 @@
 				line__9="start: 3.3 4.7 1.6; end: 5.2 6 3.2; color: #404040" line__11="start: 3.7 2.3 3; end: 5.6 3.6 4.6; color: #404040;"
 				line__14="start: 1.9 2.2 5.15; end: 3.8 3.5 6.8; color: #404040" line__15="start: 0.4 4.6 5.05; end: 2.3 5.9 6.7; color: #404040"
 				line__16="start: 3.15 7.4 4.5; end: 1.25 6.1 2.9; color: #404040">
-			</a-entity>
+			</a-entity>-->
+			<a-gltf-model src="vr/objetos/a31.glb"></a-gltf-model>
 		</a-entity>
 	  </a-marker>
 	
