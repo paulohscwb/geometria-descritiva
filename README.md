@@ -1476,7 +1476,7 @@
 	<img src="prop/Apost_GD_2021_00013.png"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <!--<a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>-->
-	 <details><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/proj_conica.html"></iframe></details></div>
+	 <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/proj_conica.html"></iframe></details></div>
 	<img src="prop/Apost_GD_2021_00013a.png"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
