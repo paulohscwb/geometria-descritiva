@@ -6,6 +6,8 @@ footer {
 
 .cbbd {border: none; padding: 2px; width:100%;}
 
+.cbbs {font-size: 16px; font-weight: normal; margin-left:0px; text-shadow: 1px 1px 1px rgb(227,243,235); color: blue;}
+
 .btn {
   display: none !important;
 }
