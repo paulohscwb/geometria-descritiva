@@ -1479,9 +1479,11 @@
 	 <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/proj_conica.html"></iframe></details></div>
 	<img src="prop/Apost_GD_2021_00013a.png"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
-    <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
+    <!--<a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>-->
+    <details class="cbbd"><summary class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
-	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>
+	<!--<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>-->
+    <details class="cbbd"><summary class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00014.png"/>
     <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
