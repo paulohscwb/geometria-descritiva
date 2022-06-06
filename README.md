@@ -1483,7 +1483,7 @@
     <details class="cbbd"><summary class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
 	<!--<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>-->
-    <details class="cbbd"><summary class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details>
+    <details class="cbbd"><summary class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</summary><iframe class="cbb" src="vr/proj_cilindrica_orto.html"></iframe></details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00014.png"/>
     <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
