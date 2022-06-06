@@ -1544,34 +1544,48 @@
 	</div>
 	<img src="prop/Apost_GD_2021_00015.png"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
-    <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p2.html"></iframe></details>
+	<!--<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p2_orto.html"></iframe></details></div>
     <img src="prop/Apost_GD_2021_00015a.png"/>  
 	<div class="combo"><figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
-    <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p2a.html"></iframe></details>
+	<!--<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p2a_orto.html"></iframe></details></div>
     <img src="prop/Apost_GD_2021_00015b.png"/>  
     <div class="combo"><figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
-    <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p2c.html"></iframe></details>
+	<!--<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p2c_orto.html"></iframe></details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
     <div class="combo"><img src="prop/Apost_GD_2021_00016.png"/> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-    <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p3a.html"></iframe></details>
+	<!--<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p3a_orto.html"></iframe></details></div>
     <img src="prop/Apost_GD_2021_00016a.png"/> 
     <div class="combo"><figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-    <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p3b.html"></iframe></details>
+	<!--<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p3b_orto.html"></iframe></details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00017.png"/> 
 	<div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
-    <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p4.html"></iframe></details>
+	<!--<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p4_orto.html"></iframe></details></div>
 	<img src="prop/Apost_GD_2021_00017a.png"/> 
     <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
-    <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+    <!--<a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p5.html"></iframe></details>
+	<!--<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>-->
+	<details class="cbbd"><summary class="visu">Propriedade em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p5_orto.html"></iframe></details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00018.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1764,7 +1778,8 @@
     </ul>
     <img src="prop/20_03_00b.png" class="fundo"/>
   </details>
-  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+  <!--<a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização em 3D: item b</summary><iframe class="cbb" src="vr/20_03b.html"></iframe></details></div>
   <img src="prop/Apost_GD_2021_00019b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
@@ -1856,14 +1871,16 @@
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo"/>
    </details>
-	<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+	<!--<a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>-->
+	<details class="cbbd"><summary class="visu">Visualização em 3D: item b</summary><iframe class="cbb" src="vr/20_03b.html"></iframe></details></div>
 	<img src="prop/Apost_GD_2021_00019c.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</p>
     <img src="prop/20_04_00c.png">
 	<figcaption></figcaption>
   </details>
-  <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <!--<a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>-->
+   <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p_ex4c_triangulo.html"></iframe></details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00020.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1932,7 +1949,8 @@
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
+  <!--<a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização em 3D: item a</summary><iframe class="cbb" src="vr/p_ex5a_hexagono.html"></iframe></details></div>
   <img src="prop/Apost_GD_2021_00020b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1982,16 +2000,19 @@
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <!--<a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p_ex5c_hexagono.html"></iframe></details></div>
   <img src="prop/Apost_GD_2021_00020a.png"/>
   <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00021.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
-  <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
+  <!--<a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização da propriedade em 3D</summary><iframe class="cbb" src="vr/p6.html"></iframe></details></div>
   <img src="prop/Apost_GD_2021_00021a.png"/>
   <div class="combo"><figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
-  <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
+  <!--<a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização da propriedade em 3D</summary><iframe class="cbb" src="vr/p7.html"></iframe></details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Apost_GD_2021_00022.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2030,7 +2051,8 @@
     </ul>
 	<img src="prop/23_01_00.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <!--<a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p_ex1_losango.html"></iframe></details></div>
   <img src="prop/Apost_GD_2021_00022a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -2080,7 +2102,8 @@
     </ul>
 	<img src="prop/23_02_00.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <!--<a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>-->
+  <details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p_ex2_retangulo.html"></iframe></details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00023.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
