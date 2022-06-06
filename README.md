@@ -1486,15 +1486,15 @@
 	<img src="prop/Apost_GD_2021_00014.png"/>
     <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <!--<a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>-->
-	<details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p1.html"></iframe></details>
+	<details class="cbbd"><summary class="visu">Visualização em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p1.html"></iframe></details>
 	<!--<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a></div>-->
-	<details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details></div>
+	<details class="cbbd"><summary class="visu">Visualização em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p1_orto.html"></iframe></details></div>
 	<img src="prop/Apost_GD_2021_00014a.png"/>
     <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<!--<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>-->
-	<details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p1a.html"></iframe></details>
+	<details class="cbbd"><summary class="visu">Visualização em 3D: projeção <b>oblíqua</b></summary><iframe class="cbb" src="vr/p1a.html"></iframe></details>
 	<!--<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>-->
-	<details class="cbbd"><summary class="visu">Visualização em 3D</summary><iframe class="cbb" src="vr/p1a_orto.html"></iframe></details>
+	<details class="cbbd"><summary class="visu">Visualização em 3D: projeção <b>ortogonal</b></summary><iframe class="cbb" src="vr/p1a_orto.html"></iframe></details>
 	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
 		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
