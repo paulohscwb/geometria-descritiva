@@ -5468,7 +5468,7 @@
 	<img src="planosHFP/53_02_00.png"/>
 	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro <b>OV</b>.</figcaption>
   </details>
-  <a href="vr/a57.html" target="_blank" class="visu">Visualização em 3D</a></div></div>
+  <a href="vr/a57.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
   <img src="planosHFP/Apost_GD_2021_00064.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
