@@ -6200,7 +6200,8 @@
        </li>
     </ul>
 	<img src="planosHFP/70_01_00.png" class="fundo"/>
-  </details></div>
+  </details>
+  <a href="vr/a58.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00070a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Determine os traços do plano de perfil <b>&alpha;</b>da seção da esfera. Podemos encontrar as projeções do centro <b>P</b> da esfera construindo circunferências com centros em <b>A''</b> e <b>B''</b> e raios iguais a 2, ou então as circunferências com centros em <b>C'</b> e <b>D'</b> e raios iguais a 2. As projeções da esfera serão as circunferências de centros em <b>P'</b> e <b>P''</b> com raios iguais a 2.</p>
