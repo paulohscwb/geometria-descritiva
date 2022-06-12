@@ -27,30 +27,30 @@
 			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
 		</a-assets>
 
-		<a-entity scale="1 1 1" position="-1 -2.2 -3.2">
+		<a-entity scale="1 1 1" position="-3 -2.2 -3.2">
 	  		<a-entity>
-				<a-text position="-2.5 2.5 2.5" value="A" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="-2 2.5 2.5"></a-sphere>
-				<a-text position="0.8 5 1.5" value="B" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="0.5 5 1.5"></a-sphere>
-				<a-text position="3.7 3.2 0.5" value="C" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="3.5 3.2 0.3"></a-sphere>
-				<a-text position="3 -0.5 0.8" value="D" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="2.8 -0.36 0.6"></a-sphere>
-				<a-text position="-1.1 -0.7 2" value="E" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="-0.6 -0.8 1.9"></a-sphere>
-				<a-text position="-1.1 2.5 5.7" value="F" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="-0.6 2.5 5.9"></a-sphere>
-				<a-text position="2.1 5 4.7" value="G" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="1.9 5 4.9"></a-sphere>
-				<a-text position="5 3.2 3.7" value="H" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="4.85 3.2 3.7"></a-sphere>
-				<a-text position="4.3 -0.5 4" value="I" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="4.2 -0.36 3.98"></a-sphere>
-				<a-text position="0.3 -0.7 5.2" value="J" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="0.78 -0.8 5.3"></a-sphere>
+				<a-text position="-0.5 2.5 2.5" value="A" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 2.5 2.5"></a-sphere>
+				<a-text position="2 5 1.5" value="B" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="2.5 5 1.5"></a-sphere>
+				<a-text position="5.6 3.2 0.5" value="C" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="5.47 3.21 0.31"></a-sphere>
+				<a-text position="5 -0.5 0.8" value="D" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4.82 -0.39 0.57"></a-sphere>
+				<a-text position="0.9 -0.7 2" value="E" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.43 -0.83 1.93"></a-sphere>
+				<a-text position="0.7 2.5 5.9" value="F" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.36 2.5 5.91"></a-sphere>
+				<a-text position="4 5 4.9" value="G" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="3.86 5 4.91"></a-sphere>
+				<a-text position="6.9 3.2 3.7" value="H" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="6.84 3.21 3.72"></a-sphere>
+				<a-text position="6.3 -0.5 4" value="I" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="6.18 -0.39 3.98"></a-sphere>
+				<a-text position="2.9 -0.7 5.4" value="J" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="2.8 -0.83 5.33"></a-sphere>
 				
-				<a-entity position="-2 0 0">
+				<a-entity position="0 0 0">
 					<a-text position="9.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 					<a-text position="-0.4 0.1 9.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
 					<a-text position="-0.4 7.5 0" value="z" mixin="texto"></a-text>
@@ -68,23 +68,24 @@
 					<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 				</a-entity>
 					
-				<!--<a-entity><a-entity faceset="vertices: -2 2.5 2.5  0.5 5 1.5  3.5 3.2 0.3  2.8 -0.36 0.6  -0.6 -0.8 1.9;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: -0.6 2.5 5.9  1.9 5 4.9  4.85 3.2 3.7  4.2 -0.36 3.98  0.78 -0.8 5.3;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: -2 2.5 2.5  0.5 5 1.5  -0.6 2.5 5.9  1.9 5 4.9 ;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: 0.5 5 1.5  3.5 3.2 0.3  1.9 5 4.9  4.85 3.2 3.7;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: 3.5 3.2 0.3  2.8 -0.36 0.6  4.85 3.2 3.7  4.2 -0.36 3.98;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: 2.8 -0.36 0.6  -0.6 -0.8 1.9  4.2 -0.36 3.98  0.78 -0.8 5.3;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity faceset="vertices: -2 2.5 2.5  -0.6 -0.8 1.9  0.78 -0.8 5.3  -0.6 2.5 5.9;" mixin="mtl0 mtl6"></a-entity>
-				<a-entity line="start: -2 2.5 2.5; end: 0.5 5 1.5; color: #404040" line__2="start: 0.5 5 1.5; end: 3.5 3.2 0.3; color: #404040"
-					line__3="start: 3.5 3.2 0.3; end: 2.8 -0.36 0.6; color: #404040" line__4="start: 2.8 -0.36 0.6; end: -0.6 -0.8 1.9; color: #404040;"
-					line__5="start: -0.6 -0.8 1.9; end: -2 2.5 2.5; color: #404040" line__8="start: -0.6 2.5 5.9; end: 1.9 5 4.9; color: #404040"
-					line__6="start: 1.9 5 4.9; end: 4.85 3.2 3.7; color: #404040" line__7="start: 4.85 3.2 3.7; end: 4.2 -0.36 3.98; color: #404040;"
-					line__10="start: 4.2 -0.36 3.98; end: 0.78 -0.8 5.3; color: #404040" line__12="start: 0.78 -0.8 5.3; end: -0.6 2.5 5.9; color: #404040"
-					line__13="start: -2 2.5 2.5; end: -0.6 2.5 5.9; color: #404040" line__18="start: 0.5 5 1.5; end: 1.9 5 4.9; color: #404040;"
-					line__14="start: 3.5 3.2 0.3; end: 4.85 3.2 3.7; color: #404040" line__17="start: 2.8 -0.36 0.6; end: 4.2 -0.36 3.98; color: #404040"
-					line__15="start: -0.6 -0.8 1.9; end: 0.78 -0.8 5.3; color: #404040">
+				<!--<a-entity faceset="vertices: 0 2.5 2.5  2.5 5 1.5  5.47 3.21 0.31  4.82 -0.39 0.57  1.43 -0.83 1.93;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 1.36 2.5 5.91  3.86 5 4.91  6.84 3.21 3.72  6.18 -0.39 3.98  2.8 -0.83 5.33;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 0 2.5 2.5  2.5 5 1.5  1.36 2.5 5.91  3.86 5 4.91 ;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 2.5 5 1.5  5.47 3.21 0.31  3.86 5 4.91  6.84 3.21 3.72;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 5.47 3.21 0.31  4.82 -0.39 0.57  6.84 3.21 3.72  6.18 -0.39 3.98;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 4.82 -0.39 0.57  1.43 -0.83 1.93  6.18 -0.39 3.98  2.8 -0.83 5.33;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity faceset="vertices: 0 2.5 2.5  1.43 -0.83 1.93  2.8 -0.83 5.33  1.36 2.5 5.91;" mixin="mtl0 mtl6"></a-entity>
+				<a-entity><a-entity line="start: 0 2.5 2.5; end: 2.5 5 1.5; color: #404040" line__2="start: 2.5 5 1.5; end: 5.47 3.21 0.31; color: #404040"
+					line__3="start: 5.47 3.21 0.31; end: 4.82 -0.39 0.57; color: #404040" line__4="start: 4.82 -0.39 0.57; end: 1.43 -0.83 1.93; color: #404040;"
+					line__5="start: 1.43 -0.83 1.93; end: 0 2.5 2.5; color: #404040" line__8="start: 1.36 2.5 5.91; end: 3.86 5 4.91; color: #404040"
+					line__6="start: 3.86 5 4.91; end: 6.84 3.21 3.72; color: #404040" line__7="start: 6.84 3.21 3.72; end: 6.18 -0.39 3.98; color: #404040;"
+					line__10="start: 6.18 -0.39 3.98; end: 2.8 -0.83 5.33; color: #404040" line__12="start: 2.8 -0.83 5.33; end: 1.36 2.5 5.91; color: #404040"
+					line__13="start: 0 2.5 2.5; end: 1.36 2.5 5.91; color: #404040" line__18="start: 2.5 5 1.5; end: 3.86 5 4.91; color: #404040;"
+					line__14="start: 5.47 3.21 0.31; end: 6.84 3.21 3.72; color: #404040" line__17="start: 4.82 -0.39 0.57; end: 6.18 -0.39 3.98; color: #404040"
+					line__15="start: 1.43 -0.83 1.93; end: 2.8 -0.83 5.33; color: #404040">
 				</a-entity></a-entity>-->
-				<a-gltf-model src="objetos/a16.glb"></a-gltf-model>
+				<a-gltf-model scale="0.999 0.999 0.999" src="objetos/a16a.glb"></a-gltf-model>
+				<a-gltf-model src="objetos/a16b.glb"></a-gltf-model>
 			</a-entity>
 		</a-entity>
 		
