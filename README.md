@@ -12,44 +12,44 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-   <img src="dg/Apost_GD_2021_00001.png" loading="lazy" loading="lazy"/>  
+   <img src="dg/Apost_GD_2021_00001.png" loading="lazy"/>  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1" name="sl" checked>
 			   <label for="1"></label>
-			   <img src="dg/01_01_01.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_01.png" loading="lazy"/>
 			   <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="2" name="sl">
 			   <label for="2"></label>
-			   <img src="dg/01_01_02.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_02.png" loading="lazy"/>
 			   <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="3" name="sl">
 			   <label for="3"></label>
-			   <img src="dg/01_01_03.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_03.png" loading="lazy"/>
 			   <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="4" name="sl">
 			   <label for="4"></label>
-			   <img src="dg/01_01_04.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_04.png" loading="lazy"/>
 			   <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="5" name="sl">
 			   <label for="5"></label>
-			   <img src="dg/01_01_05.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_05.png" loading="lazy"/>
 			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída. Note que a figura <b>PAQB</b> é um losango e, portanto, suas diagonais são perpendiculares e se encontram no ponto médio das mesmas.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="6" name="sl">
 			   <label for="6"></label>
-			   <img src="dg/01_01_06.png" loading="lazy" loading="lazy"/>
+			   <img src="dg/01_01_06.png" loading="lazy"/>
 			   <figcaption>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha. Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
