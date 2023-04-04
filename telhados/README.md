@@ -1,5 +1,5 @@
 <b>Telhados com inclinações iguais:</b>
-<br><a href="https://github.com/paulohscwb/geometria-descritiva/blob/main/telhados/casa.html" target="_blank">Telhado da pág. 79</a>
+<br><a href="https://github.com/paulohscwb/geometria-descritiva/blob/main/telhados/casa.html" target="_blank">pág. 79</a>
 <br><a href="https://github.com/paulohscwb/geometria-descritiva/blob/main/telhados/telhado33.html" target="_blank">pág. 83</a>
 <br><a href="https://github.com/paulohscwb/geometria-descritiva/blob/main/telhados/telhado34.html" target="_blank">pág. 84</a>
 <br><a href="https://github.com/paulohscwb/geometria-descritiva/blob/main/telhados/telhado35.html" target="_blank">pág. 85</a>
