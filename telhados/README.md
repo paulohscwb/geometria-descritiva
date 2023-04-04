@@ -1,3 +1,4 @@
+<div style="fontsize:25px;">&#x1f3e1;</div>
 <b>Telhados com inclinações iguais:</b>
 <br><a href="casa.html" target="_blank">pág. 79</a>
 <br><a href="telhado33.html" target="_blank">pág. 83</a>
@@ -7,6 +8,7 @@
 <br><a href="telhado37.html" target="_blank">pág. 87</a>
 <br><a href="telhado38.html" target="_blank">pág. 88</a>
 <br><a href="telhado39.html" target="_blank">pág. 89</a>
+<div style="fontsize:25px;">&#x1f3e0;</div>
 <br><b>Telhados com inclinações diferentes:</b>
 <br><a href="telhado43.html" target="_blank">pág. 92</a>
 <br><a href="telhado44.html" target="_blank">pág. 93</a>
