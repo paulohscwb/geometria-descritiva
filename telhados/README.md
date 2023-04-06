@@ -8,6 +8,7 @@
 <br><a href="telhado37.html" target="_blank">pág. 87</a>
 <br><a href="telhado38.html" target="_blank">pág. 88</a>
 <br><a href="telhado39.html" target="_blank">pág. 89</a>
+<br><a href="telhado32.html" target="_blank">NOVO: plano qualquer</a>
 <h1>&#x1f3e0;</h1>
 <b>Telhados com inclinações diferentes:</b>
 <br><a href="telhado43.html" target="_blank">pág. 92</a>
