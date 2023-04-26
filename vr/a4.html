@@ -25,6 +25,7 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
+			<a-asset-item id="material" src="objetos/solidos.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-4.3 -3 -2.7">
@@ -62,11 +63,11 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="1"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1" light="castShadow:true"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="1 2 1" light="castShadow:true"></a-light>
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
