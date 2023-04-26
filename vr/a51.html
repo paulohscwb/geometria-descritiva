@@ -25,6 +25,7 @@
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+			<a-asset-item id="material" src="objetos/solidos.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-4 -3 -3">
@@ -66,15 +67,17 @@
 			<a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  4.4 1 0.2;" mixin="linhas"></a-entity>
 			<a-entity faceset="vertices: 1 1 4  6 1 5  6.6 5.2 2.1  1.6 5.2 1.1  3.2 5.2 5.9" mixin="linhas"></a-entity>
 			<a-entity line__2="start: 1 1 4; end: 4.4 1 0.2; color: #262626" line__3="start: 4.4 1 0.2; end: 6.6 5.2 2.1; color: #262626" line__6="start: 4.4 1 0.2; end: 1.6 5.2 1.1; color: #262626" line__7="start: 6.6 5.2 2.1; end: 1.6 5.2 1.1; color: #262626" line__8="start: 6.6 5.2 2.1; end: 3.2 5.2 5.9; color: #262626" line__9="start: 3.2 5.2 5.9; end: 6 1 5; color: #262626" line__10="start: 3.2 5.2 5.9; end: 1 1 4; color: #262626"></a-entity>
-			</a-entity>-->
-			<a-gltf-model src="objetos/a51.glb"></a-gltf-model>
+			</a-entity>
+			<a-gltf-model src="objetos/a51.glb"></a-gltf-model>-->
+			<a-obj-model src="objetos/a51.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
+			<a-obj-model src="objetos/a51L.obj" mtl="#material"></a-obj-model>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
+		<a-light type="ambient" color="white" intensity="1"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="-3 3 3"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="3 3 3"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
