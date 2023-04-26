@@ -22,23 +22,24 @@ v 1.59 10.36 4.56
 v 4.17 10.36 2.15
 usemtl CorL
 l 1 2 3 4 5
+l 1 6 7 8 2 
 usemtl CorL
-l 1 6 7 8
+l 2 8 9 10 3
 usemtl CorL
-l 2 8 9 10
+l 3 10 11 12 4
 usemtl CorL
-l 3 10 11 12
+l 4 12 13 14 5
 usemtl CorL
-l 4 12 13 14
+l 5 14 15 6 1
+usemtl Cor2
+l 20 19 18 17 16
+l 20 15 14 13 19
 usemtl CorL
-l 5 14 15 6
+l 17 9 8 7 16
 usemtl CorL
-l 16 17 9
+l 18 11 10 9 17
 usemtl CorL
-l 17 18 11
+l 19 13 12 11 18
 usemtl CorL
-l 18 19 13
 usemtl CorL
-l 19 20 15
-usemtl CorL
-l 20 16 7
+l 16 7 6 15 20
