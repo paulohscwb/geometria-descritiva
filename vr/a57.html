@@ -21,7 +21,7 @@
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
-			<a-mixin id="linhas" material=" wireframe: true; color: black; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="linhas" material=" wireframe: true; color: white; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.5; metalness: 0.4; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1; roughness: 0.5; metalness: 0.4;" mixin="mtl8"></a-mixin>
@@ -29,7 +29,7 @@
 	
 		<a-entity scale="1 1 1" position="-3.5 -3 -2.5">
 	  		<a-entity>
-				<a-entity line="start: 2 3 0; end: 7 6 6; color: black" line__2="start: 0 3 0; end: 7 6 6; color: black" line__3="start: 4 3 0; end: 7 6 6; color: black" line__4="start: 2 5 0; end: 7 6 6; color: black"; line__5="start: 2 1 0; end: 7 6 6; color: black;">
+				<a-entity line="start: 2 3 0; end: 7 6 6; color: white" line__2="start: 0 3 0; end: 7 6 6; color: white" line__3="start: 4 3 0; end: 7 6 6; color: white" line__4="start: 2 5 0; end: 7 6 6; color: white"; line__5="start: 2 1 0; end: 7 6 6; color: white;">
 				</a-entity>
 				<a-text position="1.5 3 -0.1" value="O" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="2 3 0"></a-sphere>
@@ -67,8 +67,8 @@
 		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-light type="directional" color="white" intensity="0.7" position="-3 2 0"></a-light>
-		<a-light type="directional" color="white" intensity="0.7" position="3 2 0"></a-light>
+		<a-light type="directional" color="white" intensity="0.7" position="-3 3 3"></a-light>
+		<a-light type="directional" color="white" intensity="0.7" position="3 3 3"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
