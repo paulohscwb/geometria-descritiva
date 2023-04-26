@@ -15,12 +15,12 @@ l 1 2 3 4 5
 usemtl CorL1
 l 10 9 8 7 6
 usemtl CorL1
-l 1 2 7 6
+l 1 6
 usemtl CorL1
-l 2 3 8 7
+l 2 7
 usemtl CorL1
-l 3 4 9 8
+l 3 8
 usemtl CorL1
-l 4 5 10 9
+l 4 9
 usemtl CorL1
-l 5 1 6 10
+l 5 10
