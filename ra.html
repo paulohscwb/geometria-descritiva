@@ -36,6 +36,7 @@
 		<a-mixin id="texto" text="width: 11; side:double; color: black" rotation="-25 0 0"></a-mixin>
 	  	<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
+		<a-asset-item id="material" src="vr/objetos/solidos.mtl"></a-asset-item>
 	</a-assets>
         
 	<a-entity camera ></a-entity>
@@ -1477,8 +1478,8 @@
 				line__25="start: 1.1 5.7 1.5; end: 3.9 7.6 0.3; color: #6E6E6E" line__30="start: 3.9 7.6 0.3; end: 6.9 5.7 0.8; color: #6E6E6E">
 			</a-entity>
 			<a-gltf-model src="vr/objetos/a21.glb"></a-gltf-model>-->
-			<a-obj-model src="vr/objetos/a21.obj" mtl="vr/objetos/solidos.mtl" scale="0.997 0.997 0.997"></a-obj-model>
-				<a-obj-model src="vr/objetos/a21L.obj" mtl="vr/objetos/solidos.mtl"></a-obj-model>
+			<a-obj-model src="vr/objetos/a21.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/objetos/a21L.obj" mtl="#material"></a-obj-model>
 		</a-entity>
 	 </a-marker>
 	 

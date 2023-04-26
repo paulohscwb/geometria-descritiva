@@ -25,6 +25,7 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
+			<a-asset-item id="material" src="objetos/solidos.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-4.5 -6.5 -5.2">
@@ -131,8 +132,8 @@
 					line__25="start: 1.22 5.5 1.58; end: 3.94 7.37 0.31; color: #404040" line__30="start: 3.94 7.37 0.31; end: 6.9 5.5 0.87; color: #404040">
 				</a-entity></a-entity>
 				<a-gltf-model src="objetos/a21.glb"></a-gltf-model>-->
-				<a-obj-model src="objetos/a21.obj" mtl="objetos/solidos.mtl" scale="0.997 0.997 0.997"></a-obj-model>
-				<a-obj-model src="objetos/a21L.obj" mtl="objetos/solidos.mtl"></a-obj-model>
+				<a-obj-model src="objetos/a21.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+				<a-obj-model src="objetos/a21L.obj" mtl="#material"></a-obj-model>
 			</a-entity>
 		</a-entity>
 		
