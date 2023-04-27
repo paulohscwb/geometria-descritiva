@@ -19,12 +19,13 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #e7feff;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite:false;"></a-mixin>
-			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.5; roughness:0.4;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="roughness: 0.6; metalness: 0.3;"></a-mixin>
+			<a-asset-item id="material" src="objetos/solidos.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-3 -2.5 -3">
@@ -57,15 +58,17 @@
 			
 			<!--<a-entity><a-entity faceset="vertices: 1 0 2  4 0 1  5 0 4  2 0 5 ; projectdir:y" mixin="mtl0 mtl2"></a-entity>
 			<a-entity faceset="vertices: 1 0 2  4 0 1  5 0 4  2 0 5  3 5 3; projectdir:y" mixin="mtl0 mtl2"></a-entity>
-			<a-entity id="arestas" line="start: 3 5 3; end: 1 0 2; color: #6E6E6E" line__2="start: 3 5 3; end: 4 0 1; color: #6E6E6E" line__3="start: 3 5 3; end: 5 0 4; color: #6E6E6E" line__4="start: 3 5 3; end: 2 0 5; color: #6E6E6E;" line__5="start: 1 0 2; end: 4 0 1; color: #6E6E6E" line__8="start: 4 0 1; end: 5 0 4; color: #6E6E6E" line__6="start: 5 0 4; end: 2 0 5; color: #6E6E6E" line__7="start: 2 0 5; end: 1 0 2; color: #6E6E6E;"></a-entity></a-entity>-->
-			<a-gltf-model src="objetos/a45.glb"></a-gltf-model>
+			<a-entity id="arestas" line="start: 3 5 3; end: 1 0 2; color: #6E6E6E" line__2="start: 3 5 3; end: 4 0 1; color: #6E6E6E" line__3="start: 3 5 3; end: 5 0 4; color: #6E6E6E" line__4="start: 3 5 3; end: 2 0 5; color: #6E6E6E;" line__5="start: 1 0 2; end: 4 0 1; color: #6E6E6E" line__8="start: 4 0 1; end: 5 0 4; color: #6E6E6E" line__6="start: 5 0 4; end: 2 0 5; color: #6E6E6E" line__7="start: 2 0 5; end: 1 0 2; color: #6E6E6E;"></a-entity></a-entity>
+			<a-gltf-model src="objetos/a45.glb"></a-gltf-model>-->
+			<a-obj-model src="objetos/a45.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
+			<a-obj-model src="objetos/a45L.obj" mtl="#material"></a-obj-model>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1" light="castShadow:true"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="1 2 1" light="castShadow:true"></a-light>
+		<a-light type="ambient" color="white" intensity="1"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="-3 3 3"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="3 3 3"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
