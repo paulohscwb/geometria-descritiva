@@ -14,3 +14,9 @@ l 7 3 4
 l 7 4 5
 l 7 5 6
 l 7 6 1
+usemtl CorL
+l 1 2
+usemtl CorL
+l 3 4
+usemtl CorL
+l 5 6
