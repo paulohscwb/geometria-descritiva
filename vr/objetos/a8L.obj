@@ -15,3 +15,11 @@ l 1 5 8 4
 l 2 6 5 1
 l 3 7 6 2
 l 4 8 7 3
+usemtl CorL
+l 1 4
+usemtl CorL
+l 2 3
+usemtl CorL
+l 5 8
+usemtl CorL
+l 6 7
