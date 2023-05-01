@@ -18,12 +18,12 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #e7feff;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
-			<a-mixin id="linhas" material="color: #6f7075; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="linhas" material="color: white; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
-			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="roughness: 0.6; metalness: 0.3;"></a-mixin>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-3.2 -3 -2">
@@ -59,7 +59,7 @@
 				<a-ring radius-inner="1" radius-outer="1.01" position="5 3 2" rotation="0 90 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="2" radius-outer="2.01" position="3.27 3 2" rotation="90 0 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="2" radius-outer="2.01" position="3.27 3 2" segments-theta="64" mixin="linhas"></a-ring>
-				<a-entity id="arestas" line="start: 5 4 2; end: 5 2 2; color: #6f7075" line__2="start: 5 3 1; end: 5 3 3; color: #6f7075"></a-entity>
+				<a-entity id="arestas" line="start: 5 4 2; end: 5 2 2; color: white" line__2="start: 5 3 1; end: 5 3 3; color: white"></a-entity>
 			</a-entity>
 		</a-entity>
 		
