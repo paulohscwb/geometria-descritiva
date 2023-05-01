@@ -1,9 +1,0 @@
-mtllib solidos.mtl
-s 1
-v 5 1.5 2
-v 5 1.5 5.5
-v -2 1.5 5.5
-v -2 1.5 2
-usemtl Cor11
-f 1 2 3 4
-
