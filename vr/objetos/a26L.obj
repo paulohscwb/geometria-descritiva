@@ -20,4 +20,12 @@ l 7 4 5
 l 7 5 6
 l 7 6 1
 usemtl CorL3
-l 8 9 10 11 12
+l 8 9
+usemtl CorL3
+l 9 10
+usemtl CorL3
+l 10 11
+usemtl CorL3
+l 11 12
+usemtl CorL3
+l 12 8
