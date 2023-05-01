@@ -19,12 +19,13 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #e7feff;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="roughness: 0.6; metalness: 0.3;"></a-mixin>
+			<a-asset-item id="material" src="objetos/solidos.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="1 -2.8 -1.5">
@@ -75,17 +76,19 @@
 					line__9="start: 1 2 1.5; end: -3 3.6 -2.7; color: #404040" line__11="start: 1 4 3; end: -3 5.6 -1.2; color: #404040"
 					line__10="start: 1 2.5 5; end: -3 4.1 0.8; color: #404040" line__12="start: 1 0.5 3.5; end: -3 2.1 -0.7; color: #404040">
 				</a-entity></a-entity>-->
-				<a-plane position="0 2.5 2.5" mixin="mtl0 mtl8" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;">
+				<a-plane position="0 2.5 2.5" mixin="mtl0 mtl5" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;">
 				</a-plane>
-				<a-gltf-model src="objetos/a10.glb"></a-gltf-model>
+				<a-obj-model src="objetos/a10.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
+				<a-obj-model src="objetos/a10L.obj" mtl="#material"></a-obj-model>
+				<!--<a-gltf-model src="objetos/a10.glb"></a-gltf-model>-->
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1" light="castShadow:true"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="1 2 1" light="castShadow:true"></a-light>
+		<a-light type="ambient" color="white" intensity="1"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="-3 3 3"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="3 3 3"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
