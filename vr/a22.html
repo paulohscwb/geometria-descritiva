@@ -55,7 +55,7 @@
 				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 				
 				<a-sphere position="3.27 3 2" mixin="ponto"></a-sphere>
-				<a-sphere position="3.27 3 2" segments-width="64" segments-height="64" mixin="mtl0 mtl7" radius="2"></a-sphere>
+				<a-sphere position="3.27 3 2" segments-width="64" segments-height="64" mixin="mtl0 mtl6" radius="2"></a-sphere>
 				<a-ring radius-inner="1" radius-outer="1.01" position="5 3 2" rotation="0 90 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="2" radius-outer="2.01" position="3.27 3 2" rotation="90 0 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="2" radius-outer="2.01" position="3.27 3 2" segments-theta="64" mixin="linhas"></a-ring>
@@ -63,11 +63,11 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 300 700; maxDistance: 1800"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.7"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1" light="castShadow:true"></a-light>
-		<a-light type="directional" color="white" intensity="0.6" position="1 2 1" light="castShadow:true"></a-light>
+		<a-light type="ambient" color="white" intensity="1"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="-3 3 3"></a-light>
+		<a-light type="directional" color="white" intensity="0.2" position="3 3 3"></a-light>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
