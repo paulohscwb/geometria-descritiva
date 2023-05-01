@@ -1219,7 +1219,9 @@
 				line__13="start: 7.3 3.6 1.7; end: 7.3 5.3 4.8; color: #404040" line__18="start: 4.6 5.6 0.6; end: 4.6 7.3 3.7; color: #404040;">
 			</a-entity>-->
 			<a-plane position="4 4 3" mixin="mtl0 mtl1" rotation="45 90 0" width="8" height="8" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
-			<a-gltf-model src="vr/objetos/a24.glb"></a-gltf-model>
+			<!--<a-gltf-model src="vr/objetos/a24.glb"></a-gltf-model>-->
+			<a-obj-model src="vr/objetos/a24.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
+			<a-obj-model src="vr/objetos/a24L.obj" mtl="#material"></a-obj-model>
 		</a-entity>
 	  </a-marker> 
 	  
@@ -1254,7 +1256,7 @@
 				<a-cylinder  mixin="mtl0n mtl5" radius="1.6" height="2.2"></a-cylinder>
 				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 -1.1 0" segments-theta="64" mixin="linhas"></a-ring>
 				<a-ring radius-inner="1.6" radius-outer="1.601" rotation="90 0 0" position="0 1.1 0" segments-theta="64" mixin="linhas"></a-ring>
-				<a-entity line="start: 0 -1.12 0; end: 0 1.12 0; color: #6f7075" line__1="start: -1.61 -1.12 0; end: -1.61 1.12 0; color: #6f7075" line__2="start: 1.61 -1.12 0; end: 1.61 1.12 0; color: #6f7075" line__3="start: 0 -1.12 -1.61; end: 0 1.12 -1.61; color: #6f7075" line__4="start: 0 -1.12 1.61; end: 0 1.12 1.61; color: #6f7075">
+				<a-entity line="start: 0 -1.12 0; end: 0 1.12 0; color: white" line__1="start: -1.61 -1.12 0; end: -1.61 1.12 0; color: white" line__2="start: 1.61 -1.12 0; end: 1.61 1.12 0; color: white" line__3="start: 0 -1.12 -1.61; end: 0 1.12 -1.61; color: white" line__4="start: 0 -1.12 1.61; end: 0 1.12 1.61; color: white">
 				<a-sphere mixin="ponto" position="0 -1.12 0"></a-sphere>
 				<a-sphere mixin="ponto" position="0 1.12 0"></a-sphere>
 				<a-sphere mixin="ponto" position="-1.61 -1.12 0"></a-sphere>
