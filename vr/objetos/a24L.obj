@@ -8,6 +8,10 @@ v 2.3 4.9 5
 v 5 2.9 6.1
 v 7.3 5.3 4.8
 v 4.6 7.3 3.7
+v 2.82 2.82 2.11
+v 5.17 5.17 0.83
+v 6.15 6.15 4.33
+v 3.79 3.79 5.61
 usemtl CorL
 l 4 3 2 1
 usemtl CorL
@@ -20,3 +24,19 @@ usemtl CorL
 l 4 8
 usemtl CorL
 l 1 5
+usemtl CorL
+l 1 4
+usemtl CorL
+l 5 8
+usemtl CorL
+l 6 7
+usemtl CorL
+l 2 3
+usemtl CorL4
+l 9 10
+usemtl CorL4
+l 10 11
+usemtl CorL4
+l 11 12
+usemtl CorL4
+l 12 9
