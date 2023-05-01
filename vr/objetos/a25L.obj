@@ -12,19 +12,31 @@ v 4.43 0.43 2.43
 v 5.87 2.21 1.54
 v 4.87 4.21 0.54
 v 2.44 4.43 0.43
-usemtl CorL3
+usemtl CorL
 l 1 2 3 4 5 6
-usemtl CorL3
+usemtl CorL
 l 12 11 10 9 8 7
-usemtl CorL3
+usemtl CorL
 l 1 7
-usemtl CorL3
+usemtl CorL
 l 2 8
-usemtl CorL3
+usemtl CorL
 l 3 9
-usemtl CorL3
+usemtl CorL
 l 4 10
-usemtl CorL3
+usemtl CorL
 l 5 11
-usemtl CorL3
+usemtl CorL
 l 6 12
+usemtl CorL
+l 2 3
+usemtl CorL
+l 4 5
+usemtl CorL
+l 6 1
+usemtl CorL
+l 8 9
+usemtl CorL
+l 10 11
+usemtl CorL
+l 12 7
