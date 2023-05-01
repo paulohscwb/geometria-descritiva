@@ -33,7 +33,7 @@
 		<a-mixin id="conex" material="color: red; metalness:0.4; roughness:0.5;" rotation="90 90 0"></a-mixin>
 		<a-mixin id="coney" material="color: green; metalness:0.4; roughness:0.5;" rotation="90 0 0"></a-mixin>
 		<a-mixin id="conez" material="color: blue; metalness:0.4; roughness:0.5;"></a-mixin>
-		<a-mixin id="linhas" material="color: #313131; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+		<a-mixin id="linhas" material="color: white; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 		<a-mixin id="texto" text="width: 11; side:double; color: black" rotation="-25 0 0"></a-mixin>
 	  	<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="roughness: 0.6; metalness: 0.3;"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
@@ -213,7 +213,7 @@
 			<a-entity faceset="vertices: -1 0.5 4.5  7 2 3  7 2.5 1  7 4.5 0.5  7 6 2;" mixin="linhas"></a-entity>
 			<a-entity faceset="vertices: -1 0.5 4.5  7 6 2  7 5.5 4  7 3.5 4.5  7 2 3;" mixin="linhas"></a-entity>
 			<a-entity line__4="start: 7 2 3; end: 7 2.5 1; color: #404040" line__5="start: 7 4.5 0.5; end: 7 6 2; color: #404040" line__1="start: 7 6 2; end: 7 5.5 4; color: #404040" line__3="start: 7 5.5 4; end: 7 3.5 4.5; color: #404040" line__2="start: 7 3.5 4.5; end: 7 2 3; color: #404040" line__6="start: 7 3.5 4.5; end: -1 0.5 4.5; color: #404040"></a-entity>-->
-			<a-plane position="2 1.5 4" mixin="mtl0 mtl2" rotation="90 0 0" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
+			<a-plane position="2 1.5 4" mixin="mtl0 mtl5" rotation="90 0 0" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<a-obj-model src="vr/objetos/a9.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a9L.obj" mtl="#material"></a-obj-model>
 			<!--<a-gltf-model src="vr/objetos/a9.glb"></a-gltf-model>-->
