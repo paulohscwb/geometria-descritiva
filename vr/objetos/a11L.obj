@@ -1,0 +1,20 @@
+mtllib solidos.mtl
+s 1
+v 1 1 2
+v 3 3 0
+v 4.4 4.4 2.8
+v 2.4 2.4 4.8
+v -0.8 6.2 2.4
+usemtl CorL
+l 5 2
+l 5 3
+l 5 4
+l 5 1
+usemtl CorL
+l 1 2 3 4
+usemtl CorL
+l 2 3
+usemtl CorL
+l 3 4
+usemtl CorL
+l 4 1
