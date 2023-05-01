@@ -19,12 +19,12 @@
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
+			<a-mixin id="mtl8" material="color: paleturquoise;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="mtl0p" material="opacity: 0.3; roughness: 0.9; metalness: 0.3; side: double; depthWrite: false;"></a-mixin>
-			<a-mixin id="ponto" geometry="radius:0.1; metalness:0.4; roughness:0.5;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="roughness: 0.6; metalness: 0.3;"></a-mixin>
 		</a-assets>
 
 		<a-entity scale="1 1 1" position="-3 -2 -2">
@@ -123,7 +123,7 @@
 
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 250 250 600"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 250 250 600; maxDistance: 1800"></a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.7"></a-light>
 		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
