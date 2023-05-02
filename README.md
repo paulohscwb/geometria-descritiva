@@ -4056,7 +4056,7 @@
            <input type="radio" id="e033se2" name="sl">
            <label for="e033se2"></label>
            <img src="pontos-retas/47_02_01.png" loading="lazy"/>
-        <figcaption>As retas <b>r</b> e <b>s</b> são reversar, pois as projeções não ficam paralelas e não são concorrentes.</figcaption>
+        <figcaption>As retas <b>r</b> e <b>s</b> são reversas, pois as projeções não ficam paralelas e não são concorrentes.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034se2" name="sl">
