@@ -6392,10 +6392,15 @@
 	<figcaption></figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00073a.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: rebatimento</summary>
 	<p>Para encontrar as projeções da base usamos o mesmo procedimento do exercício 1 da página 72.</p>
 	<img src="planosTV/62_01_00.png" loading="lazy"/>
 	<figcaption>A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: mudança de planos</summary>
+	<p>Solução usando a mudança de plano horizontal de projeção, transformando o plano de topo em plano horizontal.</p>
+	<img src="planosTV/62_01_01.png" loading="lazy"/>
+	<figcaption>A base pode ser construída em v.g. com a mudança de planos. A altura da pirâmide é perpendicular à base e apresenta VG na segunda projeção pois está sobre uma reta frontal. A primeira projeção da altura é paralela à LT.</figcaption>
   </details>
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
