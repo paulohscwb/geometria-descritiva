@@ -10757,7 +10757,24 @@
 	<div class="combo"><a href="telhados/telhado32.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-12.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado31.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<ul class="slider">
+		   <li>
+			   <input type="radio" id="tl001" name="sl">
+			   <label for="tl001"></label>
+			   <img src="aplicacoes/telhado31_01.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="tl002" name="sl">
+			   <label for="tl002"></label>
+			   <img src="aplicacoes/telhado31_02.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/telhado31_00.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado31.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-13.png" loading="lazy"/>
 	<div class="combo"><a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
