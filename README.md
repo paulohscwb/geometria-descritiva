@@ -10754,10 +10754,10 @@
 	</details><a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-08.png" loading="lazy"/>
-	<div class="combo"><span class="atv1">Exercício Proposto 8.1</span><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<span class="atv1">Exercício Proposto 8.1</span><div class="combo"><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-09.png" loading="lazy"/>
-	<div class="combo"><span class="atv1">Exercício Proposto 8.2</span><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<span class="atv1">Exercício Proposto 8.2</span><div class="combo"><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-10.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
