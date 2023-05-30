@@ -10736,25 +10736,40 @@
 	</details><a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-05.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado34_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-06.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado35_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-07.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado36_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-08.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><span class="atv1">Exercício Proposto 8.1</span><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-09.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><span class="atv1">Exercício Proposto 8.2</span><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-10.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado39_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-11.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado32.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado32_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado32.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-12.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -10777,16 +10792,28 @@
 	</details><a href="telhados/telhado31.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-13.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado43_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-14.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado44_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-15.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado45_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-16.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="aplicacoes/telhado46_01.png" class="fundo" loading="lazy"/>
+	</details><a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-17.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
