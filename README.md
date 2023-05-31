@@ -11049,7 +11049,7 @@
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-24.png" loading="lazy"/>
 	<div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 8.3</span>
-	<div class="combo"><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-25.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
