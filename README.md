@@ -10871,19 +10871,193 @@
 	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-20.png" loading="lazy"/>
-	<div class="combo"><a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para representar a superfície topográfica por meio de Curvas de Nível vamos obter mais pontos da mesma utilizando uma interpolação linear.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700zd" name="sl">
+			   <label for="700zd"></label>
+			   <img src="aplicacoes/99_01.png" loading="lazy"/>
+			 <figcaption>Já temos a triangularização pronta e vários pontos de cotas inteiras representados. Nos segmentos <b>a</b> e <b>d</b> devemos obter pontos de cotas inteiras, com equidistância de 10 metros entre eles. Já nos segmentos <b>b</b> e <b>c</b> não é preciso pois a diferença de cotas entre suas extremidades é zero.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701zd" name="sl">
+			   <label for="701zd"></label>
+			   <img src="aplicacoes/99_02.png" loading="lazy"/>
+			 <figcaption>Divida o segmento <b>a</b> em 4 partes iguais, obtendo pontos de cotas 110, 120 e 130 metros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702zd" name="sl">
+			   <label for="702zd"></label>
+			   <img src="aplicacoes/99_03.png" loading="lazy"/>
+			 <figcaption>Divida o segmento <b>d</b> em 4 partes iguais, obtendo pontos de cota 220, 230 e 240 metros.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703zd" name="sl">
+			   <label for="703zd"></label>
+			   <img src="aplicacoes/99_04.png" loading="lazy"/>
+			 <figcaption>Iniciando no segundo triângulo da esquerda vamos unindo os pontos de mesma cota 240, sempre cuidando para ligar aos pontos de triângulos adjacentes. Formando assim a Curva de Nível de cota 240.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704zd" name="sl">
+			   <label for="704zd"></label>
+			   <img src="aplicacoes/99_05.png" loading="lazy"/>
+			 <figcaption>Prossiga unindo os pontos formando as Curvas de Nível de cotas 230, 220, 210, 200, 190 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705zd" name="sl">
+			   <label for="705zd"></label>
+			   <img src="aplicacoes/99_06.png" loading="lazy"/>
+			 <figcaption>Continue o processo, obtendo as Curvas de Nível de cotas 180, 170, 160 e 150 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706zd" name="sl">
+			   <label for="706zd"></label>
+			   <img src="aplicacoes/99_07.png" loading="lazy"/>
+			 <figcaption>A partir do primeiro triângulo da esquerda obtenhas as Curvas de Nível de cotas 130, 120 e 110 metros. Sempre cuidando para ligar pontos de triângulos adjacentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707zd" name="sl">
+			   <label for="707zd"></label>
+			   <img src="aplicacoes/99_08.png" loading="lazy"/>
+			 <figcaption>Nos três primeiros triângulos de baixo obtenha as Curvas de Nível de cotas 130 a 70 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708zd" name="sl">
+			   <label for="708zd"></label>
+			   <img src="aplicacoes/99_09.png" loading="lazy"/>
+			 <figcaption>Finalmente, obtenha as demais Curvas de Nível. Use o link abaixo para visualizar esta superfície e suas curvas de nível em 3D.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/99_00.png" class="fundo" loading="lazy"/>
+	</details>
+    <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-21.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para traçar as Curvas de Nível vamos utilizar o método da triangularização e a interpolação linear. Acompanhe o procedimento.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700azd" name="sl">
+			   <label for="700azd"></label>
+			   <img src="aplicacoes/100_01.png" loading="lazy"/>
+			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709zd" name="sl">
+			   <label for="709zd"></label>
+			   <img src="aplicacoes/100_02.png" loading="lazy"/>
+			 <figcaption>Em cada quadrilátero desenhe a diagonal com a maior diferença de cotas. Vamos agora obter pontos de cotas inteiras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710zd" name="sl">
+			   <label for="710zd"></label>
+			   <img src="aplicacoes/100_03.png" loading="lazy"/>
+			 <figcaption>O segmento possui extremidades de cotas 20,5m e 23,5m. Devemos obter pontos de cotas inteiras, ou seja, 21m, 22m e 23m. Vamos dividir esse segmento em partes proporcionais a 0,5u, 1u, 1u e 0,5u aplicando o Teorema de Tales. Encaixe a régua com a marcação de 20,5 no ponto da esquerda, trace um segmento auxiliar e faça marcações no 21, 22, 23 e 23,5cm.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="711zd" name="sl">
+			   <label for="711zd"></label>
+			   <img src="aplicacoes/100_04.png" loading="lazy"/>
+			 <figcaption>Una o último ponto marcado à extremidade da direita do segmento e pelos demais trace paralelas a esse segmento, obtendo os pontos de cotas inteiras 21m, 22m e 23m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="712zd" name="sl">
+			   <label for="712zd"></label>
+			   <img src="aplicacoes/100_05.png" loading="lazy"/>
+			 <figcaption>Esse segmento possui extremidades de cotas 23,8m e 26,2m. Devemos obter pontos de cotas inteiras, ou seja, 24m, 25m e 26m.Vamos dividir esse segmento em partes proporcionais a 0,2u, 1u, 1u e 0,2u aplicando o Teorema de Tales. Encaixe a régua com a marcação de 23,8 no ponto da esquerda, trace um segmento auxiliar e faça marcações no 24, 25, 26 e 26,2cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="713zd" name="sl">
+			   <label for="713zd"></label>
+			   <img src="aplicacoes/100_06.png" loading="lazy"/>
+			 <figcaption>Una o último ponto marcado à extremidade da direita do segmento e pelos demais trace paralelas a esse segmento, obtendo os pontos de cotas inteiras 24m, 25m e 26m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="714zd" name="sl">
+			   <label for="714zd"></label>
+			   <img src="aplicacoes/100_07.png" loading="lazy"/>
+			 <figcaption>Divida os demais segmentos da triangularização obtendo pontos de cotas inteiras seguindo o procedimento anterior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="715zd" name="sl">
+			   <label for="715zd"></label>
+			   <img src="aplicacoes/100_08.png" loading="lazy"/>
+			 <figcaption>Inicie a construção das Curvas de Nível pela de cota 26m. Lembre-se de unir os pontos de mesma cota sempre observando os triângulos adjacentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="716zd" name="sl">
+			   <label for="716zd"></label>
+			   <img src="aplicacoes/100_09.png" loading="lazy"/>
+			 <figcaption>Para a Curva de Nível de cota 21m, note que na diagonal do quadrilátero inferior da direita não temos pontos de cota 21 e portanto a Curva de Nível não corta essa linha.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="717zd" name="sl">
+			   <label for="717zd"></label>
+			   <img src="aplicacoes/100_10.png" loading="lazy"/>
+			 <figcaption>Finalmente construa a Curva de Nível de cota 20m. Pronto! A superfície está representada pelas suas Curvas de Nível!</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/100_00.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-22.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-23.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="718zd" name="sl">
+			   <label for="718zd"></label>
+			   <img src="aplicacoes/102_01.png" loading="lazy"/>
+			 <figcaption>Marque os pontos de interseção da reta <b>A’B’</b> com as curvas de nível do terreno.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="719zd" name="sl">
+			   <label for="719zd"></label>
+			   <img src="aplicacoes/102_02.png" loading="lazy"/>
+			 <figcaption>Vamos rebater o plano vertical a partir do eixo que está na horizontal. Em cada ponto obtido no passo anterior construa perpendiculares à reta <b>A’B’</b> e marque no sistema de eixos a cota correspondente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zd" name="sl">
+			   <label for="720zd"></label>
+			   <img src="aplicacoes/102_03.png" loading="lazy"/>
+			 <figcaption>Devemos agora marcar a cota do ponto <b>C</b> que está entre as curvas de nível de cota 70m e 80m. Esse processo pode ser por aproximação, ou seja, estimando uma cota em torno de 75m.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zd" name="sl">
+			   <label for="721zd"></label>
+			   <img src="aplicacoes/102_04.png" loading="lazy"/>
+			 <figcaption>Marque no sistema de eixos a cota correspondente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="722zd" name="sl">
+			   <label for="722zd"></label>
+			   <img src="aplicacoes/102_05.png" loading="lazy"/>
+			 <figcaption>Analogamente marcamos a cota correspondente do ponto D, que estimando é em torno de 25m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="723zd" name="sl">
+			   <label for="723zd"></label>
+			   <img src="aplicacoes/102_06.png" loading="lazy"/>
+			 <figcaption>Basta agora unir os pontos obtidos que são adjacentes definindo o Perfil Topográfico.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/102_00.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-24.png" loading="lazy"/>
+	<div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 8.3</span>
 	<div class="combo"><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-25.png" loading="lazy"/>
-	<div class="combo"><a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
+	  <img src="aplicacoes/104_01.png" />
+	  <figcaption></figcaption>
+	  </details>
+	<a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-26.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
