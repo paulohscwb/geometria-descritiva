@@ -10821,6 +10821,54 @@
 	<div class="combo"><a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-19.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Traçado de curvas de nível</summary>
+	  <p>Para traças as curvas de nível podemos utilizar o método da triangularização. Acompanhe o procedimento.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700gd" name="sl">
+			   <label for="700gd"></label>
+			   <img src="aplicacoes/98_01.png" loading="lazy"/>
+			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701gd" name="sl">
+			   <label for="701gd"></label>
+			   <img src="aplicacoes/98_02.png" loading="lazy"/>
+			 <figcaption>No quadrilátero da esquerda temos duas diagonais. A diferença de cotas entre as extremidades de uma delas é de 80-79=1 e da outra 81-76=5u. Desenhamos a diagonal que nos dá a maior diferença de cotas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702gd" name="sl">
+			   <label for="702gd"></label>
+			   <img src="aplicacoes/98_03.png" loading="lazy"/>
+			 <figcaption>No quadrilátero da direita procedemos da mesma maneira, desenhando a diagonal com a maior diferença de cotas.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703gd" name="sl">
+			   <label for="703gd"></label>
+			   <img src="aplicacoes/98_04.png" loading="lazy"/>
+			 <figcaption>Vamos dividir cada segmento representado em partes iguais. Nesse caso, como as extremidades possuem uma diferença de cotas de 3u, devemos dividir graficamente o segmento em 3 partes iguais, obtendo pontos de cotas 77u e 78u.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704gd" name="sl">
+			   <label for="704gd"></label>
+			   <img src="aplicacoes/98_05.png" loading="lazy"/>
+			 <figcaption>Repetimos o processo para os demais segmentos obtendo pontos de cotas inteiras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705gd" name="sl">
+			   <label for="705gd"></label>
+			   <img src="aplicacoes/98_06.png" loading="lazy"/>
+			 <figcaption>Iniciando no primeiro triângulo da esquerda vamos unindo os pontos de mesma cota 77, sempre cuidando para ligar aos pontos de triângulos adjacentes. Formando assim a Curva de Nível de cota 77.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706gd" name="sl">
+			   <label for="706gd"></label>
+			   <img src="aplicacoes/98_07.png" loading="lazy"/>
+			 <figcaption>Analogamente, obtemos as demais Curvas de Nível.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/98_00.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-20.png" loading="lazy"/>
 	<div class="combo"><a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
