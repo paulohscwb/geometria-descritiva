@@ -11057,10 +11057,82 @@
 	<a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-26.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zds" name="sl">
+			   <label for="719zds"></label>
+			   <img src="aplicacoes/130_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zds" name="sl">
+			   <label for="720zds"></label>
+			   <img src="aplicacoes/130_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zds" name="sl">
+			   <label for="721zds"></label>
+			   <img src="aplicacoes/130_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/130_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-27.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zdq" name="sl">
+			   <label for="719zdq"></label>
+			   <img src="aplicacoes/131A_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zdq" name="sl">
+			   <label for="720zdq"></label>
+			   <img src="aplicacoes/131A_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zdq" name="sl">
+			   <label for="721zdq"></label>
+			   <img src="aplicacoes/131A_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/131A_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-28.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zdr" name="sl">
+			   <label for="719zdr"></label>
+			   <img src="aplicacoes/132A_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zdr" name="sl">
+			   <label for="720zdr"></label>
+			   <img src="aplicacoes/132A_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zdr" name="sl">
+			   <label for="721zdr"></label>
+			   <img src="aplicacoes/132A_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/132A_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-29.png" loading="lazy"/>
 	<div class="combo"><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -11068,10 +11140,83 @@
 	<img src="aplicacoes/Apost_GDapl_2023-30.png" loading="lazy"/>
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-31.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zdp" name="sl">
+			   <label for="719zdp"></label>
+			   <img src="aplicacoes/135_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zdp" name="sl">
+			   <label for="720zdp"></label>
+			   <img src="aplicacoes/135_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zdp" name="sl">
+			   <label for="721zdp"></label>
+			   <img src="aplicacoes/135_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/135_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-32.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zdw" name="sl">
+			   <label for="719zdw"></label>
+			   <img src="aplicacoes/136_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zdw" name="sl">
+			   <label for="720zdw"></label>
+			   <img src="aplicacoes/136_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zdw" name="sl">
+			   <label for="721zdw"></label>
+			   <img src="aplicacoes/136_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/136_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-33.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="719zdz" name="sl">
+			   <label for="719zdz"></label>
+			   <img src="aplicacoes/137_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720zdz" name="sl">
+			   <label for="720zdz"></label>
+			   <img src="aplicacoes/137_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721zdz" name="sl">
+			   <label for="721zdz"></label>
+			   <img src="aplicacoes/137_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/137_1.png" class="fundo" loading="lazy"/>
+	</details></div>
+	<img src="aplicacoes/Apost_GDapl_2023-33a.png" loading="lazy"/>
 	<div class="combo"><a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-34.png" loading="lazy"/>
@@ -11079,6 +11224,60 @@
 	<img src="aplicacoes/Apost_GDapl_2023-34a.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-35.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="nv001" name="sl">
+			   <label for="nv001"></label>
+			   <img src="aplicacoes/139_2.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="nv002" name="sl">
+			   <label for="nv002"></label>
+			   <img src="aplicacoes/139_3.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="nv003" name="sl">
+			   <label for="nv003"></label>
+			   <img src="aplicacoes/139_4.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="nv004" name="sl">
+			   <label for="nv004"></label>
+			   <img src="aplicacoes/139_5.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="nv005" name="sl">
+			   <label for="nv005"></label>
+			   <img src="aplicacoes/139_6.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="nv006" name="sl">
+			   <label for="nv006"></label>
+			   <img src="aplicacoes/139_7.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="nv007" name="sl">
+			   <label for="nv007"></label>
+			   <img src="aplicacoes/139_8.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="nv008" name="sl">
+			   <label for="nv008"></label>
+			   <img src="aplicacoes/139_9.png" loading="lazy"/>
+			 <figcaption>.</figcaption>
+		   </li>	  
+		</ul>
+		<img src="aplicacoes/139_1.png" class="fundo" loading="lazy"/>
+	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 </details>
 
