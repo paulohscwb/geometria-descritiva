@@ -11112,7 +11112,7 @@
 	<div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 8.5</span></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-29.png" loading="lazy"/>
-	<div class="combo"><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 8.6</span><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-30.png" loading="lazy"/>
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
