@@ -10756,13 +10756,13 @@
 	<img src="aplicacoes/Apost_GDapl_2023-08.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>.</p>
-		<img src="solucoes/telhado37_01.png" class="fundo" loading="lazy"/>
+		<img src="solucoes/8/telhado37_01.png" class="fundo" loading="lazy"/>
 	</details><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-09.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>.</p>
-		<img src="solucoes/telhado38_01.png" class="fundo" loading="lazy"/>
+		<img src="solucoes/8/telhado38_01.png" class="fundo" loading="lazy"/>
 	</details><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-10.png" loading="lazy"/>
@@ -10806,7 +10806,7 @@
 	<img src="aplicacoes/Apost_GDapl_2023-14.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>.</p>
-		<img src="solucoes/telhado44_01.png" class="fundo" loading="lazy"/>
+		<img src="solucoes/8/telhado44_01.png" class="fundo" loading="lazy"/>
 	</details><a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-15.png" loading="lazy"/>
@@ -11154,13 +11154,13 @@
 		   <li>
 			   <input type="radio" id="719zdqa" name="sl">
 			   <label for="719zdqa"></label>
-			   <img src="aplicacoes/133_2.png" loading="lazy"/>
+			   <img src="solucoes/8/133_2.png" loading="lazy"/>
 			 <figcaption>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="720zdqa" name="sl">
 			   <label for="720zdqa"></label>
-			   <img src="aplicacoes/133_3.png" loading="lazy"/>
+			   <img src="solucoes/8/133_3.png" loading="lazy"/>
 			 <figcaption>.</figcaption>
 		   </li>	  
 		</ul>
