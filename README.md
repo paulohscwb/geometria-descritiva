@@ -11128,23 +11128,23 @@
 		   <li>
 			   <input type="radio" id="719zdq1s" name="sl">
 			   <label for="719zdq1s"></label>
-			   <img src="aplicacoes/132A_2.png" loading="lazy"/>
+			   <img src="solucoes/8/132A_2.png" loading="lazy"/>
 			 <figcaption>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="720zdq2s" name="sl">
 			   <label for="720zdq2s"></label>
-			   <img src="aplicacoes/132A_3.png" loading="lazy"/>
+			   <img src="solucoes/8/132A_3.png" loading="lazy"/>
 			 <figcaption>.</figcaption>
 		   </li>	  
 		   <li>
 			   <input type="radio" id="721zdq3s" name="sl">
 			   <label for="721zdq3s"></label>
-			   <img src="aplicacoes/132A_4.png" loading="lazy"/>
+			   <img src="solucoes/8/132A_4.png" loading="lazy"/>
 			 <figcaption>.</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/132A_1.png" class="fundo" loading="lazy"/>
+		<img src="solucoes/8/132A_1.png" class="fundo" loading="lazy"/>
 	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-29.png" loading="lazy"/>
@@ -11164,7 +11164,7 @@
 			 <figcaption>.</figcaption>
 		   </li>	  
 		</ul>
-		<img src="aplicacoes/133_1.png" class="fundo" loading="lazy"/>
+		<img src="solucoes/8/133_1.png" class="fundo" loading="lazy"/>
 	</details><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-30.png" loading="lazy"/>
