@@ -10770,16 +10770,12 @@
 	</details><a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-08.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
-		<img src="solucoes/8/telhado37_01.png" class="fundo" loading="lazy"/>
-	</details><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.1</span>
+		<br><a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-09.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
-		<img src="solucoes/8/telhado38_01.png" class="fundo" loading="lazy"/>
-	</details><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.2</span>
+		<br><a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-10.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -10820,10 +10816,8 @@
 	</details><a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-14.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
-		<img src="solucoes/8/telhado44_01.png" class="fundo" loading="lazy"/>
-	</details><a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.3</span>
+		<br><a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-15.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -11070,12 +11064,8 @@
 	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-24.png" loading="lazy"/>
-	<div class="combo" id="atv61"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
-	  <img src="solucoes/8/103_01.png" />
-	  <figcaption>.</figcaption>
-	  </details>
-	<a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.4</span>
+	<br><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-25.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -11138,50 +11128,11 @@
 	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-28.png" loading="lazy"/>
-	<div class="combo" id="atv61"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>.</p>
-	  <ul class="slider">
-		   <li>
-			   <input type="radio" id="719zdq1s" name="sl">
-			   <label for="719zdq1s"></label>
-			   <img src="solucoes/8/132A_2.png" loading="lazy"/>
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="720zdq2s" name="sl">
-			   <label for="720zdq2s"></label>
-			   <img src="solucoes/8/132A_3.png" loading="lazy"/>
-			 <figcaption>.</figcaption>
-		   </li>	  
-		   <li>
-			   <input type="radio" id="721zdq3s" name="sl">
-			   <label for="721zdq3s"></label>
-			   <img src="solucoes/8/132A_4.png" loading="lazy"/>
-			 <figcaption>.</figcaption>
-		   </li>
-		</ul>
-		<img src="solucoes/8/132A_1.png" class="fundo" loading="lazy"/>
-	</details></div>
+	<div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.5</span></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-29.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>.</p>
-	  <ul class="slider">
-		   <li>
-			   <input type="radio" id="719zdqa" name="sl">
-			   <label for="719zdqa"></label>
-			   <img src="solucoes/8/133_2.png" loading="lazy"/>
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="720zdqa" name="sl">
-			   <label for="720zdqa"></label>
-			   <img src="solucoes/8/133_3.png" loading="lazy"/>
-			 <figcaption>.</figcaption>
-		   </li>	  
-		</ul>
-		<img src="solucoes/8/133_1.png" class="fundo" loading="lazy"/>
-	</details><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício Proposto 8.6</span>
+		<br><a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-30.png" loading="lazy"/>
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
@@ -11325,6 +11276,7 @@
 		<img src="aplicacoes/139_1.png" class="fundo" loading="lazy"/>
 	</details></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
+<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 8.1: 5 da pág. 112</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>.</p><img src="solucoes/8/telhado37_01.png" class="fundo" loading="lazy"/></details></div><h4>Exercício 8.2: 6 da pág. 113</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>.</p><img src="solucoes/8/telhado38_01.png" class="fundo" loading="lazy"/></details></div><h4>Exercício 8.3: 2 da pág. 118</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>.</p><img src="solucoes/8/telhado44_01.png" class="fundo" loading="lazy"/></details></div><h4>Exercício 8.4: c da pág. 132</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><p>.</p><ul class="slider"><li><input type="radio" id="719zdq1s" name="sl"><label for="719zdq1s"></label><img src="solucoes/8/132A_2.png" loading="lazy"/><figcaption>.</figcaption></li><li><input type="radio" id="720zdq2s" name="sl"><label for="720zdq2s"></label><img src="solucoes/8/132A_3.png" loading="lazy"/><figcaption>.</figcaption></li><li><input type="radio" id="721zdq3s" name="sl"><label for="721zdq3s"></label><img src="solucoes/8/132A_4.png" loading="lazy"/><figcaption>.</figcaption></li></ul><img src="solucoes/8/132A_1.png" class="fundo" loading="lazy"/></details></div><h4>Exercício 8.5: d da pág. 133</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><p>.</p><ul class="slider"><li><input type="radio" id="719zdqa" name="sl"><label for="719zdqa"></label><img src="solucoes/8/133_2.png" loading="lazy"/><figcaption>.</figcaption></li><li><input type="radio" id="720zdqa" name="sl"><label for="720zdqa"></label><img src="solucoes/8/133_3.png" loading="lazy"/><figcaption>.</figcaption></li></ul><img src="solucoes/8/133_1.png" class="fundo" loading="lazy"/></details></div>
 </details>
 
 <br>
