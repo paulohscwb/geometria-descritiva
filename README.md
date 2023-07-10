@@ -8281,7 +8281,7 @@
 	<figcaption>Agora será representado um prisma arquimediano de bases pentagonais contidas em planos quaisquer. Lembre-se que a altura o sólido é igual à aresta da base.</figcaption>
   </details><a href="vr/a31.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
-<h3>Resposta do Exercício proposto</h3><hr><h4>Exercício 6.1: 3 da pág. 102</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p><img src="solucoes/6/91_01.png"/><figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption></details></div>
+<!--<h3>Resposta do Exercício proposto</h3><hr><h4>Exercício 6.1: 3 da pág. 102</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Esse exercício também é parecido com os anteriores. Agora será representado um prisma quadrangular regular com a base contida no plano qualquer.</p><img src="solucoes/6/91_01.png"/><figcaption>A seção plana nesse poliedro será dada por um plano de topo e como esse plano é projetante em 2ª projeção temos que a 2ª projeção da seção será um segmento de reta.</figcaption></details></div>-->
 	
 </details>
 
