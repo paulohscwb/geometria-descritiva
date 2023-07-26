@@ -7,7 +7,7 @@
 <p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
 <p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CD028 - Expressão Gráfica II (a partir da pág. 25)</a></p>
 <p> <a href="vr/Apost_GD_2023.pdf" target="_blank">CEG019 - Expressão Gráfica A</a></p>
-<p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
+<p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1.1. Desenho Geométrico</summary>
 	<p>Material da página 1 até a página 10.</p>
@@ -1495,47 +1495,13 @@
     <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
-	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
-		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a20" name="sl">
-			   <label for="a20"></label>
-			   <img src="prop/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a21" name="sl">
-			   <label for="a21"></label>
-			   <img src="prop/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a22" name="sl">
-			   <label for="a22"></label>
-			   <img src="prop/00_00_03.jpg" loading="lazy"/>
-			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a23" name="sl">
-			   <label for="a23"></label>
-			   <img src="prop/00_00_04.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a24" name="sl">
-			   <label for="a24"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				 
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details></div>
+		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtual. Você pode acessar estes recursos usando o seguinte endereço:</p>
+		<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
+		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
+	</div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/E_9yowlSx3I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -4655,47 +4621,13 @@
 	<img src="planosHFP/53_01_14.png" class="fundo" loading="lazy"/>
   </details>
 	<a href="vr/a44.html" target="_blank" class="visu">Visualização em 3D</a>
-	<div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
-		<p>Você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a30" name="sl">
-			   <label for="a30"></label>
-			   <img src="prop/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a31" name="sl">
-			   <label for="a31"></label>
-			   <img src="prop/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a32" name="sl">
-			   <label for="a32"></label>
-			   <img src="prop/00_00_05.jpg" loading="lazy"/>
-			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a33" name="sl">
-			   <label for="a33"></label>
-			   <img src="prop/00_00_06.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a34" name="sl">
-			   <label for="a34"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details></div>
+	<div class="combo">
+		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Você pode acessar os recursos de RA e RV usando o seguinte endereço:</p>
+		<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
+		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
+	</div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
 	<figcaption>As construções geométricas dos exercícios da pág. 54 até a pág. 58 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></figcaption>
 	<img src="planosHFP/Apost_GD_2021_00054.png" loading="lazy"/>
@@ -5814,48 +5746,12 @@
 	<img src="planosHFP/55_01_00a.png" class="fundo" loading="lazy"/>
   </details></div>
 	<img src="planosHFP/Apost_GD_2021_00067a.png" loading="lazy"/>
-	<div class="combo"><figcaption>A partir deste ponto, o endereço para visualizar os sólidos em Realidade Aumentada mudou para: <br><a href="ra1.html">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></figcaption>
-	<details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
-		<p>A partir deste ponto da apostila, você pode acessar os recursos de Realidade Aumentada usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a40" name="sl">
-			   <label for="a40"></label>
-			   <img src="prop/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a41" name="sl">
-			   <label for="a41"></label>
-			   <img src="prop/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/geometria-descritiva/ra1.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra1.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a42" name="sl">
-			   <label for="a42"></label>
-			   <img src="prop/00_00_07.jpg" loading="lazy"/>
-			   <figcaption>Os sólidos representados em 3D aparecerão por cima dos desenhos da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-los em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos sólidos programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a43" name="sl">
-			   <label for="a43"></label>
-			   <img src="prop/00_00_08.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a44" name="sl">
-			   <label for="a44"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1QiQ8pjCkDMm1K2qupCCfqPj3rG44wGKr/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/rguSA6sNyB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details>
+	<div class="combo">
+	<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>A partir desta página da apostila, você pode acessar os recursos de RA e RV usando o seguinte endereço:</p>
+		<p align="center"><a href="ra1.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
+		<p align="center"><img src="ar/gd_ra1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	 &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.1</span>
     <br>
 	<a href="vr/a6.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -8324,8 +8220,14 @@
 	<img src="dt/Apost_DT_2021_00016.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00017.png" loading="lazy"/>
-	<div class="combo"><a href="vr/p121a.html" target="_blank" class="visu">Visualização em 3D</a>
-	<p align="center">Realidade Aumentada: <a href="https://paulohscwb.github.io/geometria-descritiva/dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p></div>
+	<div class="combo">
+		<a href="vr/p121a.html" target="_blank" class="visu">Visualização em 3D</a>
+		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Você pode acessar os recursos de RA e RV dos objetos modelados de Desenho Técnico usando o seguinte endereço:</p>
+		<p align="center"><a href="dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p>
+		<p align="center"><img src="ar/gd_dt.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
+	</div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/5Wc-2B0BpYc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -10741,7 +10643,14 @@
     <img src="aplicacoes/Apost_GDapl_2023-01.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-02.png" loading="lazy"/>
-	<div class="combo"><a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">
+		<a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
+		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Você pode acessar os recursos de RA e RV das representações de telhados usando o seguinte endereço:</p>
+		<p align="center"><a href="telhados.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/telhados.html</a></p>
+		<p align="center"><img src="ar/gd_telhados.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os telhados modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
+	</div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-03.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
@@ -10834,7 +10743,14 @@
 	<img src="aplicacoes/Apost_GDapl_2023-17.png" loading="lazy"/>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-18.png" loading="lazy"/>
-	<div class="combo"><a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">
+		<a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
+		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Você pode acessar os recursos de RA e RV das representações de superfícies topográficas usando o seguinte endereço:</p>
+		<p align="center"><a href="superficies.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/superficies.html</a></p>
+		<p align="center"><img src="ar/gd_superficies.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>As superfícies topográficas modeladas em 3D aparecem sobre as coordenadas da apostila. Você pode usá-las para conferir as construções ou apenas visualizar os modelos em 3D.</p>
+	</div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-19.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Traçado de curvas de nível</summary>
@@ -11291,10 +11207,11 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
-<p align="center"><a href="https://paulohscwb.github.io/geometria-descritiva/ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
+<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 <p>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p align="center"><img style="border-radius:7px;" src="vr/exemploA.jpg" width="43%">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px;" src="vr/exemploB.jpg" width="43%"></p>
+<p align="center"><img style="border-radius:7px; max-width:45%" src="ar/exemploA.jpg">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px; max-width:45%" src="ar/exemploB.jpg"></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Geometria Descritiva</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/geometria-descritiva/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
