@@ -1498,7 +1498,7 @@
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtual. Você pode acessar estes recursos usando o seguinte endereço:</p>
 		<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
@@ -4625,7 +4625,7 @@
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Você pode acessar os recursos de RA e RV usando o seguinte endereço:</p>
 		<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p>
-		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_ra.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
 	<p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -5750,7 +5750,7 @@
 	<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>A partir desta página da apostila, você pode acessar os recursos de RA e RV usando o seguinte endereço:</p>
 		<p align="center"><a href="ra1.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/ra1.html</a></p>
-		<p align="center"><img src="ar/gd_ra1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_ra1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	 &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.1</span>
     <br>
@@ -8225,7 +8225,7 @@
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Você pode acessar os recursos de RA e RV dos objetos modelados de Desenho Técnico usando o seguinte endereço:</p>
 		<p align="center"><a href="dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p>
-		<p align="center"><img src="ar/gd_dt.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_dt.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
@@ -10648,7 +10648,7 @@
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Você pode acessar os recursos de RA e RV das representações de telhados usando o seguinte endereço:</p>
 		<p align="center"><a href="telhados.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/telhados.html</a></p>
-		<p align="center"><img src="ar/gd_telhados.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_telhados.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os telhados modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
 	</div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
@@ -10748,7 +10748,7 @@
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Você pode acessar os recursos de RA e RV das representações de superfícies topográficas usando o seguinte endereço:</p>
 		<p align="center"><a href="superficies.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/superficies.html</a></p>
-		<p align="center"><img src="ar/gd_superficies.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p align="center"><img src="ar/gd_superficies.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 		<p>As superfícies topográficas modeladas em 3D aparecem sobre as coordenadas da apostila. Você pode usá-las para conferir as construções ou apenas visualizar os modelos em 3D.</p>
 	</div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
@@ -11209,7 +11209,7 @@
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
 <p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/geometria-descritiva/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
-<p align="center"><img src="ar/gd_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="ar/gd_ra.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <p>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img style="border-radius:7px; max-width:45%" src="ar/exemploA.jpg">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px; max-width:45%" src="ar/exemploB.jpg"></p>
 
