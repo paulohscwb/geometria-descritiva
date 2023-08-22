@@ -11220,6 +11220,8 @@
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., Costa, D.M.B, Souza, L.V.S., Medina, S.S.S. "Geometria Descritiva". Disponível em: <https://paulohscwb.github.io/geometria-descritiva/>, Outubro de 2020.</p>
 
+<br><a href="https://doi.org/10.5281/zenodo.8271437"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271437.svg" alt="DOI"></a>
+
 <h4>Referências:</h4>
 <ol>
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
