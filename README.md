@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="scripts/style.css">
 <link rel="icon" type="image/png" href="vr/imagem1.png">
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
-<p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Geometria Descritiva I</p>
+<p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados nas disciplinas de Geometria Descritiva, Expressão Gráfica e Desenho Técnico.</p>
 <p>As apostilas estão disponíveis nos links:</p>
 <p> <a href="vr/Apost_GD_2021.pdf" target="_blank">CD020, CEG005 - Geometria Descritiva e Expressão Gráfica II</a></p>
 <p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
