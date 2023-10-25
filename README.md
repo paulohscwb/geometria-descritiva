@@ -6893,7 +6893,7 @@
 	<img src="planosTV/69_01.png" class="fundo" loading="lazy"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00081a.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: rebatimento</summary>
   <p></p>
   <ul class="slider">
 	  <li>
@@ -6940,6 +6940,11 @@
        </li>
 	</ul>
 	<img src="planosTV/70_01_00.png" class="fundo" loading="lazy"/>
+  </details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: mudança de planos de projeção</summary>
+	<p></p>
+	<img src="planosTV/pag81_mpp.png" loading="lazy"/>
+	<figcaption></figcaption>
   </details></div>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00082.png" loading="lazy"/>
