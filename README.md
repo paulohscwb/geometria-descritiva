@@ -6312,8 +6312,11 @@
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png" loading="lazy"/>
-	<div class="combo" id="atv42"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.2</span>
-	<br>
+	<div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p></p>
+		<img src="planosTV/p74_ex4_mp.png" loading="lazy"/>
+		<figcaption></figcaption>
+ 	</details>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png" loading="lazy"/>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
