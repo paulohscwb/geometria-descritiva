@@ -6,6 +6,7 @@
 	<meta charset="UTF-8">
 	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -13,8 +14,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Carregando...</font>
 	</div>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk, a-link;" 
-	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk, a-link;" embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;' gesture-detector>
 	<a-assets>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-mixin id="texto" rotation="-90 0 0" text="width: 6; color: black;"></a-mixin>
@@ -29,295 +29,313 @@
 	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
 	</a-marker>
 
-	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p138_escada.html"></a-link>
-		<a-entity position="3 2 -2" scale="0.7 0.7 0.7" rotation="0 -90 0">
+		<a-entity position="3 2 -2" scale="0.7 0.7 0.7" rotation="0 -90 0" gesture-handler>
 			<a-entity gltf-model="vr/objetos/escada.glb"></a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p121a.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+		<a-entity position="-2.5 2 -1.5" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;" gesture-handler>
 			<a-entity scale="0.05 0.05 0.05" rotation="-90 -90 0">
 				<a-obj-model src="vr/objetos/p121a.obj" mtl="vr/objetos/p121a.mtl"></a-obj-model>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link position="-0.5 0.1 -0.5" link="title: item a;" mixin="lnk" class="lnk" href="vr/p128a.html"></a-link>
 		<a-link position="0.5 0.1 0.5" link="title: item b;" mixin="lnk" class="lnk" href="vr/p128b.html"></a-link>
-		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1 1 1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p128a.obj" mtl="vr/objetos/p128a.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1 1 1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p128a.obj" mtl="vr/objetos/p128a.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
-		</a-entity>
-		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">		
-			<a-entity scale="1 1 1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p128b.obj" mtl="vr/objetos/p128b.mtl"></a-obj-model>
+			<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">		
+				<a-entity scale="1 1 1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p128b.obj" mtl="vr/objetos/p128b.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link position="-0.5 0.1 -0.5" mixin="lnk" class="lnk" link="title: item c;" href="vr/p128c.html"></a-link>
 		<a-link position="0.5 0.1 0.5" mixin="lnk" class="lnk" link="title: item d;" href="vr/p128d.html"></a-link>
-		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1 1 1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p128c.obj" mtl="vr/objetos/p128c.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1 1 1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p128c.obj" mtl="vr/objetos/p128c.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
-		</a-entity>
-		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1 1 1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p128d.obj" mtl="vr/objetos/p128d.mtl"></a-obj-model>
+			<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1 1 1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p128d.obj" mtl="vr/objetos/p128d.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="3" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="3" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link position="-0.5 0.1 -0.5" mixin="lnk" link="title: item e;" href="vr/p128e.html"></a-link>
 		<a-link position="0.5 0.1 0.5" mixin="lnk" class="lnk" link="title: item f;" href="vr/p128f.html"></a-link>
-		<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1 1 1" rotation="-90 90 0">
-				<a-obj-model src="vr/objetos/p128e.obj" mtl="vr/objetos/p128e.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1 1 1" rotation="-90 90 0">
+					<a-obj-model src="vr/objetos/p128e.obj" mtl="vr/objetos/p128e.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
-		</a-entity>
-		<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1 1 1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p128f.obj" mtl="vr/objetos/p128f.mtl"></a-obj-model>
+			<a-entity position="2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1 1 1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p128f.obj" mtl="vr/objetos/p128f.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="4" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="4" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link position="-0.5 0.1 -0.5" mixin="lnk" class="lnk" link="title: item a;" href="vr/p129a.html"></a-link>
 		<a-link position="0.5 0.1 0.5" mixin="lnk" class="lnk" link="title: item b;" href="vr/p129b.html"></a-link>
-		<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="0.07 0.07 0.07" rotation="-90 90 0">
-				<a-obj-model src="vr/objetos/p129a.obj" mtl="vr/objetos/p129a.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="0.07 0.07 0.07" rotation="-90 90 0">
+					<a-obj-model src="vr/objetos/p129a.obj" mtl="vr/objetos/p129a.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
-		</a-entity>
-		<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p129b.obj" mtl="vr/objetos/p129b.mtl"></a-obj-model>
+			<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p129b.obj" mtl="vr/objetos/p129b.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link position="-0.5 0.1 -0.5" mixin="lnk" class="lnk" link="title: item c;" href="vr/p129c.html"></a-link>
 		<a-link position="0.5 0.1 0.5" mixin="lnk" class="lnk" link="title: item d;" href="vr/p129d.html"></a-link>
-		<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="0.09 0.09 0.09" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p129c.obj" mtl="vr/objetos/p129c.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-2.5 2 -1.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="0.09 0.09 0.09" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p129c.obj" mtl="vr/objetos/p129c.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
-		</a-entity>
-		<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
-			<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
-				<a-obj-model src="vr/objetos/p129d.obj" mtl="vr/objetos/p129d.mtl"></a-obj-model>
+			<a-entity position="-2.5 2 0.7" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000; delay: 2000; easing: linear;">
+				<a-entity scale="1.1 1.1 1.1" rotation="-90 0 0">
+					<a-obj-model src="vr/objetos/p129d.obj" mtl="vr/objetos/p129d.mtl"></a-obj-model>
+				</a-entity>
 			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p130d.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p130d.obj" mtl="vr/objetos/p130d.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p131e.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.35 0.35 0.35" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p131e.obj" mtl="vr/objetos/p131e.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p131b.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.4 0.4 0.4" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.4 0.4 0.4" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p131b.obj" mtl="vr/objetos/p131b.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p131c.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p131c.obj" mtl="vr/objetos/p131c.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p132d.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.46 0.46 0.46" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p132d.obj" mtl="vr/objetos/p132d.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="11" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="11" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p135d.html"></a-link>
-		<a-entity position="-2.5 2 -1.5" scale="0.31 0.31 0.31" rotation="-90 0 0">
+		<a-entity position="-2.5 2 -1.5" scale="0.31 0.31 0.31" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p135d.obj" mtl="vr/objetos/p135d.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="12" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="12" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p135a.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.17 0.17 0.17" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.17 0.17 0.17" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p135a.obj" mtl="vr/objetos/p135a.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="13" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="13" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p135b.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.6 0.6 0.6" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.6 0.6 0.6" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p135b.obj" mtl="vr/objetos/p135b.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="15" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="15" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p145_1.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.08 0.08 0.08" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.08 0.08 0.08" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p145_1.obj" mtl="vr/objetos/p145_1.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="16" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="16" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p145_2.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.08 0.08 0.08" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.08 0.08 0.08" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p145_2.obj" mtl="vr/objetos/p145_2.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="17" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="17" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p146_3.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.07 0.07 0.07" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.07 0.07 0.07" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p146_3.obj" mtl="vr/objetos/p146_3.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p146_4.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.07 0.07 0.07" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.07 0.07 0.07" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p146_4.obj" mtl="vr/objetos/p146_4.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p147_5.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.38 0.38 0.38" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.38 0.38 0.38" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p147_5.obj" mtl="vr/objetos/p147_5.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p147_6.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p147_6.obj" mtl="vr/objetos/p147_6.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="25" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="25" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p148_7.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p148_7.obj" mtl="vr/objetos/p148_7.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="27" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="27" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p148_8.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p148_8.obj" mtl="vr/objetos/p148_8.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="33" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="33" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p149_9.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.038 0.038 0.038" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.038 0.038 0.038" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p149_10.obj" mtl="vr/objetos/p149_10.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p149_11.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.038 0.038 0.038" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.038 0.038 0.038" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p149_11.obj" mtl="vr/objetos/p149_11.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p149_10.html"></a-link>
-		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0">
+		<a-entity position="2.5 2 -1.5" scale="0.046 0.046 0.046" rotation="-90 0 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p149_9.obj" mtl="vr/objetos/p149_9.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="35" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="35" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p155.html"></a-link>
-		<a-entity position="-3 2 -2" scale="0.046 0.046 0.046" rotation="-90 60 0">
+		<a-entity position="-3 2 -2" scale="0.046 0.046 0.046" rotation="-90 60 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p155.obj" mtl="vr/objetos/p155.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p156.html"></a-link>
-		<a-entity position="-3 2 2.5" scale="0.046 0.046 0.046" rotation="-90 60 0">
+		<a-entity position="-3 2 2.5" scale="0.046 0.046 0.046" rotation="-90 60 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p156.obj" mtl="vr/objetos/p156.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p157.html"></a-link>
-		<a-entity position="-3 2 2.5" scale="0.046 0.046 0.046" rotation="-90 60 0">
+		<a-entity position="-3 2 2.5" scale="0.046 0.046 0.046" rotation="-90 60 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p157.obj" mtl="vr/objetos/p157.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p158.html"></a-link>
-		<a-entity position="-3 2 -2.5" scale="0.034 0.034 0.034" rotation="-90 -15 0">
+		<a-entity position="-3 2 -2.5" scale="0.034 0.034 0.034" rotation="-90 -15 0" gesture-handler>
 			<a-obj-model src="vr/objetos/p158.obj" mtl="vr/objetos/p158.mtl"></a-obj-model>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p163a.html"></a-link>
-		<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
-			<a-obj-model scale="0.06 0.06 0.06" rotation="-90 60 0" src="vr/objetos/p163a1.obj" mtl="vr/objetos/p163a1.mtl"></a-obj-model>
-		</a-entity>
-		<a-entity position="-3 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
-			<a-obj-model src="vr/objetos/p163a2.obj" mtl="vr/objetos/p163a2.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+				<a-obj-model scale="0.06 0.06 0.06" rotation="-90 60 0" src="vr/objetos/p163a1.obj" mtl="vr/objetos/p163a1.mtl"></a-obj-model>
+			</a-entity>
+			<a-entity position="-3 2 -2.5" scale="0.06 0.06 0.06" rotation="-90 60 0">
+				<a-obj-model src="vr/objetos/p163a2.obj" mtl="vr/objetos/p163a2.mtl"></a-obj-model>
+			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p164b.html"></a-link>
-		<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
-			<a-obj-model scale="0.053 0.053 0.053" rotation="-90 60 0" src="vr/objetos/p164b1.obj" mtl="vr/objetos/p164b1.mtl"></a-obj-model>
-		</a-entity>
-		<a-entity position="-3 2 -2.5" scale="0.053 0.053 0.053" rotation="-90 60 0">
-			<a-obj-model src="vr/objetos/p164b2.obj" mtl="vr/objetos/p164b2.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+				<a-obj-model scale="0.053 0.053 0.053" rotation="-90 60 0" src="vr/objetos/p164b1.obj" mtl="vr/objetos/p164b1.mtl"></a-obj-model>
+			</a-entity>
+			<a-entity position="-3 2 -2.5" scale="0.053 0.053 0.053" rotation="-90 60 0">
+				<a-obj-model src="vr/objetos/p164b2.obj" mtl="vr/objetos/p164b2.mtl"></a-obj-model>
+			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p164c.html"></a-link>
-		<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
-			<a-obj-model scale="0.08 0.08 0.08" rotation="-90 60 0" src="vr/objetos/p164c1.obj" mtl="vr/objetos/p164c1.mtl"></a-obj-model>
-		</a-entity>
-		<a-entity position="-3 2 -2.5" scale="0.08 0.08 0.08" rotation="-90 60 0">
-			<a-obj-model src="vr/objetos/p164c2.obj" mtl="vr/objetos/p164c2.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-3 2 -2.5" animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">
+				<a-obj-model scale="0.08 0.08 0.08" rotation="-90 60 0" src="vr/objetos/p164c1.obj" mtl="vr/objetos/p164c1.mtl"></a-obj-model>
+			</a-entity>
+			<a-entity position="-3 2 -2.5" scale="0.08 0.08 0.08" rotation="-90 60 0">
+				<a-obj-model src="vr/objetos/p164c2.obj" mtl="vr/objetos/p164c2.mtl"></a-obj-model>
+			</a-entity>
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/p165d.html"></a-link>
-		<a-entity position="-3 2 -2.5"><!-- animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">-->
-			<a-obj-model scale="0.08 0.08 0.08" rotation="-90 60 0" src="vr/objetos/p165d1.obj" mtl="vr/objetos/p165d1.mtl"></a-obj-model>
-		</a-entity>
-		<a-entity position="-3 2 -2.5" scale="0.08 0.08 0.08" rotation="-90 60 0">
-			<a-obj-model src="vr/objetos/p165d2.obj" mtl="vr/objetos/p165d2.mtl"></a-obj-model>
+		<a-entity gesture-handler>
+			<a-entity position="-3 2 -2.5"><!-- animation="property: position; to: -1.5 2 -1.5; loop: true; dur: 10000; dir: alternate; delay: 1000;">-->
+				<a-obj-model scale="0.08 0.08 0.08" rotation="-90 60 0" src="vr/objetos/p165d1.obj" mtl="vr/objetos/p165d1.mtl"></a-obj-model>
+			</a-entity>
+			<a-entity position="-3 2 -2.5" scale="0.08 0.08 0.08" rotation="-90 60 0">
+				<a-obj-model src="vr/objetos/p165d2.obj" mtl="vr/objetos/p165d2.mtl"></a-obj-model>
+			</a-entity>
 		</a-entity>
 	</a-marker>
 	
