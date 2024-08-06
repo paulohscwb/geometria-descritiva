@@ -8193,7 +8193,7 @@
 
 <details><summary id="dtecnico">7. Desenho Técnico</summary>
 	<p>Material da página 105 até a página 164</p>
-	<figcaption>As construções geométricas dos exercícios da pág. 105 até a pág. 143 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
+	<figcaption>As construções geométricas dos exercícios da pág. 105 até a pág. 142 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<img src="dt/Apost_DT_2021_00001.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
