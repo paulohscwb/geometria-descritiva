@@ -3,10 +3,10 @@
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados nas disciplinas de Geometria Descritiva, Expressão Gráfica e Desenho Técnico.</p>
 <p>As apostilas estão disponíveis nos links:</p>
-<p> <a href="vr/Apost_GD_2021.pdf" target="_blank">CD020, CEG005 - Geometria Descritiva e Expressão Gráfica II</a></p>
-<p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
-<p> <a href="vr/APOST_GD_DT_EG.pdf" target="_blank">CD028 - Expressão Gráfica II (a partir da pág. 25)</a></p>
-<p> <a href="vr/Apost_GD_2023.pdf" target="_blank">CEG019 - Expressão Gráfica A</a></p>
+<p> <a href="vr/Apost_GD_2024.pdf" target="_blank">CD020, CEG005 - Geometria Descritiva e Expressão Gráfica II</a></p>
+<p> <a href="vr/APOST_GD_DT.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
+<p> <a href="vr/APOST_GD_DT.pdf" target="_blank">CD028 - Expressão Gráfica II (a partir da pág. 25)</a></p>
+<p> <a href="vr/Apost_GD_2024_EC.pdf" target="_blank">CEG019 - Expressão Gráfica A</a></p>
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1.1. Desenho Geométrico</summary>
@@ -8192,7 +8192,7 @@
 </details>
 
 <details><summary id="dtecnico">7. Desenho Técnico</summary>
-	<p>Material da página 105 até a página 177</p>
+	<p>Material da página 105 até a página 164</p>
 	<figcaption>As construções geométricas dos exercícios da pág. 105 até a pág. 143 foram feitas pela <b>prof&ordf; Deise Maria Bertholdi Costa.</b></figcaption>
 	<img src="dt/Apost_DT_2021_00001.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
@@ -8226,10 +8226,6 @@
 	<img src="dt/Apost_DT_2021_00014.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00015.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00016.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00017.png" loading="lazy"/>
 	<div class="combo">
 		<a href="vr/p121a.html" target="_blank" class="visu">Visualização em 3D</a>
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
@@ -8242,11 +8238,11 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/5Wc-2B0BpYc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+	<img src="dt/Apost_DT_2021_00016.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00017.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00018.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00019.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00020.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
   <p>Vamos acompanhar os passos necessários para a construção das vistas de um objeto. Começamos delimitando o objeto que será representado por meio das vistas ortográficas.</p>
   <ul class="slider">
@@ -8314,13 +8310,13 @@
 	<img src="dt/20_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00019.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00020.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00021.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00022.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00023.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00024.png" loading="lazy"/>
 	<div class="combo"><a href="vr/p128a.html" target="_blank" class="visu">Item a</a>    |    <a href="vr/p128b.html" target="_blank">Item b</a>    |    <a href="vr/p128c.html" target="_blank">Item c</a>    |    <a href="vr/p128d.html" target="_blank">Item d</a>    |    <a href="vr/p128e.html" target="_blank">Item e</a>    |    <a href="vr/p128f.html" target="_blank">Item f</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p></p>
@@ -8342,18 +8338,18 @@
   </details>
   <p align="center">Realidade Aumentada: <a href="https://paulohscwb.github.io/geometria-descritiva/dt.html" target="_blank">https://paulohscwb.github.io/geometria-descritiva/dt.html</a></p></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00025.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00023.png" loading="lazy"/>
 	<div class="combo"><a href="vr/p129a.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00025a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00023a.png" loading="lazy"/>
 	<div class="combo"><a href="vr/p129b.html" target="_blank" class="visu">Visualização em 3D</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p></p>
 	<img src="dt/25_01_01.png" loading="lazy"/>
 	<figcaption></figcaption>
 	</details></div>
-	<img src="dt/Apost_DT_2021_00025b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00023b.png" loading="lazy"/>
 	<div class="combo"><a href="vr/p129c.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00025c.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00023c.png" loading="lazy"/>
 	<div class="combo">
 	<a href="vr/p129d.html" target="_blank" class="visu">Visualização em 3D</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -8362,7 +8358,7 @@
 	<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00026.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00024.png" loading="lazy"/>
 	<div class="combo">
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
@@ -8533,7 +8529,7 @@
 	<img src="dt/26_01_14.png" class="fundo" loading="lazy"/>
   </details>
 	<a href="vr/p130a.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00026a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00024a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -8642,7 +8638,7 @@
     </ul>
 	<img src="dt/26_02_12.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p130b.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00026b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00024b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -8751,7 +8747,7 @@
     </ul>
 	<img src="dt/26_03_12.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p130c.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00026c.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00024c.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -8861,7 +8857,7 @@
 	<img src="dt/26_04_12.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p130d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00027.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00025.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -8982,7 +8978,7 @@
     </ul>
 	<img src="dt/27_01_12.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p131e.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00027a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00025a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
   <ul class="slider">
@@ -9037,7 +9033,7 @@
     </ul>
 	<img src="dt/27_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p131a.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00027b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00025b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
   <ul class="slider">
@@ -9092,7 +9088,7 @@
     </ul>
 	<img src="dt/27_03_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p131b.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00027c.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00025c.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
   <ul class="slider">
@@ -9148,7 +9144,7 @@
 	<img src="dt/27_04_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p131c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00028.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00026.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>. Vamos iniciar <b>analisando a forma do objeto</b>. Percebemos que ele possui faces planas e paralelas a um dos Planos de Projeção.</p>
   <ul class="slider">
@@ -9203,7 +9199,7 @@
     </ul>
 	<img src="dt/28_01_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p132d.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00028a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00026a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -9342,7 +9338,7 @@
     </ul>
 	<img src="dt/28_02_11.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p132a.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00028b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00026b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -9482,7 +9478,7 @@
 	<img src="dt/28_03_11.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p132b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00029.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00027.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -9645,7 +9641,7 @@
     </ul>
 	<img src="dt/29_01_14.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p133c.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00029a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00027a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -9773,7 +9769,7 @@
 	<img src="dt/29_02_15.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p133d.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00030.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00028.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em Perspectiva Isométrica. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -9930,13 +9926,13 @@
     </ul>
 	<img src="dt/30_01_14.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p134e.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00030a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00028a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Neste exercício vamos desenhar as Vistas de uma Casinha!Vamos iniciar representando suas paredes externas e a laje.</p>
     <img src="dt/30_02_01.png" loading="lazy"/>
     <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. Não temos faces inclinadas para obtermos a VG. </figcaption>
   </details></div>
-	<img src="dt/Apost_DT_2021_00030b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00028b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos incluir um telhado para a Casinha!</p>
   <ul class="slider">
@@ -9956,13 +9952,13 @@
 	<img src="dt/30_03_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p134b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00031.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00029.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos ampliar a Casinha adicionando mais um cômodo!</p>
     <img src="dt/31_01_01.png" loading="lazy"/>
     <figcaption>Foram representadas as Vistas Frontal, Superior e Lateral Direita no primeiro diedro. Não temos faces novas inclinadas para obtermos a VG.</figcaption>
   </details><a href="vr/p135c.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00031a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00029a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos incluir um telhado para esse cômodo adicionado à Casinha.</p>
   <ul class="slider">
@@ -9981,7 +9977,7 @@
     </ul>
 	<img src="dt/31_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p135d.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00031b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00029b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em <b>Perspectiva Isométrica</b>. A representação será no <b>primeiro diedro</b>.</p>
   <ul class="slider">
@@ -10019,14 +10015,14 @@
 	<img src="dt/31_03_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p135a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00032.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00030.png" loading="lazy"/>
 	<div class="combo" id="atv71"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.1</span>
 	<br><a href="vr/p135b.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00032a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00030a.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00033.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00031.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00034.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00032.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos representar uma escada pelas suas vistas ortográficas.</p>
   <ul class="slider">
@@ -10045,20 +10041,20 @@
     </ul>
 	<img src="dt/34_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p138_escada.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00034a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00032a.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00035.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00033.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/ca4-NGpF9Mw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+	<img src="dt/Apost_DT_2021_00034.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00035.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00036.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00037.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00038.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00039.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para construir a circunferência em perspectiva isométrica, vamos utilizar o quadrado <b>ABCD</b> circunscrito na circunferência. Os pontos de tangência dos lados do quadrado também serão utilizados nesta construção.</p>
   <ul class="slider">
@@ -10144,10 +10140,10 @@
 	<img src="dt/39_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00040.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00038.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<figcaption>As construções geométricas dos exercícios da pág. 145 até a pág. 150 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></figcaption>
-	<img src="dt/Apost_DT_2021_00041.png" loading="lazy"/>
+	<figcaption>As construções geométricas dos exercícios da pág. 143 até a pág. 148 foram feitas pela <b>prof&ordf; Simone da Silva Soria Medina.</b></figcaption>
+	<img src="dt/Apost_DT_2021_00039.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10220,7 +10216,7 @@
     </ul>
 	<img src="dt/41_01_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p145_1.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00041a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00039a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10276,7 +10272,7 @@
 	<img src="dt/41_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p145_2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00042.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00040.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10331,7 +10327,7 @@
     </ul>
 	<img src="dt/42_01_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p146_3.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00042a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00040a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10369,7 +10365,7 @@
 	<img src="dt/42_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p146_4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00043.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00041.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10406,7 +10402,7 @@
     </ul>
 	<img src="dt/43_01_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p147_5.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00043a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00041a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10426,7 +10422,7 @@
 	<img src="dt/43_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p147_6.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00044.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00042.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10445,7 +10441,7 @@
     </ul>
 	<img src="dt/44_01_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p148_7.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00044a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00042a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10465,10 +10461,10 @@
 	<img src="dt/44_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p148_8.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00045.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00043.png" loading="lazy"/>
 	<div class="combo" id="atv72"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.2</span>
 	<br><a href="vr/p149_9.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00045a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00043a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10517,7 +10513,7 @@
     </ul>
 	<img src="dt/45_02_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p149_10.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00045b.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00043b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p>
   <ul class="slider">
@@ -10537,112 +10533,90 @@
 	<img src="dt/45_03_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/p149_11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00046.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00044.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/5h2IT7hlz9g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+	<img src="dt/Apost_DT_2021_00045.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00046.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00047.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00048.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00049.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00050.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00051.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
     <img src="dt/51_01.png" loading="lazy"/>
     <figcaption>A Vista Frontal é desenhada integralmente. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
   </details><a href="vr/p155.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00052.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00050.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
     <img src="dt/52_01.png" loading="lazy"/>
     <figcaption>A Vista Frontal é desenha integralmente. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
   </details><a href="vr/p156.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00053.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00051.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos desenhar a Vista Frontal (VF), a Vista Superior Parcial (VSP) e a Vista Auxiliar (VA). Usaremos a Unidade o mm e a Escala Natural.</p>
     <img src="dt/53_01.png" loading="lazy"/>
     <figcaption>A Vista Frontal é desenha integralmente, porém a parte inclinada somente é possível representá-la após a construção da VA. A Vista Superior Parcial possui uma linha de ruptura, indicando que parte do Objeto não será representado pois não está em VG nesta Vista. A Vista Auxiliar foi obtida por meio de uma Mudança de Plano Horizontal, a mesma também possui uma linha de ruptura.</figcaption>
   </details><a href="vr/p157.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00054.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00052.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos desenhar a Vista Frontal (VF) e duas Vistas Auxiliares (VA1 e VA2). Usaremos a Unidade o mm e a Escala Natural.</p>
     <img src="dt/54_01.png" loading="lazy"/>
     <figcaption>A Vista Frontal é desenha integralmente. As Vistas Auxiliares foram obtidas por meio de Mudança de Planos Horizontal, cada uma possui linhas de rupturas indicando que parte o Objeto não será representado pois não está em VG na Vista correspondente.</figcaption>
   </details><a href="vr/p158.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00055.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00053.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/LicqxXRCiZc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+	<img src="dt/Apost_DT_2021_00054.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
+	<img src="dt/Apost_DT_2021_00055.png" loading="lazy"/>
+	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00056.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
 	<img src="dt/Apost_DT_2021_00057.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00058.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00059.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos representar o corte indicado no objeto.</p>
     <img src="dt/59_01.png" loading="lazy"/>
     <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
   </details><a href="vr/p163a.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00060.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00058.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos representar o corte indicado no objeto.</p>
     <img src="dt/60_01_01.png" loading="lazy"/>
     <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
   </details><a href="vr/p164b.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00060a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00058a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos representar o corte indicado no objeto.</p>
     <img src="dt/60_02_01.png" loading="lazy"/>
     <figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption>
   </details><a href="vr/p164c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00061.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00059.png" loading="lazy"/>
 	<div class="combo" id="atv73"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 7.3</span>
 	<br><a href="vr/p165d.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="dt/Apost_DT_2021_00061a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00059a.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00062.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00060.png" loading="lazy"/>
 	<div class="combo"><a href="vr/casa.html" target="_blank" class="visu">Projeto 1</a>
 	<br><p>Autor do projeto: Leonardo M. https://3dwarehouse.sketchup.com/user/5a536402-64bf-4559-b8e4-239cb727f496/leonardo-M</p>
 	<br><a href="vr/casa1.html" target="_blank" class="visu">Projeto 2</a>
 	<br><p>Autor do projeto: Steve Aull https://3dwarehouse.sketchup.com/user/1680783143301424257520896/Steve-Aull</p></div>
-	<img src="dt/Apost_DT_2021_00062a.png" loading="lazy"/>
+	<img src="dt/Apost_DT_2021_00060a.png" loading="lazy"/>
 	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00063.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00064.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00065.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00066.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00067.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00068.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00069.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00070.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00071.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00072.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>
-	<img src="dt/Apost_DT_2021_00073.png" loading="lazy"/>
-	<p class="topop"><a href="#dtecnico" class="topo">voltar ao topo</a></p>	
 <!--<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 7.1: 7b da pág. 136</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><p>Vamos desenhar as <b>Vistas do objeto</b> que está representado em <b>Perspectiva Isométrica</b>. A representação será no <b>primeiro diedro</b>.</p><ul class="slider"><li><input type="radio" id="dt400" name="sl"><label for="dt400"></label><img src="solucoes/7/32_01_01.png"/><figcaption><b>Identificamos as Vistas</b> Frontal (VF), Superior (VS) e Lateral Esquerda (VLE) na Perspectiva.</figcaption></li><li><input type="radio" id="dt401" name="sl"><label for="dt401"></label><img src="solucoes/7/32_01_02.png"/><figcaption>Após <b>analisarmos a forma</b> do objeto e <b>delimitar o mesmo</b> obtemos as maiores dimensões do objeto: 4,2cm de largura, 2,2cm de altura e 3,2cm de profundidade. Desenhamos um <b>esboço</b> para as Vistas e marcamos essas dimensões maiores para termos uma ideia do espaço que será ocupado para o desenho.</figcaption></li><li><input type="radio" id="dt402" name="sl"><label for="dt402"></label><img src="solucoes/7/32_01_03.png"/><figcaption>Desenhamos três retângulos conforme o esboço, lembrando que devemos utilizar a escala 2:1 para representar as medidas e que devemos deixar um mesmo espaçamento entre os retângulos. </figcaption></li><li><input type="radio" id="dt403" name="sl"><label for="dt403"></label><img src="solucoes/7/32_01_04.png"/><figcaption>Marcamos nas Vistas as <b>medidas menores</b>.</figcaption></li><li><input type="radio" id="dt404" name="sl"><label for="dt404"></label><img src="solucoes/7/32_01_05.png"/><figcaption><b>Detalhamos as Vistas</b> do objeto. </figcaption></li></ul><img src="solucoes/7/32_01_00.png" class="fundo"/></details></div><h4>Exercício 7.2: 9 da pág. 149</h4><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><p>Vamos construir a <b>Perspectiva Isométrica Simplificada</b> do Objeto.</p><ul class="slider"><li><input type="radio" id="dt741" name="sl"><label for="dt741"></label><img src="solucoes/7/45_01_01.png"/><figcaption>Construímos o sólido seguindo os mesmos passos dos exercícios anteriores.</figcaption></li><li><input type="radio" id="dt742" name="sl"><label for="dt742"></label><img src="solucoes/7/45_01_02.png"/><figcaption>Representamos a circunferência que está contida num plano horizontal (aparece em VG na vista superior). </figcaption></li><li><input type="radio" id="dt743" name="sl"><label for="dt743"></label><img src="solucoes/7/45_01_03.png"/><figcaption>Pronto! A perspectiva está representada.</figcaption></li></ul><img src="solucoes/7/45_01_00.png" class="fundo"/></details><h4>Exercício 7.3: 1d da pág. 165</h4><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Vamos representar o corte indicado no objeto.</p><img src="solucoes/7/61_01.png"/><figcaption>O corte é obtido por meio da interseção com um Plano Frontal definido pelos pontos A e B. Somente a seção resultante que é hachurada.</figcaption></details>-->
 
 </details>
