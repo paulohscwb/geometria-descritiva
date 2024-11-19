@@ -10681,7 +10681,7 @@
 		<li>
            <input type="radio" id="tn007" name="sl">
            <label for="tn007"></label>
-           <img src="aplicacoes/108_14.png" loading="lazy"/>
+           <img src="aplicacoes/108_13.png" loading="lazy"/>
          <figcaption></figcaption>
 		</li>
 		<li>
@@ -10722,8 +10722,8 @@
 		</li>
 		</ul>
 		<img src="aplicacoes/108_00.png" class="fundo" loading="lazy"/>
-	</details></div>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 		<p>.</p>
 		<ul class="slider">
 		<li>
@@ -10805,9 +10805,9 @@
          <figcaption></figcaption>
 		</li>
 		</ul>
-		<img src="aplicacoes/108_20.png" class="fundo" loading="lazy"/>
-	</details></div>
-	<a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a>
+		<img src="aplicacoes/108_00.png" style="visibility:hidden" class="fundo" loading="lazy"/>
+	</details>
+	<a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-05.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
@@ -10893,8 +10893,8 @@
 		</li>
 		</ul>
 		<img src="aplicacoes/109_00.png" class="fundo" loading="lazy"/>
-	</details></div>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 		<p>.</p>
 		<ul class="slider">
 		<li>
@@ -10977,8 +10977,8 @@
 		</li>
 		</ul>
 		<img src="aplicacoes/109_14.png" class="fundo" loading="lazy"/>
-	</details></div>
-	<a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a>
+	</details>
+	<a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-06.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
