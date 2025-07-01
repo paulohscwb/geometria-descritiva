@@ -7032,7 +7032,7 @@
            <input type="radio" id="l063" name="sl">
            <label for="l063"></label>
            <img src="planosTV/72_00_01.png" loading="lazy"/>
-        <figcaption>Dados os pontos <b>A</b> e <b>B</b>, o plano vertical já fica definido pelos seus traços horizontal (<b>&alpha;&pi;'</b> e vertical (<b>&alpha;&pi;"</b>) e como  as bases são paralelas, já podemos traçar o plano vertical que passa pelo ponto <b>G</b>.</figcaption>
+        <figcaption>Dados os pontos <b>A</b> e <b>B</b>, o plano vertical já fica definido pelos seus traços horizontal <b>&alpha;&pi;'</b> e vertical <b>&alpha;&pi;"</b> e como  as bases são paralelas, já podemos traçar o plano vertical que passa pelo ponto <b>G</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l064" name="sl">
