@@ -8178,7 +8178,7 @@
 	<p>Esse exercício também é parecido com os anteriores. Agora será representado um octaedro regular com a seção equatorial contida no plano qualquer.</p>
 	<img src="planosPQ/92_02_01.png" loading="lazy"/>
 	<figcaption>O plano qualquer está definido pelos pontos <b>A</b>, <b>B</b> e <b>P</b>. Obtenha os pontos <b>Q</b> e <b>R</b> de cota nula do plano, a 1ª projeção deles define a reta <b>&alpha;&pi;'</b>. Lembre-se que a altura deverá ser marcada a partir do centro da seção equatorial do mesmo.</figcaption>
-  </details></div>
+  </details><a href="vr/a59.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00104.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
