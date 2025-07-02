@@ -216,9 +216,9 @@
 			<a-entity faceset="vertices: -1 0.5 4.5  7 2 3  7 2.5 1  7 4.5 0.5  7 6 2;" mixin="linhas"></a-entity>
 			<a-entity faceset="vertices: -1 0.5 4.5  7 6 2  7 5.5 4  7 3.5 4.5  7 2 3;" mixin="linhas"></a-entity>
 			<a-entity line__4="start: 7 2 3; end: 7 2.5 1; color: #404040" line__5="start: 7 4.5 0.5; end: 7 6 2; color: #404040" line__1="start: 7 6 2; end: 7 5.5 4; color: #404040" line__3="start: 7 5.5 4; end: 7 3.5 4.5; color: #404040" line__2="start: 7 3.5 4.5; end: 7 2 3; color: #404040" line__6="start: 7 3.5 4.5; end: -1 0.5 4.5; color: #404040"></a-entity>-->
-			<a-plane position="2 1.5 4" mixin="mtl0 mtl5" rotation="90 0 0" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<a-obj-model src="vr/objetos/a9.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a9L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="2 1.5 4" mixin="mtl0 mtl5" rotation="90 0 0" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model src="vr/objetos/a9.glb"></a-gltf-model>-->
 		</a-entity>
 	  </a-marker>
@@ -226,22 +226,22 @@
 	  <a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	  	<a-link mixin="lnk" class="lnk" href="vr/a10.html"></a-link>
 		  <a-entity position="3.5 0 0" id="pg57_prisma obliquo" scale="0.5 0.5 0.5" gesture-handler>	  
-			<a-text position="1 2 1.5" value="A" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="1 2 1.5"></a-sphere>
-			<a-text position="1 4 3" value="B" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="1 4 3"></a-sphere>
-			<a-text position="1 2.5 5" value="C" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="1 2.5 5"></a-sphere>
-			<a-text position="1 0.5 3.7" value="D" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="1 0.5 3.5"></a-sphere>
-			<a-text position="-3.5 3.6 -2.7" value="E" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="-3 3.6 -2.7"></a-sphere>
-			<a-text position="-3.5 5.6 -1.2" value="F" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="-3 5.6 -1.2"></a-sphere>
-			<a-text position="-3.5 4.1 0.8" value="G" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="-3 4.1 0.8"></a-sphere>
-			<a-text position="-3.5 2.1 -0.5" value="H" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="-3 2.1 -0.7"></a-sphere>
+			<a-text position="1.1 2 2.5" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 2 2.5"></a-sphere>
+			<a-text position="1.1 4 4" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 4 4"></a-sphere>
+			<a-text position="1.1 2.5 6" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 2.5 6"></a-sphere>
+			<a-text position="1.1 0.5 4.7" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 0.5 4.5"></a-sphere>
+			<a-text position="-3.5 3.6 -1.7" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-3 3.6 -1.7"></a-sphere>
+			<a-text position="-3.5 5.6 -0.2" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-3 5.6 -0.2"></a-sphere>
+			<a-text position="-3.5 4.1 1.8" value="G" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-3 4.1 1.8"></a-sphere>
+			<a-text position="-3.5 2.1 0.5" value="H" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-3 2.1 0.3"></a-sphere>
 			
 			<a-text position="6.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
@@ -268,10 +268,10 @@
 				line__9="start: 1 2 1.5; end: -3 3.6 -2.7; color: #404040" line__11="start: 1 4 3; end: -3 5.6 -1.2; color: #404040"
 				line__10="start: 1 2.5 5; end: -3 4.1 0.8; color: #404040" line__12="start: 1 0.5 3.5; end: -3 2.1 -0.7; color: #404040">
 			</a-entity>-->
-			<a-plane position="0 2.5 2.5" mixin="mtl0 mtl5" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model src="vr/objetos/a10.glb"></a-gltf-model>-->
 			<a-obj-model src="vr/objetos/a10.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a10L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="0 2.5 3.5" mixin="mtl0 mtl5" width="7" height="4" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 		</a-entity>
 	</a-marker>
 
@@ -393,10 +393,10 @@
 				line__9="start: 3 1 2; end: -1.3 2.6 3.3; color: #404040" line__11="start: 5 2 0; end: 0.7 3.6 1.3; color: #404040"
 				line__10="start: 6.8 2.9 2.2; end: 2.5 4.5 3.5; color: #404040" line__12="start: 4.8 1.9 4.2; end: 0.5 3.5 5.5; color: #404040">
 			</a-entity>-->
-			<a-plane position="2 2 2.5" mixin="mtl0 mtl5" rotation="45 90 0" width="7" height="7" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model src="vr/objetos/a12.glb"></a-gltf-model>-->
 			<a-obj-model src="vr/objetos/a12.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a12L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="2 2 2.5" mixin="mtl0 mtl5" rotation="45 90 0" width="7" height="7" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 		</a-entity>
 	  </a-marker>
 
@@ -907,22 +907,22 @@
 	  <a-marker type="barcode" value="29" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		  <a-link mixin="lnk" class="lnk" href="vr/a29.html"></a-link>
 		  <a-entity position="3 0 0" id="pg86_prismaquadrangular" scale="0.5 0.5 0.5" gesture-handler>		  
-	  		<a-text position="1 2.2 1" value="A" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="1.4 2.2 1"></a-sphere>
-			<a-text position="3.9 0.5 1.8" value="B" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="3.7 0.5 1.85"></a-sphere>
-			<a-text position="5.3 1.3 -0.6" value="C" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="5.2 1.31 -0.6"></a-sphere>
-			<a-text position="2.4 3 -1.4" value="D" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="2.9 3.01 -1.45"></a-sphere>
-			<a-text position="2.7 5.6 3.3" value="E" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="3.16 5.69 3.23"></a-sphere>
-			<a-text position="5.5 4 4.1" value="F" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="5.46 3.99 4.08"></a-sphere>
-			<a-text position="7 4.8 1.7" value="G" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="6.96 4.8 1.63"></a-sphere>
-			<a-text position="4.8 6.5 0.8" value="H" mixin="texto"></a-text>
-			<a-sphere mixin="ponto" position="4.66 6.5 0.78"></a-sphere>
+	  		<a-text position="1 3.2 1.7" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.4 3.24 1.69"></a-sphere>
+			<a-text position="3.9 1.5 2.5" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.7 1.54 2.54"></a-sphere>
+			<a-text position="5.3 2.3 -0.6" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.2 2.35 0.09"></a-sphere>
+			<a-text position="2.4 4 -1.4" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2.9 4.05 -0.76"></a-sphere>
+			<a-text position="2.7 6.6 3.3" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="3.16 6.73 3.92"></a-sphere>
+			<a-text position="5.5 5 4.1" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.46 5.03 4.77"></a-sphere>
+			<a-text position="7 5.8 1.7" value="G" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.96 5.84 2.32"></a-sphere>
+			<a-text position="4.8 7.5 0.8" value="H" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4.66 7.54 1.47"></a-sphere>
 			
 			<a-text position="8.3 0.1 0.5" value="x" rotation="-90 0 0" mixin="texto"></a-text>
 			<a-text position="-0.4 0.1 8.3" value="y" rotation="-90 0 0" mixin="texto"></a-text>
@@ -955,11 +955,11 @@
 				line__10="start: 1.4 2.2 1; end: 3.1 5.7 3.25; color: #404040" line__12="start: 3.7 0.5 1.85; end: 5.4 4 4.1; color: #404040"
 				line__13="start: 5.22 1.3 -0.6; end: 6.95 4.8 1.7; color: #404040" line__18="start: 2.92 3 -1.42; end: 4.65 6.5 0.8; color: #404040;">
 			</a-entity>-->
-			<a-plane position="3 3 1.5" mixin="mtl0 mtl1" rotation="45 90 0" width="8" height="6" scale="1 1.5 1" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model scale="0.999 0.999 0.999" src="vr/objetos/a29a.glb"></a-gltf-model>
 			<a-gltf-model src="vr/objetos/a29b.glb"></a-gltf-model>-->
 			<a-obj-model src="vr/objetos/a29.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a29L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="3.5 3.5 2" mixin="mtl0 mtl1" rotation="45 90 0" width="8" height="8" scale="1 1.5 1" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 		</a-entity>
 	  </a-marker>
 	
@@ -1112,10 +1112,10 @@
 				line__10="start: 7.55 1.9 3.6; end: 7.9 3.9 5.2; color: #404040" line__12="start: 7.9 3.9 5.2; end: 5.9 5.1 6.2; color: #404040"
 				line__13="start: 5.9 5.1 6.2; end: 3.55 4.35 5.6; color: #404040" line__18="start: 3.55 4.35 5.6; end: 3.2 2.4 4; color: #404040;">
 			</a-entity>-->
-			<a-plane position="4 3.5 4" mixin="mtl0 mtl6" rotation="0 -45 0" width="8" height="6" scale="1.5 1.2 1.5" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model src="vr/objetos/a26.glb"></a-gltf-model>-->
 			<a-obj-model src="vr/objetos/a26.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a26L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="4 3.5 4" mixin="mtl0 mtl6" rotation="0 -45 0" width="8" height="6" scale="1.5 1.2 1.5" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 		</a-entity>
 	  </a-marker>
 	  
@@ -1235,10 +1235,10 @@
 				line__10="start: 2.3 3.2 1.9; end: 2.3 4.9 5; color: #404040" line__12="start: 5 1.2 3; end: 5 2.9 6.1; color: #404040"
 				line__13="start: 7.3 3.6 1.7; end: 7.3 5.3 4.8; color: #404040" line__18="start: 4.6 5.6 0.6; end: 4.6 7.3 3.7; color: #404040;">
 			</a-entity>-->
-			<a-plane position="4 4 3" mixin="mtl0 mtl5" rotation="45 90 0" width="8" height="8" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 			<!--<a-gltf-model src="vr/objetos/a24.glb"></a-gltf-model>-->
 			<a-obj-model src="vr/objetos/a24.obj" mtl="#material" scale="0.999 0.999 0.999"></a-obj-model>
 			<a-obj-model src="vr/objetos/a24L.obj" mtl="#material"></a-obj-model>
+			<a-plane position="4 4 3" mixin="mtl0 mtl5" rotation="45 90 0" width="8" height="8" animation="property: opacity; from: 0.2; to: 0.7; dir: alternate; loop: true; dur: 7000;"></a-plane>
 		</a-entity>
 	  </a-marker> 
 	  
