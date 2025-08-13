@@ -1729,13 +1729,13 @@
     <img src="prop/20_03_00b.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
-  <img src="prop/Apost_GD_2021_00019b.png" loading="lazy"/>
+  <img src="prop/Apost_GD_2021_00019a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
     <img src="prop/20_03_00c.png">
 	<figcaption></figcaption>
   </details></div>
-  <img src="prop/Apost_GD_2021_00019a.png" loading="lazy"/>
+  <img src="prop/Apost_GD_2021_00019b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1897,7 +1897,7 @@
 	<img src="prop/21_05_00a.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
-  <img src="prop/Apost_GD_2021_00020b.png" loading="lazy"/>
+  <img src="prop/Apost_GD_2021_00020a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1947,7 +1947,7 @@
 	<img src="prop/21_05_00c.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
-  <img src="prop/Apost_GD_2021_00020a.png" loading="lazy"/>
+  <img src="prop/Apost_GD_2021_00020b.png" loading="lazy"/>
   <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Apost_GD_2021_00021.png" loading="lazy"/>
