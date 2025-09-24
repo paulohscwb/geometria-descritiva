@@ -3499,7 +3499,7 @@
            <input type="radio" id="479" name="sl">
            <label for="479"></label>
            <img src="pontos-retas/40_02_01.png" loading="lazy"/>
-        <figcaption>Os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b>, por serem retas de abscissa constante, passam pela origem.</figcaption>
+        <figcaption>Represente os eixos <b>x</b>, <b>y</b> e <b>z</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="480" name="sl">
@@ -3517,7 +3517,7 @@
            <input type="radio" id="482" name="sl">
            <label for="482"></label>
            <img src="pontos-retas/40_02_04.png" loading="lazy"/>
-         <figcaption>De maneira geral uma reta de perfil atravessa três diedros...</figcaption>
+         <figcaption>Uma reta de perfil atravessa três diedros ou dois (os diedros ímpares ou os pares)...</figcaption>
        </li>
 	   <li>
            <input type="radio" id="482a" name="sl">
@@ -3549,7 +3549,7 @@
            <input type="radio" id="483" name="sl">
            <label for="483"></label>
            <img src="pontos-retas/41_01_01.png" loading="lazy"/>
-        <figcaption>Podemos representar os traços <b>&pi;'&pi;'''</b> e <b>&pi;''&pi;'''</b> passando pelo origem. Representamos também as projeções <b>r'</b> e <b>r''</b> da reta de perfil, que são coincidentes e perpendiculares à LT. Observe que existem infinitas retas de perfil que passam por <b>A</b>.</figcaption>
+        <figcaption>Represente os eixos <b>x</b>, <b>y</b> e <b>z</b>. Representamos também as projeções <b>r'</b> e <b>r''</b> da reta de perfil, que são coincidentes e perpendiculares à LT. Observe que existem infinitas retas de perfil que passam por <b>A</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="484" name="sl">
@@ -3567,7 +3567,7 @@
            <input type="radio" id="486" name="sl">
            <label for="486"></label>
            <img src="pontos-retas/41_01_04.png" loading="lazy"/>
-        <figcaption>As retas de perfil ficam definidas por dois de seus pontos, então escolhemos um ponto <b>P</b> sobre a reta <b>r</b> e um ponto <b>P<sub>1</sub></b> sobre <b>r<sub>1</sub></b>. Neste caso escolhemos os pontos de cota 15: <b>P'''</b> e <b>P<sub>1</sub>'''</b> vão estar numa na interseção de uma reta de cota 15 com <b>r'''</b> e <b>r<sub>1</sub>'''</b> respectivamente.</figcaption>
+        <figcaption>As retas de perfil ficam definidas por dois de seus pontos, então escolhemos um ponto <b>P</b> sobre a reta <b>r</b> e um ponto <b>P<sub>1</sub></b> sobre <b>r<sub>1</sub></b>. Neste caso escolhemos os pontos de cota 15: <b>P'''</b> e <b>P<sub>1</sub>'''</b> estarão na interseção de uma reta de cota 15 com <b>r'''</b> e <b>r<sub>1</sub>'''</b> respectivamente.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="487" name="sl">
@@ -3713,7 +3713,8 @@
            <input type="radio" id="502" name="sl">
            <label for="502"></label>
            <img src="pontos-retas/43_01_02.png" loading="lazy"/>
-        <figcaption>Encontramos <b>r<sub>1</sub>'</b>. Esta reta apresenta a VG do segmento <b>AB</b>. </figcaption>
+        <figcaption>Encontramos <b>r<sub>1</sub>'</b> e <b>A<sub>1</sub>'B<sub>1</sub>'</b> corresponde a VG do segmento <b>AB</b>.
+		</figcaption>
        </li>
 	   <li>
            <input type="radio" id="503" name="sl">
@@ -4028,13 +4029,13 @@
            <input type="radio" id="e033se2" name="sl">
            <label for="e033se2"></label>
            <img src="pontos-retas/47_02_01.png" loading="lazy"/>
-        <figcaption>As retas <b>r</b> e <b>s</b> são reversas, pois as projeções não ficam paralelas e não são concorrentes.</figcaption>
+        <figcaption>As retas <b>r</b> e <b>s</b> são reversas, pois estão em planos projetantes em 1&ordf; e 2&ordf; projeções distintos e suas terceiras projeções são concorrentes.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e034se2" name="sl">
            <label for="e034se2"></label>
            <img src="pontos-retas/47_02_02.png" loading="lazy"/>
-        <figcaption>As retas <b>r</b> e <b>s</b> são concorrentes.</figcaption>
+        <figcaption>As retas <b>r</b> e <b>s</b> são concorrentes pois estão no mesmo plano projetante em 1&ordf; e 2&ordf; projeções e suas terceiras projeções são concorrentes.</figcaption>
        </li>
 	</ul>
 	<img src="pontos-retas/47_02_01.png" class="fundo" loading="lazy"/>
@@ -4444,7 +4445,7 @@
            <input type="radio" id="e035nh1" name="sl">
            <label for="e035nh1"></label>
            <img src="planosHFP/51_03_04.png" loading="lazy"/>
-        <figcaption>Como um dos lados do hexágono regular deve formar ângulo de 15° com <b>&pi;''</b>, então um dos seus diâmetros também deve formar o mesmo ângulo com <b>&pi;''</b>. Ou seja, vamos construir uma reta <b>r</b> horizontal de <b>&alpha;''</b> que forme ângulo de 15° com <b>&pi;''</b> e que passe pelo ponto <b>O</b> dado. Encaixe o esquadro de 45 no prolongamento da Linha de Chamada (LC) de <b>O</b>.</figcaption>
+        <figcaption>Como um dos lados do hexágono regular deve formar ângulo de 15° com <b>&pi;''</b>, então um dos seus diâmetros também deve formar o mesmo ângulo com <b>&pi;''</b>. Ou seja, vamos construir uma reta <b>r</b> horizontal de <b>&alpha;</b> que forme ângulo de 15° com <b>&pi;''</b> e que passe pelo ponto <b>O</b> dado. Encaixe o esquadro de 45 no prolongamento da Linha de Chamada (LC) de <b>O</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e035ni1" name="sl">
@@ -4574,7 +4575,7 @@
            <input type="radio" id="e050a" name="sl">
            <label for="e050a"></label>
            <img src="planosHFP/53_01_13.png" loading="lazy"/>
-        <figcaption>Assim, em épura representamos os segmentos <b>A'O'</b>, <b>B'O'</b>, <b>C'O'</b>, <b>D'O'</b>, <b>E'O'</b> e <b>F'O'</b> por linhas contínuas largas. O ponto <b>V</b> é um ponto visível em primeira projeção e como está dentro do contorno aparente temos que todas as arestas que partem dele serão também visíveis.</figcaption>
+        <figcaption>Assim, em épura representamos os segmentos <b>A'V'</b>, <b>B'V'</b>, <b>C'V'</b>, <b>D'V'</b>, <b>E'V'</b> e <b>F'V'</b> por linhas contínuas largas. O ponto <b>V</b> é um ponto visível em primeira projeção e como está dentro do contorno aparente temos que todas as arestas que partem dele serão também visíveis.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/53_01_00.png" class="fundo" loading="lazy"/>
@@ -4826,7 +4827,7 @@
            <input type="radio" id="e096" name="sl">
            <label for="e096"></label>
            <img src="planosHFP/55_02_06.png" loading="lazy"/>
-        <figcaption>Representar o plano <b>&beta;</b> que contém os vértices <b>D</b>, <b>E</b> e <b>F</b>.</figcaption>
+        <figcaption>Representar o plano <b>&beta;</b> horizontal que contém os vértices <b>D</b>, <b>E</b> e <b>F</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e097" name="sl">
@@ -4865,7 +4866,7 @@
            <input type="radio" id="e106" name="sl">
            <label for="e106"></label>
            <img src="planosHFP/56_01_04.png" loading="lazy"/>
-        <figcaption>Representar o plano <b>&beta;</b> que passa pelo ponto <b>E</b> e contém os vértices <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.
+        <figcaption>Representar o plano <b>&beta;</b> horizontal que passa pelo ponto <b>E</b> e contém os vértices <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.
 		</figcaption>
        </li>
 	   <li>
@@ -4878,13 +4879,13 @@
            <input type="radio" id="e108" name="sl">
            <label for="e108"></label>
            <img src="planosHFP/56_01_06.png" loading="lazy"/>
-        <figcaption>Representar a altura do sólido, fazendo a perpendicular por uma das arestas laterais do sólido, nesse caso utilizamos a <b>A'G'</b>.</figcaption>
+        <figcaption>Representar o contorno aparente do sólido.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e109" name="sl">
            <label for="e109"></label>
            <img src="planosHFP/56_01_07.png" loading="lazy"/>
-        <figcaption>Representar o contorno aparente do sólido. Representar a visibilidade do sólido.</figcaption>
+        <figcaption>Representar a visibilidade do sólido.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/56_01_00.png" class="fundo" loading="lazy"/>
@@ -4910,7 +4911,7 @@
            <input type="radio" id="e119" name="sl">
            <label for="e119"></label>
            <img src="planosHFP/56_02_03.png" loading="lazy"/>
-        <figcaption>Representar o hexágono inscrito na circunferencia.</figcaption>
+        <figcaption>Representar o hexágono inscrito na circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e120" name="sl">
@@ -4928,13 +4929,13 @@
            <input type="radio" id="e122" name="sl">
            <label for="e122"></label>
            <img src="planosHFP/56_02_06.png" loading="lazy"/>
-        <figcaption>Fazer um arco de circunferencia com centro em <b>A'</b> e raio igual à aresta.</figcaption>
+        <figcaption>Fazer um arco de circunferência com centro em <b>A'</b> e raio igual à aresta.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e123" name="sl">
            <label for="e123"></label>
            <img src="planosHFP/56_02_07.png" loading="lazy"/>
-        <figcaption>Marcar a altura encontrada, a partir do plano <b>&alpha;</b>, para cima ou para baixo, determinando o plano <b>&beta;</b>, onde ficarão os vértices: <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
+        <figcaption>Marcar a altura encontrada, a partir do plano <b>&alpha;</b>, para cima ou para baixo, determinando o plano <b>&beta;</b> horizontal, onde ficarão os vértices: <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e124" name="sl">
@@ -5035,7 +5036,7 @@
            <input type="radio" id="e153" name="sl">
            <label for="e153"></label>
            <img src="planosHFP/57_02_04.png" loading="lazy"/>
-        <figcaption>Traçar a circunferência que circunscreve o triângulo, para isso traçar a perpendicular por cada vértice ao lado oposto e encontrar o centro da circunferencia.</figcaption>
+        <figcaption>Traçar a circunferência que circunscreve o triângulo, para isso traçar a perpendicular por cada vértice ao lado oposto e encontrar o centro da circunferência.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e154" name="sl">
@@ -5053,7 +5054,7 @@
            <input type="radio" id="e156" name="sl">
            <label for="e156"></label>
            <img src="planosHFP/57_02_07.png" loading="lazy"/>
-        <figcaption>Marcar a altura acima do plano <b>&alpha;</b> e marcar o plano <b>&beta;</b>.</figcaption>
+        <figcaption>Marcar a altura acima do plano <b>&alpha;</b> e marcar o traço do plano <b>&beta;</b> horizontal.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e157" name="sl">
@@ -5370,7 +5371,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>A base da pirâmide está contida num plano frontal, logo a segunda projeção desta base está em VG e a primeira projeção reduzida a um segmento de reta paralelo à LT (contido no traço horizontal do plano).</p>
 	<img src="planosHFP/51_01_00a.png" loading="lazy"/>
-	<figcaption>A altura é de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto <b>O</b>.</figcaption>
+	<figcaption>A altura de uma pirâmide regular é perpendicular à base e passa pelo seu centro, logo contida na reta de topo definida pelo ponto <b>O</b>.</figcaption>
   </details>
   <a href="vr/a3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosHFP/Apost_GD_2021_00061a.png" loading="lazy"/>
@@ -5408,7 +5409,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Retas tangentes a circunferências são perpendiculares à reta que passa pelo centro e pelo ponto de tangência.</p>
 	<img src="planosHFP/53_02_00.png" loading="lazy"/>
-	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro <b>OV</b>.</figcaption>
+	<figcaption>Para encontrar os pontos de tangência na segunda projeção construímos uma circunferência de diâmetro <b>O''V''</b>.</figcaption>
   </details>
   <a href="vr/a57.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#planos1" class="topo">voltar ao topo</a></p>
@@ -5583,7 +5584,7 @@
            <input type="radio" id="dn985q" name="sl">
            <label for="dn985q"></label>
            <img src="planosHFP/66_02_05.png" loading="lazy"/>
-        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano de Perfil, intercepta o Plano <b>&alpha;</b> no ponto <b>(p&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano Frontal <b>&alpha;</b>.</figcaption>
+        <figcaption>A reta <b>p</b>, que passa pelo ponto <b>P</b> e é perpendicular ao Plano de Perfil, intercepta o Plano <b>&alpha;</b> no ponto <b>(p&alpha;)</b>, ou seja, esse ponto é o traço de <b>p</b> sobre <b>&alpha;</b>. O segmento definido por <b>P</b> e <b>(p&alpha;)</b> representa a distância do <b>P</b> ao Plano de Perfil <b>&alpha;</b>.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/66_02_00.png" class="fundo" loading="lazy"/>
@@ -6128,7 +6129,7 @@
            <input type="radio" id="s034n" name="sl">
            <label for="s034n"></label>
            <img src="planosTV/59_00_01.png" loading="lazy"/>
-        <figcaption><b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
+        <figcaption>O plano de topo é perpendicular a π'' e oblíquo a π' e a π'''. Em épura temos que <b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035n" name="sl">
@@ -6230,26 +6231,80 @@
 	<img src="planosTV/72_00.png" class="fundo" loading="lazy"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00072a.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos de projeção</summary>
+  <p>Vamos efetuar uma Mudança de Plano Horizontal para transformar o plano de Topo em Horizontal.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s042z" name="sl">
+           <label for="s042z"></label>
+           <img src="planosTV/72_01_01.png" loading="lazy"/>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>. Encontrar o traço vertical do plano: <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s043z" name="sl">
+           <label for="s043z"></label>
+           <img src="planosTV/72_01_02.png" loading="lazy"/>
+        <figcaption>Encontrar os traços vertical <b>&alpha;&pi;''</b> e horizontal <b>&alpha;&pi;'</b> do plano.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s044z" name="sl">
+           <label for="s044z"></label>
+           <img src="planosTV/72_01_03.png" loading="lazy"/>
+        <figcaption>Representar a LT2 paralela ao traço vertical do plano <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s045z" name="sl">
+           <label for="s045z"></label>
+           <img src="planosTV/72_01_04.png" loading="lazy"/>
+        <figcaption>Efetuar a MPH para os pontos <b>A</b> e <b>B</b>, obtendo as novas projeções <b>A<sub>1</sub>'</b> e <b>B<sub>1</sub>'</b>. Neste segundo sistema o plano <b>&alpha;</b> é Horizontal e portanto a VG do quadrado <b>ABCD</b> estará nesta nova primeira projeção. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s046z" name="sl">
+           <label for="s046z"></label>
+           <img src="planosTV/72_01_05.png" loading="lazy"/>
+        <figcaption>Construir a projeção <b>A<sub>1</sub>'B<sub>1</sub>'C<sub>1</sub>'D<sub>1</sub>'</b> que é a VG do quadrado <b>ABCD</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s047z" name="sl">
+           <label for="s047z"></label>
+           <img src="planosTV/72_01_06.png" loading="lazy"/>
+        <figcaption>Obter as segundas projeções dos vértices <b>C</b> e <b>D</b> que pertencem ao traço vertical do plano <b>&alpha;&pi;''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s048z" name="sl">
+           <label for="s048z"></label>
+           <img src="planosTV/72_01_07.png" loading="lazy"/>
+        <figcaption>Obter as primeiras projeções dos vértices <b>C</b> e <b>D</b> marcando no primeiro sistema as suas ordenadas.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s049z" name="sl">
+           <label for="s049z"></label>
+           <img src="planosTV/72_01_08.png" loading="lazy"/>
+        <figcaption>Destacar as projeções do quadrado.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/72_01_00.png" class="fundo" loading="lazy"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - rebatimento</summary>
   <p></p>
   <ul class="slider">
       <li>
            <input type="radio" id="s043" name="sl">
            <label for="s043"></label>
            <img src="planosTV/61_01_02.png" loading="lazy"/>
-        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption>
+        <figcaption>Encontrar as projeções dos pontos <b>A</b> e <b>B</b>. Encontrar o traço vertical do plano: <b>&alpha;&pi;''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s044" name="sl">
            <label for="s044"></label>
            <img src="planosTV/61_01_03.png" loading="lazy"/>
-        <figcaption>Encontrar o traço vertical do plano: <b>&alpha;&pi;''</b>. </figcaption>
+        <figcaption>Encontrar o traço horizontal do plano: <b>&alpha;&pi;'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s045" name="sl">
            <label for="s045"></label>
            <img src="planosTV/61_01_04.png" loading="lazy"/>
-        <figcaption>Encontrar o traço horizontal do plano: <b>&alpha;&pi;'</b>. </figcaption>
+        <figcaption>Rebater o plano <b>&alpha;</b> sobre <b>&pi;'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s046" name="sl">
@@ -6292,7 +6347,12 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00073.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - mudança de planos de projeção</summary>
+	<p>Para representar o hexágono regular contido no plano de Topo basta efetuar uma Mudança de Plano Horizontal para torná-lo um plano Horizontal no segundo sistema e a sua VG estará na nova primeira projeção.</p>
+	<img src="planosTV/73_01_01.png" loading="lazy"/>
+	<figcaption></figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - rebatimento</summary>
 	<p>A solução é similar a do exercício anterior.</p>
 	<img src="planosTV/61_02_00.png" loading="lazy"/>
 	<figcaption></figcaption>
@@ -6311,7 +6371,12 @@
 	<a href="vr/a11.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00074.png" loading="lazy"/>
-	<div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - mudança de planos de projeção</summary>
+	<p></p>
+		<img src="planosTV/p74_ex4_mp.png" loading="lazy"/>
+		<figcaption></figcaption>
+ 	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - rebatimento</summary>
 	<p></p>
 		<img src="planosTV/p74_ex4_mp.png" loading="lazy"/>
 		<figcaption></figcaption>
@@ -6321,7 +6386,67 @@
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<figcaption>As construções geométricas dos exercícios da pág. 75 até a pág. 79 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></figcaption>
 	<img src="planosTV/Apost_GD_2021_00075.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana - mudança de planos de projeção</summary>
+  <p>Vamos começar recuperando a solução do exercício 2 da página 54.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s054z" name="sl">
+           <label for="s054z"></label>
+           <img src="planosTV/75_01_02.png" loading="lazy"/>
+        <figcaption>Representar o ponto <b>Z</b> e os traços do plano <b>&gamma;</b>. Sendo <b>&gamma;</b> um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma com a LT um ângulo igual ao ângulo que o plano forma no espaço com <b>&pi;'</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s055z" name="sl">
+           <label for="s055z"></label>
+           <img src="planosTV/75_01_03.png" loading="lazy"/>
+        <figcaption>Como <b>&gamma;</b> é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical. A interseção das arestas da pirâmide com o <b>&gamma;&pi;''</b> nos fornece os vértices do polígono resultante da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s057z" name="sl">
+           <label for="s057z"></label>
+           <img src="planosTV/75_01_04.png" loading="lazy"/>
+        <figcaption>Encontramos a primeira projeção dos vértices do polígono resultante da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s058z" name="sl">
+           <label for="s058z"></label>
+           <img src="planosTV/75_01_05.png" loading="lazy"/>
+        <figcaption>Unindo os vértices temos a primeira projeção da seção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s059z" name="sl">
+           <label for="s059z"></label>
+           <img src="planosTV/75_01_06.png" loading="lazy"/>
+        <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método da Mudança de Plano Horizontal. Representar a segunda linha de terra paralela ao segundo traço do plano <b>&gamma;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s060z" name="sl">
+           <label for="s060z"></label>
+           <img src="planosTV/75_01_07.png" loading="lazy"/>
+        <figcaption>Fazemos a MPH para os vértices da seção. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s061z" name="sl">
+           <label for="s061z"></label>
+           <img src="planosTV/75_01_08.png" loading="lazy"/>
+        <figcaption>Pronto! A VG da seção está representada.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s062z" name="sl">
+           <label for="s062z"></label>
+           <img src="planosTV/75_01_09.png" loading="lazy"/>
+        <figcaption>Para planificar o tronco da pirâmide resultante da seção precisamos da VG de todas as suas faces. Conhecemos a VG da base da pirâmide e da seção. Precisamos encontrar a VG das arestas da pirâmide. Neste exemplo a aresta <b>VD</b>, que define uma reta qualquer, foi rotacionada até ser transformada em uma reta frontal, apresentando VG na segunda projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s063z" name="sl">
+           <label for="s063z"></label>
+           <img src="planosTV/75_01_10.png" loading="lazy"/>
+        <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano <b>&gamma;</b>. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta <b>VD</b>. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
+       </li>
+	</ul>
+	<img src="planosTV/75_01_01.png" class="fundo" loading="lazy"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Seção plana - rebatimento</summary>
   <p>Vamos começar recuperando a solução do exercício 2 da página 54.</p>
   <ul class="slider">
       <li>
@@ -6382,7 +6507,7 @@
 	<img src="planosTV/63_01_01.png" class="fundo" loading="lazy"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Planificação</summary>
-  <p>Desenhe uma reta <b>r</b> e marque sobre ela o um dos lados do quadrado (por exemplo o lado <b>CD</b>).</p>
+  <p>Desenhe uma reta <b>r</b> e marque sobre ela um dos lados do quadrado (por exemplo o lado <b>CD</b>).</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s064" name="sl">
@@ -6485,7 +6610,13 @@
            <input type="radio" id="s071z" name="sl">
            <label for="s071z"></label>
            <img src="planosTV/75_04_07.png" loading="lazy"/>
-        <figcaption>Para encontrar a VG da seção, podemos fazer a mudança de planos horizontal do plano de topo, ou o rebatimento deste plano em <b>&pi;'</b>.</figcaption>
+        <figcaption>Para encontrar a VG da seção, podemos fazer o rebatimento deste plano em <b>&pi;'</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s071z1" name="sl">
+           <label for="s071z1"></label>
+           <img src="planosTV/75_04_07a.png" loading="lazy"/>
+        <figcaption>... ou a mudança de planos horizontal do plano de topo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s072z" name="sl">
@@ -6560,13 +6691,25 @@
            <input type="radio" id="s029a" name="sl">
            <label for="s029a"></label>
            <img src="planosTV/64_01_01.png" loading="lazy"/>
-        <figcaption></figcaption>
+        <figcaption>Solução por rebatimento</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s030a" name="sl">
            <label for="s030a"></label>
            <img src="planosTV/64_01_02.png" loading="lazy"/>
-        <figcaption></figcaption>
+        <figcaption>Solução por rebatimento</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s030az" name="sl">
+           <label for="s030az"></label>
+           <img src="planosTV/64_01_03.png" loading="lazy"/>
+        <figcaption>Solução por mudança de planos de projeção</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s030ax" name="sl">
+           <label for="s030ax"></label>
+           <img src="planosTV/64_01_04.png" loading="lazy"/>
+        <figcaption>Solução por mudança de planos de projeção</figcaption>
        </li>
     </ul>
 	<img src="planosTV/64_01_01.png" class="fundo" loading="lazy"/>
@@ -6592,112 +6735,76 @@
            <input type="radio" id="l003" name="sl">
            <label for="l003"></label>
            <img src="planosTV/65_01_03.png" loading="lazy"/>
-         <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>A</b> é zero, vai permanecer zero e portanto <b>A'<sub>1</sub></b> fica sobre a nova LT. Para transportar o afastamento do ponto <b>B</b>, tomamos essa medida com o compasso. </figcaption>
+         <figcaption>Efetuar a MPH para os pontos <b>A</b> e <b>B</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l004" name="sl">
            <label for="l004"></label>
            <img src="planosTV/65_01_04.png" loading="lazy"/>
-         <figcaption>Transportamos o afastamento do ponto <b>B</b>, sobre a perpendicular à LT a partir da nova LT. <b>A'<sub>1</sub>B'<sub>1</sub></b> é a verdadeira grandeza do lado do hexágono da base.</figcaption>
+         <figcaption>Nesse novo sistema o plano <b>&alpha;</b> é Horizontal e, portanto, a VG da base hexagonal está nesta nova projeção. Construir a nova projeção em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l005" name="sl">
            <label for="l005"></label>
            <img src="planosTV/65_01_05.png" loading="lazy"/>
-         <figcaption>Podemos agora desenhar o hexágono em VG.</figcaption>
+         <figcaption>Obter a segunda projeção dos vértices do hexágono que pertencem ao traço <b>&alpha; &pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l006" name="sl">
            <label for="l006"></label>
            <img src="planosTV/65_01_06.png" loading="lazy"/>
-         <figcaption>Traçar as linhas de chamada em relação à 2&ordf; LT pelos pontos <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>E'<sub>1</sub></b> e <b>F'<sub>1</sub></b> até o traço do plano <b>&alpha;&pi;"</b>. Encontrando as segundas projeções desses pontos <b>C"</b>, <b>D"</b>, <b>E"</b> e <b>F"</b>.</figcaption>
+         <figcaption>Obter a primeira projeção dos vértices do hexágono lembrando que seus afastamentos são os mesmos que na nova projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l007" name="sl">
            <label for="l007"></label>
            <img src="planosTV/65_01_07.png" loading="lazy"/>
-         <figcaption>Para encontrar as primeiras projeções desses pontos, traçamos as linhas de chamada dos mesmos com relação à 1&ordf; LT.</figcaption>
+         <figcaption>Agora que já temos a 1&ordf; e 2&ordf; projeções da base <b>ABCDEF</b> do prisma, vamos marcar a altura. Lembre-se que a altura do prisma arquimediano é igual a aresta da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha; &pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo <b>&beta;</b> que contém a face <b>GHIJKL</b>.</figcaption>
        </li>
-    </ul>
-	<img src="planosTV/65_01_00.png" class="fundo" loading="lazy"/>
-  </details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
-  <p></p>
-  <ul class="slider">
       <li>
            <input type="radio" id="l008" name="sl">
            <label for="l008"></label>
            <img src="planosTV/65_01_08.png" loading="lazy"/>
-        <figcaption>Transportamos seus afastamentos, mostraremos o procedimento para o ponto <b>C</b>, os demais seguem o mesmo padrão. Tomamos o afastamento do ponto <b>C</b>.</figcaption>
+        <figcaption>Para obter a outra base, basta lembrar que as arestas laterais do prisma são frontais e perpendiculares ao plano <b>&alpha;</b> que contém a primeira base. Assim, as segundas projeções dos vértices da segunda base estarão na interseção das retas que são perpendiculares a <b>&alpha; &pi;"</b> e que passam pelas segundas projeções dos vértices da primeira base.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="l009" name="sl">
            <label for="l009"></label>
            <img src="planosTV/65_01_09.png" loading="lazy"/>
-        <figcaption>Transportamos o afastamento do ponto <b>C</b> para a 1&ordf; LT, obtendo o ponto <b>C'</b>. </figcaption>
+        <figcaption>Para obter as primeiras projeções da segunda base fazemos as linhas de chamadas dos vértices dessa base e devemos lembrar que as arestas laterais são retas frontais e, portanto, seus afastamentos são os mesmos que os da primeira base. Ou seja, o afastamento de <b>G</b> é o mesmo de <b>A</b>, o de <b>H</b> é o mesmo de <b>B</b>, e assim por diante.</figcaption>
        </li>
        <li>
            <input type="radio" id="l010" name="sl">
            <label for="l010"></label>
            <img src="planosTV/65_01_10.png" loading="lazy"/>
-         <figcaption>Procedendo da mesma maneira que no passo anterior, obtemos <b>D'</b>, <b>E'</b> e <b>F'</b>. </figcaption>
+         <figcaption>Para representar a visibilidade do sólido na segunda projeção iniciamos pelo seu contorno que é sempre visível.</figcaption>
        </li>
        <li>
            <input type="radio" id="l011" name="sl">
            <label for="l011"></label>
            <img src="planosTV/65_01_11.png" loading="lazy"/>
-         <figcaption>Agora que já temos a 1&ordf; e 2&ordf; projeções das bases do prisma, vamos marcar a altura. Lembre-se que a altura do prisma arquimediano é igual ao lado da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha;&pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo que contém a face: <b>GHIJKL</b></figcaption>
+         <figcaption>As arestas <b>DJ</b> e <b>EK</b> são visíveis na segunda projeção pois possuem maior afastamento e as arestas <b>AG</b> e <b>BH</b> são invisíveis na segunda projeção pois possuem menor afastamento.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l012" name="sl">
            <label for="l012"></label>
            <img src="planosTV/65_01_12.png" loading="lazy"/>
-         <figcaption>Encontramos as segundas projeções dos pontos <b>GHIJKL</b></figcaption>
+         <figcaption>Para representar a visibilidade do sólido na primeira projeção iniciamos pelo seu contorno que é sempre visível.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l013" name="sl">
            <label for="l013"></label>
            <img src="planosTV/65_01_13.png" loading="lazy"/>
-         <figcaption>Para encontrar as primeiras projeções desses pontos, fazemos suas linhas de chamada em relação à 1&ordf; LT.</figcaption>
+         <figcaption>Os vértices <b>I</b> e <b>H</b> são visíveis na primeira projeção pois possuem maior cota e, portanto, as arestas que passam por esses vértices também são visíveis.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l014" name="sl">
            <label for="l014"></label>
            <img src="planosTV/65_01_14.png" loading="lazy"/>
-         <figcaption>Marcamos os afastamentos desses pontos, seguindo o  mesmo procedimento adotado para o ponto <b>C</b>. Obtendo: <b>G'H'I'J'K'L'</b></figcaption>
+         <figcaption>Os vértices <b>E</b> e <b>F</b> são invisíveis na primeira projeção pois possuem menor cota e, portanto, as arestas que passam por esses vértices também são invisíveis.</figcaption>
        </li>
-	   <li>
-           <input type="radio" id="l015" name="sl">
-           <label for="l015"></label>
-           <img src="planosTV/65_01_15.png" loading="lazy"/>
-         <figcaption>Vamos traçar a visibilidade do sólido. Lembrando que o contorno aparente é sempre visível. Assim na segunda projeção, o contorno aparente é um retângulo e na 1&ordf; projeção teremos um octógono.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l016" name="sl">
-           <label for="l016"></label>
-           <img src="planosTV/65_01_16.png" loading="lazy"/>
-         <figcaption>Agora faremos a visibilidade do sólido começando pelas arestas visíveis. Os pontos de maior cota serão visíveis na 1&ordf; projeção e os de maior afastamento serão visíveis na 2&ordf; projeção. Começamos com a primeira projeção. O ponto de maior cota é o ponto <b>I</b>, portanto na 1&ordf; projeção, tudo que for ligado a ele será visível. Logo <b>IC</b>, <b>IH</b> e <b>IJ</b> serão visíveis e as arestas unidas a esses pontos também serão visíveis.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l017" name="sl">
-           <label for="l017"></label>
-           <img src="planosTV/65_01_17.png" loading="lazy"/>
-         <figcaption>O ponto de menor cota é o ponto <b>F</b>, portanto ele é invisível na 1&ordf; projeção e tudo que é unido a ele, a menos que faça parte do contorno aparente, também será invisível.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l018" name="sl">
-           <label for="l018"></label>
-           <img src="planosTV/65_01_18.png" loading="lazy"/>
-         <figcaption>Os pontos de maior afastamento são os pontos <b>JD</b> e <b>KE</b>, portanto essas arestas são visíveis na 2&ordf; projeção. As aretas <b>GA</b> e <b>BH</b> serão invisíveis na 2&ordf; projeção.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="l019" name="sl">
-           <label for="l019"></label>
-           <img src="planosTV/65_01_19.png" loading="lazy"/>
-         <figcaption></figcaption>
-       </li>
-    </ul>
-	<img src="planosTV/65_01_07.png" class="fundo" loading="lazy"/>
+	  </ul>
+	<img src="planosTV/65_01_00.png" class="fundo" loading="lazy"/>
   </details>
 	<a href="vr/a13.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00077a.png" loading="lazy"/>
@@ -6720,79 +6827,79 @@
       <li>
            <input type="radio" id="l020" name="sl">
            <label for="l020"></label>
-           <img src="planosTV/66_01_02.png" loading="lazy"/>
+           <img src="planosTV/66_01_01.png" loading="lazy"/>
         <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha;&pi;"</b>. Traçar a nova linha de terra paralela ao traço do plano <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="l021" name="sl">
            <label for="l021"></label>
-           <img src="planosTV/66_01_03.png" loading="lazy"/>
+           <img src="planosTV/66_01_02.png" loading="lazy"/>
         <figcaption>Fazer a MPH para os pontos <b>A</b> e <b>B</b>. Como é MPH, os afastamentos permanecem os mesmos, então os transportamos para o novo sistema. O afastamento do <b>B</b> é zero, vai permanecer zero e portanto <b>B'<sub>1</sub></b> fica sobre a nova LT. </figcaption>
        </li>
        <li>
            <input type="radio" id="l022" name="sl">
            <label for="l022"></label>
-           <img src="planosTV/66_01_04.png" loading="lazy"/>
+           <img src="planosTV/66_01_03.png" loading="lazy"/>
          <figcaption><b>A'<sub>1</sub>B'<sub>1</sub></b> é a verdadeira grandeza do lado do quadrado da base.</figcaption>
        </li>
        <li>
            <input type="radio" id="l023" name="sl">
            <label for="l023"></label>
-           <img src="planosTV/66_01_05.png" loading="lazy"/>
-         <figcaption>Fazer o alçamento dos pontos <b>C</b> e <b>D</b>, encontrando <b>C"</b> e <b>D"</b>.</figcaption>
+           <img src="planosTV/66_01_04.png" loading="lazy"/>
+         <figcaption>Fazer o alçamento dos pontos <b>C</b> e <b>D</b>, encontrando <b>C"</b> e <b>D"</b> sobre o traço <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l024" name="sl">
            <label for="l024"></label>
-           <img src="planosTV/66_01_06.png" loading="lazy"/>
-         <figcaption>Traçar as linhas de chamada em relação à 1&ordf; LT pelos pontos <b>C"</b> e <b>D"</b> e transportar seus afastamentos, determinando as primeiras projeções desses pontos: <b>A'</b> e <b>B'</b>.</figcaption>
+           <img src="planosTV/66_01_05.png" loading="lazy"/>
+         <figcaption>Traçar as linhas de chamada em relação à 1&ordf; LT pelos pontos <b>C"</b> e <b>D"</b> e transportar seus afastamentos, determinando as primeiras projeções desses pontos: <b>C'</b> e <b>D'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l025" name="sl">
            <label for="l025"></label>
-           <img src="planosTV/66_01_07.png" loading="lazy"/>
+           <img src="planosTV/66_01_06.png" loading="lazy"/>
          <figcaption>Na VG, determinar o centro da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l026" name="sl">
            <label for="l026"></label>
-           <img src="planosTV/66_01_09.png" loading="lazy"/>
+           <img src="planosTV/66_01_07.png" loading="lazy"/>
          <figcaption>Traçar a circunferência circunscrita ao quadrado. Traçar a outra base: <b>E'<sub>1</sub>F'<sub>1</sub>G'<sub>1</sub>H'<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l027" name="sl">
            <label for="l027"></label>
-           <img src="planosTV/66_01_11.png" loading="lazy"/>
+           <img src="planosTV/66_01_08.png" loading="lazy"/>
          <figcaption>Unir os vértices do sólido na VG. Determinar a altura do sólido, fazendo a perpendicular por <b>C'<sub>1</sub>F'<sub>1</sub></b> e marcar a hipotenusa do triângulo que é igual ao lado da base.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l028" name="sl">
            <label for="l028"></label>
-           <img src="planosTV/66_01_12.png" loading="lazy"/>
+           <img src="planosTV/66_01_09.png" loading="lazy"/>
          <figcaption>Com  a ponta seca do compasso em <b>F'<sub>1</sub></b>, marcar a medida <b>F'<sub>1</sub>G'<sub>1</sub></b> até cortar a perpendicular traçada no passo anterior. A distância <b>h</b> é a altura do sólido.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l029" name="sl">
            <label for="l029"></label>
-           <img src="planosTV/66_01_13.png" loading="lazy"/>
+           <img src="planosTV/66_01_10.png" loading="lazy"/>
          <figcaption>Marcamos a altura do sólido a partir de <b>&alpha;&pi;"</b>, que será o lugar geométrico da base: <b>EFGH</b>. Observe que a altura pode ser marcada acima de <b>&alpha;&pi;"</b> ou abaixo. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="l030" name="sl">
            <label for="l030"></label>
-           <img src="planosTV/66_01_14.png" loading="lazy"/>
+           <img src="planosTV/66_01_11.png" loading="lazy"/>
          <figcaption>Fazer as linhas de chamada os pontos <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>H'<sub>1</sub></b>, determinando <b>E"F"G"H"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l031" name="sl">
            <label for="l031"></label>
-           <img src="planosTV/66_01_15.png" loading="lazy"/>
+           <img src="planosTV/66_01_12.png" loading="lazy"/>
          <figcaption>Traçar as linhas de chamada desses pontos com relação à 1&ordf; LT, e transportar seus afastamentos, determinando <b>E'F'G'H'</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="l032" name="sl">
            <label for="l032"></label>
-           <img src="planosTV/66_01_17.png" loading="lazy"/>
+           <img src="planosTV/66_01_13.png" loading="lazy"/>
          <figcaption>Fazer a visibilidade do sólido na VG. Completar a visibilidade nas 1&ordf; e 2&ordf; projeções. </figcaption>
        </li>
     </ul>
@@ -6818,52 +6925,64 @@
 	<div class="combo"><a href="vr/plano_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00080a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p><b>&alpha;&pi;'</b> é oblíquo à LT e <b>&alpha;&pi;"</b> é perpendicular à LT.</p>
+  <p>Vamos estudar o plano Vertical.</p>
   <ul class="slider">
+	  <li>
+           <input type="radio" id="l040x" name="sl">
+           <label for="l040x"></label>
+           <img src="planosTV/68_01.png" loading="lazy"/>
+        <figcaption>A característica espacial do plano Vertical é ser perpendicular a <b>&pi;'</b> e oblíquo a <b>&pi;''</b> e, portanto, será oblíquo a <b>&pi;'''</b>.</figcaption>
+       </li>
 	  <li>
            <input type="radio" id="l040" name="sl">
            <label for="l040"></label>
            <img src="planosTV/68_02.png" loading="lazy"/>
-        <figcaption>São necessários dois pontos para definir o plano vertical.</figcaption>
+        <figcaption>Como <b>&alpha;&pi;'</b> é uma reta horizontal de cota nula então em épura <b>&alpha;&pi;'</b> é oblíquo à LT. Como <b>&alpha;&pi;''</b> é uma reta vertical de afastamento nulo então em épura <b>&alpha;&pi;''</b> é perpendicular à LT e concorrente com <b>&alpha;&pi;'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l041" name="sl">
            <label for="l041"></label>
            <img src="planosTV/68_03.png" loading="lazy"/>
-         <figcaption>Qualquer figura contida no plano tem sua 1&ordf; projeção reduzida a um segmento de reta.</figcaption>
+         <figcaption>Como o plano Vertical é perpendicular a <b>&pi;'</b> então ele é projetante em 1&ordf; projeção. Assim, se <b>A &isin; &alpha; ↔ A' &isin; &alpha;&pi;'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l042" name="sl">
            <label for="l042"></label>
            <img src="planosTV/68_04.png" loading="lazy"/>
-         <figcaption>Não tem projeção em VG.</figcaption>
+         <figcaption>O plano Vertical não é paralelo a nenhum PFR portanto qualquer figura contida no plano não tem projeção em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l043" name="sl">
            <label for="l043"></label>
            <img src="planosTV/68_05.png" loading="lazy"/>
-         <figcaption>É projetante em primeira projeção, pois é perpendicular à <b>&pi;'</b>.</figcaption>
+         <figcaption>As retas contidas no plano Vertical são: vertical, horizontal e qualquer.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l044" name="sl">
            <label for="l044"></label>
            <img src="planosTV/68_06.png" loading="lazy"/>
-         <figcaption>As retas do plano são: vertical, horizontal e qualquer.</figcaption>
+         <figcaption>São necessários dois pontos para definir um plano Vertical.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l045" name="sl">
            <label for="l045"></label>
            <img src="planosTV/68_07.png" loading="lazy"/>
-         <figcaption>O plano forma ângulo de <b>90&deg;</b> com <b>&pi;'</b>, e com <b>&pi;'</b> e <b>&pi;"</b> forma ângulo entre <b>0&deg;</b> e <b>90&deg;</b>.</figcaption>
+         <figcaption>O plano vertical forma ângulo de <b>90&deg;</b> com <b>&pi;'</b>; com <b>&pi;''</b> e <b>&pi;'''</b> forma ângulo entre <b>0&deg;</b> e <b>90&deg;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="l047x" name="sl">
+           <label for="l047x"></label>
+           <img src="planosTV/68_08.png" loading="lazy"/>
+         <figcaption>O traço da reta <b>r</b> no plano <b>&alpha;</b> é o ponto <b>(r&alpha;)</b>. Como o plano Vertical é projetante em 1&ordf; projeção então a interseção de <b>r'</b> com <b>&alpha;&pi;'</b> nos dá a primeira projeção de <b>(r&alpha;)</b> e fazendo sua linha de chamada obtemos a segunda projeção de <b>(r&alpha;)</b> em <b>r''</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l047" name="sl">
            <label for="l047"></label>
            <img src="planosTV/68_09.png" loading="lazy"/>
-         <figcaption>O traço da reta no plano é o ponto <b>r&alpha;</b>, interseção da reta <b>r</b> com o traço <b>&alpha;&pi;'</b>. A reta perpendicular ao plano é uma reta horizontal, tal que <b>r' &perp;  &alpha;&pi;'</b>.</figcaption>
+         <figcaption>A reta perpendicular ao plano Vertical é uma reta horizontal e, portanto, <b>r'</b> é perpendicular a <b>&alpha;&pi;'</b> e <b>r''</b> é paralela à LT.</figcaption>
        </li>
 	</ul>
-	<img src="planosTV/68_01.png" class="fundo" loading="lazy"/>
+	<img src="planosTV/68_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/-DP8FffmAGI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -6920,7 +7039,7 @@
            <input type="radio" id="l051" name="sl">
            <label for="l051"></label>
            <img src="planosTV/70_01_04.png" loading="lazy"/>
-         <figcaption>Dividir a circunferencia em 8 partes iguais, traçando dois diâmetros perpendiculares entre si e fazendo as bissetrizes dos ângulos de 90&deg;. Desenhar o octógono em VG</figcaption>
+         <figcaption>Dividir a circunferência em 8 partes iguais, traçando dois diâmetros perpendiculares entre si e fazendo as bissetrizes dos ângulos de 90&deg;. Desenhar o octógono em VG</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l052" name="sl">
