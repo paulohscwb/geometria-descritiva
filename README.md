@@ -4569,7 +4569,7 @@
            <input type="radio" id="e050" name="sl">
            <label for="e050"></label>
            <img src="planosHFP/53_01_12.png" loading="lazy"/>
-        <figcaption>E a outra parte é formadapelas faces laterais <b>ABV</b>, <b>BCV</b>, <b>CDV</b>, <b>DEV</b>, <b>EFV</b> e <b>FAV</b>, que são todas visíveis em primeira projeção. </figcaption>
+        <figcaption>E a outra parte é formada pelas faces laterais <b>ABV</b>, <b>BCV</b>, <b>CDV</b>, <b>DEV</b>, <b>EFV</b> e <b>FAV</b>, que são todas visíveis em primeira projeção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="e050a" name="sl">
@@ -6129,7 +6129,7 @@
            <input type="radio" id="s034n" name="sl">
            <label for="s034n"></label>
            <img src="planosTV/59_00_01.png" loading="lazy"/>
-        <figcaption>O plano de topo é perpendicular a π'' e oblíquo a π' e a π'''. Em épura temos que <b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
+        <figcaption>O plano de topo é perpendicular a <b>π''</b> e oblíquo a <b>π'</b> e a <b>π'''</b>. Em épura temos que <b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035n" name="sl">
@@ -6378,7 +6378,7 @@
  	</details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução - rebatimento</summary>
 	<p></p>
-		<img src="planosTV/p74_ex4_mp.png" loading="lazy"/>
+		<img src="planosTV/62_02_02.png" loading="lazy"/>
 		<figcaption></figcaption>
  	</details>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -6392,55 +6392,55 @@
       <li>
            <input type="radio" id="s054z" name="sl">
            <label for="s054z"></label>
-           <img src="planosTV/75_01_02.png" loading="lazy"/>
+           <img src="planosTV/75_01_01.png" loading="lazy"/>
         <figcaption>Representar o ponto <b>Z</b> e os traços do plano <b>&gamma;</b>. Sendo <b>&gamma;</b> um plano de topo, seu traço horizontal é perpendicular à LT e o traço vertical forma com a LT um ângulo igual ao ângulo que o plano forma no espaço com <b>&pi;'</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s055z" name="sl">
            <label for="s055z"></label>
-           <img src="planosTV/75_01_03.png" loading="lazy"/>
+           <img src="planosTV/75_01_02.png" loading="lazy"/>
         <figcaption>Como <b>&gamma;</b> é um plano de topo, a segunda projeção de qualquer figura contida nele fica reduzida a um segmento de reta, sobre seu traço vertical. A interseção das arestas da pirâmide com o <b>&gamma;&pi;''</b> nos fornece os vértices do polígono resultante da seção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s057z" name="sl">
            <label for="s057z"></label>
-           <img src="planosTV/75_01_04.png" loading="lazy"/>
+           <img src="planosTV/75_01_03.png" loading="lazy"/>
         <figcaption>Encontramos a primeira projeção dos vértices do polígono resultante da seção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s058z" name="sl">
            <label for="s058z"></label>
-           <img src="planosTV/75_01_05.png" loading="lazy"/>
+           <img src="planosTV/75_01_04.png" loading="lazy"/>
         <figcaption>Unindo os vértices temos a primeira projeção da seção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s059z" name="sl">
            <label for="s059z"></label>
-           <img src="planosTV/75_01_06.png" loading="lazy"/>
+           <img src="planosTV/75_01_05.png" loading="lazy"/>
         <figcaption>Para encontrar a VG da seção, temos que recorrer a um dos métodos descritivos. Na solução apresentada foi utilizado o método da Mudança de Plano Horizontal. Representar a segunda linha de terra paralela ao segundo traço do plano <b>&gamma;</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s060z" name="sl">
            <label for="s060z"></label>
-           <img src="planosTV/75_01_07.png" loading="lazy"/>
+           <img src="planosTV/75_01_06.png" loading="lazy"/>
         <figcaption>Fazemos a MPH para os vértices da seção. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s061z" name="sl">
            <label for="s061z"></label>
-           <img src="planosTV/75_01_08.png" loading="lazy"/>
+           <img src="planosTV/75_01_07.png" loading="lazy"/>
         <figcaption>Pronto! A VG da seção está representada.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s062z" name="sl">
            <label for="s062z"></label>
-           <img src="planosTV/75_01_09.png" loading="lazy"/>
+           <img src="planosTV/75_01_08.png" loading="lazy"/>
         <figcaption>Para planificar o tronco da pirâmide resultante da seção precisamos da VG de todas as suas faces. Conhecemos a VG da base da pirâmide e da seção. Precisamos encontrar a VG das arestas da pirâmide. Neste exemplo a aresta <b>VD</b>, que define uma reta qualquer, foi rotacionada até ser transformada em uma reta frontal, apresentando VG na segunda projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s063z" name="sl">
            <label for="s063z"></label>
-           <img src="planosTV/75_01_10.png" loading="lazy"/>
+           <img src="planosTV/75_01_09.png" loading="lazy"/>
         <figcaption>Precisamos também encontrar a VG das arestas após a interseção com o plano <b>&gamma;</b>. Verifique que todas as arestas da pirâmide podem ser rotacionadas, coincidindo com a rotação da aresta <b>VD</b>. Ao serem rotacionadas, os pontos da seção também são rotacionados, deslocando-se paralelamente à LT na segunda projeção.</figcaption>
        </li>
 	</ul>
@@ -6665,7 +6665,13 @@
            <input type="radio" id="s064a" name="sl">
            <label for="s064a"></label>
            <img src="planosTV/75_05_00.png" loading="lazy"/>
-        <figcaption>Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>AD</b>, <b>BD</b> e <b>CD</b> determinam os 3 pontos da seção no tetraedro. Represente a VG da seção usando mudança de plano horizontal ou rebatimento.</figcaption>
+        <figcaption>Como este plano é projetante em <b>&pi;''</b>, as interseções de <b>&gamma;&pi;''</b> com as arestas <b>AD</b>, <b>BD</b> e <b>CD</b> determinam os 3 pontos da seção no tetraedro. Represente a VG da seção usando rebatimento...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s064as" name="sl">
+           <label for="s064as"></label>
+           <img src="planosTV/75_05_02.png" loading="lazy"/>
+        <figcaption>... ou mudança de plano horizontal.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s065a" name="sl">
@@ -6716,20 +6722,20 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00077.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos utilizar o método da Mudança de Planos Horizontal (MPH) para encontrar a verdadeira grandeza da base do sólido.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="l001" name="sl">
            <label for="l001"></label>
            <img src="planosTV/65_01_01.png" loading="lazy"/>
-        <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha; &pi;"</b></figcaption>
+        <figcaption>Marcar os pontos <b>A</b> e <b>B</b> em épura. Traçar a reta <b>&alpha;&pi;"</b></figcaption>
        </li>
 	  <li>
            <input type="radio" id="l002" name="sl">
            <label for="l002"></label>
            <img src="planosTV/65_01_02.png" loading="lazy"/>
-        <figcaption>Traçar a nova linha de terra paralela ao traço do plano <b>&alpha; &pi;"</b></figcaption>
+        <figcaption>Traçar a nova linha de terra paralela ao traço do plano <b>&alpha;&pi;"</b></figcaption>
        </li>
        <li>
            <input type="radio" id="l003" name="sl">
@@ -6747,7 +6753,7 @@
            <input type="radio" id="l005" name="sl">
            <label for="l005"></label>
            <img src="planosTV/65_01_05.png" loading="lazy"/>
-         <figcaption>Obter a segunda projeção dos vértices do hexágono que pertencem ao traço <b>&alpha; &pi;"</b>.</figcaption>
+         <figcaption>Obter a segunda projeção dos vértices do hexágono que pertencem ao traço <b>&alpha;&pi;"</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l006" name="sl">
@@ -6759,13 +6765,13 @@
            <input type="radio" id="l007" name="sl">
            <label for="l007"></label>
            <img src="planosTV/65_01_07.png" loading="lazy"/>
-         <figcaption>Agora que já temos a 1&ordf; e 2&ordf; projeções da base <b>ABCDEF</b> do prisma, vamos marcar a altura. Lembre-se que a altura do prisma arquimediano é igual a aresta da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha; &pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo <b>&beta;</b> que contém a face <b>GHIJKL</b>.</figcaption>
+         <figcaption>Agora que já temos a 1&ordf; e 2&ordf; projeções da base <b>ABCDEF</b> do prisma, vamos marcar a altura. Lembre-se que a altura do prisma arquimediano é igual a aresta da base, pois suas faces laterais são quadrados. A altura é marcada para cima ou para baixo do traço do plano <b>&alpha;&pi;"</b>. Vamos marcar para cima e marcamos o outro plano de topo <b>&beta;</b> que contém a face <b>GHIJKL</b>.</figcaption>
        </li>
       <li>
            <input type="radio" id="l008" name="sl">
            <label for="l008"></label>
            <img src="planosTV/65_01_08.png" loading="lazy"/>
-        <figcaption>Para obter a outra base, basta lembrar que as arestas laterais do prisma são frontais e perpendiculares ao plano <b>&alpha;</b> que contém a primeira base. Assim, as segundas projeções dos vértices da segunda base estarão na interseção das retas que são perpendiculares a <b>&alpha; &pi;"</b> e que passam pelas segundas projeções dos vértices da primeira base.</figcaption>
+        <figcaption>Para obter a outra base, basta lembrar que as arestas laterais do prisma são frontais e perpendiculares ao plano <b>&alpha;</b> que contém a primeira base. Assim, as segundas projeções dos vértices da segunda base estarão na interseção das retas que são perpendiculares a <b>&alpha;&pi;"</b> e que passam pelas segundas projeções dos vértices da primeira base.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="l009" name="sl">
