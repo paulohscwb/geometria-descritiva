@@ -11203,7 +11203,7 @@
 	<a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-06.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>.</p>
 		<ul class="slider">
 		<li>
@@ -11299,9 +11299,89 @@
 	</details><a href="telhados/telhado31.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-13.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
-		<img src="aplicacoes/telhado43_01.png" class="fundo" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Os lados da poligonal <b>ABCD</b> que representa a linha de beiral são retas paralelas a <b>&pi;'</b> de cota <b>3m</b> de cada água.</p>
+		<ul class="slider">
+		<li>
+           <input type="radio" id="tn001ar" name="sl">
+           <label for="tn001ar"></label>
+           <img src="aplicacoes/117_01.png" loading="lazy"/>
+         <figcaption>Queremos obter as interseções entre os planos que contém as águas <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>. Podemos iniciar aplicando o método das bissetrizes para obter as interseções (<b>ab</b>) e (<b>cd</b>) pois as águas <b>a</b> e <b>b</b> possuem a mesma inclinação de <b>30°</b> e <b>c</b> e <b>d</b> de <b>60°</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn002ar" name="sl">
+           <label for="tn002ar"></label>
+           <img src="aplicacoes/117_02.png" loading="lazy"/>
+         <figcaption>Da interseção entre os planos <b>a</b> e <b>d</b> já temos o ponto <b>A</b> e, portanto, precisamos obter mais um ponto <b>P</b>, assim <b>AP</b> será a reta de interseção entre os planos <b>a</b> e <b>d</b>. E da interseção entre os planos <b>b</b> e <b>c</b> já temos o ponto <b>C</b> e, portanto, precisamos obter mais um ponto <b>Q</b>, assim <b>CQ</b> será a reta de interseção entre os planos <b>b</b> e <b>c</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn003ar" name="sl">
+           <label for="tn003ar"></label>
+           <img src="aplicacoes/117_03.png" loading="lazy"/>
+         <figcaption>Como são infinitas possibilidades para os pontos <b>P</b> e <b>Q</b>, vamos obtê-los de forma que tenham cota <b>1m</b> a mais que a linha de beiral dada. Como os planos que contêm as águas <b>b</b> e <b>d</b> são de topo, vamos representá-los na segunda projeção pelos seus segundos traços. Iniciamos marcando a altura da linha de beiral na segunda projeção desenhando uma reta paralela à LT com a distância de <b>3m</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn004ar" name="sl">
+           <label for="tn004ar"></label>
+           <img src="aplicacoes/117_04.png" loading="lazy"/>
+         <figcaption>Representamos o segundo traço do plano de topo <b>d</b> que contém a reta <b>AD</b> e faz <b>60°</b> com <b>&pi;'</b>. E representamos o segundo traço do plano de topo <b>b</b> que contém a reta <b>BC</b> e faz <b>30°</b> com <b>&pi;'</b>. </figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn005ar" name="sl">
+           <label for="tn005ar"></label>
+           <img src="aplicacoes/117_05.png" loading="lazy"/>
+         <figcaption>Desenhamos uma nova reta paralela à LT na altura <b>4m</b>. Obtemos as segundas projeções dos pontos <b>P</b> e <b>Q</b> de cota <b>4m</b> que pertencem aos planos de topo <b>d</b> e <b>b</b>, respectivamente. Traçando suas linhas de chamada obtemos a primeira projeção das retas <b>h<sub>d</sub></b> e <b>h<sub>b</sub></b>, horizontais dos planos <b>d</b> e <b>b</b>, de cota <b>4m</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn006ar" name="sl">
+           <label for="tn006ar"></label>
+           <img src="aplicacoes/117_06.png" loading="lazy"/>
+         <figcaption>Como os planos que contêm as águas <b>a</b> e <b>c</b> são de paralelos à linha de terra (rampa), vamos efetuar uma MPV para torná-los de topo. Desenhamos a 2&ordf; LT perpendicular a primeira projeção da reta <b>AB</b>. Marcamos a altura da linha de beiral na nova segunda projeção desenhando uma reta paralela à 2&ordf; LT com a distância de <b>3m</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn007ar" name="sl">
+           <label for="tn007ar"></label>
+           <img src="aplicacoes/117_07.png" loading="lazy"/>
+         <figcaption>Obtemos por MPV as novas segundas projeções dos pontos <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>. Representamos o novo segundo traço do plano <b>a</b>, que nesse 2&ordm; sistema é de topo, que contém a reta <b>AB</b> e faz <b>30°</b> com <b>&pi;'</b>.Representamos o novo segundo traço do plano <b>c</b>, que nesse 2&ordm; sistema é de topo, que contém a reta <b>CD</b> e faz <b>60°</b> com <b>&pi;'</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn008ar" name="sl">
+           <label for="tn008ar"></label>
+           <img src="aplicacoes/117_08.png" loading="lazy"/>
+         <figcaption>Desenhamos uma nova reta paralela à 2&ordf; LT na altura <b>4m</b>. Obtemos as novas segundas projeções dos pontos <b>P</b> e <b>Q</b> de cota <b>4m</b> que pertencem aos planos <b>a</b> e <b>c</b>, respectivamente. Lembre-se que nesse 2&ordm; sistema os planos <b>a</b> e <b>c</b> são de topo!</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn009ar" name="sl">
+           <label for="tn009ar"></label>
+           <img src="aplicacoes/117_09.png" loading="lazy"/>
+         <figcaption>Traçando as linhas de chamada dos pontos <b>P</b> e <b>Q</b> obtemos a primeira projeção das retas <b>h<sub>a</sub></b> e <b>h<sub>c</sub></b>, horizontais dos planos <b>a</b> e <b>c</b>, de cota <b>4m</b>. Assim, temos as primeiras projeções de quatro retas: <b>h<sub>a</sub></b>, <b>h<sub>b</sub></b>, <b>h<sub>c</sub></b> e <b>h<sub>d</sub></b> que são horizontais dos planos <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>, respectivamente, que possuem cota <b>4m</b>. Portanto, essas retas são concorrentes duas a duas.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn010ar" name="sl">
+           <label for="tn010ar"></label>
+           <img src="aplicacoes/117_10.png" loading="lazy"/>
+         <figcaption>O que nos interessa são as interseções entre retas <b>h<sub>a</sub></b> e <b>h<sub>d</sub></b>, que nos dá o ponto <b>P</b>, e entre as retas <b>h<sub>b</sub></b> e <b>h<sub>c</sub></b>, que nos dá o ponto <b>Q</b>. Representamos as primeiras projeções dos segmentos <b>AP</b> e <b>CQ</b> que são as primeiras projeções das interseções entre os planos <b>a</b> e <b>d</b>, <b>b</b> e <b>c</b>, respectivamente. Temos todas as interseções nos vértices da poligonal.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn011ar" name="sl">
+           <label for="tn011ar"></label>
+           <img src="aplicacoes/117_11.png" loading="lazy"/>
+         <figcaption>Obtemos as demais interseções.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn012ar" name="sl">
+           <label for="tn012ar"></label>
+           <img src="aplicacoes/117_12.png" loading="lazy"/>
+         <figcaption>Representamos a fachada principal, obtemos a cota da cumeeira, representamos a fachada lateral e as paredes externas, considerando a largura do beiral de <b>0,6m</b>. Indicamos o sentido de escoamento das águas.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn013ar" name="sl">
+           <label for="tn013ar"></label>
+           <img src="aplicacoes/117_13.png" loading="lazy"/>
+         <figcaption>Para determinarmos graficamente a área da água <b>d</b> efetuamos uma MPH para torná-lo um plano horizontal nesse novo sistema. A VG da água <b>d</b> é dada pelo triângulo <b>A'<sub>2</sub>D'<sub>2</sub>E'<sub>2</sub></b>. Para calcular sua área basta utilizar a fórmula de área do triângulo: base x altura / 2.</figcaption>
+		</li>
+		</ul>
+		<img src="aplicacoes/117_00.png" class="fundo" loading="lazy"/>
 	</details><a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-14.png" loading="lazy"/>
