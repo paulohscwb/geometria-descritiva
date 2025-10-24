@@ -11203,9 +11203,53 @@
 	<a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-06.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 		<p>.</p>
-		<img src="aplicacoes/telhado35_01.png" class="fundo" loading="lazy"/>
+		<ul class="slider">
+		<li>
+           <input type="radio" id="tn014as" name="sl">
+           <label for="tn014as"></label>
+           <img src="aplicacoes/110_01.png" loading="lazy"/>
+         <figcaption>Como todas as águas possuem a mesma declividade e, portanto, a mesma inclinação, podemos aplicar o método das bissetrizes para obter as projeções das interseções das águas.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn015as" name="sl">
+           <label for="tn015as"></label>
+           <img src="aplicacoes/110_02.png" loading="lazy"/>
+         <figcaption>A declividade é a tangente da inclinação, ou seja, <b>de = tg&theta;</b>. Assim, para uma declividade de <b>60%</b> temos que a inclinação será de aproximadamente <b>31°</b>. Graficamente representamos a declividade e a inclinação por um triângulo retângulo de catetos na razão <b>0,6 = 60/100 = 1,5/2,5</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn016as" name="sl">
+           <label for="tn016as"></label>
+           <img src="aplicacoes/110_03.png" loading="lazy"/>
+         <figcaption>Para representar a fachada principal iniciamos obtendo as segundas projeções dos pontos da poligonal <b>ABCDEFGH</b> que está na cota <b>3m</b>. Representamos o segundo traço do plano de topo <b>a</b> que contém a reta <b>AB</b> e possui a declividade de <b>60%</b> em relação a <b>&pi;'</b>, para isso, basta construir um triângulo retângulo de catetos <b>2,5</b> e <b>1,5</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn017as" name="sl">
+           <label for="tn017as"></label>
+           <img src="aplicacoes/110_04.png" loading="lazy"/>
+         <figcaption>Representamos o segundo traço do plano de topo <b>c</b> que contém a reta <b>CD</b> e possui a declividade de <b>60%</b> em relação a <b>&pi;'</b>, para isso, basta construir um triângulo retângulo de catetos <b>2,5</b> e <b>1,5</b>.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn018as" name="sl">
+           <label for="tn018as"></label>
+           <img src="aplicacoes/110_05.png" loading="lazy"/>
+         <figcaption>Representamos as demais águas na vista frontal lembrando que todas as águas possuem a mesma declividade e, portanto, a mesma inclinação.</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn019as" name="sl">
+           <label for="tn019as"></label>
+           <img src="aplicacoes/110_06.png" loading="lazy"/>
+         <figcaption>Representamos as segundas projeções das paredes externas, mas somente as visíveis. As que não são visíveis não representamos quando fazemos as fachadas! E obtemos as cotas das cumeeiras (<b>bd</b>) e (<b>eg</b>).</figcaption>
+		</li>
+		<li>
+           <input type="radio" id="tn020as" name="sl">
+           <label for="tn020as"></label>
+           <img src="aplicacoes/110_07.png" loading="lazy"/>
+         <figcaption>Representamos o sentido de escoamento das águas por meio de setas perpendiculares às horizontais do plano. Representamos as calhas (<b>dg</b>) e (<b>de</b>) por linha dupla somente na primeira projeção.</figcaption>
+		</li>
+		</ul>
+		<img src="aplicacoes/110_00.png" class="fundo" loading="lazy"/>
 	</details><a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-07.png" loading="lazy"/>
