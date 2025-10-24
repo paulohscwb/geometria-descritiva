@@ -10868,7 +10868,7 @@
            <input type="radio" id="tn001" name="sl">
            <label for="tn001"></label>
            <img src="aplicacoes/108_02.png" loading="lazy"/>
-         <figcaption>Queremos obter as interseções entre os planos que contém as águas <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>. Da interseção entre os planos <b>a</b> e <b>d</b> já temos o ponto <b>A</b> e, portanto, precisamos obter mais um ponto <b>P</b>, assim <b>AP</b> será a reta de interseção entre os planos <b>a</b> e <b>d</b>, analogamente para os demais planos devemos obter os pontos <b>Q</b>, <b>R</b> e <b>S</b>. Como são infinitas possibilidades para o ponto <b>P</b>, vamos obtê-lo de forma que tenha cota <b>1m a mais que a linha de beiral dada. Como os planos que contêm as águas <b>b</b> e <b>d</b> são de topo, vamos representá-los na segunda projeção pelos seus segundos traços. Iniciamos marcando a altura da linha de beiral na segunda projeção desenhando uma reta paralela à LT com a distância de <b>2,8m</b>.</figcaption>
+         <figcaption>Queremos obter as interseções entre os planos que contém as águas <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>. Da interseção entre os planos <b>a</b> e <b>d</b> já temos o ponto <b>A</b> e, portanto, precisamos obter mais um ponto <b>P</b>, assim <b>AP</b> será a reta de interseção entre os planos <b>a</b> e <b>d</b>, analogamente para os demais planos devemos obter os pontos <b>Q</b>, <b>R</b> e <b>S</b>. Como são infinitas possibilidades para o ponto <b>P</b>, vamos obtê-lo de forma que tenha cota <b>1m</b> a mais que a linha de beiral dada. Como os planos que contêm as águas <b>b</b> e <b>d</b> são de topo, vamos representá-los na segunda projeção pelos seus segundos traços. Iniciamos marcando a altura da linha de beiral na segunda projeção desenhando uma reta paralela à LT com a distância de <b>2,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn002" name="sl">
@@ -10898,49 +10898,49 @@
            <input type="radio" id="tn006" name="sl">
            <label for="tn006"></label>
            <img src="aplicacoes/108_12.png" loading="lazy"/>
-         <figcaption>Obtemos por MPV as novas segundas projeções dos pontos <b>A, <b>B, <b>C e <b>D. Representamos o novo segundo traço do plano a, que nesse 2º sistema é de topo, que contém a reta AB e faz 30° com π'.</figcaption>
+         <figcaption>Obtemos por MPV as novas segundas projeções dos pontos <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>. Representamos o novo segundo traço do plano <b>a</b>, que nesse 2&ordm; sistema é de topo, que contém a reta <b>AB</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn007" name="sl">
            <label for="tn007"></label>
            <img src="aplicacoes/108_13.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o novo segundo traço do plano <b>c</b>, que nesse 2&ordm; sistema é de topo, que contém a reta <b>CD</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn008" name="sl">
            <label for="tn008"></label>
            <img src="aplicacoes/108_15.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Desenhamos uma nova reta paralela à 2&ordf; LT na altura <b>3,8m</b>. Obtemos as novas segundas projeções dos pontos <b>P</b> e <b>S</b> de cota <b>3,8m</b> que pertencem ao plano <b>a</b> e as novas segundas projeções dos pontos <b>Q</b> e <b>R</b> de cota <b>3,8m</b> que pertencem ao plano <b>c</b>. Lembre-se que nesse 2&ordm; sistema os planos <b>a</b> e <b>c</b> são de topo!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn009" name="sl">
            <label for="tn009"></label>
            <img src="aplicacoes/108_16.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Traçando as linhas de chamada dos pontos obtemos a primeira projeção das retas <b>h<sub>a</sub></b> e <b>h<sub>c</sub></b>, horizontais dos planos <b>a</b> e <b>c</b>, de cota <b>3,8m</b>. Assim, temos as primeiras projeções de quatro retas: <b>h<sub>a</sub></b>, <b>h<sub>b</sub></b>, <b>h<sub>c</sub></b> e <b>h<sub>d</sub></b> que são horizontais dos planos <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>, respectivamente, que possuem cota <b>3,8m</b>. Portanto, essas retas são concorrentes nos pontos <b>P</b>, <b>Q</b>, <b>R</b> e <b>S</b> que estávamos procurando.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn010" name="sl">
            <label for="tn010"></label>
            <img src="aplicacoes/108_17.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Marcamos nas interseções das primeiras projeções das horizontais dos planos as projeções dos pontos <b>P</b>, <b>Q</b>, <b>R</b> e <b>S</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn011" name="sl">
            <label for="tn011"></label>
            <img src="aplicacoes/108_18.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos as primeiras projeções dos segmentos <b>AP</b>, <b>BS</b>, <b>CR</b> e <b>DQ</b> que são as primeiras projeções das interseções entre os planos <b>a</b> e <b>d</b>, <b>a</b> e <b>b</b>, <b>b</b> e <b>c</b>, <b>c</b> e <b>d</b>,respectivamente. Como todas as águas possuem a mesma inclinação com o plano <b>&pi;'</b> então as primeiras projeções dos segmentos (<b>ad</b>), (<b>ab</b>), (<b>bc</b>) e (<b>cd</b>) serão as bissetrizes dos ângulos formados pelas primeiras projeções da linha de beiral – chamamos isso de método das bissetrizes – e poderemos aplicar essa propriedade sempre que as inclinações forem iguais!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn012" name="sl">
            <label for="tn012"></label>
            <img src="aplicacoes/108_19.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Vamos obter as demais interseções. Iniciamos na primeira projeção prolongando duas interseções adjacentes, no caso (<b>ad</b>) e (<b>cd</b>), que se encontram no ponto <b>E'</b>. O ponto <b>E</b> pertence a três águas: <b>a</b>, <b>d</b> e <b>c</b>. Assim, do ponto <b>E'</b> sairá a interseção entre as águas <b>a</b> e <b>c</b>, que é uma reta fronto-horizontal.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn013" name="sl">
            <label for="tn013"></label>
            <img src="aplicacoes/108_20.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos a primeira projeção da interseção (<b>ac</b>) por <b>E'</b>. Devemos agora encontrar a próxima interseção, podemos prolongar (<b>bc</b>)' ou (<b>ab</b>).</figcaption>
 		</li>
 		</ul>
 		<img src="aplicacoes/108_00.png" class="fundo" loading="lazy"/>
