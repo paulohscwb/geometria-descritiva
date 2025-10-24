@@ -10958,7 +10958,7 @@
            <input type="radio" id="tn015" name="sl">
            <label for="tn015"></label>
            <img src="aplicacoes/108_22.png" loading="lazy"/>
-         <figcaption>O ponto <b>F pertence a três águas: <b>a</b>, <b>b</b> e <b>c</b>. Então, basta ligar <b>F'</b> com <b>B'</b> para encontrar a primeira projeção do segmento (<b>ab</b>)'.</figcaption>
+         <figcaption>O ponto <b>F</b> pertence a três águas: <b>a</b>, <b>b</b> e <b>c</b>. Então, basta ligar <b>F'</b> com <b>B'</b> para encontrar a primeira projeção do segmento (<b>ab</b>)'.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn016" name="sl">
@@ -11012,7 +11012,7 @@
            <input type="radio" id="tn024" name="sl">
            <label for="tn024"></label>
            <img src="aplicacoes/108_31.png" loading="lazy"/>
-         <figcaption>Fazemos uma MPH para o ponto <b>D</b> do plano <b>d</b>, lembre-se de que o afastamento permanece o mesmo nessa mudança. </figcaption>
+         <figcaption>Fazemos uma MPH para o ponto <b>D</b> do plano <b>d</b>, lembre-se de que o afastamento permanece o mesmo nessa mudança.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn025" name="sl">
@@ -11123,79 +11123,79 @@
            <input type="radio" id="tn014a" name="sl">
            <label for="tn014a"></label>
            <img src="aplicacoes/109_16.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o segundo traço do plano de topo <b>a</b> que contém a reta <b>AB</b> e faz <b>30°</b> com <b>&pi;'</b>. Como <b>G</b> pertence ao plano <b>a</b> de topo, fazemos sua LC e encontramos sua segunda projeção no segundo traço do plano <b>a</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn015a" name="sl">
            <label for="tn015a"></label>
            <img src="aplicacoes/109_17.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o segundo traço do plano de topo <b>c</b> que contém a reta <b>CD</b> e faz <b>30°</b> com <b>&pi;'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn016a" name="sl">
            <label for="tn016a"></label>
            <img src="aplicacoes/109_18.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Como os pontos <b>I</b> e <b>J</b> pertencem ao plano <b>c</b> de topo, fazemos suas LCs e encontramos suas segundas projeções no segundo traço do plano <b>c</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn017a" name="sl">
            <label for="tn017a"></label>
            <img src="aplicacoes/109_19.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Como o ponto <b>H</b> pertence ao plano <b>c</b> de topo, fazemos sua LC e encontramos sua segunda projeção no segundo traço do plano <b>c</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn018a" name="sl">
            <label for="tn018a"></label>
            <img src="aplicacoes/109_20.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos a segunda projeção do segmento <b>GH</b>, que é fronto-horizontal.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn019a" name="sl">
            <label for="tn019a"></label>
            <img src="aplicacoes/109_21.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos a segunda projeção do segmento <b>EI</b>, que é qualquer.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn020a" name="sl">
            <label for="tn020a"></label>
            <img src="aplicacoes/109_22.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Note que o ângulo que a água <b>e</b> forma com <b>&pi;'</b> é <b>30°</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn021a" name="sl">
            <label for="tn021a"></label>
            <img src="aplicacoes/109_23.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Esse telhado possui um rincão: (<b>ef</b>) e duas cumeeiras: (<b>ce</b>) e (<b>bf</b>). A cota da cumeeira (<b>ce</b>) é <b>3,9m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn022a" name="sl">
            <label for="tn022a"></label>
            <img src="aplicacoes/109_24.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>E a cota da cumeeira (<b>bf</b>) é <b>5,2m</b>, sendo a principal.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn023a" name="sl">
            <label for="tn023a"></label>
            <img src="aplicacoes/109_25.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos as segundas projeções das paredes externas, mas somente as visíveis. As que não são visíveis não representamos quando fazemos as fachadas!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn024a" name="sl">
            <label for="tn024a"></label>
            <img src="aplicacoes/109_26.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o sentido de escoamento das águas por meio de setas perpendiculares às horizontais do plano.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn025a" name="sl">
            <label for="tn025a"></label>
            <img src="aplicacoes/109_27.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos a calha (<b>ef</b>) por linha dupla somente na primeira projeção.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn026a" name="sl">
            <label for="tn026a"></label>
            <img src="aplicacoes/109_28.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos aqui também a fachada lateral esquerda por meio de uma MPV.</figcaption>
 		</li>
 		</ul>
 		<img src="aplicacoes/109_14.png" class="fundo" loading="lazy"/>
