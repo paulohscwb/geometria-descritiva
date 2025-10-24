@@ -6127,49 +6127,50 @@
 	<div class="combo"><a href="vr/plano_topo.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00071a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p></p>
+  <p>Vamos estudar o plano de Topo.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="s034n" name="sl">
            <label for="s034n"></label>
            <img src="planosTV/59_00_01.png" loading="lazy"/>
-        <figcaption>O plano de topo é perpendicular a <b>π''</b> e oblíquo a <b>π'</b> e a <b>π'''</b>. Em épura temos que <b>&alpha;&pi;'</b> é perpendicular à LT e <b>&alpha;&pi;"</b> é oblíquo à LT.</figcaption>
+        <figcaption>A característica espacial do plano de Topo é ser perpendicular a <b>&pi;''</b> e oblíquo a c e, portanto, será oblíquo a <b>&pi;'''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035n" name="sl">
            <label for="s035n"></label>
            <img src="planosTV/59_00_02.png" loading="lazy"/>
-        <figcaption>São necessários dois pontos para definir um plano de topo.</figcaption>
+        <figcaption>Como <b>&alpha;&pi;''</b> é uma reta frontal de afastamento nulo então em épura <b>&alpha;&pi;''</b> é oblíquo à LT. Como <b>&alpha;&pi;'</b> é uma reta de topo de cota nula então em épura <b>&alpha;&pi;'</b> é perpendicular à LT e concorrente com <b>&alpha;&pi;''</b> sobre a LT.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s036n" name="sl">
            <label for="s036n"></label>
            <img src="planosTV/59_00_03.png" loading="lazy"/>
-        <figcaption>Qualquer figura contida no plano tem sua 2&ordf; projeção reduzida a um segmento de reta.</figcaption>
+        <figcaption>Como o plano de Topo é perpendicular a <b>&pi;''</b> então ele é projetante em 2&ordf; projeção. Assim, se <b>A</b> &isin; <b>&alpha;</b> ↔ <b>A''</b> &isin; <b>&alpha;&pi;''</b>.
+		</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s037n" name="sl">
            <label for="s037n"></label>
            <img src="planosTV/59_00_04.png" loading="lazy"/>
-        <figcaption>Não tem projeção em VG.</figcaption>
+        <figcaption>O plano de Topo não é paralelo a nenhum PFR; portanto qualquer figura contida no plano não tem projeção em VG.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s038n" name="sl">
            <label for="s038n"></label>
            <img src="planosTV/59_00_05.png" loading="lazy"/>
-        <figcaption>É projetante na segunda projeção.</figcaption>
+        <figcaption>As retas contidas no plano de Topo são: topo, frontal e qualquer.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s039n" name="sl">
            <label for="s039n"></label>
            <img src="planosTV/59_00_06.png" loading="lazy"/>
-        <figcaption>Num plano de topo temos retas de topo, frontais e quaisquer.</figcaption>
+        <figcaption>São necessários dois pontos não pertencentes a uma mesma reta de topo para definir um plano de Topo.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="s040n" name="sl">
            <label for="s040n"></label>
            <img src="planosTV/59_00_07.png" loading="lazy"/>
-        <figcaption>Forma ângulo de 90&ordm; com <b>&pi;''</b>, e com <b>&pi;'</b> e <b>&pi;"'</b> forma ângulo entre 0&ordm; e 90&ordm;.</figcaption>
+        <figcaption>O plano de Topo forma ângulo de <b>90°</b> com <b>&pi;''</b>, e com <b>&pi;'</b> e <b>&pi;'''</b> forma ângulo entre <b>0°</b> e <b>90°</b>.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/59_00_01.png" class="fundo" loading="lazy"/>
@@ -6182,13 +6183,14 @@
            <input type="radio" id="s041n" name="sl">
            <label for="s041n"></label>
            <img src="planosTV/59_00_08.png" loading="lazy"/>
-        <figcaption>A segunda projeção do traço <b>r&alpha;</b> de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.</figcaption>
+        <figcaption>A segunda projeção do traço <b>r&alpha;</b> de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.
+		O traço da reta <b>r no plano <b>&alpha;'</b> é o ponto (<b>r&alpha;</b>). Como o plano de Topo é projetante em 2&ordf; projeção então a interseção de <b>r''</b> com <b>&alpha;&pi;''</b> nos dá a segunda projeção de (<b>r&alpha;</b>) e fazendo sua linha de chamada obtemos a primeira projeção de (<b>r&alpha;</b>) em <b>r'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s042n" name="sl">
            <label for="s042n"></label>
            <img src="planosTV/59_00_09.png" loading="lazy"/>
-        <figcaption>Qualquer reta perpendicular ao plano de topo é uma reta frontal com as projeções perpendiculares aos respectivos traços do plano.</figcaption>
+        <figcaption>A reta perpendicular ao plano de Topo é uma reta frontal e, portanto, <b>r''</b> é perpendicular a <b>&alpha;&pi;''</b> e <b>r'</b> é paralela à LT.</figcaption>
        </li>
     </ul>
 	<img src="planosTV/59_00_08.png" class="fundo" loading="lazy"/>
@@ -6695,35 +6697,107 @@
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00076.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - mudança de planos</summary>
+  <p>Vamos representar o hexaedro regular com uma face sobre o plano de topo.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="s029da" name="sl">
+           <label for="s029da"></label>
+           <img src="planosTV/64_01_01.png" loading="lazy"/>
+        <figcaption>Marcamos as primeiras projeções dos pontos <b>A</b> e <b>B</b> e as projeções do ponto <b>P</b>.</figcaption>
+       </li>
+	  <li>
+           <input type="radio" id="s030da" name="sl">
+           <label for="s030da"></label>
+           <img src="planosTV/64_01_02.png" loading="lazy"/>
+        <figcaption>Representamos o segundo traço do plano αde topo que contém <b>P''</b> e forma 45° com a LT, obtendo as segundas projeções dos pontos <b>A</b> e <b>B</b> que pertencem a esse traço. Representamos o primeiro traço do plano <b>&alpha;</b> de topo que contém <b>P'</b> e é perpendicular à LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s030daz" name="sl">
+           <label for="s030daz"></label>
+           <img src="planosTV/64_01_03.png" loading="lazy"/>
+        <figcaption>Vamos efetuar uma MPH para o plano <b>&alpha;</b> de topo. Construímos a 2ªLT paralela a <b>&alpha;&pi;''</b>, representamos as novas linhas de chamadas dos pontos <b>A</b> e <b>B</b>, e marcamos seus afastamentos, obtendo as novas projeções <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Nesse novo sistema o plano <b>&alpha;</b> é horizontal.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s030dax" name="sl">
+           <label for="s030dax"></label>
+           <img src="planosTV/64_01_04.png" loading="lazy"/>
+        <figcaption>Representamos o quadrado em VG nessa nova projeção.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s031dax" name="sl">
+           <label for="s031dax"></label>
+           <img src="planosTV/64_01_05.png" loading="lazy"/>
+        <figcaption>Representamos a segunda projeção dos pontos <b>C</b> e <b>D</b> que estão contidos no plano <b>&alpha;</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s032dax" name="sl">
+           <label for="s032dax"></label>
+           <img src="planosTV/64_01_06.png" loading="lazy"/>
+        <figcaption>Representamos a primeira projeção dos pontos <b>C</b> e <b>D</b> no sistema original, marcando os afastamentos dos pontos sobre as Linhas de Chamada desse sistema.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s033dax" name="sl">
+           <label for="s033dax"></label>
+           <img src="planosTV/64_01_07.png" loading="lazy"/>
+        <figcaption>Como no segundo sistema temos que o plano <b>&alpha;</b> é horizontal então a face <b>EFGH</b> também estará contida num plano <b>&beta;</b> horizontal e as arestas laterais serão retas verticais. Marcamos a altura do hexaedro regular numa reta perpendicular a <b>&alpha;&pi;''</b>, essa altura é igual ao lado do quadrado, e obtemos <b>&beta;&pi;''</b>. Na interseção de <b>&beta;&pi;''</b> com as linhas de chamada desse 2º sistema obtemos as segundas projeções da face <b>EFGH</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s034dax" name="sl">
+           <label for="s034dax"></label>
+           <img src="planosTV/64_01_08.png" loading="lazy"/>
+        <figcaption>Representamos as segundas projeções da face <b>EFGH</b> nesse 2º sistema lembrando que as arestas laterais são verticais.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s035dax" name="sl">
+           <label for="s035dax"></label>
+           <img src="planosTV/64_01_09.png" loading="lazy"/>
+        <figcaption>Obtemos as primeiras projeções da face <b>EFGH</b> no sistema original.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s036dax" name="sl">
+           <label for="s036dax"></label>
+           <img src="planosTV/64_01_10.png" loading="lazy"/>
+        <figcaption>Representamos a visibilidade das arestas do sólido na primeira e segunda projeções.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s037dax" name="sl">
+           <label for="s037dax"></label>
+           <img src="planosTV/64_01_11.png" loading="lazy"/>
+        <figcaption>Para obtermos a seção plana iniciamos representando o plano <b>&gamma;</b> de topo que contém o ponto <b>R</b> e forma 30° com <b>&pi;'</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s038dax" name="sl">
+           <label for="s038dax"></label>
+           <img src="planosTV/64_01_12.png" loading="lazy"/>
+        <figcaption>Obtemos os traços das arestas do hexaedro regular sobre o plano <b>&gamma;</b> de topo. Neste caso, como o plano <b>&gamma;</b> é projetante em segunda projeção encontramos as interseções entre as segundas projeções das arestas do sólido e <b>&alpha;&pi;'</b>, obtendo as projeções <b>1''</b>, <b>2''</b>, <b>3''</b> e <b>4''</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="s039dax" name="sl">
+           <label for="s039dax"></label>
+           <img src="planosTV/64_01_13.png" loading="lazy"/>
+        <figcaption>Encontramos as primeiras projeções dos traços das arestas sobre o plano <b>&gamma;</b> e fazemos a visibilidade da seção plana.</figcaption>
+       </li>
+    </ul>
+	<img src="planosTV/64_01_00.png" class="fundo" loading="lazy"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - rebatimento</summary>
   <p></p>
   <ul class="slider">
       <li>
            <input type="radio" id="s029a" name="sl">
            <label for="s029a"></label>
-           <img src="planosTV/64_01_01.png" loading="lazy"/>
+           <img src="planosTV/64_01_15.png" loading="lazy"/>
         <figcaption>Solução por rebatimento</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s030a" name="sl">
            <label for="s030a"></label>
-           <img src="planosTV/64_01_02.png" loading="lazy"/>
+           <img src="planosTV/64_01_16.png" loading="lazy"/>
         <figcaption>Solução por rebatimento</figcaption>
        </li>
-	   <li>
-           <input type="radio" id="s030az" name="sl">
-           <label for="s030az"></label>
-           <img src="planosTV/64_01_03.png" loading="lazy"/>
-        <figcaption>Solução por mudança de planos de projeção</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="s030ax" name="sl">
-           <label for="s030ax"></label>
-           <img src="planosTV/64_01_04.png" loading="lazy"/>
-        <figcaption>Solução por mudança de planos de projeção</figcaption>
-       </li>
     </ul>
-	<img src="planosTV/64_01_01.png" class="fundo" loading="lazy"/>
+	<img src="planosTV/64_01_15.png" class="fundo" loading="lazy"/>
   </details></div>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00077.png" loading="lazy"/>
@@ -7006,23 +7080,41 @@
 	  <li>
            <input type="radio" id="l034" name="sl">
            <label for="l034"></label>
-           <img src="planosTV/69_02.png" loading="lazy"/>
-        <figcaption>Traçar por <b>A"</b> uma reta paralela à LT.</figcaption>
+           <img src="planosTV/81_01.png" loading="lazy"/>
+        <figcaption></figcaption>
        </li>
        <li>
            <input type="radio" id="l035" name="sl">
            <label for="l035"></label>
-           <img src="planosTV/69_03.png" loading="lazy"/>
-         <figcaption>Com centro em <b>P</b>, construa um arco de circunferência, no sentido anti horário, até encontrar a LT em <b>A'<sub>1</sub></b>.</figcaption>
+           <img src="planosTV/81_02.png" loading="lazy"/>
+         <figcaption></figcaption>
        </li>
        <li>
            <input type="radio" id="l036" name="sl">
            <label for="l036"></label>
-           <img src="planosTV/69_04.png" loading="lazy"/>
+           <img src="planosTV/81_03.png" loading="lazy"/>
+         <figcaption>Traçar por <b>A"</b> uma reta paralela à LT.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="lz036" name="sl">
+           <label for="lz036"></label>
+           <img src="planosTV/81_04.png" loading="lazy"/>
+         <figcaption>Com centro em <b>A'<sub>0</sub></b>, construa um arco de circunferência, no sentido anti horário, até encontrar a LT em <b>A'<sub>1</sub></b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="lz036b" name="sl">
+           <label for="lz036b"></label>
+           <img src="planosTV/81_05.png" loading="lazy"/>
          <figcaption>Por <b>A'<sub>1</sub></b> construa uma perpendicular à LT, encontrando <b>A''<sub>1</sub></b> com a reta paralela à linha de terra.</figcaption>
        </li>
+	   <li>
+           <input type="radio" id="lz036a" name="sl">
+           <label for="lz036a"></label>
+           <img src="planosTV/81_06.png" loading="lazy"/>
+         <figcaption></figcaption>
+       </li>
 	</ul>
-	<img src="planosTV/69_01.png" class="fundo" loading="lazy"/>
+	<img src="planosTV/81_00.png" class="fundo" loading="lazy"/>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00081a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: rebatimento</summary>
@@ -7044,7 +7136,7 @@
            <input type="radio" id="l050" name="sl">
            <label for="l050"></label>
            <img src="planosTV/70_01_03.png" loading="lazy"/>
-         <figcaption>Construir a circunferência de centro <b>O</b> e raio <b>OA</b>.</figcaption>
+         <figcaption>Construir a circunferência de centro <b>O''<sub>1</sub></b> e raio <b>O''<sub>1</sub>A''<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l051" name="sl">
@@ -7083,7 +7175,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Um ponto comum entre os planos <b>&alpha;</b> e <b>&beta;</b> está na interseção dos traços <b>&alpha;&pi;''</b> e <b>&beta;&pi;''</b>, pois são planos projetantes em <b>&pi;''</b>. Logo, a reta de interseção destes planos é <b>&alpha;&beta;</b> de topo.</p>
 	<img src="planosTV/82_01_00.png" loading="lazy"/>
-	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;''</b> e <b>&lambda;&pi;''</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&lambda;&gamma;</b> vertical.</figcaption>
+	<figcaption>Um ponto comum entre os planos <b>&gamma;</b> e <b>&lambda;</b> está na interseção dos traços <b>&gamma;&pi;'</b> e <b>&lambda;&pi;'</b>, pois são planos projetantes em <b>&pi;'</b>. Logo, a reta de interseção destes planos é <b>&lambda;&gamma;</b> vertical.</figcaption>
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00082a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7093,7 +7185,7 @@
            <input type="radio" id="l055" name="sl">
            <label for="l055"></label>
            <img src="planosTV/71_00_02.png" loading="lazy"/>
-        <figcaption>Efetuar a MPV para o plano vertical sobre o plano <b>&alpha;</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b>.</figcaption>
+        <figcaption>Efetuar a MPV para o plano vertical <b>&alpha;</b>, colocando a 2&ordf; LT paralela à <b>&alpha;&pi;'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="l056" name="sl">
@@ -7123,7 +7215,7 @@
            <input type="radio" id="l060" name="sl">
            <label for="l060"></label>
            <img src="planosTV/71_00_07.png" loading="lazy"/>
-         <figcaption>Marcar a altura do sólido que é igual ao lado da base e representar a outra face do sólido e representar a visibilidade da 1&ordf; projeção</figcaption>
+         <figcaption>Marcar a altura do sólido que é igual ao lado da base e representar a outra face do sólido</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l061" name="sl">
@@ -7309,13 +7401,13 @@
            <input type="radio" id="l071p" name="sl">
            <label for="l071p"></label>
            <img src="planosTV/84_02_09.png" loading="lazy"/>
-         <figcaption>Para inserir a VG da seção, podemos construir o quadrilátero para cima de <b>14</b> para obter o tronco do tetraedro ou para baixo de <b>14</b> para obter a pirâmide truncada. Vamos construir o tronco de tetraedro, usando a diagonal <b>13</b> na VG da seção: construa as circunferências com centros em <b>1</b> e <b>4</b> e raios <b>1'<sub>1</sub>3'<sub>1</sub></b> e <b>3'<sub>1</sub>4'<sub>1</sub></b>.</figcaption>
+         <figcaption>Para inserir a VG da seção, podemos construir o quadrilátero para cima de <b>14</b> para obter o tronco do tetraedro ou para baixo de <b>14</b> para obter a pirâmide truncada. Vamos construir o tronco de tetraedro, usando a diagonal <b>13</b> na VG da seção: construa as circunferências com centros em <b>1</b> e <b>4</b> e raios com as VGs dos segmentos <b>13</b> e <b>34</b>.</figcaption>
        </li>
-	   <li>
+	   <li>1'13'1 e 3'14'1
            <input type="radio" id="l072p" name="sl">
            <label for="l072p"></label>
            <img src="planosTV/84_02_10.png" loading="lazy"/>
-         <figcaption>Construa as circunferências com centros em <b>1</b> e <b>3</b> e raios <b>12</b> e <b>23</b>.</figcaption>
+         <figcaption>Construa as circunferências com centros em <b>1</b> e <b>3</b> e raios com as VGs dos segmentos<b>12</b> e <b>23</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="l073p" name="sl">
@@ -7808,7 +7900,7 @@
            <input type="radio" id="d018" name="sl">
            <label for="d018"></label>
            <img src="planosPQ/82_18.png" loading="lazy"/>
-         <figcaption>Como o plano <b>&beta;</b> é projetante em 2ª projeção basta encontrar a interseção do traço <b>&beta;&pi;''</b> com cada aresta do sólido. Assim, <b>&beta;&pi;'''</b> corta as projeções das arestas <b>A''B''</b>, <b>E''F''</b>, <b>H''G''</b> e <b>D''C''</b> nos pontos <b>1''</b>, <b>2''</b>, <b>3''</b> e <b>4''</b> respectivamente. </figcaption>
+         <figcaption>Como o plano <b>&beta;</b> é projetante em 2ª projeção basta encontrar a interseção do traço <b>&beta;&pi;''</b> com cada aresta do sólido. Assim, <b>&beta;&pi;''</b> corta as projeções das arestas <b>A''B''</b>, <b>E''F''</b>, <b>H''G''</b> e <b>D''C''</b> nos pontos <b>1''</b>, <b>2''</b>, <b>3''</b> e <b>4''</b> respectivamente. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="d019" name="sl">
@@ -7962,7 +8054,7 @@
            <input type="radio" id="d055" name="sl">
            <label for="d055"></label>
            <img src="planosPQ/87_01_09.png" loading="lazy"/>
-        <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Qualquer forma com <b>&pi;'</b> é o mesmo ângulo que uma de suas retas quaisquer, que seja perpendicular a <b>&alpha;&pi;''</b>, forma com <b>&pi;'</b>. Analogamente obtemos os ângulos <b>&theta;<sub>2</sub></b> e <b>&theta;<sub>3</sub></b>. Podemos também obter o ângulo <b>&theta;<sub>1</sub></b> efetuando uma MPV tornando-o de Topo num novo sistema, e obter o ângulo <b>&theta;<sub>3</sub></b> efetuando uma MPH tornando-o Vertical num outro sistema. Não há relação entre os três ângulos que o Plano Qualquer forma com os Planos de Projeção.</figcaption>
+        <figcaption>O ângulo <b>&theta;<sub>1</sub></b> que o Plano Qualquer forma com <b>&pi;'</b> é o mesmo ângulo que uma de suas retas quaisquer, que seja perpendicular a <b>&alpha;&pi;'</b>, forma com <b>&pi;'</b>. Analogamente obtemos os ângulos <b>&theta;<sub>2</sub></b> e <b>&theta;<sub>3</sub></b>. Podemos também obter o ângulo <b>&theta;<sub>1</sub></b> efetuando uma MPV tornando-o de Topo num novo sistema, e obter o ângulo <b>&theta;<sub>2</sub></b> efetuando uma MPH tornando-o Vertical num outro sistema. Não há relação entre os três ângulos que o Plano Qualquer forma com os Planos de Projeção.</figcaption>
        </li>
     </ul>
 	<img src="planosPQ/87_01_00.png" class="fundo" loading="lazy"/>
@@ -8071,7 +8163,7 @@
            <input type="radio" id="d034n" name="sl">
            <label for="d034n"></label>
            <img src="planosPQ/88_01.png" loading="lazy"/>
-        <figcaption>Vamos efetuar uma MP Vertical para tornar o Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+        <figcaption>Vamos efetuar uma MP Vertical para transformar o Plano Qualquer em um Plano de Topo num novo sistema. Para isso, construa a 2ª Linha de Terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d035n" name="sl">
@@ -8121,7 +8213,7 @@
            <input type="radio" id="d034" name="sl">
            <label for="d034"></label>
            <img src="planosPQ/89_01.png" loading="lazy"/>
-        <figcaption>O plano qualquer está representado pelas retas AB e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para tornar o plano de topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
+        <figcaption>O plano qualquer está representado pelas retas AB e <b>&alpha;&pi;'</b>. Vamos efetuar uma MP Vertical para transformar o Plano Qualquer em um Plano de Topo nesse novo sistema. Para isso construa a 2ª linha de terra (2ª LT) perpendicular ao traço <b>&alpha;&pi;'</b>. Coloque a marcação das barrinhas da 2ª LT para a direita.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="d035" name="sl">
@@ -8212,7 +8304,7 @@
 	  <li>
            <input type="radio" id="d022" name="sl">
            <label for="d022"></label>
-           <img src="planosPQ/90_04.png" loading="lazy"/>
+           <img src="planosPQ/90_03.png" loading="lazy"/>
         <figcaption>Construa as novas linhas de chamada (LC) a partir de <b>A'</b> e <b>B'</b> e marque as cotas dos pontos do sistema anterior (referente à 1ª LT) obtendo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>. Como a marcação das barrinhas está para a esquerda, a cota positiva deve ser marcada para a direita da 2ª LT. Desenhe a reta <b>&alpha;&pi;''<sub>1</sub></b> unindo os pontos <b>A''<sub>1</sub></b> e <b>B''<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
@@ -8237,13 +8329,13 @@
            <input type="radio" id="d025" name="sl">
            <label for="d025"></label>
            <img src="planosPQ/90_08.png" loading="lazy"/>
-         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C''<sub>1</sub></b>, <b>D''<sub>1</sub></b>, <b>E''<sub>1</sub></b> e <b>F''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares ao 3º traço. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face <b>ABCDEF</b>. Represente os pontos <b>G'<sub>1</sub></b>, <b>H'<sub>1</sub></b>, <b>I'<sub>1</sub></b>, <b>J'<sub>1</sub></b>, <b>K'<sub>1</sub></b> e <b>L'<sub>1</sub></b> coincidentes, respectivamente, com <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b>, <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>D'<sub>1</sub></b> e <b>F'<sub>1</sub></b>.</figcaption>
+         <figcaption>Obtenha a 2ª projeção dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b>, ou seja, os pontos <b>C''<sub>1</sub></b>, <b>D''<sub>1</sub></b>, <b>E''<sub>1</sub></b> e <b>F''<sub>1</sub></b> sobre o traço <b>&alpha;&pi;''<sub>1</sub></b>. Lembre-se de traçar as LC perpendiculares à 3º LT. Vamos agora representar os demais vértices do prisma regular hexagonal nesse 3º sistema. Como a face <b>ABCDEF</b> está sobre o plano <b>&alpha;</b> horizontal então a 1ª projeção da face <b>GHIJKL</b> será coincidente com a 1ª projeção da face <b>ABCDEF</b>. Represente os pontos <b>G'<sub>1</sub></b>, <b>H'<sub>1</sub></b>, <b>I'<sub>1</sub></b>, <b>J'<sub>1</sub></b>, <b>K'<sub>1</sub></b> e <b>L'<sub>1</sub></b> coincidentes, respectivamente, com <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b>, <b>C'<sub>1</sub></b>, <b>D'<sub>1</sub></b>, <b>D'<sub>1</sub></b> e <b>F'<sub>1</sub></b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d026" name="sl">
            <label for="d026"></label>
            <img src="planosPQ/90_09.png" loading="lazy"/>
-         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>GHIJKL</b> marque a altura do sólido, que é a medida <b>h</b> dada, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
+         <figcaption>Nesse 3º sistema, para representar a 2ª projeção da face <b>GHIJKL</b> marque a altura do sólido, que é a medida da aresta da base, ou seja, <b>h = AB</b>, a partir do traço <b>&alpha;&pi;''<sub>1</sub></b> e construa o 2º traço do plano horizontal <b>&gamma;</b> paralelo a ele. No plano <b>&gamma;</b> estarão os pontos <b>G</b>, <b>H</b>, <b>I</b>, <b>J</b>, <b>K</b> e <b>L</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="d027" name="sl">
