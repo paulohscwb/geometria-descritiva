@@ -79,7 +79,6 @@
 			<a-entity visible="false" line="start: 1 0 1; end: 0 0 1; color: red" line__1="start: 4 0 2; end: 0 0 2; color: red" line__2="start: 2 0 3.5; end: 0 0 3.5; color: red" animation="property: visible; from: false; to: true; dur: 1; delay: 7000;"></a-entity>
 			
 			<a-entity visible="false" line="start: 1 3 1; end: 1 4 2; color: #6E6E6E" line__1="start: 4 2 2; end: 4 3 3; color: #6E6E6E" line__2="start: 2 0.5 3.5; end: 2 1.5 4.5; color: #6E6E6E" animation="property: visible; from: true; to: false; delay: 17000;" animation__1="property: visible; from: false; to: true; dur: 1; delay: 13500;"></a-entity>
-			<!--<a-entity visible="false" line="start: 0 3 1; end: 0 4 2; color: #6E6E6E" line__1="start: 0 2 2; end: 0 3 3; color: #6E6E6E" line__2="start: 0 0.5 3.5; end: 0 1.5 4.5; color: #6E6E6E" animation="property: visible; from: false; to: true; dur: 1; delay: 13500;" animation__1="property: rotation; from: 0 0 0; to: 0 0 90; dur: 3500; delay: 25000;"></a-entity>-->
 			
 			<a-entity position="0 0 0" visible="false" rotation="0 0 0" animation="property: visible; from: false; to: true; dur: 1; delay:5500;">
 				<a-entity line="start: 0.1 0 0; end: 0.1 0 0.3; color: royalblue"
@@ -107,10 +106,10 @@
 						<a-text position="-1 1.8 0" value="B''1" rotation="0 180 0" mixin="texto"></a-text>
 						<a-sphere mixin="ponto" position="0.5 0.5 0"></a-sphere>
 						<a-text position="0.5 0.3 0" value="C''1" rotation="0 180 0" mixin="texto"></a-text>
-						<a-text position="3.1 5.2 0" value="1" rotation="0 180 0" mixin="texto"></a-text>
-						<a-image src="pi2.png" height="0.6" width="0.7" position="3.5 5.5 0" rotation="0 180 0" mixin="imagem"></a-image>
-						<a-image src="alfa.png" height="0.35" width="0.35" position="-2 4.2 0" mixin="imagem" rotation="0 0 0"></a-image>
-						<a-image src="pi2.png" height="0.4" width="0.5" position="-2.4 4.2 0" mixin="imagem" rotation="0 0 0"></a-image>
+						<a-text position="3.1 5.2 0" value="1" rotation="0 180 0" mixin="texto" animation__10="property: visible; to: false; dur: 1; delay: 25000;"></a-text>
+						<a-image src="pi2.png" height="0.6" width="0.7" position="3.5 5.5 0" rotation="0 180 0" mixin="imagem" animation__10="property: visible; to: false; dur: 1; delay: 25000;"></a-image>
+						<a-image src="alfa.png" height="0.35" width="0.35" position="-2 4.2 0" mixin="imagem" rotation="0 180 0"></a-image>
+						<a-image src="pi2.png" height="0.4" width="0.5" position="-2.4 4.2 0" mixin="imagem" rotation="0 180 0"></a-image>
 						<a-text position="-2.6 4 0" value="1" rotation="0 180 0" mixin="texto"></a-text>
 					</a-entity>
 					
@@ -128,8 +127,8 @@
 								<a-text position="-1 0 -4" value="B'1" rotation="90 0 0" mixin="texto"></a-text>
 								<a-sphere mixin="ponto" position="2.12 0 -2"></a-sphere>
 								<a-text position="2.12 0 -2" value="C'1" rotation="90 0 0" mixin="texto"></a-text>
-								<a-text position="2.7 0 -5.6" value="1" rotation="90 0 0" mixin="texto"></a-text>				
-								<a-image src="pi1.png" height="0.6" width="0.7" position="2.4 0 -5.3" rotation="90 0 0" mixin="imagem"></a-image>
+								<a-text position="2.7 0 -5.6" value="1" rotation="90 0 0" mixin="texto" animation__10="property: visible; to: false; dur: 1; delay: 25000;"></a-text>				
+								<a-image src="pi1.png" height="0.6" width="0.7" position="2.4 0 -5.3" rotation="90 0 0" mixin="imagem" animation__10="property: visible; to: false; dur: 1; delay: 25000;"></a-image>
 								
 								<a-entity position="-3.5 0 0" rotation="0 90 0">
 									<a-entity line="start: 0.1 0 0; end: 0.1 0 0.3; color: royalblue"
