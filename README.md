@@ -9543,7 +9543,7 @@
            <input type="radio" id="dt854" name="sl">
            <label for="dt854"></label>
            <img src="dt/28_02_20.png" loading="lazy"/>
-         <figcaption>Desenhe a segunda LT paralela a A’’B’’. </figcaption>
+         <figcaption>Desenhe a segunda LT paralela a A''B''. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt853" name="sl">
@@ -9682,7 +9682,7 @@
            <input type="radio" id="dt833" name="sl">
            <label for="dt833"></label>
            <img src="dt/28_03_20.png" loading="lazy"/>
-         <figcaption>Desenhe a segunda LT paralela a A’D’.  </figcaption>
+         <figcaption>Desenhe a segunda LT paralela a A'D'.  </figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt832" name="sl">
@@ -9840,7 +9840,7 @@
            <input type="radio" id="dt809" name="sl">
            <label for="dt809"></label>
            <img src="dt/29_01_23.png" loading="lazy"/>
-         <figcaption>Desenhe a primeira Linha de Terra (LT)de tal forma que contenha a segunda projeção da base do objeto. Prolongue a primeira projeção da reta horizontal AB. Desenhe a segunda LT perpendicular a A’B’.   </figcaption>
+         <figcaption>Desenhe a primeira Linha de Terra (LT)de tal forma que contenha a segunda projeção da base do objeto. Prolongue a primeira projeção da reta horizontal AB. Desenhe a segunda LT perpendicular a A'B'.   </figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt808" name="sl">
@@ -9925,7 +9925,7 @@
            <input type="radio" id="dt796" name="sl">
            <label for="dt796"></label>
            <img src="dt/29_02_10.png" loading="lazy"/>
-         <figcaption>O ponto D não está cotado! Devemos então obter sua posição por meio de propriedades geométricas! Como a face ABCD é um paralelogramo então seus lados opostos são paralelos. Assim, em projeção também serão, ou seja, basta construir por A’’ uma paralela a B’’C’’ e por C’’ uma paralela a A’’B’’, obtendo na interseção o D’’.Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+         <figcaption>O ponto D não está cotado! Devemos então obter sua posição por meio de propriedades geométricas! Como a face ABCD é um paralelogramo então seus lados opostos são paralelos. Assim, em projeção também serão, ou seja, basta construir por A'' uma paralela a B''C'' e por C'' uma paralela a A''B'', obtendo na interseção o D''.Destaque os lados da face projetada, use linha contínua larga.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt795" name="sl">
@@ -9937,7 +9937,7 @@
            <input type="radio" id="dt794" name="sl">
            <label for="dt794"></label>
            <img src="dt/29_02_13.png" loading="lazy"/>
-         <figcaption>Esta face se projeta em VG na VSe todos os seus lados projetados são visíveis nesta Vista. O ponto C está cotado assim é fácil obter a localização de C’ nesta Vista. Mas o ponto D não está cotado, então para obter a sua primeira projeção basta traçar sua de Linha de Chamada (LC) por D’’ obtendo D’ nesta Vista. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
+         <figcaption>Esta face se projeta em VG na VSe todos os seus lados projetados são visíveis nesta Vista. O ponto C está cotado assim é fácil obter a localização de C' nesta Vista. Mas o ponto D não está cotado, então para obter a sua primeira projeção basta traçar sua de Linha de Chamada (LC) por D'' obtendo D' nesta Vista. Desenhe os lados da face projetada, use linha contínua larga.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt793" name="sl">
@@ -10053,7 +10053,7 @@
            <input type="radio" id="dt776" name="sl">
            <label for="dt776"></label>
            <img src="dt/30_01_10.png" loading="lazy"/>
-         <figcaption>Lembra que o ponto E não está cotado!? Devemos então obter sua posição por meio de propriedades geométricas! A face ABCDE é um pentágono não regular onde os lados horizontais AB e ED são paralelos e os lados frontais AE e BC também são paralelos! Assim, basta construir por A’ uma paralela a B’C’ e por D’ uma paralela a A’B’, obtendo na interseção o E’. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+         <figcaption>Lembra que o ponto E não está cotado!? Devemos então obter sua posição por meio de propriedades geométricas! A face ABCDE é um pentágono não regular onde os lados horizontais AB e ED são paralelos e os lados frontais AE e BC também são paralelos! Assim, basta construir por A' uma paralela a B'C' e por D' uma paralela a A'B', obtendo na interseção o E'. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt775" name="sl">
@@ -10089,13 +10089,13 @@
            <input type="radio" id="dt771" name="sl">
            <label for="dt771"></label>
            <img src="dt/30_01_16.png" loading="lazy"/>
-         <figcaption>Podemos localizar os pontos cotados A, B e D nesta Vista. Também podemos localizar o ponto E nesta Vista, que embora não esteja cotado, sabemos que E’’ pertence à Linha de Chamada do ponto E e que ele pertence à reta que passa por D e é paralela à AB. Já temos os lados AB, AE e ED representados.</figcaption>
+         <figcaption>Podemos localizar os pontos cotados A, B e D nesta Vista. Também podemos localizar o ponto E nesta Vista, que embora não esteja cotado, sabemos que E'' pertence à Linha de Chamada do ponto E e que ele pertence à reta que passa por D e é paralela à AB. Já temos os lados AB, AE e ED representados.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt770" name="sl">
            <label for="dt770"></label>
            <img src="dt/30_01_17.png" loading="lazy"/>
-         <figcaption>Vamos representar agora o ponto C nesta Vista! Devemos então obter sua posição por meio de propriedades geométricas! Bastar traçar por B’’ uma paralela à A’’E’’ e obter C’’ sobre a aresta vertical (em laranja) do Paralelepípedo Envolvente. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
+         <figcaption>Vamos representar agora o ponto C nesta Vista! Devemos então obter sua posição por meio de propriedades geométricas! Bastar traçar por B'' uma paralela à A''E'' e obter C'' sobre a aresta vertical (em laranja) do Paralelepípedo Envolvente. Destaque os lados da face projetada, use linha contínua larga.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt769" name="sl">
@@ -10952,79 +10952,79 @@
            <input type="radio" id="tn014" name="sl">
            <label for="tn014"></label>
            <img src="aplicacoes/108_21.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Escolhemos prolongar (<b>bc</b>)' e encontramos <b>F'</b> na interseção com (<b>ac</b>)'.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn015" name="sl">
            <label for="tn015"></label>
            <img src="aplicacoes/108_22.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>O ponto <b>F pertence a três águas: <b>a</b>, <b>b</b> e <b>c</b>. Então, basta ligar <b>F'</b> com <b>B'</b> para encontrar a primeira projeção do segmento (<b>ab</b>)'.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn016" name="sl">
            <label for="tn016"></label>
            <img src="aplicacoes/108_23.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Para representarmos a fachada principal devemos obter as segundas projeções dos pontos <b>E</b> e <b>F</b>. Como o ponto <b>E</b> pertence ao plano <b>d</b> de topo, fazemos sua LC e encontramos sua segunda projeção no segundo traço do plano <b>d</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn017" name="sl">
            <label for="tn017"></label>
            <img src="aplicacoes/108_24.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>O ponto <b>F</b> pertence ao plano <b>b</b> de topo, fazemos sua LC e encontramos sua segunda projeção no segundo traço do plano <b>b</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn018" name="sl">
            <label for="tn018"></label>
            <img src="aplicacoes/108_25.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos a segunda projeção do segmento <b>EF</b>. Esse telhado possui quatro espigões: (<b>ad</b>), (<b>ab</b>), (<b>bc</b>) e (<b>cd</b>), e apenas uma cumeeira:(<b>ac</b>).</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn019" name="sl">
            <label for="tn019"></label>
            <img src="aplicacoes/108_26.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>A cota da cumeeira (<b>ac</b>) é <b>4,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn020" name="sl">
            <label for="tn020"></label>
            <img src="aplicacoes/108_27.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos as segundas projeções das paredes externas, mas somente as visíveis. As que não são visíveis não representamos quando fazemos as fachadas!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn021" name="sl">
            <label for="tn021"></label>
            <img src="aplicacoes/108_28.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos as projeções dos pontos <b>E</b> e <b>F</b> no 2&ordm; sistema e também das paredes externas visíveis. Temos aqui uma fachada lateral, no caso a esquerda.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn022" name="sl">
            <label for="tn022"></label>
            <img src="aplicacoes/108_29.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o sentido de escoamento das águas por meio de setas perpendiculares às horizontais do plano.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn023" name="sl">
            <label for="tn023"></label>
            <img src="aplicacoes/108_30.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Para determinarmos graficamente a área da água <b>d</b> devemos obter a sua VG. Como a água está contida num plano de topo, efetuamos uma MPH para torná-lo um plano horizontal nesse novo sistema. Desenhamos a nova linha de terra paralela ao segundo traço do plano.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn024" name="sl">
            <label for="tn024"></label>
            <img src="aplicacoes/108_31.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Fazemos uma MPH para o ponto <b>D</b> do plano <b>d</b>, lembre-se de que o afastamento permanece o mesmo nessa mudança. </figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn025" name="sl">
            <label for="tn025"></label>
            <img src="aplicacoes/108_32.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Fazemos a MPH para os outros pontos <b>A</b> e <b>E</b> da água <b>d</b>. </figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn026" name="sl">
            <label for="tn026"></label>
            <img src="aplicacoes/108_33.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>A VG da água <b>d</b> é dada pelo triângulo <b>A'<sub>1</sub>D'<sub>1</sub>E'<sub>1</sub></b>. Para calcular sua área basta utilizar a fórmula de área do triângulo: base x altura / 2.</figcaption>
 		</li>
 		</ul>
 		<img src="aplicacoes/108_00.png" style="visibility:hidden" class="fundo" loading="lazy"/>
@@ -11033,85 +11033,85 @@
 	<p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-05.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-		<p>.</p>
+		<p>Como todas as águas possuem a mesma inclinação com <b>&pi;'</b> então vamos usar o método das bissetrizes para encontrar as primeiras projeções das interseções entre as águas adjacentes.</p>
 		<ul class="slider">
 		<li>
            <input type="radio" id="tn001a" name="sl">
            <label for="tn001a"></label>
            <img src="aplicacoes/109_01.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Para traçar as bissetrizes devemos primeiro observar que os ângulos internos da poligonal <b>A'B'C'D'E'F'</b> são de <b>90°</b> ou de <b>270°</b> e, portanto, podemos utilizar o esquadro de <b>45°</b> para construí-las com mais precisão. Posicione a hipotenusa do esquadro de <b>60°</b> paralelo a <b>A'F'</b> (lembra-se como faz?) e apoie a hipotenusa do esquadro de <b>45°</b> sobre a hipotenusa do de <b>60°</b>. Deslize o esquadro de <b>45°</b> de modo que ele passe pelo vértice <b>A'</b> da poligonal.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn002a" name="sl">
            <label for="tn002a"></label>
            <img src="aplicacoes/109_02.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Desenhamos uma parte do segmento (<b>af</b>)' que é a primeira projeção da interseção entre as águas <b>a</b> e <b>f</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn003a" name="sl">
            <label for="tn003a"></label>
            <img src="aplicacoes/109_03.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Deslizamos o esquadro de <b>45°</b> até passar pelo vértice <b>F'</b>, note que a bissetriz do ângulo interno de <b>270°</b> será a mesma reta bissetriz do ângulo externo de <b>90°</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn004a" name="sl">
            <label for="tn004a"></label>
            <img src="aplicacoes/109_04.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Procedemos da mesma maneira anterior obtendo as demais bissetrizes.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn005a" name="sl">
            <label for="tn005a"></label>
            <img src="aplicacoes/109_05.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Pronto! As bissetrizes dos vértices da poligonal estão prontas! Lembre-se que somente podemos utilizar o método das bissetrizes se as inclinações que as águas fazem com <b>&pi;'</b> forem iguais!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn006a" name="sl">
            <label for="tn006a"></label>
            <img src="aplicacoes/109_06.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Vamos agora obter as demais interseções das águas da cobertura. Escolhemos o lado <b>a</b> da poligonal e prolongamos o segmento (<b>ab</b>)', note que ele encontra o prolongamento do segmento (<b>af</b>)' antes de encontrar qualquer outro prolongamento de outro segmento. Desenhamos esses segmentos e marcamos o ponto de interseção <b>G'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn007a" name="sl">
            <label for="tn007a"></label>
            <img src="aplicacoes/109_07.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>De <b>G'</b> sairá a interseção entre as águas <b>b</b> e <b>f</b>. Como as horizontais dessas águas são paralelas, a interseção procurada será também paralela, ou seja, será uma fronto-horizontal e, portanto, uma cumeeira. Desenhe o segmento (<b>bf</b>)' paralelo às laterais <b>b</b> e <b>f</b> da poligonal passando pelo ponto <b>G'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn008a" name="sl">
            <label for="tn008a"></label>
            <img src="aplicacoes/109_08.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Vamos prolongar (<b>bf</b>)' até que encontre o próximo segmento, que será (<b>bc</b>)'. Desenhamos os prolongamentos dos segmentos e marcamos o ponto comum <b>H'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn009a" name="sl">
            <label for="tn009a"></label>
            <img src="aplicacoes/109_09.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>De <b>H'</b> sairá a interseção entre as águas <b>c</b> e <b>f</b>. Podemos agora proceder de duas maneiras. Uma delas é continuar a partir de <b>H'</b> e outra é reiniciarmos o processo pela linha de beiral de <b>d</b>. Vamos fazer dessa última forma. No lado d da poligonal, prolongamos o segmento (<b>de</b>)', note que ele encontra o prolongamento do segmento (<b>cd</b>)' antes de encontrar qualquer outro prolongamento de outro segmento. Desenhamos esses segmentos e marcamos o ponto de interseção <b>I'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn010a" name="sl">
            <label for="tn010a"></label>
            <img src="aplicacoes/109_10.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>De <b>I'</b> sairá a interseção entre as águas <b>c</b> e <b>e</b>. Como as horizontais dessas águas são paralelas, a interseção procurada será também paralela, ou seja, será de topo e, portanto, uma cumeeira. Desenhe o segmento (<b>ce</b>)' paralelo às laterais da poligonal <b>c</b> e <b>e</b> passando pelo ponto <b>I'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn011a" name="sl">
            <label for="tn011a"></label>
            <img src="aplicacoes/109_11.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Vamos prolongar (<b>ce</b>)' até que encontre o próximosegmento, que será (<b>ef</b>)'. Desenhamos os prolongamentos dos segmentos e marcamos o ponto comum <b>J'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn012a" name="sl">
            <label for="tn012a"></label>
            <img src="aplicacoes/109_12.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Tanto o ponto <b>J</b> como o <b>H</b> pertencem às águas <b>c</b> e <b>f</b>, assim unindo <b>H'</b> e <b>J'</b> teremos (<b>cf</b>)'. Pronto! Representamos as primeiras projeções de todas as interseções!</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn013a" name="sl">
            <label for="tn013a"></label>
            <img src="aplicacoes/109_14.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Para representar a fachada principal iniciamos obtendo as segundas projeções dos pontos da poligonal <b>ABCDEF</b> que está na cota <b>2,7m</b>.</figcaption>
 		</li>
 		</ul>
 		<img src="aplicacoes/109_00.png" class="fundo" loading="lazy"/>
@@ -11479,13 +11479,13 @@
 		   <input type="radio" id="718zd" name="sl">
 			   <label for="718zd"></label>
 			   <img src="aplicacoes/102_01.png" loading="lazy"/>
-			 <figcaption>Marque os pontos de interseção da reta <b>A’B’</b> com as curvas de nível do terreno.</figcaption>
+			 <figcaption>Marque os pontos de interseção da reta <b>A'B'</b> com as curvas de nível do terreno.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="719zd" name="sl">
 			   <label for="719zd"></label>
 			   <img src="aplicacoes/102_02.png" loading="lazy"/>
-			 <figcaption>Vamos rebater o plano vertical a partir do eixo que está na horizontal. Em cada ponto obtido no passo anterior construa perpendiculares à reta <b>A’B’</b> e marque no sistema de eixos a cota correspondente.</figcaption>
+			 <figcaption>Vamos rebater o plano vertical a partir do eixo que está na horizontal. Em cada ponto obtido no passo anterior construa perpendiculares à reta <b>A'B'</b> e marque no sistema de eixos a cota correspondente.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="720zd" name="sl">
