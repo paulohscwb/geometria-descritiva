@@ -6133,7 +6133,7 @@
            <input type="radio" id="s034n" name="sl">
            <label for="s034n"></label>
            <img src="planosTV/59_00_01.png" loading="lazy"/>
-        <figcaption>A característica espacial do plano de Topo é ser perpendicular a <b>&pi;''</b> e oblíquo a c e, portanto, será oblíquo a <b>&pi;'''</b>.</figcaption>
+        <figcaption>A característica espacial do plano de Topo é ser perpendicular a <b>&pi;''</b> e oblíquo a <b>&pi;'</b> e, portanto, será oblíquo a <b>&pi;'''</b>.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="s035n" name="sl">
@@ -6184,7 +6184,7 @@
            <label for="s041n"></label>
            <img src="planosTV/59_00_08.png" loading="lazy"/>
         <figcaption>A segunda projeção do traço <b>r&alpha;</b> de uma reta <b>r</b> com o plano de topo pertence ao traço vertical do plano.
-		O traço da reta <b>r no plano <b>&alpha;'</b> é o ponto (<b>r&alpha;</b>). Como o plano de Topo é projetante em 2&ordf; projeção então a interseção de <b>r''</b> com <b>&alpha;&pi;''</b> nos dá a segunda projeção de (<b>r&alpha;</b>) e fazendo sua linha de chamada obtemos a primeira projeção de (<b>r&alpha;</b>) em <b>r'</b>. </figcaption>
+		O traço da reta <b>r</b> no plano <b>&alpha;'</b> é o ponto (<b>r&alpha;</b>). Como o plano de Topo é projetante em 2&ordf; projeção então a interseção de <b>r''</b> com <b>&alpha;&pi;''</b> nos dá a segunda projeção de (<b>r&alpha;</b>) e fazendo sua linha de chamada obtemos a primeira projeção de (<b>r&alpha;</b>) em <b>r'</b>. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="s042n" name="sl">
@@ -10862,43 +10862,43 @@
     <p class="topop"><a href="#aplicTelhSup" class="topo">voltar ao topo</a></p>
 	<img src="aplicacoes/Apost_GDapl_2023-04.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
-		<p>.</p>
+		<p>Para simplificar a notação vamos denominar cada água do telhado por letras minúsculas do nosso alfabeto. Os lados da poligonal <b>ABCD</b> que representa a linha de beiral são retas paralelas a <b>&pi;'</b> (dizemos que são horizontais do plano) de cota 2,8m de cada água.</p>
 		<ul class="slider">
 		<li>
            <input type="radio" id="tn001" name="sl">
            <label for="tn001"></label>
            <img src="aplicacoes/108_02.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Queremos obter as interseções entre os planos que contém as águas <b>a</b>, <b>b</b>, <b>c</b> e <b>d</b>. Da interseção entre os planos <b>a</b> e <b>d</b> já temos o ponto <b>A</b> e, portanto, precisamos obter mais um ponto <b>P</b>, assim <b>AP</b> será a reta de interseção entre os planos <b>a</b> e <b>d</b>, analogamente para os demais planos devemos obter os pontos <b>Q</b>, <b>R</b> e <b>S</b>. Como são infinitas possibilidades para o ponto <b>P</b>, vamos obtê-lo de forma que tenha cota <b>1m a mais que a linha de beiral dada. Como os planos que contêm as águas <b>b</b> e <b>d</b> são de topo, vamos representá-los na segunda projeção pelos seus segundos traços. Iniciamos marcando a altura da linha de beiral na segunda projeção desenhando uma reta paralela à LT com a distância de <b>2,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn002" name="sl">
            <label for="tn002"></label>
            <img src="aplicacoes/108_04.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos o segundo traço do plano de topo <b>d</b> que contém a reta <b>AD</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn003" name="sl">
            <label for="tn003"></label>
            <img src="aplicacoes/108_06.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Representamos agora o segundo traço do plano de topo <b>b</b> que contém a reta <b>BC</b> e forma <b>30°</b> com <b>&pi;'</b>. Desenhamos uma nova reta paralela à LT na altura <b>3,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn004" name="sl">
            <label for="tn004"></label>
            <img src="aplicacoes/108_08.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Obtemos as segundas projeções dos pontos <b>P</b> e <b>Q</b> de cota <b>3,8m</b> que pertencem ao plano de topo <b>d</b> e as segundas projeções dos pontos <b>R</b> e <b>S</b> de cota <b>3,8m</b> que pertencem ao plano de topo <b>b</b>. Traçando suas linhas de chamada obtemos a primeira projeção das retas <b>h<sub>d</sub></b> e <b>h<sub>b</sub></b>, horizontais dos planosd e <b>b</b>, de cota <b>3,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn005" name="sl">
            <label for="tn005"></label>
            <img src="aplicacoes/108_10.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Como os planos que contêm as águas <b>a</b> e <b>c</b> são de paralelos à linha de terra (rampa), vamos efetuar uma MPV para torná-los de topo. Desenhamos a 2&ordf; LT perpendicular a primeira projeção da reta <b>AB</b>. Marcamos a altura da linha de beiral na nova segunda projeção desenhando uma reta paralela à 2&ordf; LT com a distância de <b>2,8m</b>.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn006" name="sl">
            <label for="tn006"></label>
            <img src="aplicacoes/108_12.png" loading="lazy"/>
-         <figcaption></figcaption>
+         <figcaption>Obtemos por MPV as novas segundas projeções dos pontos <b>A, <b>B, <b>C e <b>D. Representamos o novo segundo traço do plano a, que nesse 2º sistema é de topo, que contém a reta AB e faz 30° com π'.</figcaption>
 		</li>
 		<li>
            <input type="radio" id="tn007" name="sl">
