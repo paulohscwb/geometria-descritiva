@@ -1,0 +1,165 @@
+<html>
+  <head>
+	<title>Geometria Descritiva</title>
+	<link rel="icon" type="image/png" href="imagem1.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<!--<script src=".././scripts/faceset.js"></script>-->
+  </head>  
+<body>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+	<a-scene vr-mode-ui="enabled: false">
+		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.4; side: double; metalness:0.5; roughness:0.6; depthWrite:false;"></a-mixin>
+			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
+			<a-mixin id="mtl2" material="color: #fff"></a-mixin>
+			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
+			<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
+			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
+			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
+			<a-mixin id="mtl7" material="color: cyan;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
+			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double; depthWrite:false;"></a-mixin>
+			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
+			<a-mixin id="ponto" geometry="radius:0.11;" material="roughness: 0.6; metalness: 0.3; color: paleturquoise"></a-mixin>
+		</a-assets>
+
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
+		
+		<a-entity scale="0.7 0.7 0.7" position="0 -2 0">
+			
+			<a-sphere mixin="ponto" position="1 0 1"></a-sphere>
+			<a-text position="0.4 0.1 1" value="A'" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4 0 2"></a-sphere>
+			<a-text position="4 0.1 2" value="B'" rotation="-90 0 0" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 0 3.5"></a-sphere>
+			<a-text position="1.4 0.1 3.5" value="C'" rotation="-90 0 0" mixin="texto"></a-text>
+			
+			<a-entity line="start: 1 0 1; end: 1 0 0; color: #6E6E6E"
+			line__1="start: 1 3 1; end: 1 0 1; color: blue"
+			line__2="start: 1 3 1; end: 1 3 0; color: #6E6E6E"
+			line__3="start: 1 3 0; end: 1 0 0; color: blue"
+			line__6="start: 4 0 2; end: 4 0 0; color: #6E6E6E"
+			line__7="start: 4 2 2; end: 4 0 2; color: blue"
+			line__8="start: 4 2 2; end: 4 2 0; color: #6E6E6E"
+			line__10="start: 4 2 0; end: 4 0 0; color: blue"
+			line__4="start: 2 0 3.5; end: 2 0 0; color: #6E6E6E"
+			line__5="start: 2 0.5 3.5; end: 2 0 3.5; color: blue"
+			line__9="start: 2 0.5 3.5; end: 2 0.5 0; color: #6E6E6E"
+			line__11="start: 2 0.5 0; end: 2 0 0; color: blue"
+			line__12="start: -5 0 4; end: 5 0 4; color: #6E6E6E"
+			line__13="start: -5 4 0; end: 5 4 0; color: #6E6E6E"></a-entity>
+
+			<a-sphere mixin="ponto" position="1 3 1"></a-sphere>
+			<a-text position="0.4 3.2 1" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1 3 0"></a-sphere>
+			<a-text position="0.4 3.2 0" value="A''" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4 2 2"></a-sphere>
+			<a-text position="4 2.2 2" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="4 2 0"></a-sphere>
+			<a-text position="4 2.2 0" value="B''" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 0.5 3.5"></a-sphere>
+			<a-text position="1.4 0.7 3.5" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="2 0.5 0"></a-sphere>
+			<a-text position="1.4 0.7 0" value="C''" mixin="texto"></a-text>
+			
+			<a-triangle position="0 0.01 0.01" vertex-a="1 3 1" vertex-b="4 2 2" vertex-c="2 0.5 3.5" color="orange" material="side:double; opacity:0.7"></a-triangle>
+			<a-triangle position="0 0 -0.02" vertex-a="1 3 0" vertex-b="4 2 0" vertex-c="2 0.5 0" color="orange" material="side:double; opacity:0.7"></a-triangle>
+			<a-triangle position="0 -0.02 0" vertex-a="1 0 1" vertex-b="4 0 2" vertex-c="2 0 3.5" color="orange" material="side:double; opacity:0.7"></a-triangle>
+			<a-triangle position="0 0.01 0.01" vertex-a="1 3 1" vertex-b="4 2 2" vertex-c="2 0.5 3.5" color="#6E6E6E" material="wireframe:true"></a-triangle>
+			<a-triangle position="0 0 -0.02" vertex-a="1 3 0" vertex-b="4 2 0" vertex-c="2 0.5 0" color="#6E6E6E" material="wireframe:true"></a-triangle>
+			<a-triangle position="0 -0.02 0" vertex-a="1 0 1" vertex-b="4 0 2" vertex-c="2 0 3.5" color="#6E6E6E" material="wireframe:true"></a-triangle>
+			
+			<a-entity visible="false" line="start: 1 3 1; end: 0 3 1; color: #6E6E6E" line__1="start: 4 2 2; end: 0 2 2; color: #6E6E6E" line__2="start: 2 0.5 3.5; end: 0 0.5 3.5; color: #6E6E6E" animation="property: visible; from: true; to: false; delay: 10000;" animation__1="property: visible; from: false; to: true; dur: 1; delay: 7000;"></a-entity>
+			<a-entity visible="false" line="start: 1 0 1; end: 0 0 1; color: red" line__1="start: 4 0 2; end: 0 0 2; color: red" line__2="start: 2 0 3.5; end: 0 0 3.5; color: red" animation="property: visible; from: false; to: true; dur: 1; delay: 7000;"></a-entity>
+			
+			<a-entity visible="false" line="start: 1 3 1; end: 1 4 2; color: #6E6E6E" line__1="start: 4 2 2; end: 4 3 3; color: #6E6E6E" line__2="start: 2 0.5 3.5; end: 2 1.5 4.5; color: #6E6E6E" animation="property: visible; from: true; to: false; delay: 17000;" animation__1="property: visible; from: false; to: true; dur: 1; delay: 13500;"></a-entity>
+			<!--<a-entity visible="false" line="start: 0 3 1; end: 0 4 2; color: #6E6E6E" line__1="start: 0 2 2; end: 0 3 3; color: #6E6E6E" line__2="start: 0 0.5 3.5; end: 0 1.5 4.5; color: #6E6E6E" animation="property: visible; from: false; to: true; dur: 1; delay: 13500;" animation__1="property: rotation; from: 0 0 0; to: 0 0 90; dur: 3500; delay: 25000;"></a-entity>-->
+			
+			<a-entity position="0 0 0" visible="false" rotation="0 0 0" animation="property: visible; from: false; to: true; dur: 1; delay:5500;">
+				<a-entity line="start: 0.1 0 0; end: 0.1 0 0.3; color: royalblue"
+				line__2="start: 0.2 0 0; end: 0.2 0 0.3; color: royalblue"
+				line__3="start: 0.2 0 7; end: 0.2 0 6.7; color: royalblue"
+				line__4="start: 0.1 0 7; end: 0.1 0 6.7; color: royalblue"
+				line__1="start: 0 0 0; end: 0 0 7; color: royalblue"></a-entity>
+			</a-entity>
+			<a-entity line="start: -5 0 0.1; end: -4.7 0 0.1; color: royalblue"
+				line__2="start: 5 0 0.1; end: 4.7 0 0.1; color: royalblue"
+				line__5="start: -5 0 0; end: 5 0 0; color: royalblue"></a-entity>
+			<a-plane id="planoPI" position="0 0 3.5" scale="10 7 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
+			<a-plane id="planoPI2" position="0 3 0" scale="10 6 1" mixin="mtl0 mtl2"></a-plane>
+			
+			<a-entity animation="property: position; to: 0 0 3; dur: 3500; delay: 3500;" animation__0="property: rotation; to: 0 -90 0; dur: 3500; delay:3500;">
+				<a-entity animation__2="property: rotation; from: 0 0 0; to: 90 0 0; dur: 3500; delay: 25000;">
+					<a-plane visible="false" id="planoPI21" position="0 3 0" scale="10 6 1" mixin="mtl0 mtl5" animation__1="property: scale; from: 10 6 1; to: 7 6 1; dur: 3500; delay:3500;" animation__8="property: visible; from: false; to: true; dur: 1; delay: 3500;" animation__7="property: position; from: 0 3 0; to: 0.5 3 0; dur: 3500; delay:3500;"></a-plane>
+					<a-entity visible="false" animation="property: visible; from: false; to: true; dur: 1; delay: 7000;">
+						<a-sphere mixin="ponto" position="-2 3 0"></a-sphere>
+						<a-text position="-2 2.8 0" value="A''1" rotation="0 180 0" mixin="texto"></a-text>
+						<a-sphere mixin="ponto" position="1 0 0"></a-sphere>
+						<a-text position="1.6 0 0" value="S" rotation="0 180 0" mixin="texto"></a-text>
+						<a-entity line="start: -2 3 -0.01; end: -2 0 -0.01; color: blue" line__1="start: -1 2 -0.01; end: -1 0 -0.01; color: blue" line__2="start: 0.5 0.5 -0.01; end: 0.5 0 -0.01; color: blue" line__3="start: 1 0 -0.01; end: -3 4 -0.01; color: #6E6E6E"></a-entity>
+						<a-sphere mixin="ponto" position="-1 2 0"></a-sphere>
+						<a-text position="-1 1.8 0" value="B''1" rotation="0 180 0" mixin="texto"></a-text>
+						<a-sphere mixin="ponto" position="0.5 0.5 0"></a-sphere>
+						<a-text position="0.5 0.3 0" value="C''1" rotation="0 180 0" mixin="texto"></a-text>
+						<a-text position="3.1 5.2 0" value="1" rotation="0 180 0" mixin="texto"></a-text>
+						<a-image src="pi2.png" height="0.6" width="0.7" position="3.5 5.5 0" rotation="0 180 0" mixin="imagem"></a-image>
+						<a-image src="alfa.png" height="0.35" width="0.35" position="-2 4.2 0" mixin="imagem" rotation="0 0 0"></a-image>
+						<a-image src="pi2.png" height="0.4" width="0.5" position="-2.4 4.2 0" mixin="imagem" rotation="0 0 0"></a-image>
+						<a-text position="-2.6 4 0" value="1" rotation="0 180 0" mixin="texto"></a-text>
+					</a-entity>
+					
+					<a-entity animation="property: position; to: 0 3 0; dur: 3500; delay: 10000;" animation__0="property: rotation; to: 0 0 -45; dur: 3500; delay:10000;">
+						<a-entity animation__2="property: rotation; from: 0 0 0; to: 90 0 0; dur: 3500; delay: 17000;">
+							<a-plane visible="false" id="planoPI11" rotation="90 0 0" position="0 0 -3" scale="10 6 1" mixin="mtl0 mtl6" animation__1="property: scale; from: 8.5 6 1; to: 7 6 1; dur: 3500; delay:10000;" animation__8="property: visible; from: false; to: true; dur: 1; delay: 10000;"></a-plane>
+							<a-entity visible="false" animation="property: visible; from: false; to: true; dur: 1; delay: 13500;">
+								<a-sphere mixin="ponto" position="-1.4142 0 -1"></a-sphere>
+								<a-text position="-2.2142 0 -1" value="A'1" rotation="90 0 0" mixin="texto"></a-text>
+								<a-entity line="start: -1.4142 0 -1; end: -1.4142 0 0; color: red" line__1="start: 0 0 -4; end: 0 0 0; color: red" line__2="start: 2.12 0 -2; end: 2.12 0 0; color: red" ></a-entity>
+								<a-entity rotation="90 0 0" line__3="start: -1.4142 0 1.5; end: -1.4142 0 0; color: #6E6E6E" line__4="start: 0 0 1.5; end: 0 0 0; color: #6E6E6E" line__5="start: 2.12 0 1.5; end: 2.12 0 0; color: #6E6E6E" animation__12="property: rotation; from: 90 0 0; to: 0 0 0; dur: 3500; delay: 17000;"></a-entity>
+								<a-triangle position="0 -0.02 0" vertex-a="-1.4142 0 -1" vertex-b="0 0 -4" vertex-c="2.12 0 -2" color="orange" material="side:double; opacity:0.7"></a-triangle>
+								<a-triangle position="0 -0.02 0" vertex-a="-1.4142 0 -1" vertex-b="0 0 -4" vertex-c="2.12 0 -2" color="#6E6E6E" material="wireframe:true"></a-triangle>
+								<a-sphere mixin="ponto" position="0 0 -4"></a-sphere>
+								<a-text position="-1 0 -4" value="B'1" rotation="90 0 0" mixin="texto"></a-text>
+								<a-sphere mixin="ponto" position="2.12 0 -2"></a-sphere>
+								<a-text position="2.12 0 -2" value="C'1" rotation="90 0 0" mixin="texto"></a-text>
+								<a-text position="2.7 0 -5.6" value="1" rotation="90 0 0" mixin="texto"></a-text>				
+								<a-image src="pi1.png" height="0.6" width="0.7" position="2.4 0 -5.3" rotation="90 0 0" mixin="imagem"></a-image>
+								
+								<a-entity position="-3.5 0 0" rotation="0 90 0">
+									<a-entity line="start: 0.1 0 0; end: 0.1 0 0.3; color: royalblue"
+									line__2="start: 0.2 0 0; end: 0.2 0 0.3; color: royalblue"
+									line__5="start: 0.3 0 0; end: 0.3 0 0.3; color: royalblue"
+									line__3="start: 0.2 0 7; end: 0.2 0 6.7; color: royalblue"
+									line__4="start: 0.1 0 7; end: 0.1 0 6.7; color: royalblue"
+									line__6="start: 0.3 0 7; end: 0.3 0 6.7; color: royalblue"
+									line__1="start: 0 0 0; end: 0 0 7; color: royalblue"></a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+			</a-entity>
+			
+			<a-triangle vertex-a="-5 0 4" vertex-b="5 0 4" vertex-c="-5 4 0" mixin="mtl0 mtl2"></a-triangle>
+			<a-triangle vertex-a="5 0 4" vertex-b="5 4 0" vertex-c="-5 4 0" mixin="mtl0 mtl2"></a-triangle>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.2 6.2" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="pi2.png" height="0.6" width="0.7" position="4.4 5.2 0.1" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="alfa.png" height="0.35" width="0.35" position="4.7 3.8 0.45" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="alfa.png" height="0.35" width="0.35" position="4.3 0.2 4.2" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="pi1.png" height="0.4" width="0.4" position="4.7 0.2 4.2" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="alfa.png" height="0.35" width="0.35" position="4.3 4.2 0.1" mixin="imagem" rotation="-25 0 0"></a-image>
+			<a-image src="pi2.png" height="0.4" width="0.5" position="4.7 4.2 0.1" mixin="imagem" rotation="-25 0 0"></a-image>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 91; initialPosition: 350 250 350; maxDistance: 1800"></a-entity>
+		<a-sky color="rgba(150,200,255)"></a-sky>
+
+	</a-scene>
+</body>
+</html>

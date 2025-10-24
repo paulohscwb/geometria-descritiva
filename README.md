@@ -3642,7 +3642,7 @@
        </li>
 	</ul>
 	<img src="pontos-retas/42_01_00.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp3.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção, mantendo-se o outro plano de projeção. Neste segundo exemplo, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
@@ -3699,7 +3699,7 @@
        </li>
 	</ul>
 	<img src="pontos-retas/42_02_00.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp4.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00043.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3894,7 +3894,8 @@
        </li>
 	</ul>
 	<img src="pontos-retas/44_03_00.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp5.html" target="_blank" class="visu">Mudança de plano vertical - reta qualquer</a>
+  <br><a href="vr/a_mpp6.html" target="_blank" class="visu">Mudança de plano horizontal - reta qualquer</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00045.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5591,7 +5592,6 @@
 	</ul>
 	<img src="planosHFP/66_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/hISPMb-z9hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -5651,7 +5651,9 @@
        </li>
 	</ul>
 	<img src="planosHFP/01.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp7.html" target="_blank" class="visu">Mudança de plano vertical - plano de perfil</a>
+  <br><a href="vr/a_mpp8.html" target="_blank" class="visu">Mudança de plano horizontal - plano de perfil</a></div>
+  <p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00067.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - 3&ordf; projeção</summary>
   <p>Vamos utilizar a 3&ordf; projeção para construir as projeções do triângulo equilátero <b>ABC</b>.</p>
@@ -6385,6 +6387,7 @@
  	</details>
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png" loading="lazy"/>
+	<a href="vr/a_mpp9.html" target="_blank" class="visu">Mudança de plano horizontal - plano de topo</a>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<figcaption>As construções geométricas dos exercícios da pág. 75 até a pág. 79 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></figcaption>
 	<img src="planosTV/Apost_GD_2021_00075.png" loading="lazy"/>
@@ -7325,6 +7328,7 @@
   </details></div>
 	<img src="planosTV/Apost_GD_2021_00084b.png" loading="lazy"/>
 	<figcaption>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</figcaption>
+	<a href="vr/a_mpp10.html" target="_blank" class="visu">Mudança de plano vertical - plano vertical</a>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00085.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7590,7 +7594,7 @@
        </li>
     </ul>
 	<img src="planosPQ/79_00.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp11.html" target="_blank" class="visu">Mudança de planos vertical e horizontal - plano de rampa</a></div>
 	<img src="planosPQ/Apost_GD_2021_00090b.png" loading="lazy"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00091.png" loading="lazy"/>
@@ -8107,7 +8111,7 @@
        </li>
     </ul>
 	<img src="planosPQ/88_00.png" class="fundo" loading="lazy"/>
-  </details></div>
+  </details><a href="vr/a_mpp12.html" target="_blank" class="visu">Mudança de planos vertical e horizontal - plano qualquer</a></div>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00100.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
