@@ -7421,6 +7421,7 @@
 	<img src="planosTV/Apost_GD_2021_00084b.png" loading="lazy"/>
 	<figcaption>Podemos utilizar a Mudança de Plano Vertical para encontrar VG de figuras contidas em um Plano Vertical. Basta construir a 2&ordf; linha de terra paralela ao traço <b>&alpha;&pi;'</b> e marcar as cotas dos pontos a partir da nova linha de terra.</figcaption>
 	<a href="vr/a_mpp10.html" target="_blank" class="visu">Mudança de plano vertical - plano vertical</a>
+	<p align="center"><img src="videos/pvertical.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosTV/Apost_GD_2021_00085.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -7687,6 +7688,7 @@
     </ul>
 	<img src="planosPQ/79_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/a_mpp11.html" target="_blank" class="visu">Mudança de planos vertical e horizontal - plano de rampa</a></div>
+	<p align="center"><img src="videos/prampa.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 	<img src="planosPQ/Apost_GD_2021_00090b.png" loading="lazy"/>
 	<p class="topop"><a href="#planos3" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00091.png" loading="lazy"/>
@@ -8204,6 +8206,7 @@
     </ul>
 	<img src="planosPQ/88_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/a_mpp12.html" target="_blank" class="visu">Mudança de planos vertical e horizontal - plano qualquer</a></div>
+	<p align="center"><img src="videos/pqualquer.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 	<p class="topop"><a href="#planos4" class="topo">voltar ao topo</a></p>
 	<img src="planosPQ/Apost_GD_2021_00100.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
