@@ -3642,7 +3642,8 @@
        </li>
 	</ul>
 	<img src="pontos-retas/42_01_00.png" class="fundo" loading="lazy"/>
-  </details><a href="vr/a_mpp3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><a href="vr/a_mpp3.html" target="_blank" class="visu">Visualização em 3D</a>
+  <p align="center"><img src="videos/rperfilv.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<img src="pontos-retas/Apost_GD_2021_00042a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Podemos utilizar a Mudança de Plano Horizontal para encontrar VG de ângulos ou segmentos. O processo descritivo de mudança de planos consiste na modificação de posição de um dos planos de projeção, mantendo-se o outro plano de projeção. Neste segundo exemplo, vamos modificar a posição de <b>&pi;'</b>, mantendo-se o novo plano perpendicular a <b>&pi;''</b>.</p>
@@ -3699,7 +3700,8 @@
        </li>
 	</ul>
 	<img src="pontos-retas/42_02_00.png" class="fundo" loading="lazy"/>
-  </details><a href="vr/a_mpp4.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  </details><a href="vr/a_mpp4.html" target="_blank" class="visu">Visualização em 3D</a>
+  <p align="center"><img src="videos/rperfilh.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00043.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3895,7 +3897,9 @@
 	</ul>
 	<img src="pontos-retas/44_03_00.png" class="fundo" loading="lazy"/>
   </details><a href="vr/a_mpp5.html" target="_blank" class="visu">Mudança de plano vertical - reta qualquer</a>
-  <br><a href="vr/a_mpp6.html" target="_blank" class="visu">Mudança de plano horizontal - reta qualquer</a></div>
+  <p align="center"><img src="videos/rqualquerv.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
+  <a href="vr/a_mpp6.html" target="_blank" class="visu">Mudança de plano horizontal - reta qualquer</a>
+  <p align="center"><img src="videos/rqualquerh.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="pontos-retas/Apost_GD_2021_00045.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5652,7 +5656,9 @@
 	</ul>
 	<img src="planosHFP/01.png" class="fundo" loading="lazy"/>
   </details><a href="vr/a_mpp7.html" target="_blank" class="visu">Mudança de plano vertical - plano de perfil</a>
-  <br><a href="vr/a_mpp8.html" target="_blank" class="visu">Mudança de plano horizontal - plano de perfil</a></div>
+   <p align="center"><img src="videos/pperfilv.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
+   <a href="vr/a_mpp8.html" target="_blank" class="visu">Mudança de plano horizontal - plano de perfil</a>
+   <p align="center"><img src="videos/pperfilh.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
   <p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<img src="planosHFP/Apost_GD_2021_00067.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução - 3&ordf; projeção</summary>
@@ -6390,6 +6396,7 @@
 	<a href="vr/a12.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="planosTV/Apost_GD_2021_00074a.png" loading="lazy"/>
 	<a href="vr/a_mpp9.html" target="_blank" class="visu">Mudança de plano horizontal - plano de topo</a>
+	<p align="center"><img src="videos/ptopoh.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 	<p class="topop"><a href="#planos2" class="topo">voltar ao topo</a></p>
 	<figcaption>As construções geométricas dos exercícios da pág. 75 até a pág. 79 foram feitas pela <b>prof&ordf; Luzia Vidal de Souza.</b></figcaption>
 	<img src="planosTV/Apost_GD_2021_00075.png" loading="lazy"/>
