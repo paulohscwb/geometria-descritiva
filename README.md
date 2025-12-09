@@ -4,9 +4,9 @@
 <div><img align="right" src="ar/qr.png"/>
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados nas disciplinas de Geometria Descritiva, Expressão Gráfica e Desenho Técnico.</p>
 <p>As apostilas estão disponíveis nos links:</p>
-<p> <a href="vr/Apost_GD_2025.pdf" target="_blank">CEG303, CEG005 - Geometria Descritiva, Expressão Gráfica II</a></p>
-<p> <a href="vr/Apost_GD_2025_DT.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
-<p> <a href="vr/Apost_GD_2025_EC.pdf" target="_blank">CEG019 - Expressão Gráfica A</a></p>
+<p> <a href="vr/Apost_GD_2026.pdf" target="_blank">CEG303, CEG005 - Geometria Descritiva, Expressão Gráfica II</a></p>
+<p> <a href="vr/Apost_GD_2026_DT.pdf" target="_blank">CEG008 - Expressão Gráfica</a></p>
+<p> <a href="vr/Apost_GD_2026_EC.pdf" target="_blank">CEG019 - Expressão Gráfica A</a></p>
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA).</p>
 <p>As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, os objetos podem ser vistos em RV.</p></div>
 
@@ -4693,7 +4693,7 @@
            <input type="radio" id="e054" name="sl">
            <label for="e054"></label>
            <img src="planosHFP/54_02_02.png" loading="lazy"/>
-        <figcaption>Construir o quadrado da base <b>ABCD</b>.</figcaption>
+        <figcaption>Construir a primeira projeção do quadrado <b>ABCD</b> que está em VG.</figcaption>
        </li>
 	  <li>
            <input type="radio" id="e055" name="sl">
@@ -4711,13 +4711,13 @@
            <input type="radio" id="e055a" name="sl">
            <label for="e055a"></label>
            <img src="planosHFP/54_02_05.png" loading="lazy"/>
-        <figcaption>Representar as arestas internas.</figcaption>
+        <figcaption>Representar a visibilidade das demais arestas na primeira projeção.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="e056a" name="sl">
            <label for="e056a"></label>
            <img src="planosHFP/54_02_06.png" loading="lazy"/>
-        <figcaption>Finalizar a representação.</figcaption>
+        <figcaption>Representar a visibilidade das demais arestas na segunda projeção.</figcaption>
        </li>
 	</ul>
 	<img src="planosHFP/54_02_00.png" class="fundo" loading="lazy"/>
@@ -6207,7 +6207,7 @@
         <input type="radio" id="dnpf9" name="sl">
         <label for="dnpf9"></label>
         <img src="planosTV/72_01.png" loading="lazy"/>
-        <figcaption>Seja o plano de Topo <b>&alpha;</b> definido pelos seus traços e um ponto <b>A</b> desse plano. Vamos fazer o rebatimento do ponto <b>A</b> sobre o plano <b>&pi;''</b>.</figcaption>
+        <figcaption>Seja o plano de Topo <b>&alpha;</b> definido pelos seus traços e um ponto <b>A</b> desse plano. Vamos fazer o rebatimento do ponto <b>A</b> sobre o plano <b>&pi;'</b>.</figcaption>
        </li>
 	   <li>
        <input type="radio" id="dnpf10" name="sl">
@@ -10394,7 +10394,7 @@
            <input type="radio" id="dt705" name="sl">
            <label for="dt705"></label>
            <img src="dt/41_01_04.png" loading="lazy"/>
-         <figcaption>Os eixos isométricos desenhados formam ângulos de 120° entre si.</figcaption>
+         <figcaption>Os eixos isométricos desenhados formam ângulos de 60° entre si.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt704" name="sl">
@@ -10467,7 +10467,7 @@
            <input type="radio" id="dt713" name="sl">
            <label for="dt713"></label>
            <img src="dt/41_02_04.png" loading="lazy"/>
-         <figcaption>Vamos representar as duas facesinclinadas do objeto que são retangulares e congruentes (plano de topo). Apenas os lados isométricos estão em VG. Marque os lados de topo na Perspectiva.</figcaption>
+         <figcaption>Vamos representar as duas faces inclinadas do objeto que são retangulares e congruentes (plano de topo). Apenas os lados isométricos estão em VG. Marque os lados de topo na Perspectiva.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt712" name="sl">
@@ -10479,7 +10479,7 @@
            <input type="radio" id="dt711" name="sl">
            <label for="dt711"></label>
            <img src="dt/41_02_06.png" loading="lazy"/>
-         <figcaption>O objeto possui uma terceira face inclinada também retangular (plano de topo). Apenas os lados isométricos que estão em VG. Marque os lados de topo, verticais e fronto-horizontaisdas faces frontais triangulares na Perspectiva.</figcaption>
+         <figcaption>O objeto possui uma terceira face inclinada também retangular (plano de topo). Apenas os lados isométricos que estão em VG. Marque os lados de topo, verticais e fronto-horizontais das faces frontais triangulares na Perspectiva.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt710" name="sl">
@@ -10511,7 +10511,7 @@
            <input type="radio" id="dt723" name="sl">
            <label for="dt723"></label>
            <img src="dt/42_01_02.png" loading="lazy"/>
-         <figcaption>Marcamos sobre os eixos os valores correspondentes às maiores medidas delargura, altura e profundidade.</figcaption>
+         <figcaption>Marcamos sobre os eixos os valores correspondentes às maiores medidas de largura, altura e profundidade.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt722" name="sl">
@@ -10566,7 +10566,7 @@
            <input type="radio" id="dt728" name="sl">
            <label for="dt728"></label>
            <img src="dt/42_02_02.png" loading="lazy"/>
-         <figcaption>Vamos representar as <b>demais Faces do sólido</b> na Perspectiva. As faceshorizontal e paralela à linha de terra permanecem como estão.</figcaption>
+         <figcaption>Vamos representar as <b>demais Faces do sólido</b> na Perspectiva. As faces horizontal e paralela à linha de terra permanecem como estão.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="dt727" name="sl">
