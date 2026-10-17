@@ -7410,7 +7410,7 @@
            <img src="planosTV/84_02_09.png" loading="lazy"/>
          <figcaption>Para inserir a VG da seção, podemos construir o quadrilátero para cima de <b>14</b> para obter o tronco do tetraedro ou para baixo de <b>14</b> para obter a pirâmide truncada. Vamos construir o tronco de tetraedro, usando a diagonal <b>13</b> na VG da seção: construa as circunferências com centros em <b>1</b> e <b>4</b> e raios com as VGs dos segmentos <b>13</b> e <b>34</b>.</figcaption>
        </li>
-	   <li>1'13'1 e 3'14'1
+	   <li>
            <input type="radio" id="l072p" name="sl">
            <label for="l072p"></label>
            <img src="planosTV/84_02_10.png" loading="lazy"/>
